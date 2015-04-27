@@ -100,6 +100,7 @@
             // 
             // textBox3
             // 
+            this.textBox3.HideSelection = false;
             this.textBox3.Location = new System.Drawing.Point(15, 173);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
