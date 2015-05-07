@@ -96,60 +96,67 @@ namespace PDDTranslate
                 Directory.Delete("output", true);
             Directory.CreateDirectory("output");
             string configPath = Directory.Exists(@"input\config") ? "config" : "configs";
+            int howMany;
 
             SetStatus((scriptCheck != "skip" ? "Checking" : "Skipping") + " scripts...\t\t(1/5)");
-            IterateFiles(scriptCheck, "scripts", "*.script",
+            howMany = IterateFiles(scriptCheck, "scripts", "*.script",
                 "\"(([^\"\r\n]|\\\\\")*?" + RUSSIAN + "([^\"\r\n]|\\\\\")*?)\"",
                 new MatchEvaluator(GetScriptTranslation));
+            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((iniCheck != "skip" ? "Checking" : "Skipping") + " items...\t\t(2/5)");
-            IterateFiles(iniCheck, configPath, "*.ltx",
+            howMany = IterateFiles(iniCheck, configPath, "*.ltx",
                 "((inv_name|description).*?=\\s*?)(\\S[^;\r\n]*?" + RUSSIAN + "[^;\r\n]*[^;\\s])",
                 new MatchEvaluator(GetItemTranslation));
+            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((xmlCheck != "skip" ? "Checking" : "Skipping") + " \\gameplay xml...\t(3/5)");
-            IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml",
+            howMany = IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml",
                 "<(name|title|text)>([^<]*?" + RUSSIAN + @"[^<]*?)</\1>",
                 new MatchEvaluator(GetGplayTranslation));
-            IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml",
+            howMany += IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml",
                 "(<[^>]*?(hint|name)=\")([^\"]*?" + RUSSIAN + "[^\"]*?)\"",
                 new MatchEvaluator(GetAttributeTranslation));
+            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((xmlCheck != "skip" ? "Checking" : "Skipping") + " \\ui xml...\t\t(4/5)");
-            IterateFiles(xmlCheck, configPath + @"\ui", "*.xml",
+            howMany = IterateFiles(xmlCheck, configPath + @"\ui", "*.xml",
                 "(<text[^>]*?>)([^<]*?" + RUSSIAN + "[^<]*?)</text>",
                 new MatchEvaluator(GetTextTranslation));
-            IterateFiles(xmlCheck, configPath + @"\ui", "*.xml",
+            howMany += IterateFiles(xmlCheck, configPath + @"\ui", "*.xml",
                 "(<[^>]*?(hint|name|caption)=\")([^\"]*?" + RUSSIAN + "[^\"]*?)\"",
                 new MatchEvaluator(GetAttributeTranslation));
+            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((stringCheck != "skip" ? "Checking" : "Skipping") + " strings...\t\t(5/5)");
-            IterateFiles(stringCheck, configPath + @"\text\rus", "*.xml",
+            howMany = IterateFiles(stringCheck, configPath + @"\text\rus", "*.xml",
                 "(<text[^>]*?>)([^<]*?" + RUSSIAN + "[^<]*?)</text>",
                 new MatchEvaluator(GetTextTranslation));
+            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
 
-            setButtonEnable(false);
+            EnableControls(false);
             SetStatus("Done!");
             SystemSounds.Asterisk.Play();
         }
 
-        void IterateFiles(string mode, string path, string filePattern, string regexPattern, MatchEvaluator translateFunc)
+        int IterateFiles(string mode, string path, string filePattern, string regexPattern, MatchEvaluator translateFunc)
         {
             if (mode == "skip")
-                return;
+                return 0;
             if (mode == "auto")
-                setButtonEnable(false);
+                EnableControls(false);
             else
-                setButtonEnable(true);
+                EnableControls(true);
             if (!Directory.Exists(@"input\" + path))
             {
                 SetStatus(@"Directory input\" + path + " not found, skipping...");
-                return;
+                return 0;
             }
             int fileCount = 0;
             string[] filePaths = Directory.GetFiles(@"input\" + path + @"\", filePattern, SearchOption.AllDirectories);
             Directory.CreateDirectory(@"output\" + path);
             currentMode = mode;
+            int howMany = 0;
             foreach (string filePath in filePaths)
             {
                 fileType = Regex.Match(filePath, @"\.(.+)").Groups[1].Value;
@@ -164,6 +171,7 @@ namespace PDDTranslate
                 newText = Regex.Replace(fileText, regexPattern, translateFunc, RegexOptions.IgnoreCase);
                 if (newText != fileText)
                 {
+                    howMany++;
                     doneFiles[filePath] = newText;
                     string where = @"output\" + Regex.Match(filePath.Substring(5), @".+\\");
                     Directory.CreateDirectory(where);
@@ -171,6 +179,7 @@ namespace PDDTranslate
                     customCorpusXML.Save("custom_corpus.xml");
                 }
             }
+            return howMany;
         }
 
         string Split(string line)
@@ -195,7 +204,22 @@ namespace PDDTranslate
                 Match match = Regex.Match(line, @"%c\[[^]]+?]");
                 if (!match.Success)
                 {
-                    SetLog("Incomplete color tag in " + Regex.Match(label6.Text, @"\\([^\\]+?) ").Groups[1].Value);
+                    SetLog("Incomplete color tag.");
+                    return line;
+                }
+                else
+                {
+                    int index = match.Index;
+                    int length = match.Length;
+                    return Split(line.Substring(0, index)) + match.Value + Split(line.Substring(index + length));
+                }
+            }
+            else if (line.Contains("$$"))
+            {
+                Match match = Regex.Match(line, @"\$\$.+?\$\$");
+                if (!match.Success)
+                {
+                    SetLog("Incomplete keybind tag.");
                     return line;
                 }
                 else
@@ -299,13 +323,18 @@ namespace PDDTranslate
         }
 
         // Form access functions
-        void setButtonEnable(bool value)
+        void EnableControls(bool value)
         {
             this.Invoke(new Action(() =>
             {
                 button1.Enabled = value;
                 button2.Enabled = value;
                 button3.Enabled = value;
+                if (!value)
+                {
+                    textBox1.Clear();
+                    textBox2.Clear();
+                }
             }));
         }
         void ScrollTo(TextBox target, int index, int length)
@@ -333,7 +362,8 @@ namespace PDDTranslate
         }
         void SetLog(string log)
         {
-            this.Invoke(new Action(() => textBox5.AppendText((textBox5.Lines.Length != 0 ? "\r\n" : "") + (textBox5.Lines.Length + 1) + ". " + log)));
+            this.Invoke(new Action(() => textBox5.AppendText((textBox5.Lines.Length != 0 ? "\r\n" : "") +
+                (textBox5.Lines.Length + 1) + ". " + Regex.Match(label6.Text, @"\\([^\\]+?) ").Groups[1].Value + "\r\n\t" + log)));
         }
 
         // Get machine translation
@@ -371,7 +401,7 @@ namespace PDDTranslate
                 }
                 catch
                 {
-                    SetLog("MS Translator is probably out of characters.");
+                    SetLog("MS Translator failed response.");
                     return input;
                 }
                 using (Stream stream = response.GetResponseStream())
@@ -382,7 +412,7 @@ namespace PDDTranslate
             }
             else
             {
-                SetLog("Skipped string in " + Regex.Match(label6.Text, @"\\([^\\]+?) ").Groups[1].Value + ", too long to auto-translate.");
+                SetLog("String too long to auto-translate.");
                 return input;
             }
         }
