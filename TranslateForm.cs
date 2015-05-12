@@ -102,13 +102,13 @@ namespace PDDTranslate
             howMany = IterateFiles(scriptCheck, "scripts", "*.script",
                 "\"(([^\"\r\n]|\\\\\")*?" + RUSSIAN + "([^\"\r\n]|\\\\\")*?)\"",
                 new MatchEvaluator(GetScriptTranslation));
-            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
+            if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((iniCheck != "skip" ? "Checking" : "Skipping") + " items...\t\t(2/5)");
             howMany = IterateFiles(iniCheck, configPath, "*.ltx",
                 "((inv_name|description).*?=\\s*?)(\\S[^;\r\n]*?" + RUSSIAN + "[^;\r\n]*[^;\\s])",
                 new MatchEvaluator(GetItemTranslation));
-            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
+            if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((xmlCheck != "skip" ? "Checking" : "Skipping") + " \\gameplay xml...\t(3/5)");
             howMany = IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml",
@@ -117,7 +117,7 @@ namespace PDDTranslate
             howMany += IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml",
                 "(<[^>]*?(hint|name)=\")([^\"]*?" + RUSSIAN + "[^\"]*?)\"",
                 new MatchEvaluator(GetAttributeTranslation));
-            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
+            if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((xmlCheck != "skip" ? "Checking" : "Skipping") + " \\ui xml...\t\t(4/5)");
             howMany = IterateFiles(xmlCheck, configPath + @"\ui", "*.xml",
@@ -126,13 +126,13 @@ namespace PDDTranslate
             howMany += IterateFiles(xmlCheck, configPath + @"\ui", "*.xml",
                 "(<[^>]*?(hint|name|caption)=\")([^\"]*?" + RUSSIAN + "[^\"]*?)\"",
                 new MatchEvaluator(GetAttributeTranslation));
-            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
+            if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((stringCheck != "skip" ? "Checking" : "Skipping") + " strings...\t\t(5/5)");
             howMany = IterateFiles(stringCheck, configPath + @"\text\rus", "*.xml",
                 "(<text[^>]*?>)([^<]*?" + RUSSIAN + "[^<]*?)</text>",
                 new MatchEvaluator(GetTextTranslation));
-            if (howMany > 0) SetStatus("Translated " + howMany + " files.");
+            if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             EnableControls(false);
             SetStatus("Done!");
@@ -142,7 +142,7 @@ namespace PDDTranslate
         int IterateFiles(string mode, string path, string filePattern, string regexPattern, MatchEvaluator translateFunc)
         {
             if (mode == "skip")
-                return 0;
+                return -1;
             if (mode == "auto")
                 EnableControls(false);
             else
@@ -150,7 +150,7 @@ namespace PDDTranslate
             if (!Directory.Exists(@"input\" + path))
             {
                 SetStatus(@"Directory input\" + path + " not found, skipping...");
-                return 0;
+                return -1;
             }
             int fileCount = 0;
             string[] filePaths = Directory.GetFiles(@"input\" + path + @"\", filePattern, SearchOption.AllDirectories);
@@ -186,8 +186,10 @@ namespace PDDTranslate
         {
             if (line.Contains(@"\n"))
             {
-                int index = line.IndexOf(@"\n");
-                return Split(line.Substring(0, index)) + @"\n" + Split(line.Substring(index + 2));
+                Match match = Regex.Match(line, @"\\?\\n");
+                int index = match.Index;
+                int length = match.Length;
+                return Split(line.Substring(0, index)) + match.Value + Split(line.Substring(index + length));
             }
             else if (line.Contains("\n"))
             {
@@ -243,8 +245,38 @@ namespace PDDTranslate
             if (result != null && currentMode == "semi")
                 return result;
 
+            string fileType = Regex.Match(label6.Text, @".+\.([^\.\s]+)").Groups[1].Value;
+
+            if(fileType == "ltx" && line.IndexOf("\"") == 0)
+            {
+                line = line.Substring(1);
+                line = line.Substring(0, line.Length - 1);
+            }
+
             if (result == null)
-                result = Split(Regex.Replace(line, @"\.(" + RUSSIAN + ")", new MatchEvaluator(AddSpace)));
+            {
+                result = Regex.Replace(line, @"\.(" + RUSSIAN + ")", new MatchEvaluator(AddSpace));
+                result = Split(result);
+            }
+
+            switch (fileType)
+            {
+                case "ltx":
+                    result = result.Replace("\"", "'");
+                    if (Regex.Match(result, @"\s").Success)
+                        result = "\"" + result + "\"";
+                    break;
+                case "xml":
+                    result = result.Replace("\"", "&quot;");
+                    result = result.Replace("'", "&apos;");
+                    result = result.Replace("<", "&lt;");
+                    result = result.Replace(">", "&gt;");
+                    result = Regex.Replace(result, @"&(?![^\s]+;)", "&amp;");
+                    break;
+                case "script":
+                    result = Regex.Replace(result, @"(?<!\\)""", @"\""");
+                    break;
+            }
 
             if (currentMode == "auto")
                 return result;
