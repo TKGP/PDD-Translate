@@ -5,6 +5,7 @@ using System.Media;
 using System.Net;
 using System.Runtime.InteropServices;
 using System.Runtime.Serialization;
+using System.Security;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading;
@@ -25,6 +26,9 @@ namespace PDDTranslate
         bool skipString, skipCorpus;
 
         string currentMode, fileType; // Barf
+        bool corpusOnly;
+        MatchCollection comments;
+        MatchCollection moreComments;
 
         static EventWaitHandle waitHandle = new AutoResetEvent(false);
         Thread fileParser;
@@ -32,6 +36,7 @@ namespace PDDTranslate
         Dictionary<string, string> vanillaCorpus = new Dictionary<string, string>();
         Dictionary<string, string> customCorpus = new Dictionary<string, string>();
         Dictionary<string, string> tempCorpus = new Dictionary<string, string>();
+        Dictionary<string, string> cacheCorpus = new Dictionary<string, string>();
         XmlDocument customCorpusXML = new XmlDocument();
 
         Dictionary<string, string> doneFiles = new Dictionary<string, string>();
@@ -159,7 +164,7 @@ namespace PDDTranslate
             int howMany = 0;
             foreach (string filePath in filePaths)
             {
-                fileType = Regex.Match(filePath, @"\.(.+)").Groups[1].Value;
+                fileType = Regex.Match(filePath, @".+\.(.+)").Groups[1].Value;
                 string fileText, newText;
                 fileCount++;
                 SetLabel(label6, filePath + " (" + fileCount + "/" + filePaths.Length + ")");
@@ -168,6 +173,23 @@ namespace PDDTranslate
                 else
                     fileText = File.ReadAllText(filePath, RUENCODING);
                 SetTextBox(textBox3, fileText);
+                moreComments = null;
+                switch (fileType)
+                {
+                    case "ltx":
+                        comments = Regex.Matches(fileText, ";.+");
+                        break;
+                    case "xml":
+                        comments = Regex.Matches(fileText, "<!--.+?-->", RegexOptions.Singleline);
+                        break;
+                    case "script":
+                        comments = Regex.Matches(fileText, @"--(?!\[\[).+");
+                        moreComments = Regex.Matches(fileText, @"--\[\[.+?\]\]", RegexOptions.Singleline);
+                        break;
+                    default:
+                        throw null; // :^)
+                }
+
                 newText = Regex.Replace(fileText, regexPattern, translateFunc, RegexOptions.IgnoreCase);
                 if (newText != fileText)
                 {
@@ -234,31 +256,73 @@ namespace PDDTranslate
             else if (CheckCorpus(line))
                 return GetCorpus(line);
             else
+            {
+                corpusOnly = false;
                 return TranslateText(line);
+            }
         }
 
-        string GetTranslation(string line)
+        string GetTranslation(string line, int index, int length)
         {
+            int endIndex = index + length;
+            foreach (Match comment in comments)
+            {
+                if ((index >= comment.Index && index <= comment.Index + comment.Length)
+                    || (endIndex >= comment.Index && endIndex <= comment.Index + comment.Length))
+                {
+                    return line;
+                }
+                else if (comment.Index >= index && comment.Index <= endIndex)
+                    SetLog("Comment inside string?!");
+            }
+            if (moreComments != null)
+            {
+                foreach (Match comment in moreComments)
+                {
+                    if ((index >= comment.Index && index <= comment.Index + comment.Length)
+                        || (endIndex >= comment.Index && endIndex <= comment.Index + comment.Length))
+                    {
+                        return line;
+                    }
+                    else if (comment.Index >= index && comment.Index <= endIndex)
+                        SetLog("Comment inside string?!");
+                }
+            }
+
+            string newLine = line;
+
+            // Pre-processing
+            switch (fileType)
+            {
+                case "ltx":
+                    if (newLine.IndexOf("\"") == 0)
+                    {
+                        newLine = newLine.Substring(1);
+                        newLine = newLine.Substring(0, newLine.Length - 1);
+                    }
+                    break;
+                case "xml":
+                    newLine = HttpUtility.HtmlDecode(newLine);
+                    break;
+                case "script":
+                    break;
+            }
+
             string result = null;
-            if (CheckCorpus(line))
-                result = GetCorpus(line);
+            if (CheckCorpus(newLine))
+                result = GetCorpus(newLine);
             if (result != null && currentMode == "semi")
                 return result;
 
-            string fileType = Regex.Match(label6.Text, @".+\.([^\.\s]+)").Groups[1].Value;
-
-            if(fileType == "ltx" && line.IndexOf("\"") == 0)
-            {
-                line = line.Substring(1);
-                line = line.Substring(0, line.Length - 1);
-            }
-
             if (result == null)
             {
-                result = Regex.Replace(line, @"\.(" + RUSSIAN + ")", new MatchEvaluator(AddSpace));
-                result = Split(result);
+                corpusOnly = true;
+                result = Split(newLine);
+                if (corpusOnly && currentMode == "semi")
+                    return result;
             }
 
+            // Post-processing
             switch (fileType)
             {
                 case "ltx":
@@ -267,11 +331,7 @@ namespace PDDTranslate
                         result = "\"" + result + "\"";
                     break;
                 case "xml":
-                    result = result.Replace("\"", "&quot;");
-                    result = result.Replace("'", "&apos;");
-                    result = result.Replace("<", "&lt;");
-                    result = result.Replace(">", "&gt;");
-                    result = Regex.Replace(result, @"&(?![^\s]+;)", "&amp;");
+                    result = SecurityElement.Escape(result);
                     break;
                 case "script":
                     result = Regex.Replace(result, @"(?<!\\)""", @"\""");
@@ -279,7 +339,10 @@ namespace PDDTranslate
             }
 
             if (currentMode == "auto")
+            {
+                cacheCorpus[line] = result;
                 return result;
+            }
 
             SetTextBox(textBox1, line);
             SetTextBox(textBox2, result);
@@ -309,10 +372,13 @@ namespace PDDTranslate
 
             return textBox2.Text;
         }
+
         bool CheckCorpus(string input)
         {
-            return customCorpus.ContainsKey(input) || vanillaCorpus.ContainsKey(input) || tempCorpus.ContainsKey(input);
+            return customCorpus.ContainsKey(input) || vanillaCorpus.ContainsKey(input) || tempCorpus.ContainsKey(input)
+                || (currentMode == "auto" && cacheCorpus.ContainsKey(input));
         }
+
         string GetCorpus(string input)
         {
             if (customCorpus.ContainsKey(input))
@@ -321,37 +387,41 @@ namespace PDDTranslate
                 return vanillaCorpus[input];
             else if (tempCorpus.ContainsKey(input))
                 return tempCorpus[input];
+            else if (currentMode == "auto" && cacheCorpus.ContainsKey(input))
+                return cacheCorpus[input];
             SetLog("Please don't call GetCorpus without asking CheckCorpus first.");
             return input;
         }
+
         string AddSpace(Match line)
         {
             return ". " + line.Groups[1].Value;
         }
+
         string GetScriptTranslation(Match line)
         {
             ScrollTo(textBox3, line.Groups[1].Index, line.Groups[1].Length);
-            return "\"" + GetTranslation(line.Groups[1].Value) + "\"";
+            return "\"" + GetTranslation(line.Groups[1].Value, line.Groups[1].Index, line.Groups[1].Length) + "\"";
         }
         string GetItemTranslation(Match line)
         {
             ScrollTo(textBox3, line.Groups[3].Index, line.Groups[3].Length);
-            return line.Groups[1].Value + GetTranslation(line.Groups[3].Value);
+            return line.Groups[1].Value + GetTranslation(line.Groups[3].Value, line.Groups[3].Index, line.Groups[3].Length);
         }
         string GetGplayTranslation(Match line)
         {
             ScrollTo(textBox3, line.Groups[2].Index, line.Groups[2].Length);
-            return "<" + line.Groups[1].Value + ">" + GetTranslation(line.Groups[2].Value) + "</" + line.Groups[1].Value + ">";
+            return "<" + line.Groups[1].Value + ">" + GetTranslation(line.Groups[2].Value, line.Groups[2].Index, line.Groups[2].Length) + "</" + line.Groups[1].Value + ">";
         }
         string GetAttributeTranslation(Match line)
         {
             ScrollTo(textBox3, line.Groups[3].Index, line.Groups[3].Length);
-            return line.Groups[1].Value + GetTranslation(line.Groups[3].Value) + "\"";
+            return line.Groups[1].Value + GetTranslation(line.Groups[3].Value, line.Groups[3].Index, line.Groups[3].Length) + "\"";
         }
         string GetTextTranslation(Match line)
         {
             ScrollTo(textBox3, line.Groups[2].Index, line.Groups[2].Length);
-            return line.Groups[1].Value + GetTranslation(line.Groups[2].Value) + "</text>";
+            return line.Groups[1].Value + GetTranslation(line.Groups[2].Value, line.Groups[2].Index, line.Groups[2].Length) + "</text>";
         }
 
         // Form access functions
@@ -406,8 +476,13 @@ namespace PDDTranslate
                 return input;
             }
 
-            string prefix = input[0] == ' ' ? " " : "";
-            string suffix = input[input.Length - 1] == ' ' ? " " : "";
+            // Whitespace is stripped and added back later
+            Match whitespace = Regex.Match(input, @"^(\s*).+?(\s*)$");
+
+            // Google doesn't always handle these well
+            input = input.Replace("«", "\"");
+            input = input.Replace("»", "\"");
+
             if (HttpUtility.UrlEncode(input).Length <= 2044) // Use Google Translate
             {
                 string url = "http://www.google.com/translate_t?oe=UTF-8&sl=ru&tl=en&text=" + HttpUtility.UrlEncode(input.Trim());
@@ -416,11 +491,10 @@ namespace PDDTranslate
                 string result = webClient.DownloadString(url);
                 result = Regex.Match(result, "<span[^>]+?result_box[^>]*?>(.+?)</span></div>").Groups[1].Value;
                 result = Regex.Replace(result, "<.+?>(?!\")", "");
-                return prefix + HttpUtility.HtmlDecode(result) + suffix;
+                return whitespace.Groups[1].Value + HttpUtility.HtmlDecode(result) + whitespace.Groups[2].Value;
             }
             else if (input.Length <= 5000) // Use Microsoft Translator
             {
-                //SetLog("String too long for Google, using MS.");
                 string uri = "http://api.microsofttranslator.com/v2/Http.svc/Translate?from=ru&to=en&text=" + HttpUtility.UrlEncode(input.Trim());
                 string authToken = "Bearer " + admAuth.GetAccessToken().access_token;
                 HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create(uri);
@@ -439,7 +513,7 @@ namespace PDDTranslate
                 using (Stream stream = response.GetResponseStream())
                 {
                     DataContractSerializer dcs = new DataContractSerializer(Type.GetType("System.String"));
-                    return prefix + (string)dcs.ReadObject(stream) + suffix;
+                    return whitespace.Groups[1].Value + (string)dcs.ReadObject(stream) + whitespace.Groups[2].Value;
                 }
             }
             else
