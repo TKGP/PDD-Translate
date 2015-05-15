@@ -17,7 +17,6 @@ namespace PDDTranslate
 {
     public partial class TranslateForm : Form
     {
-        const string RUSSIAN = "[АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ]";
         readonly Encoding RUENCODING = Encoding.GetEncoding(1251);
 
         static AdmAuthentication admAuth;
@@ -27,8 +26,8 @@ namespace PDDTranslate
 
         string currentMode, fileType; // Barf
         bool corpusOnly;
-        MatchCollection comments;
-        MatchCollection moreComments;
+        MatchCollection comments, moreComments;
+        int numLogs = 0;
 
         static EventWaitHandle waitHandle = new AutoResetEvent(false);
         Thread fileParser;
@@ -36,10 +35,32 @@ namespace PDDTranslate
         Dictionary<string, string> vanillaCorpus = new Dictionary<string, string>();
         Dictionary<string, string> customCorpus = new Dictionary<string, string>();
         Dictionary<string, string> tempCorpus = new Dictionary<string, string>();
-        Dictionary<string, string> cacheCorpus = new Dictionary<string, string>();
+        Dictionary<string, string> machineCache = new Dictionary<string, string>();
         XmlDocument customCorpusXML = new XmlDocument();
 
         Dictionary<string, string> doneFiles = new Dictionary<string, string>();
+
+        Regex anyCyrillic = new Regex("[АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ]", RegexOptions.IgnoreCase); // Ё
+        Regex whitespacePattern = new Regex(@"^(\s*).+?(\s*)$");
+        Regex dotCyrillic = new Regex(@"\.([АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ])");
+        Regex googleScrape = new Regex("<span[^>]+?result_box[^>]*?>(.+?)</span></div>");
+        Regex removeTags = new Regex("<.+?>(?!\")");
+
+        Regex scriptText = new Regex(@"""(([^""\n]|\\"")*?)(?<!\\)""");
+        Regex itemText = new Regex(@"((inv_name|description).*?=\s*)([^;\n]+[^;\s])");
+        Regex textText = new Regex("(<text[^>]*?>)(.*?)</text>", RegexOptions.Singleline);
+        Regex attributeText = new Regex("(<[^>]*?(hint|name|caption)=\")([^\"]*?)\"");
+        Regex gameplayText = new Regex(@"<(name|title|text)>([^<]*?)</\1>");
+
+        Regex[] splitPoints = {
+            new Regex(@"\. "),
+            new Regex(@"\n"),
+            new Regex(@"\\?\\n"),
+            new Regex(@"\$\$.+?\$\$"), // Keybind macro
+            new Regex(@"%c\[[^]]+?]"), // Color code
+            new Regex(@"%(?:\d+\$)?[dfsu]"), // string.format arguments
+            new Regex(@"\$\S+") // AMK-style placeholders
+            };
 
         [DllImport("user32.dll")]
         static extern int SetScrollPos(IntPtr hWnd, int nBar, int nPos, bool bRedraw);
@@ -81,13 +102,11 @@ namespace PDDTranslate
         {
             waitHandle.Set();
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
             skipString = true;
             waitHandle.Set();
         }
-
         private void button3_Click(object sender, EventArgs e)
         {
             skipCorpus = true;
@@ -104,39 +123,25 @@ namespace PDDTranslate
             int howMany;
 
             SetStatus((scriptCheck != "skip" ? "Checking" : "Skipping") + " scripts...\t\t(1/5)");
-            howMany = IterateFiles(scriptCheck, "scripts", "*.script",
-                "\"(([^\"\r\n]|\\\\\")*?" + RUSSIAN + "([^\"\r\n]|\\\\\")*?)\"",
-                new MatchEvaluator(GetScriptTranslation));
+            howMany = IterateFiles(scriptCheck, "scripts", "*.script", scriptText, new MatchEvaluator(GetScriptTranslation));
             if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((iniCheck != "skip" ? "Checking" : "Skipping") + " items...\t\t(2/5)");
-            howMany = IterateFiles(iniCheck, configPath, "*.ltx",
-                "((inv_name|description).*?=\\s*?)(\\S[^;\r\n]*?" + RUSSIAN + "[^;\r\n]*[^;\\s])",
-                new MatchEvaluator(GetItemTranslation));
+            howMany = IterateFiles(iniCheck, configPath, "*.ltx", itemText, new MatchEvaluator(GetItemTranslation));
             if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((xmlCheck != "skip" ? "Checking" : "Skipping") + " \\gameplay xml...\t(3/5)");
-            howMany = IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml",
-                "<(name|title|text)>([^<]*?" + RUSSIAN + @"[^<]*?)</\1>",
-                new MatchEvaluator(GetGplayTranslation));
-            howMany += IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml",
-                "(<[^>]*?(hint|name)=\")([^\"]*?" + RUSSIAN + "[^\"]*?)\"",
-                new MatchEvaluator(GetAttributeTranslation));
+            howMany = IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml", gameplayText, new MatchEvaluator(GetGplayTranslation));
+            howMany += IterateFiles(xmlCheck, configPath + @"\gameplay", "*.xml", attributeText, new MatchEvaluator(GetAttributeTranslation));
             if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((xmlCheck != "skip" ? "Checking" : "Skipping") + " \\ui xml...\t\t(4/5)");
-            howMany = IterateFiles(xmlCheck, configPath + @"\ui", "*.xml",
-                "(<text[^>]*?>)([^<]*?" + RUSSIAN + "[^<]*?)</text>",
-                new MatchEvaluator(GetTextTranslation));
-            howMany += IterateFiles(xmlCheck, configPath + @"\ui", "*.xml",
-                "(<[^>]*?(hint|name|caption)=\")([^\"]*?" + RUSSIAN + "[^\"]*?)\"",
-                new MatchEvaluator(GetAttributeTranslation));
+            howMany = IterateFiles(xmlCheck, configPath + @"\ui", "*.xml", textText, new MatchEvaluator(GetTextTranslation));
+            howMany += IterateFiles(xmlCheck, configPath + @"\ui", "*.xml", attributeText, new MatchEvaluator(GetAttributeTranslation));
             if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             SetStatus((stringCheck != "skip" ? "Checking" : "Skipping") + " strings...\t\t(5/5)");
-            howMany = IterateFiles(stringCheck, configPath + @"\text\rus", "*.xml",
-                "(<text[^>]*?>)([^<]*?" + RUSSIAN + "[^<]*?)</text>",
-                new MatchEvaluator(GetTextTranslation));
+            howMany = IterateFiles(stringCheck, configPath + @"\text\rus", "*.xml", textText, new MatchEvaluator(GetTextTranslation));
             if (howMany > -1) SetStatus("Translated " + howMany + " files.");
 
             EnableControls(false);
@@ -144,7 +149,7 @@ namespace PDDTranslate
             SystemSounds.Asterisk.Play();
         }
 
-        int IterateFiles(string mode, string path, string filePattern, string regexPattern, MatchEvaluator translateFunc)
+        int IterateFiles(string mode, string path, string filePattern, Regex pattern, MatchEvaluator translateFunc)
         {
             if (mode == "skip")
                 return -1;
@@ -164,7 +169,7 @@ namespace PDDTranslate
             int howMany = 0;
             foreach (string filePath in filePaths)
             {
-                fileType = Regex.Match(filePath, @".+\.(.+)").Groups[1].Value;
+                fileType = Regex.Match(filePath, @".+\.(.+)").Groups[1].Value.ToLower();
                 string fileText, newText;
                 fileCount++;
                 SetLabel(label6, filePath + " (" + fileCount + "/" + filePaths.Length + ")");
@@ -190,7 +195,7 @@ namespace PDDTranslate
                         throw null; // :^)
                 }
 
-                newText = Regex.Replace(fileText, regexPattern, translateFunc, RegexOptions.IgnoreCase);
+                newText = pattern.Replace(fileText, translateFunc);
                 if (newText != fileText)
                 {
                     howMany++;
@@ -204,66 +209,13 @@ namespace PDDTranslate
             return howMany;
         }
 
-        string Split(string line)
-        {
-            if (line.Contains(@"\n"))
-            {
-                Match match = Regex.Match(line, @"\\?\\n");
-                int index = match.Index;
-                int length = match.Length;
-                return Split(line.Substring(0, index)) + match.Value + Split(line.Substring(index + length));
-            }
-            else if (line.Contains("\n"))
-            {
-                int index = line.IndexOf("\n");
-                return Split(line.Substring(0, index)) + "\n" + Split(line.Substring(index + 1));
-            }
-            else if (line.Contains("\\\""))
-            {
-                int index = line.IndexOf("\\\"");
-                return Split(line.Substring(0, index)) + "\\\"" + Split(line.Substring(index + 2));
-            }
-            else if (line.Contains("%c["))
-            {
-                Match match = Regex.Match(line, @"%c\[[^]]+?]");
-                if (!match.Success)
-                {
-                    SetLog("Incomplete color tag.");
-                    return line;
-                }
-                else
-                {
-                    int index = match.Index;
-                    int length = match.Length;
-                    return Split(line.Substring(0, index)) + match.Value + Split(line.Substring(index + length));
-                }
-            }
-            else if (line.Contains("$$"))
-            {
-                Match match = Regex.Match(line, @"\$\$.+?\$\$");
-                if (!match.Success)
-                {
-                    SetLog("Incomplete keybind tag.");
-                    return line;
-                }
-                else
-                {
-                    int index = match.Index;
-                    int length = match.Length;
-                    return Split(line.Substring(0, index)) + match.Value + Split(line.Substring(index + length));
-                }
-            }
-            else if (CheckCorpus(line))
-                return GetCorpus(line);
-            else
-            {
-                corpusOnly = false;
-                return TranslateText(line);
-            }
-        }
-
         string GetTranslation(string line, int index, int length)
         {
+            if (!anyCyrillic.Match(line).Success)
+                return line;
+
+            ScrollTo(textBox3, index, length);
+
             int endIndex = index + length;
             foreach (Match comment in comments)
             {
@@ -296,15 +248,13 @@ namespace PDDTranslate
             {
                 case "ltx":
                     if (newLine.IndexOf("\"") == 0)
-                    {
-                        newLine = newLine.Substring(1);
-                        newLine = newLine.Substring(0, newLine.Length - 1);
-                    }
+                        newLine = newLine.Substring(1).Substring(0, newLine.Length - 1);
                     break;
                 case "xml":
                     newLine = HttpUtility.HtmlDecode(newLine);
                     break;
                 case "script":
+                    newLine = newLine.Replace("\\\"", "\"");
                     break;
             }
 
@@ -339,10 +289,7 @@ namespace PDDTranslate
             }
 
             if (currentMode == "auto")
-            {
-                cacheCorpus[line] = result;
                 return result;
-            }
 
             SetTextBox(textBox1, line);
             SetTextBox(textBox2, result);
@@ -373,10 +320,30 @@ namespace PDDTranslate
             return textBox2.Text;
         }
 
+        string Split(string line)
+        {
+            if (!anyCyrillic.Match(line).Success)
+                return line;
+
+            foreach (Regex pattern in splitPoints)
+            {
+                Match match = pattern.Match(line);
+                if (match.Success)
+                    return Split(line.Substring(0, match.Index)) + match.Value + Split(line.Substring(match.Index + match.Length));
+            }
+
+            if (CheckCorpus(line))
+                return GetCorpus(line);
+            else
+            {
+                corpusOnly = false;
+                return MachineTranslate(line);
+            }
+        }
+
         bool CheckCorpus(string input)
         {
-            return customCorpus.ContainsKey(input) || vanillaCorpus.ContainsKey(input) || tempCorpus.ContainsKey(input)
-                || (currentMode == "auto" && cacheCorpus.ContainsKey(input));
+            return customCorpus.ContainsKey(input) || vanillaCorpus.ContainsKey(input) || tempCorpus.ContainsKey(input);
         }
 
         string GetCorpus(string input)
@@ -387,8 +354,6 @@ namespace PDDTranslate
                 return vanillaCorpus[input];
             else if (tempCorpus.ContainsKey(input))
                 return tempCorpus[input];
-            else if (currentMode == "auto" && cacheCorpus.ContainsKey(input))
-                return cacheCorpus[input];
             SetLog("Please don't call GetCorpus without asking CheckCorpus first.");
             return input;
         }
@@ -400,27 +365,22 @@ namespace PDDTranslate
 
         string GetScriptTranslation(Match line)
         {
-            ScrollTo(textBox3, line.Groups[1].Index, line.Groups[1].Length);
             return "\"" + GetTranslation(line.Groups[1].Value, line.Groups[1].Index, line.Groups[1].Length) + "\"";
         }
         string GetItemTranslation(Match line)
         {
-            ScrollTo(textBox3, line.Groups[3].Index, line.Groups[3].Length);
             return line.Groups[1].Value + GetTranslation(line.Groups[3].Value, line.Groups[3].Index, line.Groups[3].Length);
         }
         string GetGplayTranslation(Match line)
         {
-            ScrollTo(textBox3, line.Groups[2].Index, line.Groups[2].Length);
             return "<" + line.Groups[1].Value + ">" + GetTranslation(line.Groups[2].Value, line.Groups[2].Index, line.Groups[2].Length) + "</" + line.Groups[1].Value + ">";
         }
         string GetAttributeTranslation(Match line)
         {
-            ScrollTo(textBox3, line.Groups[3].Index, line.Groups[3].Length);
             return line.Groups[1].Value + GetTranslation(line.Groups[3].Value, line.Groups[3].Index, line.Groups[3].Length) + "\"";
         }
         string GetTextTranslation(Match line)
         {
-            ScrollTo(textBox3, line.Groups[2].Index, line.Groups[2].Length);
             return line.Groups[1].Value + GetTranslation(line.Groups[2].Value, line.Groups[2].Index, line.Groups[2].Length) + "</text>";
         }
 
@@ -465,23 +425,26 @@ namespace PDDTranslate
         void SetLog(string log)
         {
             this.Invoke(new Action(() => textBox5.AppendText((textBox5.Lines.Length != 0 ? "\r\n" : "") +
-                (textBox5.Lines.Length + 1) + ". " + Regex.Match(label6.Text, @"\\([^\\]+?) ").Groups[1].Value + "\r\n\t" + log)));
+                ++numLogs + ". " + Regex.Match(label6.Text, @"\\([^\\]+?) ").Groups[1].Value + ": " + log)));
         }
 
         // Get machine translation
-        string TranslateText(string input)
+        string MachineTranslate(string input)
         {
-            if (input == "" || input.Trim() == "")
-            {
+            if (input.Trim() == "")
                 return input;
-            }
 
-            // Whitespace is stripped and added back later
-            Match whitespace = Regex.Match(input, @"^(\s*).+?(\s*)$");
+            if (machineCache.ContainsKey(input))
+                return machineCache[input];
+
+            // Leading and trailing whitespace is stripped and added back later
+            Match whitespace = whitespacePattern.Match(input);
 
             // Google doesn't always handle these well
-            input = input.Replace("«", "\"");
-            input = input.Replace("»", "\"");
+            input = input.Replace("«", "\"").Replace("»", "\"");
+
+            // Add spaces after periods
+            input = dotCyrillic.Replace(input, new MatchEvaluator(AddSpace));
 
             if (HttpUtility.UrlEncode(input).Length <= 2044) // Use Google Translate
             {
@@ -489,9 +452,11 @@ namespace PDDTranslate
                 WebClient webClient = new WebClient();
                 webClient.Encoding = Encoding.UTF8;
                 string result = webClient.DownloadString(url);
-                result = Regex.Match(result, "<span[^>]+?result_box[^>]*?>(.+?)</span></div>").Groups[1].Value;
-                result = Regex.Replace(result, "<.+?>(?!\")", "");
-                return whitespace.Groups[1].Value + HttpUtility.HtmlDecode(result) + whitespace.Groups[2].Value;
+                result = googleScrape.Match(result).Groups[1].Value;
+                result = removeTags.Replace(result, "");
+                result = whitespace.Groups[1].Value + HttpUtility.HtmlDecode(result) + whitespace.Groups[2].Value;
+                machineCache[input] = result;
+                return result;
             }
             else if (input.Length <= 5000) // Use Microsoft Translator
             {
@@ -513,7 +478,9 @@ namespace PDDTranslate
                 using (Stream stream = response.GetResponseStream())
                 {
                     DataContractSerializer dcs = new DataContractSerializer(Type.GetType("System.String"));
-                    return whitespace.Groups[1].Value + (string)dcs.ReadObject(stream) + whitespace.Groups[2].Value;
+                    string result = whitespace.Groups[1].Value + (string)dcs.ReadObject(stream) + whitespace.Groups[2].Value;
+                    machineCache[input] = result;
+                    return result;
                 }
             }
             else
