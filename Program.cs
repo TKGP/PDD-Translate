@@ -1,24 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace PDDTranslate
 {
     static class Program
     {
-        public static bool quit = true;
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
+        //[STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new OptionsForm());
-            if (!quit)
-                Application.Run(new TranslateForm());
+            DialogResult result = new OptionsForm().ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                TranslateForm translateForm = new TranslateForm();
+                Translator.SetParentGUI(translateForm);
+                Translator.Start();
+                translateForm.ShowDialog();
+            }
         }
     }
 }

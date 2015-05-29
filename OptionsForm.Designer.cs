@@ -135,7 +135,6 @@
             this.radioButton14.Name = "radioButton14";
             this.radioButton14.Size = new System.Drawing.Size(46, 17);
             this.radioButton14.TabIndex = 3;
-            this.radioButton14.TabStop = true;
             this.radioButton14.Text = "Skip";
             this.radioButton14.UseVisualStyleBackColor = true;
             // 
@@ -146,25 +145,23 @@
             this.radioButton4.Name = "radioButton4";
             this.radioButton4.Size = new System.Drawing.Size(60, 17);
             this.radioButton4.TabIndex = 2;
-            this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Manual";
             this.radioButton4.UseVisualStyleBackColor = true;
             // 
             // radioButton5
             // 
             this.radioButton5.AutoSize = true;
-            this.radioButton5.Checked = true;
             this.radioButton5.Location = new System.Drawing.Point(7, 44);
             this.radioButton5.Name = "radioButton5";
             this.radioButton5.Size = new System.Drawing.Size(48, 17);
             this.radioButton5.TabIndex = 1;
-            this.radioButton5.TabStop = true;
             this.radioButton5.Text = "Semi";
             this.radioButton5.UseVisualStyleBackColor = true;
             // 
             // radioButton6
             // 
             this.radioButton6.AutoSize = true;
+            this.radioButton6.Checked = true;
             this.radioButton6.Location = new System.Drawing.Point(7, 20);
             this.radioButton6.Name = "radioButton6";
             this.radioButton6.Size = new System.Drawing.Size(47, 17);
