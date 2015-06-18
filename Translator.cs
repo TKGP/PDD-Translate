@@ -24,14 +24,14 @@ namespace PDDTranslate
 
         private static TranslateForm translateForm;
         private static TranslateOption scriptOption, ltxOption, xmlOption, stringOption;
+        private static bool lazyMode;
         private static ContinueOption continueOption;
-        private static string textInput;
-        public static string InterruptResult;
+        private static string textInput, interruptResult;
 
         private static Thread fileParser;
         private static EventWaitHandle waitHandle = new AutoResetEvent(false);
         private static AdmAuthentication admAuth;
-        
+
         private static Dictionary<string, string> staticCorpus = new Dictionary<string, string>();
         private static Dictionary<string, string> customCorpus = new Dictionary<string, string>();
         private static Dictionary<string, string> tempCorpus = new Dictionary<string, string>();
@@ -43,7 +43,7 @@ namespace PDDTranslate
         private static TranslateOption currentMode;
         private static string fileType, currentFile;
         private static bool fromCorpus;
-        
+
         private static Regex anyCyrillic = new Regex("[АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ]", RegexOptions.IgnoreCase);
         private static Regex whitespacePattern = new Regex(@"^(\s*).+?(\s*)$");
         private static Regex dotCyrillic = new Regex(@"\.([АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ])");
@@ -56,8 +56,7 @@ namespace PDDTranslate
         private static Regex attributeText = new Regex("<[^>]*?(?:hint|name|caption)=\"(?<text>[^\"]*?)\"");
         private static Regex gameplayText = new Regex(@"<(name|title|text)>(?<text>[^<]*?)</\1>");
 
-        private static Regex[] splitPoints = {
-            new Regex(@"\. "),
+        private static List<Regex> splitPoints = new List<Regex>(){
             new Regex(@"\n"),
             new Regex(@"\\?\\n"),
             new Regex(@"\$\$.+?\$\$"), // Keybind macro
@@ -73,12 +72,21 @@ namespace PDDTranslate
             translateForm = setParentGUI;
         }
 
-        public static void SetTranslateOptions(TranslateOption setScriptOption, TranslateOption setLtxOption, TranslateOption setXmlOption, TranslateOption setStringOption)
+        public static void SetTranslateOptions(TranslateOption setScriptOption, TranslateOption setLtxOption, TranslateOption setXmlOption, TranslateOption setStringOption,
+            bool setLazyMode, bool setSlowMode)
         {
             scriptOption = setScriptOption;
             ltxOption = setLtxOption;
             xmlOption = setXmlOption;
             stringOption = setStringOption;
+            lazyMode = setLazyMode;
+            if (setSlowMode)
+                splitPoints.Add(new Regex(@"\. "));
+        }
+
+        public static void SetInterruptResult(string setInterruptResult)
+        {
+            interruptResult = setInterruptResult;
         }
 
         public static void Start()
@@ -101,8 +109,9 @@ namespace PDDTranslate
             string token = File.ReadAllText("token.txt");
             admAuth = new AdmAuthentication("PDDTranslate", token);
 
-            LoadCorpus(staticCorpus, "sgm 2.2.xml");
-            LoadCorpus(staticCorpus, "amk retranslated.xml");
+            LoadCorpus(staticCorpus, "sgm 2.2.xml"); // By nashathedog
+            LoadCorpus(staticCorpus, "amk retranslated.xml"); // By Conor Finegan
+            LoadCorpus(staticCorpus, "arena extension mod.xml"); // By Siro and Darius6
             LoadCorpus(staticCorpus, "lost alpha.xml");
             LoadCorpus(staticCorpus, "shadow of chernobyl.xml");
             LoadCorpus(staticCorpus, "clear sky.xml");
@@ -173,7 +182,7 @@ namespace PDDTranslate
                 translateForm.SetFileText(fileText);
 
                 // Find all comments to prune overlapping matches later
-                moreComments = Regex.Matches("a","b"); // Hack to make empty MatchCollection
+                moreComments = Regex.Matches("a", "b"); // Hack to make empty MatchCollection
                 switch (fileType)
                 {
                     case "ltx":
@@ -257,10 +266,10 @@ namespace PDDTranslate
             else
                 result = Split(plainText);
 
-            if (currentMode == TranslateOption.Manual || (currentMode == TranslateOption.Semi && !fromCorpus ))
+            if (currentMode == TranslateOption.Manual || (currentMode == TranslateOption.Semi && !fromCorpus))
             {
-                Clipboard.SetText(textGroup.Value);
-                translateForm.SetSuggestion(textGroup.Value, result);
+                Clipboard.SetText(plainText);
+                translateForm.SetSuggestion(plainText, result);
 
                 waitHandle.WaitOne(); // Wait for user input
 
@@ -391,19 +400,26 @@ namespace PDDTranslate
                 }
                 catch
                 {
-                    //result = sanitized;
-                    ///*
-                    using (TranslationInterruptForm form = new TranslationInterruptForm("MS Translator failed response.", sanitized))
-                        form.ShowDialog();
-                    result = InterruptResult;
-                    //*/
+                    if (lazyMode)
+                        result = sanitized;
+                    else
+                    {
+                        using (TranslationInterruptForm form = new TranslationInterruptForm("MS Translator failed response.", sanitized))
+                            form.ShowDialog();
+                        result = interruptResult;
+                    }
                 }
             }
             else
             {
-                using (TranslationInterruptForm form = new TranslationInterruptForm("String too long to auto-translate.", sanitized))
-                    form.ShowDialog();
-                result = InterruptResult;
+                if (lazyMode)
+                    result = sanitized;
+                else
+                {
+                    using (TranslationInterruptForm form = new TranslationInterruptForm("String too long to auto-translate.", sanitized))
+                        form.ShowDialog();
+                    result = interruptResult;
+                }
             }
             result = whitespace.Groups[1].Value + result + whitespace.Groups[2].Value;
             machineCache[toTranslate] = result;
@@ -416,9 +432,7 @@ namespace PDDTranslate
             corpusXML.Load("corpus\\" + source);
             foreach (XmlNode node in corpusXML.DocumentElement.ChildNodes)
                 target[node.ChildNodes[0].InnerText] = node.ChildNodes[1].InnerText;
-            translateForm.SetStatus("Loaded " +
-                corpusXML.DocumentElement.ChildNodes.Count
-                + " string pairs from " + source);
+            translateForm.SetStatus("Loaded " + corpusXML.DocumentElement.ChildNodes.Count + " string pairs from " + source);
         }
     }
 }

@@ -23,13 +23,13 @@ namespace PDDTranslate
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Translator.InterruptResult = textBox2.Text;
+            Translator.SetInterruptResult(textBox2.Text);
             this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Translator.InterruptResult = textBox1.Text;
+            Translator.SetInterruptResult(textBox1.Text);
             this.Close();
         }
     }

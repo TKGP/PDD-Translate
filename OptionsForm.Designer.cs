@@ -50,6 +50,8 @@
             this.radioButton11 = new System.Windows.Forms.RadioButton();
             this.radioButton12 = new System.Windows.Forms.RadioButton();
             this.button1 = new System.Windows.Forms.Button();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -289,7 +291,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(91, 145);
+            this.button1.Location = new System.Drawing.Point(91, 191);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(152, 23);
             this.button1.TabIndex = 6;
@@ -297,12 +299,34 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Location = new System.Drawing.Point(12, 145);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(78, 17);
+            this.checkBox1.TabIndex = 7;
+            this.checkBox1.Text = "Lazy Mode";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
+            // checkBox2
+            // 
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(12, 168);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(79, 17);
+            this.checkBox2.TabIndex = 8;
+            this.checkBox2.Text = "Slow Mode";
+            this.checkBox2.UseVisualStyleBackColor = true;
+            // 
             // OptionsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(334, 179);
+            this.ClientSize = new System.Drawing.Size(334, 225);
+            this.Controls.Add(this.checkBox2);
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
@@ -348,6 +372,8 @@
         private System.Windows.Forms.RadioButton radioButton14;
         private System.Windows.Forms.RadioButton radioButton15;
         private System.Windows.Forms.RadioButton radioButton16;
+        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox checkBox2;
 
     }
 }
