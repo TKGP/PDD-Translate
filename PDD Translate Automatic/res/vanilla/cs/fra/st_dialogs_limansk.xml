@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_bandit_wounded_dialog_1_11">
+		<text>А l'aide ! Donne-moi un mйdikit, mon pote est en train de crever !</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_111">
+		<text>Tiens !</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1111">
+		<text>Attends, laisse-moi aider mon pote d'abord !</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_112">
+		<text>Dйsolй, j'en ai pas.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1121">
+		<text>Merde...</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_113">
+		<text>Va te faire foutre, connard !</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_11">
+		<text>Merci de m'avoir aidй ! On dirait que tu vas en ville. Fais gaffe, les mecs du Rouge sont en embuscade dans la rue lа-bas. Ils ont tirй un cвble depuis la voiture, alors marche pas dessus ! Passe sur le cфtй droit si tu veux кtre tranquille.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_111">
+		<text>Qui d'autre est en ville ?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1111">
+		<text>Y a plein de monde et ils foutent tous un bordel sans nom ! Le Devoir et la Libertй marchent vers le centre de la ville, certainement а la recherche d'un passage vers le centre de la Zone. On a vu des hйlicos, donc les militaires sont de la partie. Y a aussi quelques stalkers, mais ils viennent de l'autre cфtй, depuis le centre de la Zone.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_112">
+		<text>Qu'est-ce qui se passe en ville ?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1121">
+		<text>Notre chef et ses hommes se sont planquйs dans une maison un peu plus haut dans la rue. Ils comptent pas en bouger. Si tu veux entrer dans la ville, tu vas falloir que tu trouves un moyen de les dйloger.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_113">
+		<text>Merci pour rien... Casse-toi avant que je change d'avis et que je te descende !</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_12">
+		<text>Vite, il faut se casser d'ici !</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_121">
+		<text>C'est зa, barre-toi !</text>
+	</string>
+</string_table>

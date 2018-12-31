@@ -1,0 +1,2439 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<root>
+  <text>
+    <ru>Меченый</ru>
+	<en>Marked One</en>
+  </text>
+  <text>
+    <ru>Initialize_Section=[%s]:&lt;Error!_НЕ_ЗАДАН_МЕТОД_ИНИЦИАЛИЗАЦИИ_!&gt;</ru>
+    <en>Initialize_Section=[%s]:&lt;Error!_UNDEFINED_INITIALIZATION_METHOD_!&gt;</en>
+  </text>
+  <text>
+    <ru>),_Метод=[</ru>
+    <en>),_Method=[</en>
+  </text>
+  <text>
+    <ru>* Модуль(%02d/%02d)= %-17s</ru>
+    <en>* Module(%02d/%02d)= %-17s</en>
+  </text>
+  <text>
+    <ru>&lt;~_ИНИЦИАЛИЗИРОВАН_!:&lt;-o-&gt;</ru>
+    <en>&lt;~_INITIALIZATION_!:&lt;-o-&gt;</en>
+  </text>
+  <text>
+    <ru>&lt;~WARNING!_ФАЙЛ_НЕ_НАЙДЕН:&lt;xxx&gt;</ru>
+    <en>&lt;~WARNING!_FILE_NOT_FOUND:&lt;xxx&gt;</en>
+  </text>
+  <text>
+    <ru>&lt;~отключен:&lt;-x-&gt;</ru>
+    <en>&lt;~disable:&lt;-x-&gt;</en>
+  </text>
+  <text>
+    <ru>Мёртвый сталкер: </ru>
+    <en>Dead stalker: </en>
+  </text>
+  <text>
+    <ru>Найдено денег: %c[255,255,0,0]</ru>
+    <en>Found money: %c[255,255,0,0]</en>
+  </text>
+  <text>
+    <ru>%c[default] руб.</ru>
+    <en>%c[default] RU</en>
+  </text>
+  <text>
+    <ru>* Инициализация_модулей_секции=[</ru>
+    <en>* Initialization_module_section=[</en>
+  </text>
+  <text>
+    <ru>&lt;~WARNING!_ОШИБКА_МОДУЛЯ_ИЛИ_МЕТОД_ОТСУТСТВУЕТ_!:&lt;x?x&gt;</ru>
+    <en>&lt;~WARNING!_MODULE_FAILURE_OR_MISSING_METHOD_!:&lt;x?x&gt;</en>
+  </text>
+  <text>
+    <ru> на Кордоне</ru>
+    <en> at the Cordon</en>
+  </text>
+  <text>
+    <ru> на Свалке</ru>
+    <en> at the Garbage</en>
+  </text>
+  <text>
+    <ru> в подземелье Агропрома</ru>
+    <en> in Agroprom Underground</en>
+  </text>
+  <text>
+    <ru> на Агропроме</ru>
+    <en> at Agroprom</en>
+  </text>
+  <text>
+    <ru> в Тёмной долине</ru>
+    <en> in Dark Valley</en>
+  </text>
+  <text>
+    <ru> на Военных складах</ru>
+    <en> at Army Warehouses</en>
+  </text>
+  <text>
+    <ru> на Янтаре</ru>
+    <en> at Yantar</en>
+  </text>
+  <text>
+    <ru> в Госпитале</ru>
+    <en> in the Hospital</en>
+  </text>
+  <text>
+    <ru> в Лиманске</ru>
+    <en> in Limansk</en>
+  </text>
+  <text>
+    <ru> на Болотах</ru>
+    <en> in the Marshes</en>
+  </text>
+  <text>
+    <ru> в Рыжем лесу</ru>
+    <en> in Red Forest</en>
+  </text>
+  <text>
+    <ru> - База группировки</ru>
+    <en> - Faction base</en>
+  </text>
+  <text>
+    <ru> - Ресурсная точка</ru>
+    <en> - Resource point</en>
+  </text>
+  <text>
+    <ru>%c[25,240,25,25]Таймфактор увеличен до </ru>
+    <en>%c[25,240,25,25]Time factor increased to </en>
+  </text>
+  <text>
+    <ru>%c[0,0,255,25]Таймфактор стандартный</ru>
+    <en>%c[0,0,255,25]Standard time factor</en>
+  </text>
+  <text>
+    <ru>%c[255,240,155,25]Таймфактор уменьшен до </ru>
+    <en>%c[255,240,155,25]Time factor reduced to </en>
+  </text>
+  <text>
+    <ru>Лог</ru>
+    <en>Log</en>
+  </text>
+  <text>
+    <ru>Объект</ru>
+    <en>Object</en>
+  </text>
+  <text>
+    <ru>Получены координаты тайника.</ru>
+    <en>Obtained stash coordinates.</en>
+  </text>
+  <text>
+    <ru>Скриптовая функция</ru>
+    <en>Script function</en>
+  </text>
+  <text>
+    <ru> - Ключевая точка</ru>
+    <en> - Capture point</en>
+  </text>
+  <text>
+    <ru>Секция желаемого объекта, количество</ru>
+    <en>Desired object section, amount</en>
+  </text>
+  <text>
+    <ru>Инфо для добавления</ru>
+    <en>Info to add</en>
+  </text>
+  <text>
+    <ru>Дать инфо!</ru>
+    <en>Give info!</en>
+  </text>
+  <text>
+    <ru>Часть имени объекта для поиска</ru>
+    <en>Partial object name to search for</en>
+  </text>
+  <text>
+    <ru>Искать!</ru>
+    <en>Search!</en>
+  </text>
+  <text>
+    <ru>Часть имени объекта для удаления</ru>
+    <en>Partial object name to delete</en>
+  </text>
+  <text>
+    <ru>Удалить!</ru>
+    <en>Delete!</en>
+  </text>
+  <text>
+    <ru>Секция </ru>
+    <en>Section </en>
+  </text>
+  <text>
+    <ru> не существует!</ru>
+    <en> does not exist!</en>
+  </text>
+  <text>
+    <ru>Спавн объекта</ru>
+    <en>Spawn object</en>
+  </text>
+  <text>
+    <ru>Создано </ru>
+    <en>Created </en>
+  </text>
+  <text>
+    <ru> штук.</ru>
+    <en> units.</en>
+  </text>
+  <text>
+    <ru>Удалено </ru>
+    <en>Removed </en>
+  </text>
+  <text>
+    <ru> объектов.</ru>
+    <en> objects.</en>
+  </text>
+  <text>
+    <ru>Удаление объекта</ru>
+    <en>Deleting object</en>
+  </text>
+  <text>
+    <ru>; уровень=</ru>
+    <en>; level=</en>
+  </text>
+  <text>
+    <ru>%s; расстояние=%.2fм; dX=%.2f, dY=%.2f, dZ=%.2f</ru>
+    <en>%s; distance=%.2fm; dX=%.2f, dY=%.2f, dZ=%.2f</en>
+  </text>
+  <text>
+    <ru> не найден!</ru>
+    <en> not found!</en>
+  </text>
+  <text>
+    <ru>Поиск объекта</ru>
+    <en>Object search</en>
+  </text>
+  <text>
+    <ru> добавлено.</ru>
+    <en> added.</en>
+  </text>
+  <text>
+    <ru>Инфопоршен</ru>
+    <en>Infoportion</en>
+  </text>
+  <text>
+    <ru>Нажмите любую клавишу для продолжения</ru>
+    <en>Press any key to continue</en>
+  </text>
+  <text>
+    <ru>Инициализация</ru>
+    <en>Initializing</en>
+  </text>
+  <text>
+    <ru>action_self_medic:Лечится=[%s],health=[%s]:cnt_ani=[%s]:[%s]</ru>
+    <en>action_self_medic:Treated=[%s],health=[%s]:cnt_ani=[%s]:[%s]</en>
+  </text>
+  <text>
+    <ru>Реверс</ru>
+    <en>Reverse</en>
+  </text>
+  <text>
+    <ru>Финализируем</ru>
+    <en>Finalize</en>
+  </text>
+  <text>
+    <ru>Не заданы параметры функции.</ru>
+    <en>Function parameters not set.</en>
+  </text>
+  <text>
+    <ru>Не найден персонаж, используем героя. </ru>
+    <en>Character not found, use the actor.</en>
+  </text>
+  <text>
+    <ru>Ларкин</ru>
+    <en>Larkin</en>
+  </text>
+  <text>
+    <ru>Сергей Криворучко</ru>
+    <en>Sergei Krivoruchko</en>
+  </text>
+  <text>
+    <ru>Меткий</ru>
+    <en>Sharpshooter</en>
+  </text>
+  <text>
+    <ru>Прагматик</ru>
+    <en>Pragmatist</en>
+  </text>
+  <text>
+    <ru>Мурашка</ru>
+    <en>Murashka</en>
+  </text>
+  <text>
+    <ru>Алик Сапёр</ru>
+    <en>Alik Sapper</en>
+  </text>
+  <text>
+    <ru>капитан Бородин</ru>
+    <en>Captain Borodin</en>
+  </text>
+  <text>
+    <ru>прапорщик Вася Борщ</ru>
+    <en>Warrant Officer Vasya Borsch</en>
+  </text>
+  <text>
+    <ru>доцент Колодяжный</ru>
+    <en>Associate Kolodyazhniy</en>
+  </text>
+  <text>
+    <ru>Атташе</ru>
+    <en>Attache</en>
+  </text>
+  <text>
+    <ru>Историк</ru>
+    <en>Historian</en>
+  </text>
+  <text>
+    <ru>Пошук</ru>
+    <en>Poshuk</en>
+  </text>
+  <text>
+    <ru>Шева</ru>
+    <en>Sheva</en>
+  </text>
+  <text>
+    <ru>Лейтенант Катаев</ru>
+    <en>Lieutenant Kataev</en>
+  </text>
+  <text>
+    <ru>Бек</ru>
+    <en>Beck</en>
+  </text>
+  <text>
+    <ru>Казбек</ru>
+    <en>Kazbek</en>
+  </text>
+  <text>
+    <ru>Тасс</ru>
+    <en>Tass</en>
+  </text>
+  <text>
+    <ru>Андрос</ru>
+    <en>Andros</en>
+  </text>
+  <text>
+    <ru>Положенец</ru>
+    <en>Polozhenets</en>
+  </text>
+  <text>
+    <ru>Лёва</ru>
+    <en>Lyova</en>
+  </text>
+  <text>
+    <ru>Каюм</ru>
+    <en>Kayum</en>
+  </text>
+  <text>
+    <ru>Сейф</ru>
+    <en>Safe</en>
+  </text>
+  <text>
+    <ru>Дереза</ru>
+    <en>Dereza</en>
+  </text>
+  <text>
+    <ru>Болотный Доктор</ru>
+    <en>Marsh Doctor</en>
+  </text>
+  <text>
+    <ru>Каркас</ru>
+    <en>Carcass</en>
+  </text>
+  <text>
+    <ru>Дарума</ru>
+    <en>Daruma</en>
+  </text>
+  <text>
+    <ru>Сикорский</ru>
+    <en>Sikorsky</en>
+  </text>
+  <text>
+    <ru>Кальвадос</ru>
+    <en>Calvados</en>
+  </text>
+  <text>
+    <ru>Понтон</ru>
+    <en>Pontoon</en>
+  </text>
+  <text>
+    <ru>Трамплин</ru>
+    <en>Springboard</en>
+  </text>
+  <text>
+    <ru>Жарка</ru>
+    <en>Burner</en>
+  </text>
+  <text>
+    <ru>Воронка</ru>
+    <en>Vortex</en>
+  </text>
+  <text>
+    <ru>Плешь</ru>
+    <en>Mange</en>
+  </text>
+  <text>
+    <ru>Электра</ru>
+    <en>Electro</en>
+  </text>
+  <text>
+    <ru>Собака</ru>
+    <en>Dog</en>
+  </text>
+  <text>
+    <ru>Пвевдособака</ru>
+    <en>Pseudodog</en>
+  </text>
+  <text>
+    <ru>Тушканы</ru>
+    <en>Tushkano</en>
+  </text>
+  <text>
+    <ru>Мародеры</ru>
+    <en>Marauders</en>
+  </text>
+  <text>
+    <ru>Агропром</ru>
+    <en>Agroprom</en>
+  </text>
+  <text>
+    <ru>Росток</ru>
+    <en>Rostok</en>
+  </text>
+  <text>
+    <ru>Погиб сталкер:</ru>
+    <en>Stalker died:</en>
+  </text>
+  <text>
+    <ru>Пацак</ru>
+    <en>Patsak</en>
+  </text>
+  <text>
+    <ru>Лошок</ru>
+    <en>Loshok</en>
+  </text>
+  <text>
+    <ru>Мудозвон</ru>
+    <en>Loudmouth</en>
+  </text>
+  <text>
+    <ru>Трепло</ru>
+    <en>Blabbermouth</en>
+  </text>
+  <text>
+    <ru>Семецкий</ru>
+    <en>Semetsky</en>
+  </text>
+  <text>
+    <ru>на Кордоне</ru>
+    <en>at the Cordon</en>
+  </text>
+  <text>
+    <ru>на Свалке</ru>
+    <en>at the Garbage</en>
+  </text>
+  <text>
+    <ru>на Агропроме</ru>
+    <en>at Agroprom</en>
+  </text>
+  <text>
+    <ru>на Янтаре</ru>
+    <en>at Yantar</en>
+  </text>
+  <text>
+    <ru>в Темной долине</ru>
+    <en>in Dark Valley</en>
+  </text>
+  <text>
+    <ru>на армейских складах</ru>
+    <en>at the Army Warehouses</en>
+  </text>
+  <text>
+    <ru>на Ростоке</ru>
+    <en>at Rostok</en>
+  </text>
+  <text>
+    <ru>на АТП</ru>
+    <en>at the ATP</en>
+  </text>
+  <text>
+    <ru>сегодня</ru>
+    <en>today</en>
+  </text>
+  <text>
+    <ru>час назад</ru>
+    <en>an hour ago</en>
+  </text>
+  <text>
+    <ru>недавно</ru>
+    <en>recently</en>
+  </text>
+  <text>
+    <ru>пару минут назад</ru>
+    <en>a couple minutes ago</en>
+  </text>
+  <text>
+    <ru>только что</ru>
+    <en>just now</en>
+  </text>
+  <text>
+    <ru>полчаса назад</ru>
+    <en>half an hour ago</en>
+  </text>
+  <text>
+    <ru>Мля.</ru>
+    <en>Blah.</en>
+  </text>
+  <text>
+    <ru>Аномалия:</ru>
+    <en>Anomaly:</en>
+  </text>
+  <text>
+    <ru>, артефакт:</ru>
+    <en>, artifact:</en>
+  </text>
+  <text>
+    <ru>%c[255,238,155,23]Моя нычка для хабара</ru>
+    <en>%c[255,238,155,23]My loot stash</en>
+  </text>
+  <text>
+    <ru>Тайник заложен.</ru>
+    <en>Stash placed.</en>
+  </text>
+  <text>
+    <ru>Получено 2 пачки 5.56x45_ap</ru>
+    <en>Received 2 boxes of 5.56 x45 AP</en>
+  </text>
+  <text>
+    <ru>Получено 3 пачки 5.56x45_ap</ru>
+    <en>Received 3 boxes of 5.56x45 AP</en>
+  </text>
+  <text>
+    <ru>Получено 2 пачки 9x39_ap</ru>
+    <en>Received 2 boxes of 9x39 AP</en>
+  </text>
+  <text>
+    <ru>Получено 3 пачки ammo_9x39_ap</ru>
+    <en>Received 3 boxes of 9x39 AP</en>
+  </text>
+  <text>
+    <ru>Получено 2 пачки ammo_9x39_ap</ru>
+    <en>Received 2 boxes of 9x39 AP</en>
+  </text>
+  <text>
+    <ru>Получено 5 пачек ammo_9x39_ap</ru>
+    <en>Received 5 boxes of 9x39 AP</en>
+  </text>
+  <text>
+    <ru>Получено 5 пачек картечи</ru>
+    <en>Received 5 boxes of buckshot</en>
+  </text>
+  <text>
+    <ru>Получено две пачки картечи</ru>
+    <en>Received 2 boxes of buckshot</en>
+  </text>
+  <text>
+    <ru>Получена пачка картечи</ru>
+    <en>Received a box of buckshot</en>
+  </text>
+  <text>
+    <ru>Со скидкой</ru>
+    <en>Discounted</en>
+  </text>
+  <text>
+    <ru>Без скидки</ru>
+    <en>Undiscounted</en>
+  </text>
+  <text>
+    <ru>Удалили</ru>
+    <en>Removed</en>
+  </text>
+  <text>
+    <ru>%c[255,69,207,246]Проводник:%c[255,255,150,0]</ru>
+    <en>%c[255,69,207,246]Guide:%c[255,255,150,0]</en>
+  </text>
+  <text>
+    <ru>«%c[255,69,207,246]Погиб проводник:%c[255,255,150,0]</ru>
+    <en>«%c[255,69,207,246]Guide died:%c[255,255,150,0]</en>
+  </text>
+  <text>
+    <ru>руб</ru>
+    <en>RU</en>
+  </text>
+  <text>
+    <ru>Проводник:</ru>
+    <en>Guide:</en>
+  </text>
+  <text>
+    <ru>Новый путь с </ru>
+    <en>New path from </en>
+  </text>
+  <text>
+    <ru> на </ru>
+    <en> to </en>
+  </text>
+  <text>
+    <ru>В Пещеру</ru>
+    <en>To Cave</en>
+  </text>
+  <text>
+    <ru>В Старый Лес</ru>
+    <en>To Old Forest</en>
+  </text>
+  <text>
+    <ru>В Катакомбы</ru>
+    <en>To Catacombs</en>
+  </text>
+  <text>
+    <ru>На АТП</ru>
+    <en>To ATP</en>
+  </text>
+  <text>
+    <ru>В Красный Лес</ru>
+    <en>To Red Forest</en>
+  </text>
+  <text>
+    <ru>На Генераторы</ru>
+    <en>To Generators</en>
+  </text>
+  <text>
+    <ru>В Припять</ru>
+    <en>To Pripyat</en>
+  </text>
+  <text>
+    <ru>В Варлаб</ru>
+    <en>To Warlab</en>
+  </text>
+  <text>
+    <ru>На Радар</ru>
+    <en>To Radar</en>
+  </text>
+  <text>
+    <ru>На Склады</ru>
+    <en>To Warehouses</en>
+  </text>
+  <text>
+    <ru>В Госпиталь</ru>
+    <en>To Hospital</en>
+  </text>
+  <text>
+    <ru>На Болото</ru>
+    <en>To Swamps</en>
+  </text>
+  <text>
+    <ru>На ЧАЭС1</ru>
+    <en>To CNPP1</en>
+  </text>
+  <text>
+    <ru>В х18</ru>
+    <en>To X-18</en>
+  </text>
+  <text>
+    <ru>На Варлаб</ru>
+    <en>To Warlab</en>
+  </text>
+  <text>
+    <ru>на Лиманск</ru>
+    <en>To Limansk</en>
+  </text>
+  <text>
+    <ru>на Генераторы</ru>
+    <en>To Generators</en>
+  </text>
+  <text>
+    <ru>на Бар</ru>
+    <en>To Bar</en>
+  </text>
+  <text>
+    <ru>на Склады</ru>
+    <en>To Warehouses</en>
+  </text>
+  <text>
+    <ru>Тестовый</ru>
+    <en>Test</en>
+  </text>
+  <text>
+    <ru>Мёртвый сталкер: </ru>
+    <en>Dead stalker: </en>
+  </text>
+  <text>
+    <ru>Обнаружено денег: </ru>
+    <en>Found money: </en>
+  </text>
+  <text>
+    <ru>руб.</ru>
+    <en>RU</en>
+  </text>
+  <text>
+    <ru>Псевдопес</ru>
+    <en>Pseudodog</en>
+  </text>
+  <text>
+    <ru>Элекстра</ru>
+    <en>Electro</en>
+  </text>
+  <text>
+    <ru>Неизвестно</ru>
+    <en>Unknown</en>
+  </text>
+  <text>
+    <ru>Слюда</ru>
+    <en>Mica</en>
+  </text>
+  <text>
+    <ru>Каменный цветок</ru>
+    <en>Stone flower</en>
+  </text>
+  <text>
+    <ru>Золотая рыбка</ru>
+    <en>Goldfish</en>
+  </text>
+  <text>
+    <ru>Лунный свет</ru>
+    <en>Moonlight</en>
+  </text>
+  <text>
+    <ru>Собак</ru>
+    <en>Dogs</en>
+  </text>
+  <text>
+    <ru>Волков</ru>
+    <en>Wolves</en>
+  </text>
+  <text>
+    <ru>2-ой Сталкер</ru>
+    <en>2nd Stalker</en>
+  </text>
+  <text>
+    <ru>1-ый Сталкер</ru>
+    <en>1st Stalker</en>
+  </text>
+  <text>
+    <ru>Лифт</ru>
+    <en>Elevator</en>
+  </text>
+  <text>
+    <ru>Ржавые волосы</ru>
+    <en>Rusty hair</en>
+  </text>
+  <text>
+    <ru>Гейзер</ru>
+    <en>Geyser</en>
+  </text>
+  <text>
+    <ru>Душа</ru>
+    <en>Soul</en>
+  </text>
+  <text>
+    <ru>Морской еж</ru>
+    <en>Urchin</en>
+  </text>
+  <text>
+    <ru>Карусель</ru>
+    <en>Whirligig</en>
+  </text>
+  <text>
+    <ru>Экологи</ru>
+    <en>Ecologists</en>
+  </text>
+  <text>
+    <ru>Военные</ru>
+    <en>Military</en>
+  </text>
+  <text>
+    <ru>'Гроза'</ru>
+    <en>'Groza'</en>
+  </text>
+  <text>
+    <ru>Винторез</ru>
+    <en>Vintorez</en>
+  </text>
+  <text>
+    <ru>СВД</ru>
+    <en>SVD</en>
+  </text>
+  <text>
+    <ru>СВУ</ru>
+    <en>SVU</en>
+  </text>
+  <text>
+    <ru>ПСО-1</ru>
+    <en>PSO-1</en>
+  </text>
+  <text>
+    <ru>ГП-25 'Костёр'</ru>
+    <en>GP-25 'Kostyor'</en>
+  </text>
+  <text>
+    <ru> руб.</ru>
+    <en> RU</en>
+  </text>
+  <text>
+    <ru>инфо_лог</ru>
+    <en>info_log</en>
+  </text>
+  <text>
+    <ru>Путь Человека 'Шаг в неизвестность. Дежавю' </ru>
+    <en>Way of Man 'Step into the unknown. Deja vu' </en>
+  </text>
+  <text>
+    <ru>Новый путь </ru>
+    <en>New path </en>
+  </text>
+  <text>
+    <ru>ПДА</ru>
+    <en>PDA</en>
+  </text>
+  <text>
+    <ru>Кейс</ru>
+    <en>Case</en>
+  </text>
+  <text>
+    <ru>"ПКМ"</ru>
+    <en>"PKM"</en>
+  </text>
+  <text>
+    <ru>ВСК-94</ru>
+    <en>VSK-94</en>
+  </text>
+  <text>
+    <ru>"ГП-30"</ru>
+    <en>"GP-30"</en>
+  </text>
+  <text>
+    <ru>"ПК-А"</ru>
+    <en>"PK-A"</en>
+  </text>
+  <text>
+    <ru>"СВУ-АС"</ru>
+    <en>"SVU-AS"</en>
+  </text>
+  <text>
+    <ru>"АС «Вал»"</ru>
+    <en>"AS 'Val'"</en>
+  </text>
+  <text>
+    <ru>МОД УДАЛЁН</ru>
+    <en>MOD REMOVED</en>
+  </text>
+  <text>
+    <ru>Юпитер</ru>
+    <en>Jupiter</en>
+  </text>
+  <text>
+    <ru>Рыжий Лес</ru>
+    <en>Red Forest</en>
+  </text>
+  <text>
+    <ru>Генераторы</ru>
+    <en>Generators</en>
+  </text>
+  <text>
+    <ru>Мертвый город</ru>
+    <en>Dead City</en>
+  </text>
+  <text>
+    <ru>Восточная часть Припяти</ru>
+    <en>Eastern Pripyat</en>
+  </text>
+  <text>
+    <ru>Пещера</ru>
+    <en>Cave</en>
+  </text>
+  <text>
+    <ru>Вы не можете спать во время выброса.</ru>
+    <en>You cannot sleep during an emission.</en>
+  </text>
+  <text>
+    <ru>Сегодня</ru>
+    <en>Today</en>
+  </text>
+  <text>
+    <ru>Час назад</ru>
+    <en>An hour ago</en>
+  </text>
+  <text>
+    <ru>Недавно</ru>
+    <en>Recently</en>
+  </text>
+  <text>
+    <ru>Пару минут назад</ru>
+    <en>A few minutes ago</en>
+  </text>
+  <text>
+    <ru>Только что</ru>
+    <en>Just now</en>
+  </text>
+  <text>
+    <ru>Полчаса назад</ru>
+    <en>Half an hour ago</en>
+  </text>
+  <text>
+    <ru>"фейк итем"</ru>
+    <en>"fake item"</en>
+  </text>
+  <text>
+    <ru>Инструменты</ru>
+    <en>Tools</en>
+  </text>
+  <text>
+    <ru>"Инструменты"</ru>
+    <en>"Tools"</en>
+  </text>
+  <text>
+    <ru>ЧН3А</ru>
+    <en>CS-3a</en>
+  </text>
+  <text>
+    <ru>"Граната M90"</ru>
+    <en>"M90 Grenade"</en>
+  </text>
+  <text>
+    <ru>"Граната M61"</ru>
+    <en>"M61 Grenade"</en>
+  </text>
+  <text>
+    <ru>7.62х39мм</ru>
+    <en>7.62x39mm</en>
+  </text>
+  <text>
+    <ru>"7.62х51"</ru>
+    <en>"7.62x51"</en>
+  </text>
+  <text>
+    <ru>АК47</ru>
+    <en>AK-47</en>
+  </text>
+  <text>
+    <ru>Мачете</ru>
+    <en>Machete</en>
+  </text>
+  <text>
+    <ru>РПК74</ru>
+    <en>RPK-74</en>
+  </text>
+  <text>
+    <ru>Упдефiпед еггог!</ru>
+    <en>Undefined error!</en>
+  </text>
+  <text>
+    <ru>Pleaсe шaиt...</ru>
+    <en>Please wait...</en>
+  </text>
+  <text>
+    <ru>Ваш компаньон</ru>
+    <en>Your companion</en>
+  </text>
+  <text>
+    <ru>LV не удален</ru>
+    <en>LC not removed</en>
+  </text>
+  <text>
+    <ru> руб.</ru>
+    <en> RU</en>
+  </text>
+  <text>
+    <ru>Крюгер</ru>
+    <en>Kruger</en>
+  </text>
+  <text>
+    <ru>Механик Монолита</ru>
+    <en>Monolith Mechanic</en>
+  </text>
+  <text>
+    <ru>Мой тайник для хабара</ru>
+    <en>My loot stash</en>
+  </text>
+  <text>
+    <ru> на Армейских складах</ru>
+    <en> at the Army Warehouses</en>
+  </text>
+  <text>
+    <ru> в Х-16</ru>
+    <en> in X-16</en>
+  </text>
+  <text>
+    <ru> на Радаре</ru>
+    <en> at Radar</en>
+  </text>
+  <text>
+    <ru> в Припяти</ru>
+    <en> in Pripyat</en>
+  </text>
+  <text>
+    <ru> в Х-18</ru>
+    <en> in X-18</en>
+  </text>
+  <text>
+    <ru> в Баре</ru>
+    <en> at the Bar</en>
+  </text>
+  <text>
+    <ru> на Дикой территории</ru>
+    <en> at Wild Territory</en>
+  </text>
+  <text>
+    <ru>Инфа для добавления</ru>
+    <en>Info to add</en>
+  </text>
+  <text>
+    <ru>Дать инфу!</ru>
+    <en>Give info!</en>
+  </text>
+  <text>
+    <ru>Создал </ru>
+    <en>Created </en>
+  </text>
+  <text>
+    <ru>Время  </ru>
+    <en>Time </en>
+  </text>
+  <text>
+    <ru> погиб!</ru>
+    <en> died!</en>
+  </text>
+  <text>
+    <ru>Здесь, на Кордоне</ru>
+    <en>Here, at the Cordon</en>
+  </text>
+  <text>
+    <ru>Не_указанная_секция</ru>
+    <en>No_such_section</en>
+  </text>
+  <text>
+    <ru>Нажмите любую клавишу для начала игры</ru>
+    <en>Press any key to start the game</en>
+  </text>
+  <text>
+    <ru>Кровь Камня на поясе</ru>
+    <en>Stone Blood on belt</en>
+  </text>
+  <text>
+    <ru>Труп: </ru>
+    <en>Corpse: </en>
+  </text>
+  <text>
+    <ru>Обнаружено денег: </ru>
+    <en>Found money: </en>
+  </text>
+  <text>
+    <ru>Кузьма</ru>
+    <en>Kuzma</en>
+  </text>
+  <text>
+    <ru>излом</ru>
+    <en>izlom</en>
+  </text>
+  <text>
+    <ru>кот</ru>
+    <en>cat</en>
+  </text>
+  <text>
+    <ru>химера</ru>
+    <en>chimera</en>
+  </text>
+  <text>
+    <ru>контролёр</ru>
+    <en>controller</en>
+  </text>
+  <text>
+    <ru>собака</ru>
+    <en>dog</en>
+  </text>
+  <text>
+    <ru>плоть</ru>
+    <en>flesh</en>
+  </text>
+  <text>
+    <ru>кабан</ru>
+    <en>boar</en>
+  </text>
+  <text>
+    <ru>кабанов</ru>
+    <en>boars</en>
+  </text>
+  <text>
+    <ru>кровососов</ru>
+    <en>bloodsuckers</en>
+  </text>
+  <text>
+    <ru>собак</ru>
+    <en>dogs</en>
+  </text>
+  <text>
+    <ru>плотей</ru>
+    <en>fleshes</en>
+  </text>
+  <text>
+    <ru>пси-собак</ru>
+    <en>psy-dogs</en>
+  </text>
+  <text>
+    <ru>псевдособак</ru>
+    <en>pseudodogs</en>
+  </text>
+  <text>
+    <ru>бюреров</ru>
+    <en>burers</en>
+  </text>
+  <text>
+    <ru>котов</ru>
+    <en>cats</en>
+  </text>
+  <text>
+    <ru>химер</ru>
+    <en>chimeras</en>
+  </text>
+  <text>
+    <ru>контролёров</ru>
+    <en>controllers</en>
+  </text>
+  <text>
+    <ru>изломов</ru>
+    <en>izloms</en>
+  </text>
+  <text>
+    <ru>полтергейстов</ru>
+    <en>poltergeists</en>
+  </text>
+  <text>
+    <ru>псевдогигантов</ru>
+    <en>pseudogiants</en>
+  </text>
+  <text>
+    <ru>снорков</ru>
+    <en>snorks</en>
+  </text>
+  <text>
+    <ru> шт.:</ru>
+    <en> units:</en>
+  </text>
+  <text>
+    <ru>Бар - Арена</ru>
+    <en>Bar - Arena</en>
+  </text>
+  <text>
+    <ru>Дикая Территория</ru>
+    <en>Wild Territory</en>
+  </text>
+  <text>
+    <ru>Армейские Склады</ru>
+    <en>Army Warehouses</en>
+  </text>
+  <text>
+    <ru>Мёртвый Город</ru>
+    <en>Dead City</en>
+  </text>
+  <text>
+    <ru>ЧАЭС-2</ru>
+    <en>CNPP-2</en>
+  </text>
+  <text>
+    <ru>Сталкеры</ru>
+    <en>Stalkers</en>
+  </text>
+  <text>
+    <ru>Тени Чернобыля - </ru>
+    <en>Shadow of Chernobyl - </en>
+  </text>
+  <text>
+    <ru>Локация = </ru>
+    <en>Location = </en>
+  </text>
+  <text>
+    <ru>й аптечки</ru>
+    <en>medkit</en>
+  </text>
+  <text>
+    <ru>го бинта</ru>
+    <en>bandage</en>
+  </text>
+  <text>
+    <ru>го антирада</ru>
+    <en>antirad</en>
+  </text>
+  <text>
+    <ru>Действие предыдуще</ru>
+    <en>The previous </en>
+  </text>
+  <text>
+    <ru> не закончено.</ru>
+    <en> is still active.</en>
+  </text>
+  <text>
+    <ru> кг.</ru>
+    <en> kg.</en>
+  </text>
+  <text>
+    <ru>Испорчено сохранение игрока.</ru>
+    <en>Corrupted save game.</en>
+  </text>
+  <text>
+    <ru>Джагер:</ru>
+    <en>Jager:</en>
+  </text>
+  <text>
+    <ru>Мне нужно 3500 рублей.</ru>
+    <en>I need 3,500 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 4500 рублей.</ru>
+    <en>I need 4,500 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 7000 рублей.</ru>
+    <en>I need 7,000 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 8500 рублей.</ru>
+    <en>I need 8,500 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 9500 рублей.</ru>
+    <en>I need 9,500 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 10500 рублей.</ru>
+    <en>I need 10,500 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 12000 рублей.</ru>
+    <en>I need 12,000 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 15000 рублей.</ru>
+    <en>I need 15,000 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 17000 рублей.</ru>
+    <en>I need 17,000 rubles.</en>
+  </text>
+  <text>
+    <ru>Мне нужно 20000 рублей.</ru>
+    <en>I need 20,000 rubles.</en>
+  </text>
+  <text>
+    <ru>Хорошо, я дам тебе в долг. Но ты должен вернуть мне долг завтра!</ru>
+    <en>Okay, I'll give you a loan. But you have to give me back my debt tomorrow!</en>
+  </text>
+  <text>
+    <ru>Верну!</ru>
+    <en>Right!</en>
+  </text>
+  <text>
+    <ru>Вот, держи!</ru>
+    <en>Here you go!</en>
+  </text>
+  <text>
+    <ru>Ну, как хочешь!</ru>
+    <en>Well, as you wish!</en>
+  </text>
+  <text>
+    <ru>Я по поводу своего долга. Помнишь?</ru>
+    <en>It's about your debt. Do you remember?</en>
+  </text>
+  <text>
+    <ru>Да-да, помню! Принес деньги?</ru>
+    <en>Yes, I remember! And brought the money?</en>
+  </text>
+  <text>
+    <ru>Да, принес! Вот, держи.</ru>
+    <en>Yes, bring! Here you go.</en>
+  </text>
+  <text>
+    <ru>Еще нет!</ru>
+    <en>Not yet!</en>
+  </text>
+  <text>
+    <ru>Молодец, вовремя вернул!</ru>
+    <en>Good for you, back in time!</en>
+  </text>
+  <text>
+    <ru>Привет, сталкер. Ты не забывай, что ты мне денег должен. Я жду!</ru>
+    <en>Hello, stalker. You do not forget that you must me money. I'm waiting!</en>
+  </text>
+  <text>
+    <ru>Это я, помнишь меня? Ты у меня деньги занял, так и не вернул! Подавись ты этими деньгами!</ru>
+    <en>It's me, remember me? You took my money and did not return! Choke you the money!</en>
+  </text>
+  <text>
+    <ru>Замена аккумулятора</ru>
+    <en>Replacing the battery</en>
+  </text>
+  <text>
+    <ru>Аккумулятор детектора заменён.</ru>
+    <en>Detector battery replaced.</en>
+  </text>
+  <text>
+    <ru>Аккумулятор детектора не разряжён.</ru>
+    <en>Battery detector is not sparse.</en>
+  </text>
+  <text>
+    <ru>У вас не активного детектора.</ru>
+    <en>You do not have an active detector.</en>
+  </text>
+  <text>
+    <ru>Долг:</ru>
+    <en>Duty:</en>
+  </text>
+  <text>
+    <ru>Свобода:</ru>
+    <en>Freedom:</en>
+  </text>
+  <text>
+    <ru>Бармен:</ru>
+    <en>Barman:</en>
+  </text>
+  <text>
+    <ru>Крюгер:</ru>
+    <en>Kruger:</en>
+  </text>
+  <text>
+    <ru>Петренко:</ru>
+    <en>Petrenko:</en>
+  </text>
+  <text>
+    <ru>Механик Монолита:</ru>
+    <en>Monolith Mechanic:</en>
+  </text>
+  <text>
+    <ru>Новиков:</ru>
+    <en>Novikov:</en>
+  </text>
+  <text>
+    <ru>Сидорович:</ru>
+    <en>Sidorovich:</en>
+  </text>
+  <text>
+    <ru>Джагер</ru>
+    <en>Jager</en>
+  </text>
+  <text>
+    <ru>Сон:</ru>
+    <en>Sleep:</en>
+  </text>
+  <text>
+    <ru>Детонатор NK-37 RUS</ru>
+    <en>Detonator NK-37 RUS</en>
+  </text>
+  <text>
+    <ru>РОССИЙСКИЙ  С.П.Е.Ц.Н.А.З.</ru>
+    <en>RUSSIAN S.P.E.T.S.N.A.Z.</en>
+  </text>
+  <text>
+    <ru>Деньги: </ru>
+    <en>Money: </en>
+  </text>
+  <text>
+    <ru> рублей.</ru>
+    <en> rubles.</en>
+  </text>
+  <text>
+    <ru>Энциклопедия: </ru>
+    <en>Encyclopedia: </en>
+  </text>
+  <text>
+    <ru>Москит:</ru>
+    <en>Mosquito:</en>
+  </text>
+  <text>
+    <ru>Генерал Таченко:</ru>
+    <en>General Tachenko:</en>
+  </text>
+  <text>
+    <ru>Волк:</ru>
+    <en>Wolf:</en>
+  </text>
+  <text>
+    <ru>Лейтенант Ярощук:</ru>
+    <en>Lieutenant Yaroschuk:</en>
+  </text>
+  <text>
+    <ru>Шаман:</ru>
+    <en>Shaman:</en>
+  </text>
+  <text>
+    <ru>Вервольф:</ru>
+    <en>Werewolf:</en>
+  </text>
+  <text>
+    <ru>артефакт</ru>
+    <en>artifact</en>
+  </text>
+  <text>
+    <ru> кг</ru>
+    <en> kg</en>
+  </text>
+  <text>
+    <ru> + Эхо Чернобыля 2 </ru>
+    <en> + Echo of Chernobyl 2 </en>
+  </text>
+  <text>
+    <ru>Патч #7</ru>
+    <en>Patch #7</en>
+  </text>
+  <text>
+    <ru>Сталкеры: </ru>
+    <en>Stalkers: </en>
+  </text>
+  <text>
+    <ru>Бандиты: </ru>
+    <en>Bandits: </en>
+  </text>
+  <text>
+    <ru>Свобода: </ru>
+    <en>Freedom: </en>
+  </text>
+  <text>
+    <ru>Долг: </ru>
+    <en>Duty: </en>
+  </text>
+  <text>
+    <ru>Чистое Небо: </ru>
+    <en>Clear Sky: </en>
+  </text>
+  <text>
+    <ru> рублей\\n</ru>
+    <en> rubles\\n</en>
+  </text>
+  <text>
+    <ru> рублей </ru>
+    <en> rubles </en>
+  </text>
+  <text>
+    <ru>Мой тайник</ru>
+    <en>My stash</en>
+  </text>
+  <text>
+    <ru> рублей</ru>
+    <en> rubles</en>
+  </text>
+  <text>
+    <ru>Ашот:</ru>
+    <en>Ashot:</en>
+  </text>
+  <text>
+    <ru>Найдены деньги:</ru>
+    <en>Found money:</en>
+  </text>
+  <text>
+    <ru>рублей</ru>
+    <en>rubles</en>
+  </text>
+  <text>
+    <ru>р.</ru>
+    <en>RU</en>
+  </text>
+  <text>
+    <ru>Кровавый закат 2.0 By AzzzA</ru>
+    <en>Bloody Sunset 2.0 By AzzzA</en>
+  </text>
+  <text>
+    <ru>Интро</ru>
+    <en>Intro</en>
+  </text>
+  <text>
+    <ru>Книга</ru>
+    <en>Book</en>
+  </text>
+  <text>
+    <ru>Н.О.В.Ы.Й. .П.Р.И.О.Р.И.Т.Е.Т:</ru>
+    <en>N.E.W. P.R.I.O.R.I.T.Y:</en>
+  </text>
+  <text>
+    <ru>Артефакт:</ru>
+    <en>Artifact:</en>
+  </text>
+  <text>
+    <ru>Костюм:</ru>
+    <en>Outfit:</en>
+  </text>
+  <text>
+    <ru>дн </ru>
+    <en>d </en>
+  </text>
+  <text>
+    <ru>Чистое Небо</ru>
+    <en>Clear Sky</en>
+  </text>
+  <text>
+    <ru>5000 рублей</ru>
+    <en>5000 rubles</en>
+  </text>
+  <text>
+    <ru>Привет</ru>
+    <en>Hello</en>
+  </text>
+  <text>
+    <ru>Новый путь</ru>
+    <en>New path</en>
+  </text>
+  <text>
+    <ru>Секция = </ru>
+    <en>Section = </en>
+  </text>
+  <text>
+    <ru>\nИмя = </ru>
+    <en>\nName = </en>
+  </text>
+  <text>
+    <ru>\nПозиция = </ru>
+    <en>\nPosition = </en>
+  </text>
+  <text>
+    <ru>\nЛокация = </ru>
+    <en>\nLocation = </en>
+  </text>
+  <text>
+    <ru>Инвентарь:</ru>
+    <en>Inventory:</en>
+  </text>
+  <text>
+    <ru>Монстры</ru>
+    <en>Monsters</en>
+  </text>
+  <text>
+    <ru>Аммуниция</ru>
+    <en>Ammunition</en>
+  </text>
+  <text>
+    <ru>Бронекостюмы</ru>
+    <en>Outfits</en>
+  </text>
+  <text>
+    <ru>Автомобили</ru>
+    <en>Cars</en>
+  </text>
+  <text>
+    <ru>Рестрикторы</ru>
+    <en>Restrictors</en>
+  </text>
+  <text>
+    <ru>------ Аномалии ------</ru>
+    <en>------ Anomalies ------</en>
+  </text>
+  <text>
+    <ru>------ Автомобили ------</ru>
+    <en>------ Cars ------</en>
+  </text>
+  <text>
+    <ru>2. Локации</ru>
+    <en>2. Locations</en>
+  </text>
+  <text>
+    <ru>4. Монстры</ru>
+    <en>4. Monsters</en>
+  </text>
+  <text>
+    <ru>5. Аммуниция</ru>
+    <en>5. Ammunition</en>
+  </text>
+  <text>
+    <ru>6. Оружие</ru>
+    <en>6. Weapons</en>
+  </text>
+  <text>
+    <ru>8. Артефакты</ru>
+    <en>8. Artifacts</en>
+  </text>
+  <text>
+    <ru>9. Броня</ru>
+    <en>9. Armor</en>
+  </text>
+  <text>
+    <ru>11. Аномалии</ru>
+    <en>11. Anomalies</en>
+  </text>
+  <text>
+    <ru>15. Музыка</ru>
+    <en>15. Music</en>
+  </text>
+  <text>
+    <ru>АВТОСКАНЕР ИНФОПОЛЯ</ru>
+    <en>AUTOSCANNER INFORMATION</en>
+  </text>
+  <text>
+    <ru>Внимание:</ru>
+    <en>Warning:</en>
+  </text>
+  <text>
+    <ru>Ошибка:</ru>
+    <en>Error:</en>
+  </text>
+  <text>
+    <ru>Контейнер</ru>
+    <en>Container</en>
+  </text>
+  <text>
+    <ru>Сталкер (Новичок)</ru>
+    <en>Stalker (Novice)</en>
+  </text>
+  <text>
+    <ru>Сталкер (Опытный)</ru>
+    <en>Stalker (Experienced)</en>
+  </text>
+  <text>
+    <ru>Сталкер (Профи)</ru>
+    <en>Stalker (Professional)</en>
+  </text>
+  <text>
+    <ru>Сталкер (Ветеран)</ru>
+    <en>Stalker (Veteran)</en>
+  </text>
+  <text>
+    <ru>Сталкер (Мастер)</ru>
+    <en>Stalker (Master)</en>
+  </text>
+  <text>
+    <ru>Долг (Новичок)</ru>
+    <en>Duty (Novice)</en>
+  </text>
+  <text>
+    <ru>Долг (Опытный)</ru>
+    <en>Duty (Experienced)</en>
+  </text>
+  <text>
+    <ru>Долг (Профи)</ru>
+    <en>Duty (Professional)</en>
+  </text>
+  <text>
+    <ru>Долг (Ветеран)</ru>
+    <en>Duty (Veteran)</en>
+  </text>
+  <text>
+    <ru>Долг (Мастер)</ru>
+    <en>Duty (Master)</en>
+  </text>
+  <text>
+    <ru>Свобода (Новичок)</ru>
+    <en>Freedom (Novice)</en>
+  </text>
+  <text>
+    <ru>Свобода (Опытный)</ru>
+    <en>Freedom (Experienced)</en>
+  </text>
+  <text>
+    <ru>Свобода (Профи)</ru>
+    <en>Freedom (Professional)</en>
+  </text>
+  <text>
+    <ru>Свобода (Ветеран)</ru>
+    <en>Freedom (Veteran)</en>
+  </text>
+  <text>
+    <ru>Свобода (Мастер)</ru>
+    <en>Freedom (Master)</en>
+  </text>
+  <text>
+    <ru>Монолит (Новичок)</ru>
+    <en>Monolith (Novice)</en>
+  </text>
+  <text>
+    <ru>Монолит (Опытный)</ru>
+    <en>Monolith (Experienced)</en>
+  </text>
+  <text>
+    <ru>Монолит (Профи)</ru>
+    <en>Monolith (Professional)</en>
+  </text>
+  <text>
+    <ru>Монолит (Ветеран)</ru>
+    <en>Monolith (Veteran)</en>
+  </text>
+  <text>
+    <ru>Монолит (Мастер)</ru>
+    <en>Monolith (Master)</en>
+  </text>
+  <text>
+    <ru>Бандит (Новичок)</ru>
+    <en>Bandit (Novice)</en>
+  </text>
+  <text>
+    <ru>Бандит (Опытный)</ru>
+    <en>Bandit (Experienced)</en>
+  </text>
+  <text>
+    <ru>Бандит (Профи)</ru>
+    <en>Bandit (Professional)</en>
+  </text>
+  <text>
+    <ru>Бандит (Ветеран)</ru>
+    <en>Bandit (Veteran)</en>
+  </text>
+  <text>
+    <ru>Бандит (Мастер)</ru>
+    <en>Bandit (Master)</en>
+  </text>
+  <text>
+    <ru>Военный (Новичок)</ru>
+    <en>Military (Novice)</en>
+  </text>
+  <text>
+    <ru>Военный (Опытный)</ru>
+    <en>Military (Experienced)</en>
+  </text>
+  <text>
+    <ru>Военный (Профи)</ru>
+    <en>Military (Professional)</en>
+  </text>
+  <text>
+    <ru>Военный (Ветеран)</ru>
+    <en>Military (Veteran)</en>
+  </text>
+  <text>
+    <ru>Военный (Снайпер)</ru>
+    <en>Military (Sniper)</en>
+  </text>
+  <text>
+    <ru>Военный (Мастер)</ru>
+    <en>Military (Master)</en>
+  </text>
+  <text>
+    <ru>Наёмник (Новичок)</ru>
+    <en>Mercenary (Novice)</en>
+  </text>
+  <text>
+    <ru>Наёмник (Опытный)</ru>
+    <en>Mercenary (Experienced)</en>
+  </text>
+  <text>
+    <ru>Наёмник (Профи)</ru>
+    <en>Mercenary (Professional)</en>
+  </text>
+  <text>
+    <ru>Наёмник (Ветеран)</ru>
+    <en>Mercenary (Veteran)</en>
+  </text>
+  <text>
+    <ru>Наёмник (Мастер)</ru>
+    <en>Mercenary (Master)</en>
+  </text>
+  <text>
+    <ru>Зомби (Опытный)</ru>
+    <en>Zombie (Experienced)</en>
+  </text>
+  <text>
+    <ru>Зомби (Профи)</ru>
+    <en>Zombie (Professional)</en>
+  </text>
+  <text>
+    <ru>Зомби (Ветеран)</ru>
+    <en>Zombie (Veteran)</en>
+  </text>
+  <text>
+    <ru>Зомби (Мастер)</ru>
+    <en>Zombie (Master)</en>
+  </text>
+  <text>
+    <ru>Учёный №1</ru>
+    <en>Scientist #1</en>
+  </text>
+  <text>
+    <ru>Учёный №2</ru>
+    <en>Scientist #2</en>
+  </text>
+  <text>
+    <ru>Учёный №3</ru>
+    <en>Scientist #3</en>
+  </text>
+  <text>
+    <ru>Сталкеры (Новички)</ru>
+    <en>Stalkers (Novices)</en>
+  </text>
+  <text>
+    <ru>Сталкеры (Ветераны)</ru>
+    <en>Stalkers (Veterans)</en>
+  </text>
+  <text>
+    <ru>Бандиты (Новички)</ru>
+    <en>Bandits (Novices)</en>
+  </text>
+  <text>
+    <ru>Бандиты (Ветераны)</ru>
+    <en>Bandits (Veterans)</en>
+  </text>
+  <text>
+    <ru>Наёмники (Новички)</ru>
+    <en>Mercenaries (Novices)</en>
+  </text>
+  <text>
+    <ru>Наёмники (Ветераны)</ru>
+    <en>Mercenaries (Veterans)</en>
+  </text>
+  <text>
+    <ru>Долг (Новички)</ru>
+    <en>Duty (Novices)</en>
+  </text>
+  <text>
+    <ru>Долг (Ветераны)</ru>
+    <en>Duty (Veterans)</en>
+  </text>
+  <text>
+    <ru>Свобода (Новички)</ru>
+    <en>Freedom (Novices)</en>
+  </text>
+  <text>
+    <ru>Свобода (Ветераны)</ru>
+    <en>Freedom (Veterans)</en>
+  </text>
+  <text>
+    <ru>Монолит (Новички)</ru>
+    <en>Monolith (Novices)</en>
+  </text>
+  <text>
+    <ru>Монолит (Ветераны)</ru>
+    <en>Monolith (Veterans)</en>
+  </text>
+  <text>
+    <ru>Зомби (Новички)</ru>
+    <en>Zombies (Novices)</en>
+  </text>
+  <text>
+    <ru>Зомби (Ветераны)</ru>
+    <en>Zombies (Veterans)</en>
+  </text>
+  <text>
+    <ru>Кровососы</ru>
+    <en>Bloodsuckers</en>
+  </text>
+  <text>
+    <ru>Бюреры</ru>
+    <en>Burers</en>
+  </text>
+  <text>
+    <ru>Псевдопсы</ru>
+    <en>Pseudodogs</en>
+  </text>
+  <text>
+    <ru>Кабаны и Плоти</ru>
+    <en>Boars and Flesh</en>
+  </text>
+  <text>
+    <ru>Теле-Полтергейст</ru>
+    <en>Tele-Poltergeist</en>
+  </text>
+  <text>
+    <ru>Пси-Собака</ru>
+    <en>Psy-Dog</en>
+  </text>
+  <text>
+    <ru>Гигант</ru>
+    <en>Pseudogiant</en>
+  </text>
+  <text>
+    <ru>Вступление</ru>
+    <en>Introduction</en>
+  </text>
+  <text>
+    <ru>Концовка (Все варианты)</ru>
+    <en>Ending (All versions)</en>
+  </text>
+  <text>
+    <ru>Бочка</ru>
+    <en>Barrel</en>
+  </text>
+  <text>
+    <ru>Вертолёт (Статичный)</ru>
+    <en>Helicopter (Static)</en>
+  </text>
+  <text>
+    <ru>Колобок (Статичный)</ru>
+    <en>Kolobok (Static)</en>
+  </text>
+  <text>
+    <ru>Ломоть мяса (Статичный)</ru>
+    <en>Meat chunk (Static)</en>
+  </text>
+  <text>
+    <ru>Сердце Оазиса</ru>
+    <en>Heart of the Oasis</en>
+  </text>
+  <text>
+    <ru>Сканер аномалных полей (1)</ru>
+    <en>Anomaly field scanner (1)</en>
+  </text>
+  <text>
+    <ru>Сканер аномалных полей (2)</ru>
+    <en>Anomaly field scanner (2)</en>
+  </text>
+  <text>
+    <ru>Цель на стрельбище</ru>
+    <en>Target</en>
+  </text>
+  <text>
+    <ru>Балон (1)</ru>
+    <en>Cylinder (1)</en>
+  </text>
+  <text>
+    <ru>Балон (2)</ru>
+    <en>Cylinder (2)</en>
+  </text>
+  <text>
+    <ru>Балон (2 - Фиксированый)</ru>
+    <en>Cylinder (2 - Fixed)</en>
+  </text>
+  <text>
+    <ru>Балон (2а)</ru>
+    <en>Cylinder (2a)</en>
+  </text>
+  <text>
+    <ru>Газовый балон</ru>
+    <en>Gasoline cylinder</en>
+  </text>
+  <text>
+    <ru>Дизельный генератор</ru>
+    <en>Diesel generator</en>
+  </text>
+  <text>
+    <ru>Крыса в колесе</ru>
+    <en>Rat in wheel</en>
+  </text>
+  <text>
+    <ru>Ноутбук</ru>
+    <en>Notebook</en>
+  </text>
+  <text>
+    <ru>Телевизор</ru>
+    <en>Television</en>
+  </text>
+  <text>
+    <ru>Монитор</ru>
+    <en>Monitor</en>
+  </text>
+  <text>
+    <ru>Клавиатура</ru>
+    <en>Keyboard</en>
+  </text>
+  <text>
+    <ru>Холодильник</ru>
+    <en>Refrigerator</en>
+  </text>
+  <text>
+    <ru>Зомбированый</ru>
+    <en>Zombified</en>
+  </text>
+  <text>
+    <ru>Стандартная (Динамическая)</ru>
+    <en>Standard (Dynamic)</en>
+  </text>
+  <text>
+    <ru>Стандартная (Ясная)</ru>
+    <en>Standard (Clear)</en>
+  </text>
+  <text>
+    <ru>Стандартная (Облачно)</ru>
+    <en>Standard (Cloudy)</en>
+  </text>
+  <text>
+    <ru>Стандартная (Дождь)</ru>
+    <en>Standard (Rain)</en>
+  </text>
+  <text>
+    <ru>Стандартная (Гроза)</ru>
+    <en>Standard (Thunderstorm)</en>
+  </text>
+  <text>
+    <ru>В помещении (1)</ru>
+    <en>Indoors (1)</en>
+  </text>
+  <text>
+    <ru>В помещении (2)</ru>
+    <en>Indoors (2)</en>
+  </text>
+  <text>
+    <ru>Для съёмки карты ПДА</ru>
+    <en>For PDA map-making</en>
+  </text>
+  <text>
+    <ru>Ночь (Интро)</ru>
+    <en>Night (Intro)</en>
+  </text>
+  <text>
+    <ru>Лучи света</ru>
+    <en>Sun rays</en>
+  </text>
+  <text>
+    <ru>Старая версия погоды</ru>
+    <en>Old weather</en>
+  </text>
+  <text>
+    <ru>Полный эффект Выброса</ru>
+    <en>Full blowout effects</en>
+  </text>
+  <text>
+    <ru>Выброс (1)</ru>
+    <en>Blowout (1)</en>
+  </text>
+  <text>
+    <ru>Выброс (2)</ru>
+    <en>Blowout (2)</en>
+  </text>
+  <text>
+    <ru>Выброс (3)</ru>
+    <en>Blowout (3)</en>
+  </text>
+  <text>
+    <ru>Выброс (ЧАЭС)</ru>
+    <en>Blowout (CNPP)</en>
+  </text>
+  <text>
+    <ru>Выброс (ЧАЭС) Демо 1</ru>
+    <en>Blowout (CNPP) Demo 1</en>
+  </text>
+  <text>
+    <ru>Выброс (ЧАЭС) Демо 2</ru>
+    <en>Blowout (CNPP) Demo 2</en>
+  </text>
+  <text>
+    <ru>Выброс (Болота)</ru>
+    <en>Blowout (Marsh)</en>
+  </text>
+  <text>
+    <ru>Костёр</ru>
+    <en>Campfire</en>
+  </text>
+  <text>
+    <ru>Радиация (Слабый)</ru>
+    <en>Radiation (Weak)</en>
+  </text>
+  <text>
+    <ru>Радиация (Средний)</ru>
+    <en>Radiation (Average)</en>
+  </text>
+  <text>
+    <ru>Радиация (Сильный)</ru>
+    <en>Radiation (Strong)</en>
+  </text>
+  <text>
+    <ru>Электра (Слабый)</ru>
+    <en>Electro (Weak)</en>
+  </text>
+  <text>
+    <ru>Электра(Средний)</ru>
+    <en>Electro (Average)</en>
+  </text>
+  <text>
+    <ru>Электра (Сильный)</ru>
+    <en>Electro (Strong)</en>
+  </text>
+  <text>
+    <ru>Грави-зона (Слабый)</ru>
+    <en>Gravi-zone (Weak)</en>
+  </text>
+  <text>
+    <ru>Грави-зона(Средний)</ru>
+    <en>Gravi-zone (Average)</en>
+  </text>
+  <text>
+    <ru>Грави-зона(Сильный)</ru>
+    <en>Gravi-zone (Strong)</en>
+  </text>
+  <text>
+    <ru>Пар(Слабый)</ru>
+    <en>Steam (Weak)</en>
+  </text>
+  <text>
+    <ru>Пар (Средний)</ru>
+    <en>Steam (Average)</en>
+  </text>
+  <text>
+    <ru>Пар (Сильный)</ru>
+    <en>Steam (Strong)</en>
+  </text>
+  <text>
+    <ru>Телепорт</ru>
+    <en>Teleport</en>
+  </text>
+  <text>
+    <ru>Кровосос (Слабый)</ru>
+    <en>Bloodsucker (Weak)</en>
+  </text>
+  <text>
+    <ru>Кровосос (Средний)</ru>
+    <en>Bloodsucker (Normal)</en>
+  </text>
+  <text>
+    <ru>Кровосос (Сильный)</ru>
+    <en>Bloodsucker (Strong)</en>
+  </text>
+  <text>
+    <ru>Кабан (Слабый)</ru>
+    <en>Boar (Weak)</en>
+  </text>
+  <text>
+    <ru>Кабан (Средний)</ru>
+    <en>Boar (Normal)</en>
+  </text>
+  <text>
+    <ru>Кабан (Сильный)</ru>
+    <en>Boar (Strong)</en>
+  </text>
+  <text>
+    <ru>Контролёр</ru>
+    <en>Controller</en>
+  </text>
+  <text>
+    <ru>Бюрер </ru>
+    <en>Burer </en>
+  </text>
+  <text>
+    <ru>Пёс (Слабый)</ru>
+    <en>Dog (Weak)</en>
+  </text>
+  <text>
+    <ru>Пёс (Средний)</ru>
+    <en>Dog (Normal)</en>
+  </text>
+  <text>
+    <ru>Пёс (Сильный)</ru>
+    <en>Dog (Strong)</en>
+  </text>
+  <text>
+    <ru>Плоть (Средний)</ru>
+    <en>Flesh (Normal)</en>
+  </text>
+  <text>
+    <ru>Плоть (Сильный)</ru>
+    <en>Flesh (Strong)</en>
+  </text>
+  <text>
+    <ru>Полтергейст (Пламя)</ru>
+    <en>Pyrogeist</en>
+  </text>
+  <text>
+    <ru>Полтергейст (Телекинетик)</ru>
+    <en>Poltergeist (Telekinetic)</en>
+  </text>
+  <text>
+    <ru>Чернобыльский пёс</ru>
+    <en>Pseudodog</en>
+  </text>
+  <text>
+    <ru>ПсиПёс</ru>
+    <en>Psy-Dog</en>
+  </text>
+  <text>
+    <ru>ПсиПёс (Фантом)</ru>
+    <en>Psy-Dog phantom</en>
+  </text>
+  <text>
+    <ru>Снорк (Слабый)</ru>
+    <en>Snork (Weak)</en>
+  </text>
+  <text>
+    <ru>Снорк (Средний)</ru>
+    <en>Snork (Normal)</en>
+  </text>
+  <text>
+    <ru>Снорк (Сильный)</ru>
+    <en>Snork (Strong)</en>
+  </text>
+  <text>
+    <ru>Разработчики</ru>
+    <en>Developers</en>
+  </text>
+  <text>
+    <ru>Меню</ru>
+    <en>Menu</en>
+  </text>
+  <text>
+    <ru>Концовка</ru>
+    <en>Outro</en>
+  </text>
+  <text>
+    <ru>Дин. музыка №1_1</ru>
+    <en>Dyn. music #1_1</en>
+  </text>
+  <text>
+    <ru>Дин. музыка №1_2</ru>
+    <en>Dyn. music #1_2</en>
+  </text>
+  <text>
+    <ru>Дин. музыка №1_3</ru>
+    <en>Dyn. music #1_3</en>
+  </text>
+  <text>
+    <ru>Дин. музыка №2_1</ru>
+    <en>Dyn. Music #2_1</en>
+  </text>
+  <text>
+    <ru>Дин. музыка №2_2</ru>
+    <en>Dyn. music #2_2</en>
+  </text>
+  <text>
+    <ru>Гитара 1</ru>
+    <en>Guitar 1</en>
+  </text>
+  <text>
+    <ru>Гитара 2</ru>
+    <en>Guitar 2</en>
+  </text>
+  <text>
+    <ru>Гитара 3</ru>
+    <en>Guitar 3</en>
+  </text>
+  <text>
+    <ru>Гитара 4</ru>
+    <en>Guitar 4</en>
+  </text>
+  <text>
+    <ru>Гитара 5</ru>
+    <en>Guitar 5</en>
+  </text>
+  <text>
+    <ru>Гитара 6</ru>
+    <en>Guitar 6</en>
+  </text>
+  <text>
+    <ru>Гитара 7</ru>
+    <en>Guitar 7</en>
+  </text>
+  <text>
+    <ru>Гитара 8</ru>
+    <en>Guitar 8</en>
+  </text>
+  <text>
+    <ru>Гитара 9</ru>
+    <en>Guitar 9</en>
+  </text>
+  <text>
+    <ru>Гитара 10</ru>
+    <en>Guitar 10</en>
+  </text>
+  <text>
+    <ru>Гитара 11</ru>
+    <en>Guitar 11</en>
+  </text>
+  <text>
+    <ru>Подземелье Агропрома</ru>
+    <en>Agroprom Underground</en>
+  </text>
+  <text>
+    <ru>Лаборатория Х-18</ru>
+    <en>Lab X-18</en>
+  </text>
+  <text>
+    <ru>Лаборатория Х-16</ru>
+    <en>Lab X-16</en>
+  </text>
+  <text>
+    <ru>Бункер</ru>
+    <en>Bunker</en>
+  </text>
+  <text>
+    <ru>ЧАЭС-1</ru>
+    <en>CNPP-1</en>
+  </text>
+  <text>
+    <ru>Контроль Монолита</ru>
+    <en>Monolith Control</en>
+  </text>
+  <text>
+    <ru>Граната M61</ru>
+    <en>M61 Grenade</en>
+  </text>
+  <text>
+    <ru>Граната M90</ru>
+    <en>M90 Grenade</en>
+  </text>
+  <text>
+    <ru>Карманный телепортатор.</ru>
+    <en>Pocket teleporter.</en>
+  </text>
+  <text>
+    <ru>Кейс для группировки Долг</ru>
+    <en>Case for Duty</en>
+  </text>
+  <text>
+    <ru>Флешка</ru>
+    <en>Flash Drive</en>
+  </text>
+  <text>
+    <ru>Гром 5.45x39</ru>
+    <en>Groza 5.45x39</en>
+  </text>
+  <text>
+    <ru>ПСО-3</ru>
+    <en>PSO-3</en>
+  </text>
+  <text>
+    <ru>Глушитель 7,62 НАТО</ru>
+    <en>7.62 NATO Suppressor</en>
+  </text>
+  <text>
+    <ru>Прицел для СКС и ОЦ-14</ru>
+    <en>Sight for SKS and Groza.</en>
+  </text>
+  <text>
+    <ru>СКС-прицел</ru>
+    <en>SKS Scope</en>
+  </text>
+  <text>
+    <ru>Патрон 4.7х33 (4.7G11)</ru>
+    <en>4.7x33 (4.7G11) Cartridges</en>
+  </text>
+  <text>
+    <ru>Арбалетный Болт</ru>
+    <en>Crossbow Bolt</en>
+  </text>
+  <text>
+    <ru>9x18 ПБП</ru>
+    <en>9x18 PBP</en>
+  </text>
+  <text>
+    <ru>9x18 ПММ</ru>
+    <en>9x18 PMM</en>
+  </text>
+  <text>
+    <ru>9x19 ПБП</ru>
+    <en>9x19 PBP</en>
+  </text>
+  <text>
+    <ru>Ленточный 7.62</ru>
+    <en>7.62 Belt</en>
+  </text>
+  <text>
+    <ru>7.62х39</ru>
+    <en>7.62x39</en>
+  </text>
+  <text>
+    <ru>7.62х39БП</ru>
+    <en>7.62x39 AP</en>
+  </text>
+  <text>
+    <ru>7.62х51</ru>
+    <en>7.62x51</en>
+  </text>
+  <text>
+    <ru>7.62x51мм AP</ru>
+    <en>7.62x51mm AP</en>
+  </text>
+  <text>
+    <ru>12x70 Дробь</ru>
+    <en>12x70 Buckshot</en>
+  </text>
+  <text>
+    <ru>12x76 Дротик</ru>
+    <en>12x76 Dart</en>
+  </text>
+  <text>
+    <ru>12x76 Жекан</ru>
+    <en>12x76 Slug</en>
+  </text>
+  <text>
+    <ru>АК74</ru>
+    <en>AK-74</en>
+  </text>
+  <text>
+    <ru>АК-74 Taktik</ru>
+    <en>Tactical AK-74</en>
+  </text>
+  <text>
+    <ru>АК74У</ru>
+    <en>AKS-74U</en>
+  </text>
+  <text>
+    <ru>АК 103</ru>
+    <en>AK-103</en>
+  </text>
+  <text>
+    <ru>АКМС</ru>
+    <en>AKMS</en>
+  </text>
+  <text>
+    <ru>АКС74</ru>
+    <en>AKS-74</en>
+  </text>
+  <text>
+    <ru>Беретта м9</ru>
+    <en>Beretta M9</en>
+  </text>
+  <text>
+    <ru>Большой Бен</ru>
+    <en>Big Ben</en>
+  </text>
+  <text>
+    <ru>Бизон ПП-19</ru>
+    <en>PP-19 Bizon</en>
+  </text>
+  <text>
+    <ru>БМ16</ru>
+    <en>BM-16</en>
+  </text>
+  <text>
+    <ru>Кольт</ru>
+    <en>Colt 1911</en>
+  </text>
+  <text>
+    <ru>Форт</ru>
+    <en>Fort-12</en>
+  </text>
+  <text>
+    <ru>''Гаусс-пушка''</ru>
+    <en>Gauss Rifle</en>
+  </text>
+  <text>
+    <ru>Глок</ru>
+    <en>Glock</en>
+  </text>
+  <text>
+    <ru>ОЦ-14</ru>
+    <en>OTs-14 Groza</en>
+  </text>
+  <text>
+    <ru>КСВК</ru>
+    <en>KSVK</en>
+  </text>
+  <text>
+    <ru>ИЛ85</ru>
+    <en>L85</en>
+  </text>
+  <text>
+    <ru>Гадюка</ru>
+    <en>MP5</en>
+  </text>
+  <text>
+    <ru>ОЦ33</ru>
+    <en>OTs-33</en>
+  </text>
+  <text>
+    <ru>ПКМ</ru>
+    <en>PKM</en>
+  </text>
+  <text>
+    <ru>Сайга</ru>
+    <en>Saiga 12K</en>
+  </text>
+  <text>
+    <ru>СКС</ru>
+    <en>SKS</en>
+  </text>
+  <text>
+    <ru>СВ-98</ru>
+    <en>SV-98</en>
+  </text>
+  <text>
+    <ru>Tокарев</ru>
+    <en>TT-33</en>
+  </text>
+  <text>
+    <ru>Арбалет</ru>
+    <en>Crossbow</en>
+  </text>
+  <text>
+    <ru>ВАЛ</ru>
+    <en>AS Val</en>
+  </text>
+  <text>
+    <ru>АС-ВАЛ-Tactic</ru>
+    <en>Tactical AS Val</en>
+  </text>
+  <text>
+    <ru>Смешаные собаки</ru>
+    <en>Various dogs</en>
+  </text>
+</root>

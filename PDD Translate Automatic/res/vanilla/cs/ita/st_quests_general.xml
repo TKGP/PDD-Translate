@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hide_from_surge_name">
+		<text>Nasconditi per evitare l'emissione</text>
+	</string>
+	<string id="hide_from_surge_name2">
+		<text>Attendi che l'emissione sia finita</text>
+	</string>
+	<string id="hide_from_surge_text">
+		<text>Corri verso il riparo piщ vicino e nasconditi per evitare l'emissione.</text>
+	</string>
+	<string id="hide_from_surge_text1">
+		<text>Attenzione! Emissione in avvicinamento!!! Tempo previsto all'emissione:</text>
+	</string>
+	<string id="hide_from_surge_text2">
+		<text>secondi.</text>
+	</string>
+	<string id="sim_bring_item">
+		<text>Consegna gli oggetti</text>
+	</string>
+	<string id="sim_bring_item_text">
+		<text>Porta gli oggetti che hai ottenuto al comandante della squadra.</text>
+	</string>
+	<string id="sim_capture_smart">
+		<text>Conquista</text>
+	</string>
+	<string id="sim_capture_smart_text">
+		<text>Devi conquistare e difendere l'obiettivo indicato.</text>
+	</string>
+	<string id="sim_capture_wait_smart">
+		<text>Mantieni la posizione fino all'arrivo dei soccorsi</text>
+	</string>
+	<string id="sim_defend_smart">
+		<text>Difendi il campo</text>
+	</string>
+	<string id="sim_defend_smart_delay">
+		<text>Aiuta</text>
+	</string>
+	<string id="sim_defend_smart_delay_text">
+		<text>Il nemico и stato avvistato in quest'area. Un attacco и imminente.</text>
+	</string>
+	<string id="sim_defend_smart_text">
+		<text>La squadra и stata attaccata dal nemico. Aiutala a respingere l'attacco.</text>
+	</string>
+	<string id="sim_eliminate_smart">
+		<text>Elimina il nemico</text>
+	</string>
+	<string id="sim_eliminate_smart_text">
+		<text>Elimina il nemico al punto di controllo.</text>
+	</string>
+	<string id="sim_find_upgrade">
+		<text>Trova il potenziamento</text>
+	</string>
+	<string id="sim_find_upgrade_consent">
+		<text>Va bene?</text>
+	</string>
+	<string id="sim_recover_item">
+		<text>Riporta oggetto:</text>
+	</string>
+	<string id="sim_repeal_counterattack">
+		<text>Respingi il contrattacco nemico.</text>
+	</string>
+	<string id="sim_take_reward">
+		<text>Ottieni la tua ricompensa</text>
+	</string>
+	<string id="sim_take_reward_text">
+		<text>Puoi ricevere la tua ricompensa dal leader della fazione.</text>
+	</string>
+	<string id="st_sim_eliminate_path_smart">
+		<text>Sgombra la strada</text>
+	</string>
+	<string id="st_sim_eliminate_path_text">
+		<text>Aiuta la squadra alleata a passare.</text>
+	</string>
+	<string id="st_sim_eliminate_resource_smart">
+		<text>Elimina il nemico</text>
+	</string>
+	<string id="st_sim_eliminate_resource_text">
+		<text>Caccia via il nemico dall'area per indebolirlo.</text>
+	</string>
+	<string id="test_storyline_task_text">
+		<text>Avvicinati al barile</text>
+	</string>
+	<string id="tm_random_task_bring_item">
+		<text>testo predefinito</text>
+	</string>
+	<string id="stc_kill_gunslinger_name">
+		<text>Neutralizza la psico-protezione di Strelok</text>
+	</string>
+	<string id="stc_kill_gunslinger_text">
+		<text>L'intensitа dello psico-campo alla stazione и fuori parametro, ma il prototipo protegge Strelok dalle psico-emissioni. Neutralizzalo per fermare Strelok. Un fucile elettromagnetico potrebbe danneggiare il sistema elettronico del prototipo: usalo per sparare a Strelok e disattivare il suo prototipo.</text>
+	</string>
+	<string id="stc_kill_monolith_name">
+		<text>Trova il teletrasporto che conduce al condotto di riscaldamento</text>
+	</string>
+	<string id="stc_kill_monolith_text">
+		<text>L'area intorno alla stazione и piena di teletrasporti. Per continuare a sparare a Strelok, devi trovare il teletrasporto che conduce al condotto di riscaldamento.</text>
+	</string>
+</string_table>

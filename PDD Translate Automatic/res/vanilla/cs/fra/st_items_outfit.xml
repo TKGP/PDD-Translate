@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bandit_outfit_description">
+		<text>Йquipement traditionnel de bandit : une veste en cuir renforcйe de plaques pare-balles. La protection qu'elle procure est totalement inadaptйe aux rigueurs de la Zone. Comprend un petit compartiment spйcial permettant de transporter deux artefacts.</text>
+	</string>
+	<string id="bandit_outfit_name">
+		<text>Veste de bandit</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>Version modernisйe de la combinaison du Devoir, qui procure une bonne protection contre les anomalies, contrairement aux autres combinaisons de la sйrie PSZ. Les renforts intйgrйs peuvent stopper une balle de pistolet. Ne peut кtre modifiйe pour inclure une poche а artefacts.</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>PS5-M "Protection universelle"</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>Version expйrimentale d'un exosquelette militaire, n'a jamais йtй produite en masse а cause de son coыt de fabrication exorbitant et de ses dйfauts de conception. De petites quantitйs en sont cependant produites dans un complexe secret hors d'Ukraine. Il s'agit ici de la troisiиme gйnйration d'exosquelette. Permettant une plus grande mobilitй et disposant d'une protection renforcйe, il corrige les dйfauts de conception initiaux.</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>Exosquelette</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>La combinaison blindйe militaire Bulat a йtй conзue pour les assauts en zones hautement anormales. Composйe d'une combinaison militaire lourdement blindйe, d'un йquipement de compensation hydraulique et d'un casque Sphere-12M, elle peut absorber sans problиme des tirs de fusil d'assaut. Ne peut кtre modifiйe pour inclure une poche а artefacts.</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>Combinaison blindйe "Bulat"</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>L'exosquelette protиge extrкmement bien des balles et des йclats, mais rйduit la mobilitй. Inefficace face aux balles des armes lourdes.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>Exosquelette</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>Combinaison pare-balles militaire conзue pour les opйrations d'assaut. Elle offre une excellente protection contre les balles et les йclats sans rйduire la mobilitй du soldat. Inefficace face aux tirs des armes lourdes.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>Combinaison blindйe</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>Combinaison conзue pour les travaux de recherche dans la Zone. Йquipйe d'un respirateur en circuit fermй et d'un systиme permettant de neutraliser l'activitй des champs anormaux et de lutter contre les anomalies. Pвtit d'un blindage peu йpais. Dotйe d'une poche intйgrйe permettant de transporter des artefacts.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>Combinaison scientifique</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>Combinaison conзue par un institut de recherche de Kiev. Constitue une excellente alternative aux combinaisons de stalkers. Comprend un gilet pare-balles, un respirateur en circuit fermй et un systиme permettant de neutraliser les champs anormaux. Composйe de matйriaux d'excellente qualitй. Son seul dйfaut est son prix.</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>Combinaison SEVA</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>Combinaison Berill-5M destinйe aux forces spйciales et modifiйe pour la Zone. Comprend un gilet pare-balles militaire PSZ-9a dotй d'un revкtement en bйryllium et un casque Sphere-08. Conзue pour les opйrations d'assaut dans les environnements radioactifs. Peu efficace contre les anomalies les plus importantes.</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>Combinaison Berill-5M</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>Combinaison de stalker conзue et produite par des "amateurs". Comprend un gilet pare-balles militaire dotй d'un justaucorps de caoutchouc йpais. Bien qu'elle ne rйsiste pas а de simples balles de pistolet, cette combinaison est trиs populaire en raison de son bas prix et peut servir de base а de nombreuses modifications. Dispose d'une poche pouvant contenir deux artefacts.</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>Combinaison "Lever de soleil"</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>Combinaison de stalker renforcйe produite par les armuriers de la faction de la Libertй. Comprend un gilet pare-balles militaire intermйdiaire recouvert de zirconium renforcй, ce qui assure une bonne protection contre les balles de fusils et les йclats. Composйe de deux couches de tissus : un cuir spйcialement traitй et un tissu en fil d'amiante. Offre une bonne protection contre les radiations et certaines anomalies.</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>Combinaison de la Libertй</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>Combinaison de stalker lйgиre produite par les armuriers de la faction de la Libertй. Composйe d'un gilet pare-balles militaire lйger renforcй par des plaques en kevlar. Efficace contre les armes de poing. Le tissu est traitй avec un mйlange spйcial qui renforce sa rйsistance aux anomalies.</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>Combinaison "Vent de lib."</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>Йquipement standard des unitйs d'assaut de Firmament. Cette armure peut arrкter une balle de pistolet et son casque intйgrй procure une bonne protection contre les anomalies. Inclut une poche а artefact unique.</text>
+	</string>
+	<string id="csky_heavy_outfit_name">
+		<text>Combinaison CS-1</text>
+	</string>
+	<string id="csky_light_outfit_description">
+		<text>Cette combinaison a йtй conзue tout spйcialement pour les opйrations de recherche dans les secteurs а faible activitй anormale. Ses matйriaux de qualitй lui confиrent une bonne durйe de vie. Inclut une poche а artefact unique.</text>
+	</string>
+	<string id="csky_light_outfit_name">
+		<text>Combinaison CS-3a</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>Vieille combinaison du Devoir. Elle comprend un blindage, mais n'offre aucune protection contre les anomalies. Ne peut кtre modifiйe pour inclure une poche а artefacts.</text>
+	</string>
+	<string id="dolg_heavy_outfit_name">
+		<text>PSZ-9d "Combinaison du Devoir"</text>
+	</string>
+	<string id="exo_freedom_outfit_description">
+		<text>Version amйliorйe de l'exosquelette standard. L'utilisation de matйriaux plus lйgers a permis de rйduire son poids tout en augmentant sa durйe de vie.</text>
+	</string>
+	<string id="exo_freedom_outfit_name">
+		<text>Exosquelette "Libertй"</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>Йquipement de stalker novice. Ne procure aucune protection contre les balles ou les anomalies, mais inclut une poche а artefacts а deux emplacements.</text>
+	</string>
+	<string id="novice_outfit_name">
+		<text>Veste en cuir</text>
+	</string>
+</string_table>

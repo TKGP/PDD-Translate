@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="esc_comm_talk_11">
+		<text>Che hai da guardare, stronzo?</text>
+	</string>
+	<string id="esc_comm_talk_1111">
+		<text>Ridi quanto vuoi... se sei qui per scoprire dove ho nascosto la valigetta con il bottino, allora resterai deluso. Torna nella tua adorata Zona! Presto i miei ragazzi spazzeranno via la tua ridicola banda! Per quanto riguarda il tuo capo, lo impiccheremo al ponte, cosм tutti potranno vedere cosa succede a mettersi contro l'esercito!</text>
+	</string>
+	<string id="esc_comm_talk_111111">
+		<text>Oh, davvero? Mmmh... e quanto costerebbe ingaggiarti? Quanto vorresti per aiutare i miei ragazzi a fare fuori quei cecchini sulla massicciata della ferrovia?</text>
+	</string>
+	<string id="esc_leader_what_happens_1">
+		<text>Vediamo, come mettere la cosa... stalker ed esercito erano abituati a collaborare. Loro ci davano le armi, noi il denaro, e tutti eravamo contenti. Alle volte, ci segnalavano la presenza di un'anomalia. Ma alla fine il loro comandante si и lasciato prendere dall'aviditа. Si и accordato con i banditi e ha iniziato a vendere informazioni sui nostri movimenti. All'inizio pensavamo che avessero solo fortuna, ma poi li abbiamo colti sul fatto mentre trattavano con l'esercito. Allora ci siamo radunati e abbiamo deciso che era giunta l'ora di far cadere qualche testa.</text>
+	</string>
+	<string id="esc_leader_talk_11">
+		<text>Salve, mercenario! Non ce ne sono molti come te, qui al Cordon... Che ci fai da queste parti?</text>
+	</string>
+	<string id="esc_leader_talk_22">
+		<text>Allora, hai scoperto qualcosa di utile?</text>
+	</string>
+	<string id="esc_leader_talk_33">
+		<text>Wow, finalmente questa storia ha avuto il lieto fine! Ora l'esercito se ne starа tranquillo oltre l'avamposto.</text>
+	</string>
+	<string id="esc_leader_talk_44">
+		<text>Mercenario, dovrai vedertela con gli amici del comandante.</text>
+	</string>
+	<string id="esc_leader_talk_55">
+		<text>Che diavolo ne faremo del comandante, eh...?</text>
+	</string>
+	<string id="esc_leader_talk_1111">
+		<text>Da Sidorovich... allora anche tu sai del comandante, eh? Molto bene, sarт franco con te: noi cooperavamo con l'esercito. Ci consentivano di trasportare le nostre cose attraverso l'avamposto e ci passavano qualche informazione utile. Pagavamo bene i loro servizi, ma poi abbiamo scoperto che il comandante faceva il doppio gioco: forniva la nostra posizione anche ai banditi! И persino arrivato a vendere due di noi come schiavi, alla Discarica! Si и spinto troppo oltre.</text>
+	</string>
+	<string id="esc_leader_talk_111111">
+		<text>Giа, mi sa che ci siamo lasciati trasportare... e ora non so proprio che cosa fare. Abbiamo il comandante in ostaggio, il che и una sorta di garanzia che l'esercito non ci rispedirа nell'Etа della Pietra a furia di bombe, con gli elicotteri. Non possiamo ucciderlo, e neppure lasciarlo andare... quel maledetto sa che ci serve vivo e per questo non cede di un millimetro. Il problema и che solo lui sa dov'и nascosto tutto quanto! Se non portiamo la roba a Sidorovich, lui non farа mai piщ affari con noi. Ah, se solo riuscissimo a costringere questo bastardo a fare quello che vogliamo, il quadro cambierebbe completamente.</text>
+	</string>
+	<string id="esc_leader_talk_2222">
+		<text>Ma certo che lo salveranno, quello stronzo gli deve un sacco di soldi! Conduceva le loro operazioni da solo e ha nascosto il denaro da qualche parte. Ascolta, ho un'idea... il comandante poteva fidarsi soltanto di due uomini: erano di servizio all'avamposto e li ha fatti entrare nell'accordo. Loro farebbero di tutto per tirarlo fuori dai guai. Se li togliamo di mezzo, capirа che non verrа nessuno a salvarlo: questo lo farа cedere e riusciremo a cavargli la posizione del bottino. I soldi ce li dividiamo e Sidorovich prende la valigetta. Che ne dici?</text>
+	</string>
+	<string id="esc_leader_talk_222222">
+		<text>Ho la sensazione che non dovremo cercarli a lungo: gli amici di Khaletskiy sono qui attorno da qualche parte, pronti ad attaccarci. Abbiamo individuato una piccola squadra vicino all'ascensore. Aiutaci ad annientarla.</text>
+	</string>
+	<string id="esc_trader_meet_11">
+		<text>Salve, mercenario. Dimmi, che ti porta qui?</text>
+	</string>
+	<string id="esc_trader_meet_22">
+		<text>Grazie per la valigetta, mercenario: ora posso sistemare tutto con il mio cliente. Sono riuscito a restare vivo nella Zona solo perchй io mantengo la mia parola. Se freghi qualcuno in questo posto, presto o tardi ti trovi un coltello piantato nella schiena. Ma ora basta parlare di me... il tuo stalker, era qui. Si chiama Fang ed era in cerca di valvole amplificatrici e altre schifezze elettroniche, io non ci capisco niente. Gli ho venduto l'amplificatore, ma non avevo le altre cose che cercava, cosм gli ho detto di andare dagli scavatori, alla Discarica. Sai, alcuni stalker hanno riportato alla luce degli equipaggiamenti rimasti sepolti dall'incidente alla centrale di Chernobyl, e ora quel posto и pieno zeppo di vecchie componenti. Cercalo laggiщ e ricorda che se ti serve qualcosa, io sono il tuo uomo. </text>
+	</string>
+	<string id="esc_trader_meet_44">
+		<text>Ehi, mercenario, aspetto ancora quella valigetta, vedi di non dimenticarlo. </text>
+	</string>
+	<string id="esc_trader_meet_55">
+		<text>Allora, che cosa cerchi?</text>
+	</string>
+	<string id="esc_trader_meet_2222">
+		<text>Se hai bisogno d'altro, qui sarai sempre il benvenuto! Ti fornirт uno sconto a vita, per avermi aiutato nell'affare con i militari.</text>
+	</string>
+	<string id="esc_trader_meet_1111">
+		<text>Mmmh... vedo cosм tanti stalker, che non posso ricordarmeli tutti. Per quale motivo dovrei spremere le meningi per te?</text>
+	</string>
+	<string id="esc_trader_meet_111111">
+		<text>Adesso si parla d'affari, mi piace. Beh, stai a sentire: io sono qui da un bel po', la mia attivitа va alla grande, ricevo vari ordini da diversi clienti e la gente si fida di me. Perт ho un problema con l'ultimo ordine. Si tratta di un cliente importante, in cerca di una cosa davvero unica. Tutto stava andando bene: gli stalker mi portavano quello che trovavano nella Zona e i soldati dovevano fare in modo che potessero passare dal Cordon. Beh, le due parti hanno iniziato a litigare per non so che motivo e ora questo posto и come impazzito! Il risultato и che gli stalker combattono contro l'esercito e nessuno sa dove si trovi il bottino. Il che non mi piace, per niente: ho degli ordini da completare, io! Perciт, portami la valigetta con quello che mi serve e ti dirт del tuo stalker e delle sue componenti. D'accordo?</text>
+	</string>
+	<string id="esc_trader_meet_11111111">
+		<text>Vai dagli stalker vicino alla massicciata: hanno creato una specie di base lа, dove tengono prigioniero il comandante dell'esercito, Khaletskiy. Non mi importa che cosa farai, e non mi importa di quei deficienti se continueranno a giocare a Robin Hood e i suoi allegri compari: io voglio solo la valigetta e quello che contiene! Per cominciare, parla con Valerian, il capo degli stalker. Gli farт sapere che sono io a mandarti. </text>
+	</string>
+	<string id="esc_comm_about_life_in_zone_1">
+		<text>Beh, ti sono debitore, amico. Lascia che ti dica una cosa: so che gli stalker stanno cercando di raggiungere il centro della Zona. Ho visto delle vecchie mappe militari e a quanto pare al centro della Zona si trovava la vecchia centrale nucleare di Chernobyl. Forse и una coincidenza, ma se fossi in te lo terrei in mente. Il guaio и che nemmeno i satelliti militari riescono a visualizzare quella zona, con nessuno spettro. Non ci volano nemmeno piщ sopra, perchй l'interferenza и talmente forte, che avvengono combustioni spontanee. Ovviamente и tutto top secret, ma un mio amico che lavora alla base missilistica me ne ha parlato una volta che era sbronzo. Se vuoi il mio consiglio, stai alla larga dal centro della Zona.</text>
+	</string>
+	<string id="esc_comm_about_prisoner_1">
+		<text>Credi di essere divertente? Cavolo, se fossimo in altre circostanze ti darei una risposta diversa... Ne ho abbastanza di questa storia, amico... I ragazzi con cui ho intrapreso la carriera militare hanno ricevuto stelle e uniformi da sfoggiare in posti migliori di questo... secondo te non ho niente di meglio da fare che seguire quelli come te nella Zona? Ne ho abbastanza di questa fogna, della maledetta Zona, di quei bastardi degli Stalker e di quel dannato Sidorovich... e non dimentichiamoci dei mutanti... sacrifichiamo la nostra vita per fermarli e quelli continuano ad arrivare. E all'esterno la gente non fa che dire che "Dobbiamo proteggere il mondo dagli orrori della Zona" e che "Non permetteremo che succeda"... I generali, quegli idioti alla tv... nel loro mare di scemenze ci si potrebbe pure annegare! E quanti dei pezzi grossi hanno mai preso parte a una missione in questo posto, quanti hanno strisciato sulla pancia in mezzo alle anomalie, eh? Quanti di quei pigri figli di buona donna hanno ripulito un settore o hanno trascorso un'intera giornata a inseguire gli stalker attraverso le Paludi? Quei bastardi usano sempre l'esercito quando si tratta di ripulire i buchi piщ sudici!</text>
+	</string>
+	<string id="esc_comm_about_prisoner_111">
+		<text>Lascio prendere i tesori del Cordon in cambio di contanti, e allora? Non faccio del male a nessuno, capisci? Sai qual и il mio stipendio ufficiale, bastardo? Bravo, prova tu a campare con quei soldi! Non mi pagano un accidente e si aspettano che mi senta orgoglioso del mio lavoro e del mio paese... I capi vogliono solo trarre profitto dalla Zona, proprio come tutti gli altri. Perchй io dovrei essere da meno? Il mio lavoro и eseguire gli ordini e sopravvivere. Quindi io sopravvivo come meglio posso. Maledetto questo posto e tutti i bastardi che ci vivono... non so se ammazzarli tutti o farmi saltare le cervella.</text>
+	</string>
+	<string id="esc_comm_about_prisoner_11111">
+		<text>Frode? E allora? Me ne frego di quelli come te. Non dovresti nemmeno essere qui. Appena sei entrato nella Zona avrebbero dovuto spararti a vista. Non scherzo, questi sono veramente i miei ordini. Il guaio и che da un corpo morto non si puт ottenere molto e io merito molto di meglio per il servizio che rendo qui. L'esercito non paga, quindi devo cavarmela come posso. E dei tuoi scontri tra fazioni non potrebbe fregarmene di meno. Potete ammazzarvi a vicenda quanto vi pare, io non batterт ciglio.</text>
+	</string>
+	<string id="esc_comm_talk_33">
+		<text>Stalker, forse ho perso il bottino e i miei amici sono morti, ma sono uscito da situazioni ben peggiori di questa! Vuoi sapere dov'и la mia scorta segreta?</text>
+	</string>
+	<string id="esc_comm_talk_3333">
+		<text>Aiutami a uscire da qui, stalker. Quando nessuno guarda passami una pistola. Al resto penserт io.</text>
+	</string>
+	<string id="esc_comm_talk_333333">
+		<text>Sarт sincero. La scorta si trova in una tubatura nei pressi della zona anomala.</text>
+	</string>
+	<string id="esc_comm_talk_44">
+		<text>Grazie per avermi dato l'arma.</text>
+	</string>
+	<string id="esc_comm_talk_5555">
+		<text>Cos'altro vuoi?</text>
+	</string>
+	<string id="esc_leader_about_home_1">
+		<text>Bene, dici? Io direi alla grande! Il prezzo da pagare, perт, и stato alto. Quei bastardi dell'esercito continuavano a incalzarci, organizzando degli attacchi e sparando ai nostri fratelli dagli elicotteri. \nControllavano tutto il traffico e se ti beccavano ti portavano via il bottino. Allo stesso tempo, lavorare per loro non serviva a molto: non pagavano un accidente, sempre se pagavano. Ma esiste pur sempre una giustizia, anche nella Zona! Quando Khaletskiy ci vendette ai banditi, decidemmo che ne avevamo abbastanza e lo prendemmo in ostaggio. Il resto dei buffoni dell'esercito se la fece addosso e da allora non ci hanno piщ dato fastidio, dal momento che teniamo in pugno il loro comandante. \nQuindi, di fatto, ci siamo aggiudicati un bel posticino sotto il caldo sole della Zona, e nulla cambierа le cose! И fondamentale capire l'importanza di questi sviluppi: abbiamo instaurato una base di stalker e ora il Cordon и in buone mani. Da qui in poi andrа tutto sempre meglio, puoi scommetterci!</text>
+	</string>
+	<string id="esc_leader_about_home_111">
+		<text>Beh, amico mio, qui abbiamo piщ progetti che il Signore il primo giorno della creazione! La nostra prioritа и di completare la costruzione della base. Poi dovremo arruolare altri uomini... Ma saranno loro a venire da noi, vedrai! La gente sa che combattiamo per una giusta causa! Quando avremo costituito un buon esercito, insegneremo ai banditi a non mettersi contro di noi. Sono anni che sopportiamo le loro angherie! Per quelli come loro non c'и posto nella Zona! Dopodichй... beh, credo che arriverа il giorno in cui ci spingeremo ancora piщ verso l'interno. Potremmo persino raggiungere il centro... il sogno di tutti gli stalker! Ci aspettano grandi cose, amico!</text>
+	</string>
+	<string id="esc_leader_about_home_11111">
+		<text>Come puoi vedere, c'и parecchio lavoro da fare... Ma credo che quando si и contenti di quel che si ha si ottiene molto di piщ! Questo и un inizio, che и la cosa piщ importante! Abbiamo giа assunto un tecnico e un trafficante. Sono bravi ragazzi, puoi andarli a trovare quando vuoi e ti daranno una mano. Quando avremo altri uomini sono sicuro che andremo alla grande! So che posso condurre gli uomini verso grandi mete! Ricorda, questo non и che l'inizio!</text>
+	</string>
+	<string id="esc_leader_about_prisoner_1">
+		<text>И fuggito! Quel bastardo ha ucciso due guardie ed и scappato nella foresta! Non siamo riusciti a trovarlo! Non ho idea di come abbia fatto a procurarsi un'arma.</text>
+	</string>
+	<string id="esc_trader_about_other_1">
+		<text>Lascia che te lo spieghi di nuovo. Tu mi porti i tesori per cui gli stalker e i militari stanno battibeccando e io risponderт a tutte le tue domande.</text>
+	</string>
+	<string id="esc_comm_about_info_0">
+		<text>Cosa posso fare per te?</text>
+	</string>
+	<string id="esc_comm_about_info_1">
+		<text>Compro tutte le informazioni che ritengo utili. Sai qualcosa?</text>
+	</string>
+	<string id="esc_comm_about_info_11">
+		<text>Niente.</text>
+	</string>
+	<string id="esc_comm_about_info_2">
+		<text>Ho ucciso un comandante dell'esercito e gli ho preso il PDA. Lo vendo.</text>
+	</string>
+	<string id="esc_comm_about_info_22">
+		<text>Al momento non ho informazioni che ti possono servire.</text>
+	</string>
+	<string id="esc_comm_about_info_3">
+		<text>Il PDA mi interessa, te lo comprerт.</text>
+	</string>
+	<string id="esc_comm_about_info_4">
+		<text>Venduto.</text>
+	</string>
+	<string id="esc_comm_about_info_5">
+		<text>Ho cambiato idea.</text>
+	</string>
+	<string id="esc_comm_about_life_in_zone_0">
+		<text>Hai sentito qualche bella storia ultimamente?</text>
+	</string>
+	<string id="esc_comm_about_prisoner_0">
+		<text>Come sei finito nella prigione degli stalker?</text>
+	</string>
+	<string id="esc_comm_about_prisoner_11">
+		<text>Beh, se siete cosм stufi di noi, perchй permettete ancora il contrabbando?</text>
+	</string>
+	<string id="esc_comm_about_prisoner_1111">
+		<text>Se sei cosм onesto, perchй hai venduto ai banditi informazioni sugli stalker? Io la chiamo disonestа...</text>
+	</string>
+	<string id="esc_comm_talk_111">
+		<text>Ah ah, и divertente vedere un capo militare dietro le sbarre.</text>
+	</string>
+	<string id="esc_comm_talk_11111">
+		<text>Non и il mio capo, sono un mercenario.</text>
+	</string>
+	<string id="esc_comm_talk_1111111">
+		<text>Troppo costoso per un pidocchio come te.</text>
+	</string>
+	<string id="esc_comm_talk_11111122">
+		<text>Maledizione... scommetto quello che vuoi che и stato Sidorovich! Me lo aspettavo che avrebbe tramato alle mie spalle. Ha scelto il momento giusto per pugnalarmi! OK, la vita non и mai stata facile e non lo sarа mai. Ascolta, ho due battaglioni pronti ad attaccare, uno al deposito, l'altro al mulino, seguono gli ordini di Sokolov dal deposito. Vai da lui e digli che sono vivo e vegeto, perchй gli stalker non hanno il coraggio di ammazzarmi. Digli di suonare la carica.</text>
+	</string>
+	<string id="esc_comm_talk_111121">
+		<text>Maledizione... scommetto quello che vuoi che и stato Sidorovich! Me lo aspettavo che avrebbe tramato alle mie spalle. Ha scelto il momento giusto per pugnalarmi! OK, la vita non и mai stata facile e non lo sarа mai. Ascolta, ho due battaglioni pronti ad attaccare, uno al deposito, l'altro al mulino, seguono gli ordini di Sokolov dal deposito. Vai da lui e digli che sono vivo e vegeto, perchй gli stalker non hanno il coraggio di ammazzarmi. Digli di suonare la carica.</text>
+	</string>
+	<string id="esc_comm_talk_21">
+		<text>Ma certo, i miei uomini venerano il loro comandante! Morirebbero per me senza battere ciglio!</text>
+	</string>
+	<string id="esc_comm_talk_333">
+		<text>Sм, e tu cosa vuoi in cambio?</text>
+	</string>
+	<string id="esc_comm_talk_33333">
+		<text>Ecco una pistola, ma se ti prendono durante la fuga, tu non mi conosci.</text>
+	</string>
+	<string id="esc_comm_talk_3333333">
+		<text>Spero che tu non mi abbia fregato.</text>
+	</string>
+	<string id="esc_comm_talk_33334">
+		<text>Ah ah, continua a sognare amico, non ti darт la mia arma.</text>
+	</string>
+	<string id="esc_comm_talk_334">
+		<text>Non ho bisogno dei tuoi tesori nascosti, sei un topo di fogna e non ti aiuterт di certo.</text>
+	</string>
+	<string id="esc_comm_talk_444">
+		<text>Nessun problema.</text>
+	</string>
+	<string id="esc_comm_talk_55">
+		<text>Cosa vuoi adesso?</text>
+	</string>
+	<string id="esc_comm_talk_555">
+		<text>Bene...</text>
+	</string>
+	<string id="esc_comm_talk_6666">
+		<text>Cosa vuoi?</text>
+	</string>
+	<string id="esc_driver_about_you_0">
+		<text>Come sei finito nella Zona?</text>
+	</string>
+	<string id="esc_driver_about_you_1">
+		<text>Come sono finito qua? Niente di speciale, mi ci hanno mandato. Pensavo che mi avrebbero assegnato a un'unitа vicina alla mia cittа, invece mi hanno inviato nella Zona. Qui puoi scordarti la corrispondenza e le licenze premio. Di giorno le cose sono simili agli altri posti: agli ordini, avanti, marsch! Ma appena cala la notte, inizia pure a pregare, perchй qui c'и da avere davvero paura. Se ti mandano a fare la guardia al perimetro di notte sentirai degli ululati sempre piщ vicini. A volte capita anche di vedere l'animale. Mi sono venuti i capelli bianchi dalla paura. I superiori poi sono degli stronzi, ti svegliano la notte per mandarti a prendere la vodka per loro. Piuttosto che mettere un piede fuori di notte, dopo quella volta, mi faccio uccidere... Vitka, un ragazzo che era di leva con me, ha obbedito e l'hanno ritrovato la mattina dopo, tutto blu e con gli occhi grandi come le ruote di un blindato... lo spavento gli ha spezzato il cuore ed и morto sul posto.</text>
+	</string>
+	<string id="esc_driver_fear_0">
+		<text>Vattene!</text>
+	</string>
+	<string id="esc_driver_fear_11">
+		<text>Tutto ha una spiegazione. Mentre il comandante e io stavamo ispezionando il perimetro, ci hanno attaccati: le guardie sono morte e loro hanno preso in ostaggio il comandante. Io sono salvo per miracolo...</text>
+	</string>
+	<string id="esc_driver_fear_111">
+		<text>E perchй non sei ritornato alla tua squadra, soldato?</text>
+	</string>
+	<string id="esc_driver_fear_1111">
+		<text>Come faccio a ritornare? Mi sbatterebbero di fronte alla corte marziale per aver abbandonato il comandante!</text>
+	</string>
+	<string id="esc_driver_quest_0">
+		<text>Come posso aiutarti?</text>
+	</string>
+	<string id="esc_driver_quest_1">
+		<text>Uno dei miei migliori amici stava scappando da alcuni stalker e decise di nascondersi in una galleria. И riuscito a entrare ma non a uscire, cosм и morto di sete. Ho cercato di portargli dell'acqua, ma non и servito a niente. Era un posto davvero strano: lo vedevo proprio davanti a me ma non riuscivo a raggiungerlo. Potresti cercare di recuperare le sue cose? Voglio qualcosa per ricordarmi di lui. Ma ti dirт subito che non so come arrivare in quel posto, quindi ti conviene chiedere informazioni agli stalker. Loro sono molto piщ informati sulla Zona di noi soldati.</text>
+	</string>
+	<string id="esc_driver_quest_11">
+		<text>Non credo che tu sia in grado.</text>
+	</string>
+	<string id="esc_driver_quest_2">
+		<text>OK, ci proverт.</text>
+	</string>
+	<string id="esc_driver_quest_22">
+		<text>Non ho tempo per queste cose.</text>
+	</string>
+	<string id="esc_driver_quest_complete_0">
+		<text>Sono qui per quel lavoro.</text>
+	</string>
+	<string id="esc_driver_quest_complete_1">
+		<text>Allora, com'и andata?</text>
+	</string>
+	<string id="esc_driver_quest_complete_2">
+		<text>Ti ho portato il suo PDA. Era l'unica cosa rimasta sul suo corpo.</text>
+	</string>
+	<string id="esc_driver_quest_complete_22">
+		<text>Ancora niente.</text>
+	</string>
+	<string id="esc_driver_quest_complete_222">
+		<text>Che peccato. Ricorda, conto su di te.</text>
+	</string>
+	<string id="esc_driver_quest_complete_3">
+		<text>Grazie, mercenario! Ecco qualcosa per il tuo aiuto.</text>
+	</string>
+	<string id="esc_driver_who_are_you_0">
+		<text>Chi sei?</text>
+	</string>
+	<string id="esc_driver_who_are_you_1">
+		<text>Semyon Lambee... soldato semplice... ero l'autista del nostro comandante, Khaletskiy. Voleva che lo conducessi dagli stalker. И andato tutto bene fino al terrapieno, ma appena и andato a parlare con gli stalker, loro l'hanno imprigionato e io me la sono filata.</text>
+	</string>
+	<string id="esc_driver_who_are_you_2">
+		<text>Cosa farai adesso?</text>
+	</string>
+	<string id="esc_driver_who_are_you_3">
+		<text>Come faccio a ritornare? Mi sbatterebbero di fronte alla corte marziale per aver abbandonato il comandante!</text>
+	</string>
+	<string id="esc_driver_who_are_you_4">
+		<text>Vieni con me, faremo fuori gli stalker, salveremo Khaletskiy e spartiremo il bottino!</text>
+	</string>
+	<string id="esc_driver_who_are_you_44">
+		<text>Capisco.</text>
+	</string>
+	<string id="esc_driver_who_are_you_5">
+		<text>Buona idea, amico, ma non ho armi. Dammi una pistola e verrт con te.</text>
+	</string>
+	<string id="esc_driver_who_are_you_6">
+		<text>Ecco, prendi. Non mi servi a molto senza una pistola.</text>
+	</string>
+	<string id="esc_driver_who_are_you_66">
+		<text>Non importa. Mi dispiacerebbe farmi trovare con una pallottola nella schiena.</text>
+	</string>
+	<string id="esc_leader_about_home_0">
+		<text>Vedo che ti sei definitivamente sistemato qua.</text>
+	</string>
+	<string id="esc_leader_about_home_11">
+		<text>Sono felice per te, non sono un grande ammiratore dell'esercito. Quali sono i tuoi piani per il futuro?</text>
+	</string>
+	<string id="esc_leader_about_home_1111">
+		<text>Parlami della vostra base.</text>
+	</string>
+	<string id="esc_leader_about_prisoner_0">
+		<text>Dove avete imprigionato il maggiore Khaletskiy?</text>
+	</string>
+	<string id="esc_leader_about_you_0">
+		<text>Da quanto sei uno stalker?</text>
+	</string>
+	<string id="esc_leader_about_you_1">
+		<text>Sono qui da un po' di tempo. Ero qui coi miei uomini giа nel 2000, a raccogliere metalli da riciclare, poi spuntт la Zona. All'inizio eravamo parecchio spaventati, ma decidemmo di continuare a cercare cose di valore. Raccogliemmo rottami finchй non trovammo il primo manufatto, che ci venne pagato a peso d'oro! Al confronto, oggi non и che ci siano cosм tanti manufatti in giro, ma allora quasi nessuno sapeva della loro esistenza. Facemmo un sacco di soldi vendendoli... il solo pensiero mi fa venire l'acquolina. Ormai non и piщ cosм. </text>
+	</string>
+	<string id="esc_leader_about_you_11">
+		<text>Cosa fate al Cordon?</text>
+	</string>
+	<string id="esc_leader_about_you_111">
+		<text>Il Cordon in pratica и la porta principale della Zona. Noi stalker veniamo spesso qua. И un buon posto per rilassarsi, fare il pieno di munizioni e guadagnare due soldi con Sidorovich portandogli il bottino. Se hai bisogno di un compare, poi, al Cordon ci sono tantissime reclute che farebbero di tutto per un veterano. Per loro siamo leggende viventi.</text>
+	</string>
+	<string id="esc_leader_about_zone_0">
+		<text>Parlami della Zona.</text>
+	</string>
+	<string id="esc_leader_about_zone_1">
+		<text>Lo stai chiedendo proprio a ME? Perchй non chiedi a un cervellone? Di quelli che parlano attraverso microscopi e raggi X. Io non so molto della Zona... per me и solo un posto dove si possono fare soldi. Voglio farne abbastanza da potermi ritirare tra qualche anno in una bella villetta sul mare, da qualche parte.</text>
+	</string>
+	<string id="esc_leader_first_join_0">
+		<text>Come faccio a entrare nel vostro clan?</text>
+	</string>
+	<string id="esc_leader_first_join_1">
+		<text>In breve, mostrami che sei un tipo in gamba, che posso fidarmi di te e sarт felice di considerarti un fratello. Hai presente quando dicono che gli amici si vedono nel momento del bisogno? Beh, siamo carichi di attrezzatura e se ci darai una mano sarа come se tu avessi passato il test a pieni voti.</text>
+	</string>
+	<string id="esc_leader_first_join_11">
+		<text>Capisco.</text>
+	</string>
+	<string id="esc_leader_good_job_0">
+		<text>Posso fare qualcos'altro per gli stalker?</text>
+	</string>
+	<string id="esc_leader_good_job_1">
+		<text>Una squadra dell'esercito al deposito и al comando di uno dei comandanti in seconda del Cordon. Nel suo PDA ci sono delle informazioni importanti.</text>
+	</string>
+	<string id="esc_leader_good_job_11">
+		<text>OK.</text>
+	</string>
+	<string id="esc_leader_good_job_12">
+		<text>Ancora niente.</text>
+	</string>
+	<string id="esc_leader_good_job_2">
+		<text>Ho ucciso il comandante dell'esercito e gli ho preso il PDA. Puт servire?</text>
+	</string>
+	<string id="esc_leader_good_job_3">
+		<text>Bravo, stalker. Questo PDA contiene molte importanti informazioni, grazie. Ecco la tua ricompensa.</text>
+	</string>
+	<string id="esc_leader_good_job_4">
+		<text>Grazie!</text>
+	</string>
+	<string id="esc_leader_join_stalker_0">
+		<text>Posso entrare nel vostro clan? Ho fatto abbastanza per diventare uno di voi?</text>
+	</string>
+	<string id="esc_leader_join_stalker_1">
+		<text>Sei stato di grande aiuto, non c'и dubbio... ma siamo stalker e non mi sembra che tu conosca molto bene i nostri metodi. Dovresti stare piщ tempo nella Zona e imparare... Nel frattempo, regolerт questa faccenda con l'esercito e ti contatterт appena possibile!</text>
+	</string>
+	<string id="esc_leader_join_stalker_2">
+		<text>Amico, siamo pieni fino al collo di problemi da risolvere... и troppo presto per questo. Che ne dici se prima li sistemiamo e poi ne parliamo?</text>
+	</string>
+	<string id="esc_leader_join_stalker_3">
+		<text>Sei nella Duty, no? И importante che tu sappia che la nostra fratellanza e i tuoi comandanti hanno... mmmh... opinioni leggermente diverse sulla Zona. Se vuoi davvero stare con noi, devi dimenticare di essere stato nella Duty, OK?</text>
+	</string>
+	<string id="esc_leader_join_stalker_33">
+		<text>Certo. Non c'и niente di meglio della vita indipendente di uno stalker, no?</text>
+	</string>
+	<string id="esc_leader_join_stalker_333">
+		<text>Sм? Allora che ne dici di una birra fresca e di una bella spiaggia oceanica? Oh, lascia perdere... Conosci giа il codice degli stalker, spero.</text>
+	</string>
+	<string id="esc_leader_join_stalker_3333">
+		<text>Parlamene ugualmente, non si sa mai.</text>
+	</string>
+	<string id="esc_leader_join_stalker_33333">
+		<text>Beh, и semplice: essere uno stalker significa essere un umano. Aiuta gli amici nel momento del bisogno, non tradirli e non pugnalarli alle spalle, dividi con loro kit di pronto soccorso e razioni, coprigli le spalle in battaglia. Dormirete sotto lo stesso tetto o davanti allo stesso falт. Al momento i nostri nemici principali sono i banditi, parassiti della collettivitа. Dobbiamo eliminarli dalla Zona una volta per tutte e potremo essere felici!</text>
+	</string>
+	<string id="esc_leader_join_stalker_333333">
+		<text>Capisco.</text>
+	</string>
+	<string id="esc_leader_join_stalker_3333333">
+		<text>Bene, per me и tutto. Congratulazioni a entrambi per un nuovo arrivo nella nostra comunitа fraterna! Che tu possa evitare mutanti e anomalie nel tuo cammino, stalker! Ho attivato un decodificatore sul tuo PDA con cui potrai ricevere messaggi da altri stalker del clan, oltre a visualizzare la nostra situazione nella guerra ai banditi nel menu tattico. Ancora congratulazioni.</text>
+	</string>
+	<string id="esc_leader_join_stalker_33333333">
+		<text>Capisco. Ora, se vuoi scusarmi, tornerт ai miei affari di stalker...</text>
+	</string>
+	<string id="esc_leader_join_stalker_33334">
+		<text>Certo, sono nella Zona da molto tempo.</text>
+	</string>
+	<string id="esc_leader_join_stalker_3334">
+		<text>Ci penserт.</text>
+	</string>
+	<string id="esc_leader_join_stalker_4">
+		<text>Bene, bene, la vita alla Freedom non и abbastanza "free"? Vuoi scoprire la vera libertа diventando uno stalker? Va benissimo, ma ricorda che anche se per noi quelli della Freedom son tutti amici, noi giochiamo nel nostro box e loro nel loro. Se vuoi unirti a noi, devi lasciare il loro clan, va bene?</text>
+	</string>
+	<string id="esc_leader_join_stalker_5">
+		<text>Certo! Mi sei piaciuto fin dall'inizio, ma comprenderai che prima dobbiamo metterti alla prova! Se ci aiuterai, potrai diventare uno di noi. D'accordo?</text>
+	</string>
+	<string id="esc_leader_talk_111">
+		<text>Mi manda Sidorovich.</text>
+	</string>
+	<string id="esc_leader_talk_11111">
+		<text>E avete attaccato l'esercito?</text>
+	</string>
+	<string id="esc_leader_talk_1111111">
+		<text>Farт una chiacchierata col comandante. Potrebbe crollare e rivelare dove si trova la valigetta con il bottino.</text>
+	</string>
+	<string id="esc_leader_talk_222">
+		<text>Piccolo ostinato bastardo! Non ha detto niente della valigetta. In compenso continua a ripetere che i suoi compari non lo abbandoneranno e senza dubbio verranno a salvarlo.</text>
+	</string>
+	<string id="esc_leader_talk_22222">
+		<text>И una possibilitа. Hai idea di dove posso trovare gli amici di Khaletskiy?</text>
+	</string>
+	<string id="esc_leader_talk_2222222">
+		<text>Farт il possibile.</text>
+	</string>
+	<string id="esc_leader_talk_66">
+		<text>Vai a parlare con il comandante, allora...</text>
+	</string>
+	<string id="esc_leader_what_happens_0">
+		<text>Cos'и successo qui?</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_0">
+		<text>Cosa vuoi?</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_1">
+		<text>Dov'и il maggiore Khaletskiy, quel tipo che tenete in ostaggio? Sembra sia scomparso...</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_11">
+		<text>И scappato.</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_111">
+		<text>Fantastico, com'и successo?</text>
+	</string>
+	<string id="esc_stalker_about_prisoner_1111">
+		<text>Ero da lui di guardia da un sacco di tempo... a un certo punto ero cosм stanco che ho chiuso gli occhi per due minuti e quando li ho riaperti non c'era piщ, sparito!</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_0">
+		<text>Lasciami in pace, sono in servizio.</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_1">
+		<text>Solo una domanda: a cosa fate la guardia, qui?</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_11">
+		<text>Montiamo la guardia al nuovo territorio stalker.</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_111">
+		<text>Nuovo? Puoi spiegarti?</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_1111">
+		<text>Vai alla nostra base e chiedi, io ho da fare.</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_2">
+		<text>Chiaro.</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_3">
+		<text>Cos'и quel "buco nero" nel ponte?</text>
+	</string>
+	<string id="esc_stalker_bridge_talk_33">
+		<text>Amico, non ne abbiamo idea, qualunque cosa ci finisce dentro scompare. Di solito ci gettiamo dentro i rifiuti, sai, per proteggere l'ambiente... poi perт abbiamo visto i mucchi dei nostri rifiuti in un'anomalia dentro uno dei tunnel. Nella Zona stanno accadendo cose veramente assurde! </text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_0">
+		<text>Parlami di te.</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_1">
+		<text>Amo l'indipendenza e per questo ho sempre lavorato da solo e solo per me stesso. \nPoi, quando ho saputo che gli stalker avevano rotto con l'esercito e disponevano di una base, non ho esitato a raggiungerli. Insomma, ho incontrato gente di tutti i tipi nella Zona, ma gli stalker sono i migliori. Sono perfetti, capisci? Non hanno stupidi codici, regole, regolamenti e roba del genere come gli altri. Per me, la Zona dovrebbe essere lasciata esclusivamente nelle mani degli stalker. Se fosse cosм sarebbe piщ facile arricchirsi per noi trafficanti e le cose andrebbero molto meglio. Comunque, questi sono i motivi per cui ho deciso di dare una mano qui.</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_11">
+		<text>И raro trovare un tecnico nella Zona. Cosa sei in grado di fare?</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_111">
+		<text>Beh, non pensare che mi metta a riempirti di gingillini alla moda o complicati dispositivi, ma ho cervello e so fare bene il mio lavoro. \nNon stupirti se la mia abilitа un giorno ti salverа la vita. Di solito riparo armi e armature, ma con i componenti giusti posso anche potenziare la tua pistola e le tue attrezzature. Se vuoi sapere esattamente cosa posso potenziare, dai un'occhiata agli aggiornamenti, sono sicuro che capirai da solo.</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_1111">
+		<text>Penso che tu abbia visto gran parte della Zona. Qualcosa di insolito?</text>
+	</string>
+	<string id="esc_stalker_mechanic_about_you_11111">
+		<text>Insolito? Dopo quella grande emissione, vidi qualcosa di impressionante mentre tornavo da Agroprom. Una parte di territorio prima normale si era trasformata ed era diventata tutta deformata e contorta. Il mio individuatore di radiazione impazzм molto prima che mi avvicinassi. Piщ tardi gli uomini mi spiegarono che si trattava di una delle anomalie piщ potenti. Quel posto sprigiona un'energia sufficiente ad alimentare un piccolo centro abitato per settimane! Il luogo и come un girone dell'inferno, ma in quel vortice si trovano manufatti rarissimi. Comunque, se mai dovessi capitarci, stai molto, molto attento.</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_0">
+		<text>Ascolta, amico, abbiamo appena visto i militari portare una cassa di armi e di munizioni al deposito. A noi non servono a niente, ma ho pensato che forse a te potrebbero interessare.</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_1">
+		<text>Probabilmente quel posto и pieno zeppo di soldati. Vale la pena rischiare per delle munizioni?</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_2">
+		<text>Beh, prova a pensarci. I trafficanti locali in genere non hanno munizioni calibro 5,45. И un'ottima occasione, e le armi sono anche nuove. Cioи, lo so che non и una missione adatta a una persona sola, quindi io e i ragazzi potremmo darti una mano per un piccolo compenso... diciamo 500 rubli? Tu ci paghi e ti tieni tutto quello che trovi al deposito, d'accordo?</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_3">
+		<text>Va bene, ma devo dirtelo... In genere sono io che vengo pagato per svolgere dei lavori.</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_33">
+		<text>No, ce la farт da solo. Grazie del suggerimento.</text>
+	</string>
+	<string id="esc_stalker_support_attack_atp_4">
+		<text>Non ti preoccupare, anche io ero un mercenario. Forza dell'abitudine, sai?</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_0">
+		<text>Parlami di te.</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_1">
+		<text>Sono un trafficante, anche se non lo faccio piщ da una vita. Come puoi vedere, siamo appena arrivati. Padre Valerian diceva che uno puт essere quello che vuole, e da quel momento ho deciso di diventare un trafficante. Perchй no? Sono competente e conosco Sidorovich cosм bene da poter essere bravo quanto lui. Insomma, giа alle scuole elementari noleggiavo i fumetti ai compagni! Quelli sм che erano tempi d'oro... beh, direi che sono nato per fare affari, no? Cosм eccomi qua, anima e corpo in una nuova professione, per cosм dire. Per ora mi fornisco da Sidorovich, per questo i prezzi non sono granchй, ma ho anche qualcosa di interessante: il frutto delle sortite dei nostri uomini.</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_111">
+		<text>Caro fratello, adesso inizia la vita vera. Quei fetenti dell'esercito ci lasceranno in pace e gli stalker ne trarranno vantaggio. И come ritirarsi in licenza premio al Cordon, dopo cosм tanto tempo in missione... anche il nostro equipaggiamento migliorerа. Non solo. Faremo anche un sacco di soldi con i nostri ritrovamenti, e non come prima, quando l'esercito si prendeva tutto e ci lasciava le briciole. Aspetta e vedrai, ci divertiremo un sacco con quei bastardi ora. Anche solo due proiettili vaganti di notte, giusto per fargli fare un po' di moto, non и divertente, eh? Eh... in ogni caso, da ora in poi le cose cambieranno, vedrai.</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_2">
+		<text>Pensi che la vita al Cordon cambierа?</text>
+	</string>
+	<string id="esc_stalker_trader_about_you_3">
+		<text>Caro fratello, adesso inizia la vita vera. Quei sacchi di merda dell'esercito ci lasceranno in pace e gli stalker ne trarranno vantaggio. И come ritirarsi in licenza premio al Cordon, dopo cosм tanto tempo in missione... anche il nostro equipaggiamento migliorerа. Non solo. Faremo anche un sacco di soldi con i nostri ritrovamenti, e non come prima, quando l'esercito si prendeva tutto e ci lasciava le briciole. Aspetta e vedrai, ci divertiremo un sacco con quei bastardi ora. Anche solo due proiettili vaganti di notte, giusto per fargli fare un po' di moto, non и divertente, eh? Eh... in ogni caso, da ora in poi le cose cambieranno, vedrai.</text>
+	</string>
+	<string id="esc_stalker_trader_quest_0">
+		<text>Posso aiutarti?</text>
+	</string>
+	<string id="esc_stalker_trader_quest_1">
+		<text>Aiutarmi? Beh, forse sм. Vedi, avevamo appena allestito la nostra base in questo posto e, ancora prima che potessimo rendere sicura l'area, i banditi hanno iniziato ad arrivare come mosche e a derubare gli stalker non appena questi mi consegnavano il bottino. Se le cose vanno avanti cosм presto cadrт in rovina. Un'altra squadra di banditi и arrivata accanto alla nostra base. Potresti dar loro una lezione da parte mia?</text>
+	</string>
+	<string id="esc_stalker_trader_quest_11">
+		<text>Al momento non puoi fare nulla per me.</text>
+	</string>
+	<string id="esc_stalker_trader_quest_2">
+		<text>Nessun problema! Gli darт una lezione che ricorderanno a lungo.</text>
+	</string>
+	<string id="esc_stalker_trader_quest_22">
+		<text>Magari la prossima volta.</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_0">
+		<text>Sono qui per i banditi.</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_1">
+		<text>Allora, com'и andata?</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_2">
+		<text>Ho eliminato i banditi.</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_22">
+		<text>Non ancora.</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_222">
+		<text>Beh, il tempo и prezioso, mercenario.</text>
+	</string>
+	<string id="esc_stalker_trader_quest_complete_3">
+		<text>Grazie! Ecco la tua ricompensa.</text>
+	</string>
+	<string id="esc_trader_about_other_0">
+		<text>Qualche storia interessante da raccontare?</text>
+	</string>
+	<string id="esc_trader_about_questions_0">
+		<text>Risponderai alle mie domande?</text>
+	</string>
+	<string id="esc_trader_about_questions_1">
+		<text>Beh, sembri un tipo in gamba, non ho problemi a rispondere alle domande di quelli come te. Vai!</text>
+	</string>
+	<string id="esc_trader_about_questions_11">
+		<text>Sei qui da molto?</text>
+	</string>
+	<string id="esc_trader_about_questions_111">
+		<text>Da tanto, tanto tempo. Sono stato uno dei primi nella Zona. Al tempo non avevamo individuatori di radiazione o tute, l'aspettativa di vita era piuttosto breve. Ecco perchй non mi sono mai spinto oltre la Discarica, non fa per me. Il mio cervello lo uso per altre attivitа: sono come il grasso per un motore, senza di me il motore borbotta, ovvero la gente si mette a litigare. Invece, quando ci sono io, tutti sono felici. Nonostante la Zona sia piena di meraviglie, la richiesta и persino maggiore dell'offerta, sia da parte dei governi sia dei servizi segreti, di agenzie private o di ricchi collezionisti. Io sono il ponte fra loro e questo posto, semplifico i traffici fra la Zona e il mondo esterno. Conosco le persone giuste e posso risolvere quasi ogni faccenda standomene qui seduto. Questo и il mio ritratto.</text>
+	</string>
+	<string id="esc_trader_about_questions_22">
+		<text>Ma perchй hai scelto di vivere in questo luogo?</text>
+	</string>
+	<string id="esc_trader_about_questions_222">
+		<text>Perchй sto qui? Beh, mi piace il clima, poi hai visto che paesaggio? Ah Ah! La veritа и che sono troppo vecchio per girare la Zona come stalker. In piщ, non sono il tipo che sopravvivrebbe all'incontro con un controllore. Soprattutto, questo и un posto tranquillo. Chi ha bisogno di me, saprа trovarmi, ovunque io sia, perchй se qualcuno ha ordinazioni urgenti o vuole merce di qualitа, non va da nessun altro; a volte qui c'и addirittura la fila... perchй sono l'unico in grado di far passare della merce attraverso il Cordon.</text>
+	</string>
+	<string id="esc_trader_about_questions_33">
+		<text>Parlami della Zona.</text>
+	</string>
+	<string id="esc_trader_about_questions_333">
+		<text>Al momento la Zona non и tanto serena. Un paio di giorni fa un'emissione l'ha squassata per bene. Avevo visto una sola emissione tanto potente prima di questa, quella avvenuta dopo l'origine della Zona. Al tempo l'esercito mise in piedi un'armata e si diresse al centro della Zona per eliminarla dalla faccia della terra con le testate nucleari. Appena furono vicini al centro, li colpм un'emissione cosм potente da far volare i carri armati come giocattoli. Morirono quasi tutti sul colpo e i pochi che sopravvissero furono abbandonati dov'erano. Continuarono a chiedere aiuto via radio, ma i generali non avevano il coraggio di mandare un'altra squadra. I sopravvissuti morirono presto, come era logico con tutte quelle anomalie e senza protezione. \nNon so perchй ci sia stata un'altra emissione di tale portata. Forse la Zona ce l'ha con qualcuno? Di certo non con l'esercito, dopo l'ultima volta non escono nemmeno dal Cordon. Gli unici che la esplorano sono gli stalker, ma sembra che la Zona non li abbia mai considerati molto. Il succo и questo: ogni emissione и piщ forte della precedente. Ho un brutto presentimento su questa situazione...</text>
+	</string>
+	<string id="esc_trader_about_questions_44">
+		<text>Hai sentito qualche bella storia riguardo al cuore della Zona?</text>
+	</string>
+	<string id="esc_trader_about_questions_444">
+		<text>Ci sono sempre storie interessanti in giro. Molti stalker sono in debito con me e in cambio mi forniscono notizie su frequenze riservate. La notizia piщ importante и che sono sorte nuove strade che portano a nuove aree della Zona. Non si sentiva piщ parlare di questi posti da anni e da ancora prima nessuno ci metteva piщ piede. Le strade erano bloccate dalle anomalie piщ pericolose, mentre adesso ce ne sono di meno. И comunque difficile passare, ma almeno и possibile! Hai idea di cosa significhi per me? Nuove aree, nuovi manufatti, magari sconosciuti. E chi sarа a mettere le sue vecchie grinfie su tutto quel ben di Dio? Indovinato...</text>
+	</string>
+	<string id="esc_trader_about_situation_0">
+		<text>Cosa sta succedendo qua?</text>
+	</string>
+	<string id="esc_trader_about_situation_1">
+		<text>In una parola, il caos. Gli stalker combattono l'esercito. Una volta c'erano delle regole, l'esercito controllava il territorio, prendeva la propria porzione e lasciava in pace i trafficanti. Ogni tanto rompevano le scatole agli stalker, ma era per mantenere le apparenze, niente di piщ. Ora che le regole sono venute meno, gli stalker credono di essere forti solo perchй hanno piantato un inferno e controllano il Cordon. Quei poveri bastardi non riescono a vedere piщ in lа del loro naso, perchй non finirа cosм. И vero che i ragazzini dell'esercito sono troppo impauriti per comunicare gli ultimi sviluppi al quartier generale - verrebbero alla luce i loro loschi affari - ma prima o poi ci sarа un controllo all'avamposto e si scoprirа tutto. A quel punto... sappiamo tutti quello che accadrа: una spedizione militare. Credimi, una visitina da parte di un plotone Spetsnaz e qui non rimarrа un'anima per raccontarlo. Ah, come se non bastasse le teste vuote all'avamposto verranno sostituite, quindi perderт tutti i miei contatti. Che ne sarа dei miei traffici e del contrabbando? Gli stalker non ce la faranno mai.</text>
+	</string>
+	<string id="esc_trader_about_you_0">
+		<text>Parlami di te.</text>
+	</string>
+	<string id="esc_trader_about_you_1">
+		<text>Che ti devo dire? Sono vecchio e malato, me ne sto qui tranquillo e faccio un po' di affari vendendo kit di pronto soccorso e salsicce ai ragazzi... non и granchй, ma и sicuramente meglio che andare in pensione!</text>
+	</string>
+	<string id="esc_trader_about_you_11">
+		<text>Penso che tu sia troppo modesto, si dicono ben altre cose sul tuo conto.</text>
+	</string>
+	<string id="esc_trader_about_you_111">
+		<text>Beh, si dicono un sacco di cose, per lo piщ fasulle. Accidenti, non so nemmeno chi sei. Facciamo un patto: mostrami chi sei con i fatti, non con le parole, magari mi si scioglierа un po' la lingua. Beh, allora?</text>
+	</string>
+	<string id="esc_trader_about_zone_1">
+		<text>Vuoi che ti racconti le avventure degli stalker? Chiedi pure.</text>
+	</string>
+	<string id="esc_trader_about_zone_111">
+		<text>Maledizione, quella fu un'emissione coi fiocchi... la piщ potente che io ricordi, senza dubbio. Ci colpм cosм duramente da far esplodere i vetri del bunker, che и proprio al confine con la Zona! Non so perchй si sia verificata, ma come и vera la morte, qualcosa и cambiato. Voci di corridoio parlano della scoperta di una strada che porta alla vecchia cittа di Limansk. Pensa! Per anni gli stalker hanno vagato nei boschi cercando un passaggio nel muro di anomalie, poi un giorno, all'improvviso, eccolo dal nulla e per di piщ svanisce ogni traccia di radiazione lungo la strada! Lo stesso и successo alle Paludi, una volta erano raggiungibili solo con l'elicottero militare, ora invece sono accessibili a piedi, purchй lasci nell'armadio le scarpe buone.</text>
+	</string>
+	<string id="esc_trader_about_zone_121">
+		<text>Guerra? La guerra и sempre la guerra e la Zona non fa eccezione. Certo, la gente trova sempre un motivo per combattere, che sia ricchezza o ideali, ma c'era comunque una certa disciplina e tutti stavano al loro posto. Dopo l'emissione anche questo и cambiato... mentre la Duty e la Freedom si sbranavano come cani per un osso, i banditi si sono fatti arroganti e hanno iniziato a dare filo da torcere agli stalker...</text>
+	</string>
+	<string id="esc_trader_about_zone_131">
+		<text>Il centro della Zona? Ah! Un sacco di gente ha cercato di raggiungerlo ma nessuno и riuscito a tornare. L'unica strada che vi conduce passa attraverso il Bruciacervella e non c'и un solo individuo nella Zona che sappia come evitarlo! Diavolo, se anche qualcuno lo scoprisse, non penso che lo racconterebbe in giro... se scoprissi il nascondiglio dei tesori di Aladino, correresti a dirlo a chiunque? Insieme ad alcuni colleghi, altri trafficanti, ho cercato per molto tempo di scoprire una maniera per superare il Bruciacervella, ma siamo ancora al punto di partenza!</text>
+	</string>
+	<string id="esc_trader_about_zone_13111">
+		<text>Dio solo sa cosa sia... и cosм che gli stalker chiamano la foresta a nord dei depositi militari. Dicono che i cervelli letteralmente brucino al suo interno. Un uomo nel pieno delle sue forze non dura piщ di dieci minuti lм. Abbiamo dato un bel po' di soldi agli stalker per informazioni dettagliate sul Bruciacervella, ma per adesso non и servito a niente. Qualcuno vi scompare ogni tanto, per essere ritrovato morto... o zombi.</text>
+	</string>
+	<string id="esc_trader_community_0">
+		<text>I miei rapporti con gli stalker si sono incrinati, non riuscirт a trovare il bottino nй potrт portartelo!</text>
+	</string>
+	<string id="esc_trader_community_1">
+		<text>Mercenario, come hai potuto fare una cosa del genere?!? Posso aiutarti a fare pace con loro... a pagamento.</text>
+	</string>
+	<string id="esc_trader_community_2">
+		<text>Va bene. Ecco il denaro.</text>
+	</string>
+	<string id="esc_trader_community_22">
+		<text>No, no, ci penserт da solo.</text>
+	</string>
+	<string id="esc_trader_community_222">
+		<text>Non ho abbastanza denaro al momento.</text>
+	</string>
+	<string id="esc_trader_community_3">
+		<text>Gli stalker ti hanno perdonato adesso. Fa' che non succeda piщ.</text>
+	</string>
+	<string id="esc_trader_community_33">
+		<text>Sei spacciato, amico.</text>
+	</string>
+	<string id="esc_trader_community_333">
+		<text>Torna quando ne avrai abbastanza.</text>
+	</string>
+	<string id="esc_trader_meet_111">
+		<text>Pare che uno stalker sia venuto recentemente in cerca di rari componenti. Riesci a ricordarlo?</text>
+	</string>
+	<string id="esc_trader_meet_11111">
+		<text>Come posso stimolare la tua memoria?</text>
+	</string>
+	<string id="esc_trader_meet_1111111">
+		<text>Sм, cosa bisogna fare esattamente?</text>
+	</string>
+	<string id="esc_trader_meet_111111111">
+		<text>D'accordo.</text>
+	</string>
+	<string id="esc_trader_meet_222">
+		<text>Bene, grazie delle informazioni.</text>
+	</string>
+	<string id="esc_wolf_about_around_0">
+		<text>Niente di interessante in giro?</text>
+	</string>
+	<string id="esc_wolf_about_around_1">
+		<text>Questo и il Villaggio dei Novellini. All'estremitа del villaggio troverai l'emporio di Sidorovich. Piщ avanti si trova l'avamposto militare, ma lo sai giа visto che vieni da laggiщ. La strada dalla parte opposta dell'avamposto porta nel cuore della Zona.</text>
+	</string>
+	<string id="esc_wolf_about_around_11">
+		<text>Parlami del Villaggio dei Novellini.</text>
+	</string>
+	<string id="esc_wolf_about_around_111">
+		<text>Beh, che posso dire del Villaggio dei Novellini? I ragazzi piщ svegli fanno rifornimento all'emporio di Sidorovich e si dirigono alla Discarica. Laggiщ si trovano dei manufatti niente male e non и sempre cosм pericoloso. Restano lм e fanno un po' di esperienza, prendono confidenza con la Zona. Quelli che restano indietro... ben che vada sono dei completi imbecilli. Alcuni di quelli che vedi in giro sono figli dei fiori in ciabatte con la loro sacca in cerca di "avventura", oppure maledetti secchioni che non hanno mai impugnato niente nelle loro manine paffutelle, a parte un microscopio. Questi piccoli presuntuosi non durano molto qui. Beh, a volte capita da Sidorovich uno stalker veterano che vuole sbarazzarsi del bottino e ne approfitta per un po' di relax.</text>
+	</string>
+	<string id="esc_wolf_about_around_1111">
+		<text>Vi siete sistemati bene qua. L'esercito non vi disturba?</text>
+	</string>
+	<string id="esc_wolf_about_around_11111">
+		<text>A dire il vero l'esercito non ci dа grandi seccature, siamo il loro ultimo pensiero. Ho anche sentito dei discorsi del tipo: "Perchй sprecare proiettili sugli stalker? Moriranno tutti nelle anomalie". Noi non siamo certo i tipi da andarli a provocare, del resto. Se ce l'hanno con qualcuno, stiamo alla larga. Se mandano un'ispezione o una squadra all'avamposto, ci rintaniamo nei nostri bunker. Non siamo amanti della guerra.</text>
+	</string>
+	<string id="esc_wolf_about_around_22">
+		<text>Parlami di Sidorovich.</text>
+	</string>
+	<string id="esc_wolf_about_around_222">
+		<text>Strano che uno come te me lo chieda. Non и il tuo primo giorno nella Zona, eppure mi stai chiedendo di Sidorovich? Diavolo, CHIUNQUE sa chi и Sidorovich, il trafficante piщ famoso della Zona! Se non trovi da lui quello che cerchi, non lo troverai da nessun altro.</text>
+	</string>
+	<string id="esc_wolf_about_you_0">
+		<text>Parlami di te.</text>
+	</string>
+	<string id="esc_wolf_about_you_1">
+		<text>Qui sono il capo. Sto cercando di insegnare a questi novellini e secchioni a non diventare alla loro prima gita alla Zona mangime per mutanti. Mica facile, sai? Ho passato buona parte della mia vita nella Zona ormai, и da un po' che cerco di andarmene... Dio solo sa quanto tempo ho passato al Cordon. Ma и colpa di questo posto, non mi lascia andare. A ogni incursione militare, o emissione, o lavoretto redditizio, penso sempre: "OK, ancora questo e poi vado", invece eccomi qua.</text>
+	</string>
+	<string id="esc_wolf_about_zone_0">
+		<text>Parlami di questo posto.</text>
+	</string>
+	<string id="esc_wolf_about_zone_1">
+		<text>Siamo al Cordon, oltre l'avamposto militare c'и il mondo esterno, mentre tutto ciт che vedi dalla parte opposta и Zona. A guardarla da qua non lo diresti nemmeno: poche anomalie e pochi manufatti, distanti fra loro, anche i mostri si contano sulle dita di una mano. L'esercito cerca di tenere tutto sotto controllo da queste parti, per questo и un'area tranquilla, almeno in confronto al resto della Zona. </text>
+	</string>
+	<string id="esc_wolf_about_zone_111">
+		<text>Questo и il Villaggio dei Novellini. All'estremitа del villaggio troverai l'emporio di Sidorovich. Piщ avanti si trova l'avamposto militare, ma lo sai giа visto che vieni da laggiщ. La strada dalla parte opposta dell'avamposto porta nel cuore della Zona.</text>
+	</string>
+	<string id="esc_wolf_brother_0">
+		<text>Vengo da parte di Lupo. Sei suo fratello, giusto?</text>
+	</string>
+	<string id="esc_wolf_brother_1">
+		<text>Sм, sono il fratello. Ho la sensazione di dovermene andare al piщ presto da qui, ma il fatto и che non ho armi... puoi darmi qualcosa?</text>
+	</string>
+	<string id="esc_wolf_brother_2">
+		<text>Ecco, prendi una pistola.</text>
+	</string>
+	<string id="esc_wolf_brother_22">
+		<text>Ecco, prendi una doppietta.</text>
+	</string>
+	<string id="esc_wolf_brother_222">
+		<text>Ecco, prendi un fucile d'assalto.</text>
+	</string>
+	<string id="esc_wolf_brother_2222">
+		<text>Non ho niente.</text>
+	</string>
+	<string id="esc_wolf_brother_55">
+		<text>testo predefinito</text>
+	</string>
+	<string id="esc_wolf_brother_complete_0">
+		<text>Ho tirato fuori tuo fratello!</text>
+	</string>
+	<string id="esc_wolf_brother_complete_1">
+		<text>Fantastico! Ecco la tua ricompensa.</text>
+	</string>
+	<string id="esc_wolf_novice_complete_0">
+		<text>Ho seguito quello stalker, proprio come mi avevi chiesto.</text>
+	</string>
+	<string id="esc_wolf_novice_complete_1">
+		<text>Ottimo lavoro, stalker. Spero che questo gli insegni un po' di umiltа.</text>
+	</string>
+	<string id="esc_wolf_novice_fail_0">
+		<text>Purtroppo, non sono riuscito a proteggerlo ed и morto.</text>
+	</string>
+	<string id="esc_wolf_novice_fail_1">
+		<text>Dannazione! Sarei dovuto andare io stesso! Forse si sarebbe arrabbiato, ma almeno sarebbe ancora vivo. Cavolo, abbiamo perso uno stalker davvero promettente.</text>
+	</string>
+	<string id="esc_wolf_novice_thank_you_0">
+		<text>Grazie per avermi salvato la pelle, stalker. Credevo di essere spacciato ormai, fatto a brandelli dai cani. Non tornerт mai piщ da solo nella foresta.</text>
+	</string>
+	<string id="esc_wolf_other_works_0">
+		<text>Hai del lavoro per me?</text>
+	</string>
+	<string id="esc_wolf_other_works_1">
+		<text>Sм. I banditi hanno preso in ostaggio mio fratello e chiedono un riscatto da capogiro. Non disponiamo affatto di un contante simile, e con questi dilettanti non ce lo procureremmo mai in tempo. E anche se ci riuscissimo, chi ci dice che non uccideranno mio fratello dopo aver ricevuto il riscatto?</text>
+	</string>
+	<string id="esc_wolf_other_works_11">
+		<text>Non ancora.</text>
+	</string>
+	<string id="esc_wolf_other_works_111">
+		<text>Uno dei miei ragazzi non sopporta il fatto che gli altri lo ritengano un principiante, cosм si и messo in testa di eliminare un branco di cani per guadagnarsi un po' di rispetto. И un tipo sveglio ed и bravo a sparare, ma и giovane, hai capito? Sono preoccupato per lui. Credi di potergli dare una mano?</text>
+	</string>
+	<string id="esc_wolf_other_works_1111">
+		<text>Per il momento ce la caviamo da soli. Torna piщ tardi, forse ci servirа di nuovo il tuo aiuto.</text>
+	</string>
+	<string id="esc_wolf_other_works_11111">
+		<text>No.</text>
+	</string>
+	<string id="esc_wolf_other_works_1112">
+		<text>Nessun problema, dove posso trovarlo?</text>
+	</string>
+	<string id="esc_wolf_other_works_11121">
+		<text>Ecco le coordinate.</text>
+	</string>
+	<string id="esc_wolf_other_works_1113">
+		<text>Spiacente, stavolta no.</text>
+	</string>
+	<string id="esc_wolf_other_works_11131">
+		<text>Voi mercenari siete tutti uguali, non ve ne frega niente di nessuno!</text>
+	</string>
+	<string id="esc_wolf_other_works_2">
+		<text>Ricevuto, cercherт di tirare fuori tuo fratello vivo.</text>
+	</string>
+	<string id="esc_wolf_other_works_22">
+		<text>Grazie, mercenario, sapevo che mi avresti aiutato. Ecco le coordinate del loro accampamento. Sii prudente e buona fortuna!</text>
+	</string>
+	<string id="esc_wolf_other_works_3">
+		<text>Purtroppo non posso aiutarti.</text>
+	</string>
+	<string id="esc_wolf_other_works_4">
+		<text>Non mi riguarda.</text>
+	</string>
+	<string id="esc_wolf_other_works_44">
+		<text>Allora vattene.</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_0">
+		<text>Allora, testa calda, non ti sei ancora stancato di fare l'eroe?</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_11">
+		<text>Stammi alla larga! Mi occuperт delle bestie da solo! Cosм gliela farт vedere! Non mi chiameranno mai piщ dilettante!</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_1112">
+		<text>Ho paura!</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_112">
+		<text>Prendi questa pistola.</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_1122">
+		<text>Prendi questa doppietta.</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_11222">
+		<text>Prendi questo fucile d'assalto.</text>
+	</string>
+	<string id="esc_wolf_stalker_novice_112222">
+		<text>A loro ci penso io.</text>
+	</string>
+	<string id="esc_wolf_talk_0">
+		<text>Questo и un campo di reclutamento, non di mercenari, amico.</text>
+	</string>
+	<string id="esc_wolf_talk_1">
+		<text>Sono qui per vedere Sidorovich.</text>
+	</string>
+	<string id="esc_wolf_talk_11">
+		<text>Si trova nel bunker, appena fuori dal villaggio.</text>
+	</string>
+	<string id="esc_wolf_talk_111">
+		<text>Grazie, vado subito da lui.</text>
+	</string>
+	<string id="esc_wolf_talk_2">
+		<text>Ho un incarico da Sidorovich, devo passare dalla base degli stalker.</text>
+	</string>
+	<string id="esc_wolf_talk_22">
+		<text>Beh, и appena oltre la massicciata della ferrovia, и il paradiso degli stalker quello.</text>
+	</string>
+	<string id="esc_wolf_talk_222">
+		<text>Grazie.</text>
+	</string>
+</string_table>

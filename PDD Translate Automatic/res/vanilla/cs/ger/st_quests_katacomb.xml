@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hospital_task_general_text">
+		<text>Finde den Eingang zu den Katakomben.</text>
+	</string>
+	<string id="hospital_task_general_title">
+		<text>Finde den Eingang zu den Katakomben</text>
+	</string>
+	<string id="katacomb_task_3_objective_1">
+		<text>Halte aus, bis die "Clear Sky"-Einheit kommt</text>
+	</string>
+	<string id="katacomb_task_3_objective_2">
+		<text>Hilf der "Clear Sky"-Einheit</text>
+	</string>
+	<string id="katacomb_task_3_text">
+		<text>Kдmpfe dich durch bis zum Eingang zu den Katakomben.</text>
+	</string>
+	<string id="katacomb_task_3_title">
+		<text>Kдmpfe dich durch bis zum Eingang zu den Katakomben</text>
+	</string>
+	<string id="katacomb_task_helicopter_text">
+		<text>Schalte den Helikopter aus.</text>
+	</string>
+	<string id="katacomb_task_helicopter_title">
+		<text>Schalte den Helikopter aus</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_text">
+		<text>Tцte den Scharfschьtzen.</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_title">
+		<text>Tцte den Scharfschьtzen</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_1">
+		<text>Bewege dich zur Treppe, die ins Erdgeschoss fьhrt</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_2">
+		<text>Laufe durchs Erdgeschoss</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_3">
+		<text>Erreiche die Brьcke</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_4">
+		<text>Ьberquere die Brьcke</text>
+	</string>
+	<string id="katacomb_task_sniper_back_text">
+		<text>Hilf der "Clear Sky"-Einheit, dem feindlichen Feuer zu entgehen.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_title">
+		<text>Schleich dich an den feindlichen Scharfschьtzen an</text>
+	</string>
+	<string id="katacomb_task_z2_exit_text">
+		<text>Bewege dich in die dritte Halle.</text>
+	</string>
+	<string id="katacomb_task_z2_exit_title">
+		<text>Bewege dich in die dritte Halle</text>
+	</string>
+</string_table>

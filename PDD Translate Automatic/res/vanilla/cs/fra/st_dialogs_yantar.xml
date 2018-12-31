@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="yan_scientist_hello_dialog_11">
+		<text>Eh bien... Je vois rarement de nouvelles tкtes par ici ! Qu'aimeriez-vous savoir ?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_12">
+		<text>Alors ?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_13">
+		<text>Je suis heureux que nous ayons pu nous entraider. Que puis-je faire pour vous ?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_14">
+		<text>Allez voir le Gaucher ! Il vous attend.</text>
+	</string>
+	<string id="yan_scientist_go_diggers_1">
+		<text>Le groupe a disparu dans la partie nord-ouest du complexe. La zone grouille de zombies. Je ne peux y envoyer aucun des stalkers qui dйfendent le pйrimиtre, ils arrivent а peine а repousser les attaques que nous subissons. Mais nous interceptons toujours leur S.O.S. Pourriez-vous essayer de les sauver ? S'ils sont toujours en vie...</text>
+	</string>
+	<string id="yan_scientist_bring_documents_1">
+		<text>C'est triste pour ces jeunes gens ! J'espиre que leur sacrifice n'aura pas йtй vain ! Bon, voyons voir ces documents... Comme c'est intйressant ! Ainsi, certains de mes soupзons йtaient fondйs... Vraiment, c'est trиs intйressant ! Excellent ! Cela rйpond а de nombreuses interrogations, mais il me faudra encore du temps avant de comprendre exactement ce qui se passe ici.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_111">
+		<text>Il semblerait que nous ayons affaire а un dispositif d'origine humaine. Ces documents sont un manuel d'utilisation pour le systиme de refroidissement du dispositif qui se trouve dans les souterrains du complexe. Sa consommation йnergйtique est йpoustouflante ! Oui, je commence а y voir plus clair... Ces poussйes d'activitй psi sont apparemment dues а une dйfaillance du systиme de refroidissement... Si nous pouvions le rйparer, les niveaux d'йmissions psi seraient considйrablement rйduits. Il me faut un peu de temps pour y rйflйchir. En attendant, avancez vers le complexe et rejoignez le Gaucher et son groupe. Je devrais avoir plus d'informations d'ici lа.</text>
+	</string>
+	<string id="yan_scientist_about_zombie_1">
+		<text>Oui, ils nous posent problиme depuis que nous avons installй le laboratoire. Les murs sont solides, mais avec tous ces hurlements et ce vacarme, difficile de se concentrer ! Comme vous l'imaginez, il n'est pas aisй de procйder а des expйrimentations ou mкme de dormir dans ces conditions. Sans oublier que nous devons parfois sortir du bunker pour ramasser des йchantillons.</text>
+	</string>
+	<string id="yan_scientist_about_zombie_111">
+		<text>Nous avons longtemps rйflйchi а ce problиme. Quels que soient les efforts dйployйs par les militaires pour nettoyer le complexe, les zombies reviennent toujours. Nous avons tout compris lorsque l'un de mes assistants, portй disparu, est rйapparu parmi les zombies... C'est le champ psi ! Toute personne affectйe perd la tкte et se transforme en zombie, suite aux dйgвts irrйversibles subis par ses fonctions cognitives. Ces crйatures ne sont plus humaines : elles sont incapables de rйflйchir et leur comportement est strictement le rйsultat de rйflexes animaux rйsiduels...</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1">
+		<text>Oui, il est venu ici. Il savait beaucoup de choses, bien plus que la plupart des gens. Il prйtendait mкme avoir atteint le centre de la Zone. Naturellement, je n'en ai pas cru un mot, mкme quand il m'a montrй certaines photographies...</text>
+	</string>
+	<string id="yan_scientist_about_strelok_111">
+		<text>Nous avons passй un marchй avec lui. Il a promis de tester sur le terrain un de nos prototypes les plus prometteurs, un bloqueur d'йmissions psi, en йchange d'un modиle final. Strelok pensait qu'il lui permettrait de passer le Lobotomisateur. Nous lui avons donnй le prototype et il est entrй dans l'usine. Depuis le prototype et lui ont disparu de la circulation. Nous ne les avons pas revus. Nous avons reзu quelques donnйes par satellite, mais avons rapidement perdu le signal. Il semblerait que Strelok ait йtй frappй par une puissante йmission dans l'usine.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11111">
+		<text>Si Strelok est dans l'usine, il sera impossible d'y pйnйtrer sans protection contre les йmissions psi. Nous йtudions les йmissions psi йmanant du complexe depuis des annйes : elles sont de nature pulsative. Au plus bas de leur cycle, il est possible d'entrer dans l'usine sans trop de difficultй. Cependant, il est impossible de prйvoir quand la prochaine йmission aura lieu... Pйnйtrer dans l'usine revient donc а jouer а la roulette russe ! Si vous suivez Strelok dans l'usine, vous finirez probablement comme les zombies des environs. Cependant, je peux peut-кtre vous aider. Il y a quelque temps, j'ai йtй contactй par des stalkers qui sont ressortis vivants du complexe. Ils ont trouvй des documents techniques dans l'un des bвtiments. Ces informations pourraient nous permettre de comprendre ce que contient l'usine et de dйcouvrir la source de ces puissantes йmissions psi ! Aidez-moi а rйcupйrer ces documents et je vous aiderai а entrer dans l'usine !</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_1">
+		<text>C'est l'usine dйsaffectйe ! Elle attire les stalkers comme un aimant, car c'est l'un des rares bвtiments auquel personne n'a encore pu accйder ! Ils pensent y trouver des artefacts trиs rares et du matйriel prйcieux... Ils essaient donc tous d'y entrer, mais cela revient а jouer а la roulette russe ! Le champ psi est trиs instable. Lorsqu'il est а son maximum, il dйtruit un cerveau humain en quelques secondes !</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_11">
+		<text>Mercenaire, j'ai reзu des infos de Sakharov. Quel bordel ! Tu vois cette brиche dans le mur ? C'est notre chemin le plus court vers la machine. Suis-moi et tout ira bien ! Moi et les gars, on bosse en йquipe, alors te mets pas en travers du chemin ! Pigй ?</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_111">
+		<text>Reзu 5 sur 5.</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_0">
+		<text>Qu'est-ce que les stalkers font ici ?</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_11">
+		<text>Et le Gaucher ?</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_111">
+		<text>Il est plus intelligent que la plupart. Ses hommes nous aident а faire des relevйs et а rйcupйrer des йchantillons. En йchange, nous lui fournissons une assistance mйdicale de qualitй. Si nos deux groupes ne collaboraient de cette faзon, nous n'aurions pas survйcu aussi longtemps.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_0">
+		<text>Je sais que Strelok est passй par lа. Qu'est-ce que vous savez sur lui ?</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11">
+		<text>Oщ est Strelok maintenant ?</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1111">
+		<text>Comme est-ce que je peux trouver Strelok ?</text>
+	</string>
+	<string id="yan_scientist_about_zombie_0">
+		<text>Les zombies vous attaquent souvent ?</text>
+	</string>
+	<string id="yan_scientist_about_zombie_11">
+		<text>Si c'est vrai, je me demande d'oщ sortent ces zombies...</text>
+	</string>
+	<string id="yan_scientist_bring_documents_0">
+		<text>Les stalkers sont morts. Mais j'ai rapportй les documents.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_11">
+		<text>Vous ne pourriez pas кtre plus prйcis, professeur ?</text>
+	</string>
+	<string id="yan_scientist_go_diggers_0">
+		<text>Je vais obtenir les documents. Dites-moi tout ce que vous savez ?</text>
+	</string>
+	<string id="yan_scientist_start_frase_1">
+		<text>J'en ai pour une minute !</text>
+	</string>
+	<string id="yan_scientist_start_frase_2">
+		<text>Un moment !</text>
+	</string>
+</string_table>

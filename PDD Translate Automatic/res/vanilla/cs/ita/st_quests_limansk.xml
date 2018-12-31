@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_destroy_ambush_2_name">
+		<text>Distruggi il nemico agli incroci</text>
+	</string>
+	<string id="lim_destroy_ambush_2_text">
+		<text>Neutralizza l'imboscata nemica agli incroci.</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_name">
+		<text>Distruggi la mitragliatrice</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_text">
+		<text>Agli incroci и in corso un'autentica guerriglia. L'edificio a sinistra и occupato dai banditi, ed и un'ottima posizione per sgombrare la strada davanti. Distruggi la mitragliatrice all'interno dell'edificio.</text>
+	</string>
+	<string id="lim_destroy_military_minigun_name">
+		<text>Distruggi la mitragliatrice</text>
+	</string>
+	<string id="lim_destroy_military_minigun_text">
+		<text>Il nemico si и trincerato nell'edificio dalla parte opposta del ponte. И un'area ben coperta, tanto che la squadra Clear Sky non и riuscita a superare il ponte. Devi raggiungere l'edificio e interrompere il fuoco nemico. Nel frattempo la squadra Clear Sky cercherа di distrarre il nemico.</text>
+	</string>
+	<string id="lim_electro_fence_name">
+		<text>Disattiva il generatore</text>
+	</string>
+	<string id="lim_electro_fence_text">
+		<text>Unitа elettrica individuata. Disattiva il generatore e togli la corrente alla recinzione.</text>
+	</string>
+	<string id="lim_find_way_through_construction_name">
+		<text>Attraversa il cantiere</text>
+	</string>
+	<string id="lim_find_way_through_construction_text">
+		<text>La periferia di Limansk и molto vicina, ma la strada attraversa un edificio mai completato. Trova un modo per superare il cantiere.</text>
+	</string>
+	<string id="lim_go_into_limansk_name">
+		<text>Perlustra la strada per Limansk</text>
+	</string>
+	<string id="lim_go_into_limansk_text">
+		<text>Lebedev ha ordinato di perlustrare la strada per Limansk per garantire un passaggio sicuro alla squadra Clear Sky principale. Nelle strade della cittа и scoppiata una guerra. Procedi con prudenza.</text>
+	</string>
+	<string id="lim_go_to_canal_name">
+		<text>Dirigiti verso il ponte usando il canale</text>
+	</string>
+	<string id="lim_go_to_canal_text">
+		<text>Il fuoco nemico и troppo potente. Dirigiti verso il ponte usando il canale.</text>
+	</string>
+	<string id="lim_destroy_ambush_1_name">
+		<text>Neutralizza l'imboscata</text>
+	</string>
+	<string id="lim_destroy_ambush_1_text">
+		<text>Neutralizza l'imboscata.</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_name">
+		<text>Torna dal comandante del gruppo</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_text">
+		<text>Torna dal comandante del gruppo.</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_name">
+		<text>Aiuta il combattente a cogliere di sorpresa il cecchino</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_text">
+		<text>Aiuta il combattente Clear Sky a cogliere di sorpresa il cecchino.</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_name">
+		<text>Trova il generatore</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_text">
+		<text>La via che conduce al generatore и bloccata da una recinzione elettrificata. La cittа и senza corrente da molto tempo, quindi dev'esserci un generatore che alimenta la recinzione. I cavi sembrano provenire dall'edificio dell'istituto a destra. Trova il generatore di corrente.</text>
+	</string>
+	<string id="lim_electro_fence_sniper_name">
+		<text>Elimina il cecchino</text>
+	</string>
+	<string id="lim_electro_fence_sniper_text">
+		<text>La recinzione и rimasta senza corrente. Ora и possibile avvicinarsi ed eliminare il cecchino. Uccidilo.</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_name">
+		<text>Trova il comandante del gruppo</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_text">
+		<text>Trova il comandante del gruppo.</text>
+	</string>
+</string_table>

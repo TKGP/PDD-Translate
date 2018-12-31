@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="red_forester_hello_dialog_0">
+		<text>Was verschafft mir diese Ehre?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1">
+		<text>Die Sцldner haben dir ziemlich interessante Dinge erzдhlt. Scheinbar hatte ich Recht; die groЯe Emission, die die Zone erschьttert hat, war so stark, dass sie den Raum selbst verдndert und eine Schleife erzeugt hat.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111">
+		<text>Bitte nicht zu wissenschaftlich werden - es ist eine Raumschleife entstanden: Welchen Weg auch immer man wдhlt, man landet wieder am Ausgangspunkt. Das hat dazu gefьhrt, dass nach der Emission in der Gegend von Limansk einige Stalker in Raumblasen geraten sind und feststecken. Nun, mittlerweile kennen wir ihre Koordinaten und PDA-Frequenzen und ich weiЯ mehr ьber diese Blasen.</text>
+	</string>
+	<string id="red_forester_has_compas_1">
+		<text>Ich hatte schon die Hoffnung aufgegeben, den Kompass wiederzusehen! Danke! Gib mir etwas Zeit und ich finde einen Weg aus der Blase. Wдhrenddessen musst du eine Mцglichkeit finden, den gefangenen Stalkern Informationen zukommen zu lassen. Dafьr benцtigen wir einen starken Sender. Ich habe gehцrt, dass es bei den Militдrlagern einen geben soll - damit kommunizieren sie mit der AuЯenwelt. Der Sender dьrfte stark genug sein, um Kontakt zu den Stalkern aufnehmen zu kцnnen.</text>
+	</string>
+	<string id="red_forester_has_compas_111">
+		<text>Ich werde dir die Koordinaten, die du brauchst, ьbermitteln, sobald du den Sender gefunden hast. Wenn alles klappt, werden es die Jungs aus der Blase schaffen und nahe an der Brьcke nach Limansk herauskommen. Sie kцnnten vielleicht sogar den Banditen bei der Brьcke einen Besuch abstatten.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11111">
+		<text>Nun, vor einigen Tagen habe auch ich in einer Blase festgesteckt. Da wusste ich noch nicht, dass es sich um eine neue Anomalie handelt, und dachte schon, dass ich den Verstand verliere - die Waldlichtung kam mir bekannt vor, aber wohin ich auch immer ging, ich kam nicht heraus! Und dann hat mir die Zone selbst ein Artefakt gegeben, das mir den Weg aus der Blase gezeigt hat. Ich bezeichne es als Kompass. Auf dem Rьckweg bin ich dann jedoch von Banditen ьberfallen worden... sie haben mich - einen alten Mann - verschont, aber meinen Kompass haben sie sich geschnappt. Bring mir dieses Artefakt zurьck und ich werde mir etwas einfallen lassen, um die Sцldner da herauszuholen.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111111">
+		<text>Die Halunken haben ein Lager am Rand des Roten Waldes errichtet. Die Koordinaten habe ich an deinen PDA ьbermittelt.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_1">
+		<text>Limansk war fьr viele Jahre verloren, und es gab viele gute Grьnde dafьr. Es wдre fьr uns alle das Beste, wenn es auch dabei bliebe. Was willst du in Limansk?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_3">
+		<text>Du bist kein gewцhnlicher Mann. Die Zone hat dich gezeichnet und ich weiЯ nicht, ob das ein Fluch oder ein Segen ist. Der gewohnte Lauf der Dinge wurde gestцrt... die Zone wird immer instabiler und du bist ein Teil dieser Geschehnisse. Ich werde dir helfen... auch wenn ich nicht sicher bin, ob es das Richtige ist.
+Nach Limansk zu gelangen, ist nicht einfach. Der kьrzeste Weg in die Stadt ist ьber die Brьcke, aber die ist zurzeit hochgezogen. Allerdings musste ich mit Ьberraschung feststellen, dass sie nicht der einzige Weg ist. Die Freiheits- und Wдchterfraktionen haben die Brьcke gleich nach der groЯen Emission hochgezogen, aber die Banditen sind einige Tage spдter dennoch an das andere Ufer gelangt und haben die Brьcke unter ihre Kontrolle gebracht. Das bedeutet, dass es mindestens einen weiteren Weg dorthin geben muss.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_5">
+		<text>Die groЯe Emission hat die Zone stark verдndert. Die gewohnten und sicheren Wege sind mittlerweile von tцdlichen Anomalien verseucht, wдhrend an anderen Stellen neue Zugдnge entstanden sind, die zuvor Jahre lang unzugдnglich waren. Und ich bezweifle, dass schon alle entdeckt wurden. Ob du es glaubst oder nicht, auf meinem PDA empfange ich ab und an Funkspruchfetzen aus der Gegend von Limansk. Dafьr gibt es nur eine Erklдrung: Einige Stalker haben neue Wege in die Stadt gefunden und brauchen Hilfe.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_7">
+		<text>Leider ist das Signal so schwach, dass ich nicht viel damit anfangen kann. Soviel ich verstanden habe, sind die Stalker in einer Raumschleife gefangen - wohin sie auch gehen, sie landen immer an ihrem Ausgangspunkt. Wenn wir sie da herausbekommen kцnnten, wьrden wir erfahren, wie man nach Limansk gelangt.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_9">
+		<text>Gehe zu den Militдrlagern. Auf den Hьgeln dort oben sollte das Signal stдrker sein. Wenn du etwas herausfindest, lass es mich wissen, ja?</text>
+	</string>
+	<string id="red_artefact_hunters_11">
+		<text>Hallцchen, Sцldner! Was fьr ein Glьck, dass die Zone dich zu uns gefьhrt hat!</text>
+	</string>
+	<string id="red_artefact_hunters_111">
+		<text>Hi.</text>
+	</string>
+	<string id="red_artefact_hunters_1111">
+		<text>Wir hдtten da einen Auftrag fьr dich. Wir sind nдmlich nicht in diesen Wald gekommen, um Pilze zu sammeln. In der Nдhe soll es eine anormale Zone mit Tonnen von Artefakten geben. Ich weiЯ, wie man dort hinkommt, aber die StraЯe fьhrt durch den Wald - und ьber den hast du sicherlich schon so einiges gehцrt. Er ist eine verfluchte Todesfalle. Wenn du uns dort hinbringst und dann eine Weile Wache hдltst, werden wir dich fьr deine Mьhen mit einem hьbschen, netten Artefakt entlohnen. Abgemacht?</text>
+	</string>
+	<string id="red_artefact_hunters_11111">
+		<text>Abgemacht. Gehen wir.</text>
+	</string>
+	<string id="red_artefact_hunters_11112">
+		<text>Ich kann diesen Wald auch nicht leiden. Ich muss gehen.</text>
+	</string>
+	<string id="red_artefact_hunters_111121">
+		<text>Mach, was du willst. Komm wieder, wenn du deine Meinung geдndert hast.</text>
+	</string>
+	<string id="red_artefact_hunters_21">
+		<text>Ja?</text>
+	</string>
+	<string id="red_artefact_hunters_211">
+		<text>Was hast du noch mal ьber diesen Ort mit den Tonnen von Artefakten gesagt?</text>
+	</string>
+	<string id="red_artefact_hunters_22">
+		<text>Mach's gut.</text>
+	</string>
+	<string id="red_artefact_hunters_31">
+		<text>Wir reden spдter.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11">
+		<text>Bitte nicht schieЯen!</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_111">
+		<text>Was seid ihr fьr Leute?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1111">
+		<text>Einfache Stalker. Strelok hat uns angeheuert.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11111">
+		<text>Warum hast du mich angegriffen?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_111111">
+		<text>Strelok hat gesagt, dass alle hinter ihm her seien und er Schutz brдuchte. Wir haben dich fьr einen Attentдter gehalten.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1111111">
+		<text>Verstehe.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_112">
+		<text>Wo ist Strelok hin?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1121">
+		<text>Ich weiЯ es nicht, er hat nicht gesagt, wohin er gehen wollte.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11211">
+		<text>Er hat kein Wort gesagt? Wьrde ein Loch in deinem Hirn dein Gedдchtnis ein wenig auffrischen?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_112111">
+		<text>Bitte nicht! Er hat wirklich nicht gesagt, wohin er geht. Ich weiЯ nur, wo er sein Zeug hat. Hier sind die Koordinaten.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1121111">
+		<text>Okay...</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11212">
+		<text>Na gut...</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_113">
+		<text>WeiЯt du, wo der Fцrster ist?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1131">
+		<text>Ja. Du findest den Fцrster bei der alten Mine auf der anderen Seite des Waldes. Er hat Strelok eine Karte verkauft, die den Weg durch den Wald zeigt. Ohne diese Karte ist der Wald ein undurchdringliches Labyrinth.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11311">
+		<text>Kannst du mich dort hinfьhren?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_113111">
+		<text>Ja, ich kann mich an die Karte erinnern. Aber es ist gefдhrlich. Der Wald wimmelt von Mutanten.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1131111">
+		<text>Ich kьmmere mich darum. Gehen wir.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_114">
+		<text>Ich gehe. Warte einfach.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_0">
+		<text>Bitte nicht schieЯen!</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_1">
+		<text>Was seid ihr fьr Leute?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_11">
+		<text>Einfache Stalker. Strelok hat uns angeheuert.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_111">
+		<text>Warum hast du mich angegriffen?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_1111">
+		<text>Strelok hat gesagt, dass alle hinter ihm her seien und er Schutz brдuchte. Wir haben dich fьr einen Attentдter gehalten.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_11111">
+		<text>Verstehe.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_3">
+		<text>Wo ist Strelok hin?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_31">
+		<text>Ich weiЯ es nicht, er hat nicht gesagt, wohin er gehen wollte.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_311">
+		<text>Er hat kein Wort gesagt? Wьrde ein Loch in deinem Hirn dein Gedдchtnis ein wenig auffrischen?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_3111">
+		<text>Bitte nicht! Er hat wirklich nicht gesagt, wohin er geht. Ich weiЯ nur, wo er sein Zeug hat. Hier sind die Koordinaten.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_31111">
+		<text>Okay.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_312">
+		<text>Na gut...</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_4">
+		<text>WeiЯt du, wo der Fцrster ist?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_41">
+		<text>Ja. Du findest den Fцrster bei der alten Mine auf der anderen Seite des Waldes. Er hat Strelok eine Karte verkauft, die den Weg durch den Wald zeigt. Ohne diese Karte ist der Wald ein undurchdringliches Labyrinth.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_411">
+		<text>Kannst du mich dort hinfьhren?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_4111">
+		<text>Ja, ich kann mich an die Karte erinnern. Aber es ist gefдhrlich. Der Wald wimmelt von Mutanten.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_41111">
+		<text>Ich kьmmere mich darum. Gehen wir.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_5">
+		<text>Ich gehe. Keine Bewegung.</text>
+	</string>
+	<string id="red_bounty_hunter_way_11">
+		<text>Gehen wir schneller, es ist sehr gefдhrlich hier.</text>
+	</string>
+	<string id="red_bounty_hunter_way_111">
+		<text>Wovor hast du Angst?</text>
+	</string>
+	<string id="red_bounty_hunter_way_1111">
+		<text>Das ist der Rote Wald! Hier verschwinden reihenweise Stalker und wir sind nur zu zweit. Beeilen wir uns, bevor es uns leid tut.</text>
+	</string>
+	<string id="red_bounty_hunter_way_12">
+		<text>Wir sind fast am Ziel. In der Nдhe ist ein Lager der Stalker.</text>
+	</string>
+	<string id="red_bounty_hunter_way_13">
+		<text>Wir sind da. In diesem Lagerraum wohnt der Fцrster.</text>
+	</string>
+	<string id="red_bounty_hunter_way_14">
+		<text>Schneller.</text>
+	</string>
+	<string id="red_bounty_hunter_way_15">
+		<text>Hi!</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11">
+		<text>Nicht an die Tore herantreten! Dort liegen Minen.</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_111">
+		<text>Wie bitte?! Aber ich muss durch!</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_1111">
+		<text>Solange wir hier sind, werden die Tore nicht geцffnet, Sцldner. Aus dem Wald kцnnen jederzeit Monster herausspringen und sich dich zum Frьhstьck schnappen. Aber wenn du uns hilfst, цffnen wir die Tore fьr dich. Wir wollen in die alte Mine - da soll's jede Menge Artefakte geben. AuЯerdem ist es dort sicher - sicher genug, um sich vor einer Emission zu verbergen. Aber alleine kцnnen wir sie nicht halten. Mit uns waren ein paar weitere Stalker unterwegs: Einige gingen durch die Mьllhalde, andere durch Jantar. Wenn es jemand von ihnen geschafft hat, hдtten wir gerne, dass du sie zu der Mine fьhrst. Dann werden wir die Tore fьr dich цffnen.</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11111">
+		<text>Einverstanden. Ich bringe euch Hilfe und ihr цffnet die Tore.</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11112">
+		<text>Auf gar keinen Fall.</text>
+	</string>
+	<string id="red_forest_stalkers_task_11">
+		<text>Hi Sцldner!</text>
+	</string>
+	<string id="red_forest_stalkers_task_111">
+		<text>Hi!</text>
+	</string>
+	<string id="red_forest_stalkers_task_1111">
+		<text>Wir haben einen Job fьr dich.</text>
+	</string>
+	<string id="red_forest_stalkers_task_11111">
+		<text>Erzдhl.</text>
+	</string>
+	<string id="red_forest_stalkers_task_111111">
+		<text>Hol uns die Karte vom Roten Wald.</text>
+	</string>
+	<string id="red_forest_stalkers_task_11111111">
+		<text>Okay.</text>
+	</string>
+	<string id="red_forest_stalkers_task_2">
+		<text>Hier ist die Karte.</text>
+	</string>
+	<string id="red_forest_stalkers_task_21">
+		<text>Danke fьr die Hilfe.</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>Erzдhl mir vom Roten Wald.</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>Das hier war mal ein Naturschutzgebiet und ich war der Fцrster. Ich habe den Wald und seine Tiere vor Wilderern beschьtzt. Jetzt schьtzt die Zone diesen Ort - so gut, dass die Leute lieber einen riesigen Umweg um den Wald machen. Jeder Fremde, der einen FuЯ in den Wald setzt, ist so gut wie tot. Ich bin zwar der Fцrster, aber was genau hier vor sich geht, weiЯ ich auch nicht. Leute laufen in den Nebel und verschwinden einfach im Nichts. Selbst wenn man direkt hinter jemandem herlдuft, bekommt man nicht mit, wie er stirbt. Das wдr's dann wohl, mein Junge.</text>
+	</string>
+	<string id="red_forester_about_limansk_0">
+		<text>Ich muss nach Limansk.</text>
+	</string>
+	<string id="red_forester_about_limansk_1">
+		<text>Limansk war viele Jahre verschollen und dafьr gab es gute Grьnde. Es wдre besser fьr uns alle, wenn es weiterhin verschollen bliebe. Was willst du in Limansk?</text>
+	</string>
+	<string id="red_forester_about_limansk_11">
+		<text>Hцrt sich vielleicht abgegriffen an, aber bei der Sache geht's um Leben und Tod.</text>
+	</string>
+	<string id="red_forester_about_limansk_111">
+		<text>Du bist kein gewцhnlicher Mann. Die Zone hat bei dir einen seltsamen Abdruck hinterlassen. Ob es sich dabei um einen Segen oder einen Fluch handelt - das weiЯ ich nicht. Die Zone wird immer instabiler. Der normale Ablauf der Ereignisse wurde gestцrt und irgendetwas sagt mir, dass du der Grund dafьr bist. Ich werde dir helfen, obwohl ich bei dieser Entscheidung Bauchschmerzen habe.</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>Was kannst du mir ьber die Zone erzдhlen?</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>Die Zone, hm... Die Zone hat ein Eigenleben und dem stehen wir im Weg - die einen mehr, die anderen weniger. Die Zone versucht jegliche Risiken, die ihre Existenz bedrohen kцnnten, zu neutralisieren. Genau wie unsere Kцrper Krankheiten bekдmpfen. Wir bekommen Fieber und die Zone hat auch ihre Symptome. Emissionen - ihre Art, uns wieder auszuspeien. Je mehr wir ihr Innenleben stцren, desto schwerer die nдchste Emission.</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>Wie hast du all die Jahre ьberlebt - allein inmitten all dieser Gefahren?</text>
+	</string>
+	<string id="red_forester_about_zone_111">
+		<text>Eine unьberlegte Handlung und die Zone kann zerstцrt werden... zusammen mit allem, was dazu gehцrt. Nicht nur Mutanten und Anomalien, sondern auch Artefakte und ihr Stalker... und ich. Ich spьre, dass die Zone zutiefst besorgt ist - irgendetwas regt sie auf, stцrt ihr Gleichgewicht. Ein Sturm braut sich zusammen... und ich habe keine Ahnung, ob der Status Quo weiter aufrecht erhalten werden kann.</text>
+	</string>
+	<string id="red_forester_cheet_0">
+		<text>text in default</text>
+	</string>
+	<string id="red_forester_cheet_1">
+		<text>Bring mir das einzigartige Kompass-Artefakt. Schau in deinem PDA nach mцglichen Fundorten nach.</text>
+	</string>
+	<string id="red_forester_has_compas_0">
+		<text>Ich hab das Artefakt.</text>
+	</string>
+	<string id="red_forester_has_compas_11">
+		<text>Was passiert, wenn ich es finde?</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>Was macht ein Anfдnger wie du in dem Gebiet des Fцrsters?</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>Hat dich ein glьcklicher Zufall zu mir gebracht?</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>Viel Glьck, mein Junge!</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>Vergiss mich nicht!</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>Behalte mich in guter Erinnerung!</text>
+	</string>
+	<string id="red_forester_limansk_0">
+		<text>Erzдhle mir von Limansk.</text>
+	</string>
+	<string id="red_forester_limansk_1">
+		<text>Von der Stadt hat lange niemand was gehцrt. Viele glauben sogar, dass Limansk niemals wirklich existiert hat. Aber das sind Lьgen: Die Stadt existiert - vor der ersten Katastrophe hab ich sie mit eigenen Augen gesehen. Dort gab's ein Institut, ein richtig groЯes sogar, mit Wohnhдusern fьr Wissenschaftler und ihre Diener. Es war ein Forschungsinstitut mit irgendeinem ausgefallenen Namen... so was wie Radiowelle. Dort gab's eine riesige Antenne, fьnf Stockwerke hoch. Richtige Intellektuelle, die Leute da. Wirklich friedlich war Limansk allerdings nie. Seine Bewohner waren immer дuЯerst misstrauisch gegenьber Fremden. Sie hatten immer irgendwas hinter vorgehaltener Hand zu sagen und priesen sogar das Sowjetregime. Wir, die Leute vom Land, machten immer einen groЯen Bogen um Limansk - die Menschen dort waren nicht gerade herzlich und man bekam in der Stadt Kopfschmerzen... Muss an der Antenne gelegen haben. Dann passierte der Unfall in Tschernobyl, aber Limansk wurde nicht evakuiert. Entweder es gab irgendeinen Fehler in den Dokumenten oder es lag an der Geheimhaltung, ich weiЯ es nicht. Aber das war das Letzte, was ich von Limansk gesehen habe. Es hat mich nie wieder dorthin verschlagen...</text>
+	</string>
+	<string id="red_forester_limansk_11">
+		<text>Aber ich habe eine StraЯe nach Limansk gesehen, und eine Brьcke ьber den Fluss.</text>
+	</string>
+	<string id="red_forester_limansk_111">
+		<text>Der Ort war frьher voller Anomalien, aber seit der Emission ist er so gut wie sicher. Es hat nicht lange gedauert, bis die Stalker dahinterkamen, dass man ьber Limansk ins Zentrum der Zone gelangt, ohne am Hirnschmelzer vorbei zu mьssen. Die Wдchter und die Freiheitler haben einen richtigen Krieg begonnen, nachdem sie die Stadt erreicht hatten. Wьrde mich nicht wundern, wenn sie sich gegenseitig auslцschen. Aber ich denke, die meisten in der Zone hдtten nicht allzu viel dagegen, wenn das passieren wьrde.</text>
+	</string>
+	<string id="red_forester_limansk_12">
+		<text>Der Ort war frьher voller Anomalien, aber seit der Emission ist er so gut wie sicher. Es hat nicht lange gedauert, bis die Stalker dahinterkamen, dass man ьber Limansk ins Zentrum der Zone gelangt, ohne am Hirnschmelzer vorbei zu mьssen. Die Wдchter und die Freiheitler haben einen richtigen Krieg begonnen, nachdem sie die Stadt erreicht hatten. Wьrde mich nicht wundern, wenn sie sich gegenseitig auslцschen. Ich wette allerdings, alle anderen in der Zone hдtten nicht allzu viel dagegen, wenn das passieren wьrde.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_0">
+		<text>Ich habe eine Nachricht von den Sцldnern im Militдrlager erhalten. Sieht aus, als wдren sie wдhrend der groЯen Emission von irgendeiner seltsamen Anomalie ьberrascht worden. Sie sagen, sie finden keinen Weg mehr heraus - kommen immer wieder da an, wo sie losgegangen sind. Sie haben ihre Koordinaten spezifiziert.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11">
+		<text>So was wie ein Mцbiusband?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111">
+		<text>Wie hole ich die Sцldner aus der Blase wieder raus?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111111">
+		<text>WeiЯt du, wo sich die Banditen verschanzt haben?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111112">
+		<text>Hier, ich habe dein seltenes Artefakt.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111121">
+		<text>Ich hatte schon alle Hoffnung aufgegeben, den Kompass noch mal wiederzusehen! Danke! Gib mir etwas Zeit und ich finde schon einen Weg aus der Blase. Wдhrend ich dabei bin, finde du einen Weg, der vermissten Einheit die Koordinaten zu ьbermitteln. Der Sender ist in einem der Militдrlager.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11111211">
+		<text>Und was passiert, wenn ich den Sender finde?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111112111">
+		<text>Wenn du den Sender findest, gebe ich dir die Koordinaten, die die Sцldner benцtigen.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_0">
+		<text>Ich muss nach Limansk.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_2">
+		<text>Hцrt sich vielleicht abgegriffen an, aber bei der Sache geht's um Leben und Tod.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_4">
+		<text>WeiЯt du, wie die Banditen es auf die andere Seite geschafft haben?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_6">
+		<text>Was ist mit den Stalkern passiert?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_8">
+		<text>Was soll ich tun?</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>Wer bist du?</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>Was gibt's zu mir zu sagen? Ich bin der Fцrster! Ich bin schon sehr lange hier, habe mein ganzes Leben in der Nдhe des Waldes verbracht. Ich bin alt. In meinem Alter ist man geradezu verwachsen mit dem Ort, an dem man lebt. Ich habe mich nach dem Unfall im Atomkraftwerk gegen die Evakuierung geweigert und das Erscheinen der Zone habe ich auch ьberlebt. Ich kann mich an einen Blitz am Horizont erinnern... Viele Leute sind an jenem Tag gestorben, aber die Zone hat mich verschont. Verdammt, sie hat mich nicht nur verschont, sie hat mich auch noch beschenkt! Ich war in der Lage, Wege im Wald zu finden und inzwischen erfьhle ich geradezu sichere Wege durch wahrhaft tцdliche Anomalien. Ich werde von den Stalkern beneidet, aber ich kann nicht gerade behaupten, allzu glьcklich ьber mein Geschenk zu sein. Hier hat alles seinen Preis. Irgendwann werde ich der Zone einen hohen Preis fьr mein Geschenk bezahlen mьssen. Und das ist meine grцЯte Angst, Kollege. </text>
+	</string>
+	<string id="red_forester_who_are_you_111">
+		<text>Nein, das war mal ein typischer Pinienwald. Tja, hier war sogar mal ein Naturschutzgebiet, aber viel mehr Besonderes war hier auch nicht los. Nach dem Unfall im AKW Tschernobyl 1986 wurde der Wald rot. Als ich zu Bett ging, war er noch grьn und beim Aufwachen sah er so wie jetzt aus. Dann erschien die Zone und die Tiere und Vцgel verlieЯen den Wald. Ich war das einzige Lebewesen, das hier blieb. Nur ich, ein roter Wald und dieser permanente dichte Nebel.</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>Ja, viele Stalker haben hier ihr Ende gefunden. Ich habe sogar Gerьchte von einem bцsen Geist gehцrt, der im Roten Wald sein Unwesen treiben soll. So wie ich das sehe, ist dieser Wald nicht anders, als die anderen Teile der Zone. Wenn man richtig mit ihm umgeht, tut er einem nichts. Das Problem ist bloЯ, dass ihr Stalker mit rein gar nichts richtig umgehen kцnnt. Ihr wollt Teile der Zone in Besitz nehmen und dafьr bekommt ihr... was ihr verdient.</text>
+	</string>
+	<string id="red_leshiy_reward_11">
+		<text>He... All meine Soldaten sind weg. Stell dir vor was passiert, wenn du aus der Blase rauskommst und in ein paar verdammten Banditen in die Arme rennst.</text>
+	</string>
+	<string id="red_leshiy_reward_12">
+		<text>Danke, Sцldner. Ohne dich hдtten wir's nicht geschafft. Bitte nimm das hier. Es wird dir gute Dienste leisten.</text>
+	</string>
+	<string id="red_leshiy_reward_13">
+		<text>Danke, Sцldner. Ohne dich hдtten wir's nicht geschafft. Bitte nimm das hier. Es wird dir gute Dienste leisten.</text>
+	</string>
+	<string id="red_leshiy_reward_14">
+		<text>Danke, Sцldner. Du hast uns ganz schцn aus der Patsche geholfen - ohne dich hдtten wir weder diese Brьcke herunterbekommen, noch einen Weg aus der Blase gefunden. Bitte nimm das hier. Es wird dir gute Dienste leisten.</text>
+	</string>
+	<string id="red_leshiy_reward_15">
+		<text>Danke, Sцldner. Du hast uns ganz schцn aus der Patsche geholfen - ohne dich hдtten wir weder diese Brьcke herunterbekommen, noch einen Weg aus der Blase gefunden. Bitte nimm das hier. Es wird dir gute Dienste leisten.</text>
+	</string>
+	<string id="red_leshiy_reward_16">
+		<text>Hi Narbe.</text>
+	</string>
+	<string id="red_leshiy_story_1_0">
+		<text>Erzдhl mir was ьber die Raumblasen.</text>
+	</string>
+	<string id="red_leshiy_story_1_1">
+		<text>Eine Raumblase, Bruder, ist eine der beschissensten Sachen, die's in der Zone gibt. Sie sind erst vor kurzem aufgetaucht. Wenn du in einer Blase steckst, hast du ernsthafte Probleme. Egal wo du hingehst, egal welchen Weg du nimmst, du kommst immer da raus, wo du losgegangen bist. Bevor ich selbst in einer gesteckt habe, hatte ich nichts davon mitbekommen. Wir wurden von einer Emission getroffen und unsere ganze Gruppe geriet in eine Raumblase. Wir sind tagelang im Kreis gelaufen! Einige waren so weit, dass sie sich selbst erschieЯen wollten. Sie sagten, hey, hier gibt's eh keinen Weg raus, warum beenden wir die Sache nicht einfach selbst... Manche sahen Dinge, schreckliche Dinge. Ich hab sie getreten und angeschrien, um sie weiter in Bewegung zu halten. Es fдllt mir schwer, mich an all das zu erinnern... Mann, ich kann's immer noch nicht glauben, dass wir da wieder rausgekommen sind. Vielen Dank fьr deine Hilfe.</text>
+	</string>
+	<string id="red_leshiy_story_2_0">
+		<text>Was war euer Auftrag?</text>
+	</string>
+	<string id="red_leshiy_story_2_1">
+		<text>Puuh, Bruder! Was ist das denn fьr eine Frage? Ein Vertrag ist so was wie ein Gelьbde, bloЯ noch verbindlicher. Darьber kann ich dir beim besten Willen nichts erzдhlen. Andererseits... Ahh, zur Hцlle, du hast uns immerhin das Leben gerettet. Pass auf. Wir sollten ein sehr seltenes und unglaublich wertvolles Artefakt fьr ein groЯes Unternehmen finden. Wegen einer entsprechenden Vertragsklausel kann ich dir nicht sagen, um welches Unternehmen es sich dabei handelt. Wir fanden das, wonach wir gesucht hatten. Wie wir das Artefakt bekamen, ist eine andere Geschichte, aber kein Geld der Welt wird mich dazu bringen, jemals wieder so einen Vertrag anzunehmen. Ich schдtze mein Leben mehr, als dass ich es fьr ein bisschen bunt bedrucktes Papier wegwerfen wьrde. Ich hatte von Anfang an ein mieses Gefьhl bei dem Job. Aber das gebotene Geld war zu viel, um es einfach auszuschlagen. Wie ich befьrchtet hatte, wurde unser Trip dann ein echter Albtraum. Und gerade, als wir uns mit der Beute auf den Rьckweg machten, "bumm!" Die Emission hдtte uns fast erledigt und dann noch diese verdammte Raumblase. Nein, nie wieder so ein Auftrag – ich bin raus.</text>
+	</string>
+	<string id="red_artefact_hunters_reward_dialog_11">
+		<text>Vielen Dank fьr die Hilfe, hier ist deine Belohnung.</text>
+	</string>
+</string_table>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mil_actor_attack_house">
+		<text>Schalte das Militдr im Hauptquartier aus</text>
+	</string>
+	<string id="mil_actor_attack_house_text">
+		<text>Eine Militдreinheit hat sich im Hauptquartier verschanzt. Schalte das Militдr in dem Gebдude aus.</text>
+	</string>
+	<string id="mil_additional_quest_1_name">
+		<text>Hol die Waffenladung beim Helikopter</text>
+	</string>
+	<string id="mil_additional_quest_1_text">
+		<text>Ganz in der Nдhe ist ein patrouillierender Militдrhelikopter mit wertvoller Munition und Waffen an Bord abgestьrzt. Wir mьssen die Barriere unbedingt halten - da ist jede Waffe und jede Kugel wichtig. Leider kцnnen unsere Jungs nicht durch das Gebiet hindurch. Die Monolither sind im Weg - ziemlich harte Kerle, und sie haben Strahlungsanzьge, im Gegensatz zu uns.</text>
+	</string>
+	<string id="mil_additional_quest_2_name">
+		<text>Finde den PDA</text>
+	</string>
+	<string id="mil_additional_quest_2_text">
+		<text>Vor ein paar Nдchten wurde eine Stalkereinheit von einem Rudel Hunde brutal angegriffen. Es gab keine Ьberlebenden. Der Kommandant der Einheit starb gemeinsam mit seinen Mдnnern, aber er hatte fьr uns wichtige Informationen dabei. Finde den toten Kommandanten und nimm den PDA mit den Informationen an dich.</text>
+	</string>
+	<string id="mil_additional_quest_3_name">
+		<text>Finde die Beute des vermissten Stalkers</text>
+	</string>
+	<string id="mil_additional_quest_3_text">
+		<text>Einer unserer Scharfschьtzen mit unschдtzbar wertvoller Scharfschьtzenmunition ist in einer Anomalie ums Leben gekommen. Wenn du die Munition zurьckbringen kannst, wirst du reich belohnt.</text>
+	</string>
+	<string id="mil_additional_quest_4_name">
+		<text>Hol das Artefakt des toten Stalkers</text>
+	</string>
+	<string id="mil_additional_quest_4_text">
+		<text>Einer unserer Stalker hat es durch einen anormalen Sumpf geschafft, aber er hat auf dem Weg ein wertvolles Artefakt verloren. Bringe uns das Artefakt und du erhдltst eine Belohnung.</text>
+	</string>
+	<string id="mil_additional_quest_5_name">
+		<text>Suche das Artefakt im Dorf</text>
+	</string>
+	<string id="mil_additional_quest_5_text">
+		<text>Dieses Dorf ist verflucht, Stalker. Blutsauger tauchen aus dem Nichts auf - keiner wagt sich dorthin. Aber ein paar Durchgeknallte lassen sich nicht davon abschrecken, dass dort die gefдhrlichsten und tцdlichsten Blutsauger der Zone leben. Wenn du sie erledigst, findest du in dem verlassenen Haus ein Artefakt, das in der Zone einzigartig ist.</text>
+	</string>
+	<string id="mil_contact_with_clear_sky_commander_descr">
+		<text>Triff Lebedew</text>
+	</string>
+	<string id="mil_contact_with_clear_sky_commander_name">
+		<text>Eine Sцldnereinheit hat es geschafft aus einer der Raumblasen zu entkommen und ist jetzt auf dem Weg zur Brьcke bei Limansk. Die Vorhut von Clear Sky ist bereits bei der Brьcke angekommen. Gehe in Richtung Roter Wald und triff dich mit Lebedew.</text>
+	</string>
+	<string id="mil_defend_barrier_name">
+		<text>Verteidige die Barriere</text>
+	</string>
+	<string id="mil_defend_barrier_text">
+		<text>Die Barriere wird wieder angegriffen. Hilf den Stalkern dabei, sie zu verteidigen.</text>
+	</string>
+	<string id="mil_elim_military">
+		<text>Schalte das Militдr aus</text>
+	</string>
+	<string id="mil_elim_military_text">
+		<text>Schalte das Militдr in der Basis aus.</text>
+	</string>
+	<string id="mil_hires">
+		<text>Triff die Sцldner im Dorf</text>
+	</string>
+	<string id="mil_hires_text">
+		<text>Eine Gruppe Sцldner im verlassenen Dorf sucht nach der Gruppe, die in der Raumanomalie bei Limansk gefangen ist. Von ihr erfдhrst du mehr darьber, wo du den besten Funkempfang hast. Triff die Sцldner im Dorf.</text>
+	</string>
+	<string id="mil_hog_about_signal_1">
+		<text>Verdammt! Tut mir leid, Bruder, das ist einfach nicht mein Fachgebiet. Wenn dir jemand da helfen kann, dann der Fцrster. Die Leute sagen, er weiЯ einfach alles ьber Zone.</text>
+	</string>
+	<string id="mil_hog_hello_dialog_11">
+		<text>Hallo Sцldner!</text>
+	</string>
+	<string id="mil_hog_hello_dialog_12">
+		<text>Gut, dass du da bist. Hast du einen Weg gefunden, wie unsere Jungs gerettet werden kцnnen?</text>
+	</string>
+	<string id="mil_hog_hello_dialog_1221">
+		<text>Ja, die Banditenbasis bei der Mьllhalde ist eine ziemlich harte Nuss. Die kannst du unmцglich alleine knacken.</text>
+	</string>
+	<string id="mil_hog_hello_dialog_1231">
+		<text>Hm... Dafьr brauchst du einen guten Sender. Das Militдr hat so einen... Warte, wir lassen uns was einfallen...</text>
+	</string>
+	<string id="mil_hog_hello_dialog_13">
+		<text>Sцldner, rede mit Kostjan!</text>
+	</string>
+	<string id="mil_hog_talk_about_1">
+		<text>Vor ein paar Wochen haben wir einen wichtigen Auftrag erhalten - wir sollten ein einzigartiges Artefakt beschaffen. Der Auftrag kam von ganz oben - der Kunde ist irgendein groЯes Tier. Jedenfalls lief zuerst alles nach Plan: Unsere Einheit fand das Artefakt irgendwo in der Nдhe der Barriere und war bereits auf dem Rьckweg, als sie von der groЯen Emission ьberrascht wurde. Wir hatten schon geglaubt, dass es sie komplett erwischt hдtte, aber die Mдnner hatten Glьck und ьberlebten. Dummerweise sind sie jetzt irgendwo dort drauЯen verschollen. Wir haben den Befehl erhalten, sie zu finden, um das Artefakt liefern zu kцnnen. Wenn wir scheitern, dann war das der letzte Auftrag fьr die Sцldner. </text>
+	</string>
+	<string id="mil_hog_talk_about_111">
+		<text>Wir empfangen hin und wieder Funkfetzen der Einheit, aber wir werden nicht schlau daraus. Das Einzige, was wir sicher wissen, ist, dass sie bei Tageslicht verschwunden sind und sich jetzt in einer Art Falle befinden. Es kцnnte eine Anomalie sein oder irgendeine neue Form des Bцsen, das sich in der Zone breitgemacht hat. Wir wissen nicht weiter. Bei dem Bauernhof steht ein alter Wasserturm - von dort kцnnen wir die Funksignale bestimmt besser empfangen. Wir haben schon versucht, dort hinaufzuklettern, aber dann wurden wir auf einmal von ein paar richtig ьblen Viechern angegriffen, die einen von uns gepackt und fortgerissen haben. Der Rest von uns konnte gerade noch entkommen!</text>
+	</string>
+	<string id="mil_hog_talk_about_11111">
+		<text>Bist du verrьckt? Ich mach mir noch vom letzten Mal in die Hosen, und die Jungs werden auf keinen Fall auch nur in die Nдhe des Turms gehen. Aber du siehst so aus, als wьsstest du eine Menge ьber die Zone. Wie wдr's, wenn du das Biest tцtest und die Nachricht unserer Jungs empfдngst?</text>
+	</string>
+	<string id="mil_kill_bs">
+		<text>Tцte den Blutsauger</text>
+	</string>
+	<string id="mil_kill_bs_text">
+		<text>Ein Blutsauger wurde in der Nдhe des Wasserturms gesichtet, wo man den besten Empfang der Umgebung hat. Tцte den Blutsauger.</text>
+	</string>
+	<string id="mil_reach_battle">
+		<text>Triff dich mit der Einheit der Freiheitler</text>
+	</string>
+	<string id="mil_reach_battle_text">
+		<text>Triff dich mit der Einheit der Freiheitler.</text>
+	</string>
+	<string id="mil_reach_tower_task">
+		<text>Empfange die Funknachricht</text>
+	</string>
+	<string id="mil_reach_tower_task_text">
+		<text>Der Wasserturm ist der hцchste Punkt der Militдrlager. Auf ihm hat man den besten Empfang. Steige auf die Spitze des Turms und empfange die Funknachricht der vermissten Sцldner.</text>
+	</string>
+	<string id="mil_talk_2_forester2">
+		<text>Rede mit dem Fцrster</text>
+	</string>
+	<string id="mil_talk_2_forester2_text">
+		<text>Der Fцrster hat mit dem Funkkanal seines PDA eine Nachricht der vermissten Sцldner empfangen. Kehre zum Fцrster zurьck, um weitere Anweisungen zu erhalten.</text>
+	</string>
+	<string id="mil_talk_2_fr_com">
+		<text>Triff dich mit der Einheit der Freiheitler</text>
+	</string>
+	<string id="mil_talk_2_fr_com_text">
+		<text>Die Freiheitler sind bereit fьr den Angriff auf die Militдrbasis, um das Militдr zu vertreiben und eine eigene Basis in den Militдrlagern einzurichten. Hilf den Freiheitlern beim Angriff auf die Militдrbasis.</text>
+	</string>
+	<string id="mil_talk_2_merc_2_task">
+		<text>Rede mit den Sцldnern</text>
+	</string>
+	<string id="mil_talk_2_merc_2_task_text">
+		<text>Die Basis ist voller Soldaten, die den Sender streng bewachen. Ohne Hilfe von auЯen ist es nahezu unmцglich, sie zu vertreiben und den Sцldnern die Koordinaten zu ьbermitteln, die sie brauchen, um aus der Raumblase zu entkommen. Kehre in das verlassene Dorf zurьck und rede noch einmal mit den Sцldnern.</text>
+	</string>
+	<string id="mil_test">
+		<text>Hilfe</text>
+	</string>
+	<string id="mil_transfer_coo">
+		<text>Ьbermittle die Koordinaten</text>
+	</string>
+	<string id="mil_transfer_coo_text">
+		<text>Der Weg zum Sender ist frei. Steige auf den Turm und ьbermittle die Koordinaten, die der Fцrster der Sцldnergruppe in der Raumblase gegeben hat.</text>
+	</string>
+	<string id="mil_treasure_weapon_box_descr">
+		<text>Munitionskiste</text>
+	</string>
+	<string id="mil_treasure_weapon_box_name">
+		<text>Munitionskiste</text>
+	</string>
+	<string id="mil_blockpost_task">
+		<text>Rede mit dem Kommandanten des AuЯenpostens</text>
+	</string>
+	<string id="mil_blockpost_text">
+		<text>Rede mit dem Kommandanten des AuЯenpostens ьber die Lage bei den Militдrlagern</text>
+	</string>
+</string_table>

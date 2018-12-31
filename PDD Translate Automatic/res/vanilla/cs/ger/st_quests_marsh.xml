@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mar_capture_plant">
+		<text>Nimm die Anlage ein</text>
+	</string>
+	<string id="mar_capture_plant_text">
+		<text>Nimm die Anlage ein, mit der anormale Substanzen aus dem Sumpf extrahiert werden.</text>
+	</string>
+	<string id="mar_capture_tower">
+		<text>Nimm den Wachturm ein</text>
+	</string>
+	<string id="mar_capture_tower_text">
+		<text>Hilf der "Clear Sky"-Einheit dabei, den Wachturm von den Banditen zu ьbernehmen.</text>
+	</string>
+	<string id="mar_defend_tower">
+		<text>Schlage den Angriff der Banditen auf den Turm zurьck</text>
+	</string>
+	<string id="mar_defend_tower_text">
+		<text>Schlage den Gegenangriff der Banditen auf den Turm zurьck.</text>
+	</string>
+	<string id="mar_story_capture_bandit_base">
+		<text>Nimm den Bauernhof im Nordosten ein</text>
+	</string>
+	<string id="mar_story_capture_bandit_base_text">
+		<text>Nimm den Bauernhof nordцstlich der Sьmpfe ein, indem du die die Banditen dort ausschaltest.</text>
+	</string>
+	<string id="mar_story_capture_levelchangers">
+		<text>Nimm die Zugдnge zu den Wegen in die AuЯenwelt ein</text>
+	</string>
+	<string id="mar_story_capture_levelchangers_text">
+		<text>Sichere die Wege zum Kordon und zum Agroprom-Institut, indem du angrenzende Positionen einnimmst.</text>
+	</string>
+	<string id="mar_story_empower_csky">
+		<text>Verstдrke die Prдsenz von Clear Sky in den Sьmpfen</text>
+	</string>
+	<string id="mar_story_empower_csky_text">
+		<text>Verstдrke die Prдsenz von Clear Sky in den Sьmpfen, indem du feindliche Krдfte ausschaltest.</text>
+	</string>
+	<string id="mar_story_go_to_escape">
+		<text>Gehe mit dem Ortskundigen zum Kordon</text>
+	</string>
+	<string id="mar_story_go_to_escape_text">
+		<text>Triff den Ortskundigen und gehe mit ihm zum Kordon.</text>
+	</string>
+	<string id="mar_story_go_to_marsh">
+		<text>Gehe mit dem Ortskundigen in die GroЯen Sьmpfe</text>
+	</string>
+	<string id="mar_story_go_to_marsh_text">
+		<text>Bitte den Ortskundigen, dich in die GroЯen Sьmpfe zu bringen.</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh">
+		<text>Sichere die Sьmpfe</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh_text">
+		<text>Sichere die Sьmpfe, um die StraЯen fьr Ortskundige sicher zu machen.</text>
+	</string>
+	<string id="mar_story_talk_with_barman">
+		<text>Rede mit dem Barkeeper</text>
+	</string>
+	<string id="mar_story_talk_with_barman_text">
+		<text>Frage den Barkeeper nach der "Clear Sky"-Basis.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1">
+		<text>Rede mit Lebedew</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1_text">
+		<text>Finde heraus, was Lebedew wollte.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2">
+		<text>Frage Lebedew, was passiert ist</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2_text">
+		<text>Frage Lebedew, was nach der zweiten Emission passiert ist.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3">
+		<text>Triff eine Vereinbarung mit Lebedew zur gegenseitigen Hilfe</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3_text">
+		<text>Triff eine Vereinbarung mit Lebedew, dass er dir hilft, die Sьmpfe zu verlassen.</text>
+	</string>
+	<string id="mar_story_talk_with_guide">
+		<text>Gehe mit dem Ortskundigen zum AuЯenposten.</text>
+	</string>
+	<string id="mar_story_talk_with_guide_text">
+		<text>Bitte den Ortskundigen, dich zum AuЯenposten zu bringen.</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych">
+		<text>Rede mit Sidorowitsch</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych_text">
+		<text>Frage Sidorowitsch nach dem Stalker, der an den seltsamen Komponenten interessiert war. Das ist der einzige Hinweis, den Clear Sky darьber hat, warum die Zone von Emissionen heimgesucht wird.</text>
+	</string>
+	<string id="mar_story_talk_with_trader">
+		<text>Hol dir Ausrьstung vom Hдndler</text>
+	</string>
+	<string id="mar_story_talk_with_trader_text">
+		<text>Hol dir Ausrьstung vom Hдndler.</text>
+	</string>
+	<string id="mar_tutorial_help">
+		<text>Hilf dem AuЯenposten</text>
+	</string>
+	<string id="mar_tutorial_help_text">
+		<text>Antworte auf die Hilferufe des AuЯenpostens von Clear Sky.</text>
+	</string>
+	<string id="mar_tutorial_kill_boars">
+		<text>Tцte die Wildschweine</text>
+	</string>
+	<string id="mar_tutorial_kill_boars_text">
+		<text>Schalte die Wildschweine aus, die den AuЯenposten von Clear Sky angreifen.</text>
+	</string>
+	<string id="mar_tutorial_return_to_base">
+		<text>Kehre zur "Clear Sky"-Basis zurьck</text>
+	</string>
+	<string id="mar_tutorial_return_to_base_text">
+		<text>Suche in der "Clear Sky"-Basis Deckung, bevor die Emission erfolgt.</text>
+	</string>
+	<string id="mar_tutorial_tower_top">
+		<text>Steige auf den Turm</text>
+	</string>
+	<string id="mar_tutorial_tower_top_text">
+		<text>Steige auf den Turm, um den Monstern zu entkommen.</text>
+	</string>
+	<string id="st_bring_item_1_name">
+		<text>Ьberbringe die Granaten</text>
+	</string>
+	<string id="st_bring_item_1_text">
+		<text>Die "Clear Sky"-Einheit benцtigt Granaten.</text>
+	</string>
+	<string id="st_bring_item_2_name">
+		<text>Ьberbringe medizinische Ausrьstung</text>
+	</string>
+	<string id="st_bring_item_2_text">
+		<text>Die "Clear Sky"-Einheit braucht dringend medizinische Ausrьstung.</text>
+	</string>
+	<string id="st_bring_item_3_name">
+		<text>Ьberbringe Munition</text>
+	</string>
+	<string id="st_bring_item_3_text">
+		<text>Die "Clear Sky"-Einheit braucht Schrotflintenmunition.</text>
+	</string>
+	<string id="st_bring_item_4_name">
+		<text>Ьberbringe Munition</text>
+	</string>
+	<string id="st_bring_item_4_text">
+		<text>Die "Clear Sky"-Einheit braucht Pistolenmunition.</text>
+	</string>
+	<string id="st_bring_item_5_name">
+		<text>Ьberbringe Munition</text>
+	</string>
+	<string id="st_bring_item_5_text">
+		<text>Die "Clear Sky"-Einheit braucht Sturmgewehrmunition.</text>
+	</string>
+	<string id="st_recover_item_1_name">
+		<text>Hold die PMm zurьck</text>
+	</string>
+	<string id="st_recover_item_1_text">
+		<text>Bei einem Nachteinsatz ist eine "Clear Sky"-Einheit auf einen Wildschweinbau gestoЯen. Es ist vermutlich zu spдt, die Mдnner zu retten, aber der Kommandant der Einheit besitzt eine modifizierte PMm. Die Pistole kann der Fraktion noch von Nutzen sein. Bring sie zurьck.</text>
+	</string>
+	<string id="st_recover_item_2_name">
+		<text>Bringe die AK74/2u zurьck</text>
+	</string>
+	<string id="st_recover_item_2_text">
+		<text>Vor ein paar Tagen haben ein paar Abtrьnnige eine "Clear Sky"-Einheit angegriffen, als diese gerade eine Ladung Waffen vom Militдr abkaufte. Die meisten Waffen wurden von den Angreifern erbeutet, aber das beste Sturmgewehr konnte versteckt werden. Du musst es holen.</text>
+	</string>
+	<string id="st_recover_item_3_name">
+		<text>Hole das Artefakt</text>
+	</string>
+	<string id="st_recover_item_3_text">
+		<text>Eine "Clear Sky"-Einheit empfing den Notruf eines Stalkers, der von einem seltenen Artefakt sprach, aber nicht wusste, wie er aus dem Anomaliebereich herauskommen konnte. Die Einheit hat ihn nicht rechtzeitig erreicht und das Signal ist verschwunden. Du musst das Artefakt finden.</text>
+	</string>
+	<string id="st_recover_item_4_name">
+		<text>Hol den PDA zurьck</text>
+	</string>
+	<string id="st_recover_item_4_text">
+		<text>Einer unserer besten Spдher ist von einem nдchtlichen Erkundungseinsatz nicht zurьckgekehrt. Du musst zumindest den PDA des Spдhers finden, damit seine gesammelten Daten nicht verloren gehen.</text>
+	</string>
+	<string id="st_recover_item_5_name">
+		<text>Hol den Anzug zurьck</text>
+	</string>
+	<string id="st_recover_item_5_text">
+		<text>Vor Kurzem wurde die kleine Anlage in den Sьmpfen von Abtrьnnigen eingenommen, gerade als dort ein Experiment durchgefьhrt wurde. Dabei kam ein Anzug mit einer anormalen Substanz in Berьhrung. Bringe den Anzug zurьck, damit unsere Wissenschaftler das Experiment auswerten kцnnen.</text>
+	</string>
+	<string id="st_sim_sos_name">
+		<text>Hilfe</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_name">
+		<text>Finde Informationen ьber Kevlar-Kцrperschutz</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_text">
+		<text>Um Kцrperschutz verbessern zu kцnnen, benцtigt Gray Informationen ьber Kevlar-Kцrperschutz.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_name">
+		<text>Finde Informationen ьber Mьndungsbremsen</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_text">
+		<text>Gray will eine spezielle Mьndungsbremse bauen, aber er weiЯ nicht genau, wie sie funktioniert. Finde entsprechende Informationen und bringe sie ihm.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_name">
+		<text>Finde Informationen ьber Laufmodifikationen</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_text">
+		<text>Gray kann einen Laufaufsatz herstellen, der die Eigenschaften einer Waffe verbessert, aber ihm fehlen dazu einige Daten.</text>
+	</string>
+	<string id="st_mar_leader_notify_actor">
+		<text>ReiЯ dich zusammen, Sцldner! Wir mьssen die Sьmpfe unter unsere Kontrolle bringen. Wenn du nicht weiЯt, was du zu tun hast, schau dir in deinem PDA die aktuellen Einsatzziele an.</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_desc">
+		<text>PDA mit Informationen ьber die Sьmpfe, die von einem Spдher von Clear Sky gesammelt wurden.</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_name">
+		<text>PDA von CS-Spдher.</text>
+	</string>
+</string_table>

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mar_csky_leader_intro_dialog_0">
+		<text>Willkommen zurьck in der Welt der Lebenden, Stalker. Wie fьhlst du dich?</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_2">
+		<text>Erinnerst du dich noch daran, was mit dir geschehen ist?</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_4">
+		<text>Dir ist wohl zum Scherzen zumute, was? Das deutet darauf hin, dass du dich gut erholt hast. Mein Name ist Lebedew, ich bin der Anfьhrer dieser Gruppe und fьr jeden hier verantwortlich... auch fьr dich, solange du dich hier aufhдltst. Wir nennen uns Clear Sky und du befindest dich gerade in unserer Basis. Wir haben dich nach der Emission in den Sьmpfen aufgegabelt...</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_6">
+		<text>Glьck? Hmmm... das bezweifle ich. Da gibt es drei bisher unerklдrliche Tatsachen: Erstens hast du die Emission ьberlebt. Zweitens hat dich unsere Patrouille in den Sьmpfen gefunden, die hauptsдchlich aus endlosem Treibsand bestehen. Und drittens wдrst du beinahe von einer Horde Pseudohunden in Stьcke gerissen worden, wenn unsere Jungs nicht rechtzeitig aufgetaucht wдren. Solch eine Kette von Ereignissen kommt mir nicht vor wie einfaches Glьck... Wie auch immer, ich muss jetzt etwas anderes erledigen. Lass uns spдter weiterreden.</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_0">
+		<text>Hallo, Sцldner! Wдhrend du auЯer Gefecht warst, bist du hier zu einer echten Legende geworden - nicht einmal du selbst wьrdest einige der Gerьchte glauben, die ich so gehцrt habe... ha ha! Aber egal, dieser Drink fьr einen verdammten Glьckspilz geht aufs Haus! Er wird dich entspannen und dann kannst du mir in aller Ruhe deine Geschichte erzдhlen. Ich platze vor Neugier!</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_2">
+		<text>In Ordnung, dann trinkst du und ich erzдhle dir von diesem Ort. Hier war es mal recht ruhig... wir hatten uns um die Wege gekьmmert, die richtigen Orte erforscht und die Zufahrtswege unter Kontrolle. Natьrlich sind die Sьmpfe nicht gerade ein Ferienparadies, aber immer noch besser als so manch anderer Ort. Jaa... es war also nicht schlecht. Bis zur letzten Emission - die grцЯte, die wir je erlebt haben. Mittlerweile beten unsere Jungs zu Gott und dem Teufel gleichzeitig, bevor sie sich aus der Basis herauswagen, weil es stets an ein Wunder grenzt, wenn sie es heil wieder zurьckschaffen! Aber wir beiЯen uns trotzdem durch, denn unsere Jungs sind nicht wegen des Profits hier, sondern kдmpfen fьr ihre Sache!</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_4">
+		<text>Ich habe Flaschen gesammelt, eine nach der anderen, und sie haben mich direkt hierher gefьhrt... Ha ha! Ach was, das war ein Witz! In Wahrheit gab es dort drauЯen keinen Ort, der mich wollte und den ich wollte. Am Ende bin ich dann hierher gekommen... zuerst in die Zone, dann zu Clear Sky. Die Typen hier sind in Ordnung und ich werde hier gebraucht. Sie kommen zurьck nach einer Mission, ich schenke ihnen einen Drink ein, erzдhle ein paar dreckige Witze - und damit ist meine Arbeit getan... einfach, aber wirkungsvoll. Man nennt mich hier ьbrigens Cold.</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_6">
+		<text>In unserer Basis. Wie du siehst, handelt es sich dabei um so etwas wie einen kleinen, einsinkenden Bauernhof mitten in den romantischen, endlosen Sьmpfen. Ich kann dir die genaue Lage nicht sagen, aber auf jeden Fall ist dies hier der letzte Ort in der Zone, wo man ganz normale Menschen treffen kann. Menschen, die dich nicht ьbers Ohr hauen, dir ein Messer in den Rьcken rammen oder dich verbluten lassen wie ein Schwein, nur um ein Medkit zu sparen!</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_8">
+		<text>WeiЯt du, warum du noch nie davon gehцrt hast? Weil zu viele Leute etwas darьber wissen wollen - und je weniger man ьber uns weiЯ, desto besser! \nUnser Anfьhrer heiЯt Lebedew - ein Mann wie ein Felsen, wenn ich das so ausdrьcken darf. Er hдlt unsere ganze Gruppe zusammen. \nDann haben wir Beanpolew... Professor Beanpolew. Er ist ein wandelndes Lexikon und ein gottverdammter Computer in einem. Und weiЯ mehr ьber die Zone als... na ja... egal... \nUnser Techniker heiЯt Gray und er kann dir aus einer leeren Dose ein Gewehr samt Munition basteln. Bei ihm ist zwar die eine oder andere Schraube locker, aber sonst... \nUnd schlieЯlich Suslow. Er ist ein Hдndler, aber nicht so wie die anderen seiner Branche. Er wird nicht versuchen, dir das Geld aus der Tasche zu ziehen - er weiЯ, was Stalker durchmachen, um an ihre Beute zu kommen, und respektiert das.</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_1">
+		<text>Fьr einiges hast du schon ein grundlegendes Verstдndnis, andere Dinge bedьrfen einer genaueren Erklдrung. Eine unerklдrliche Tatsache steht fest: Du warst zwei Mal der Emission ausgesetzt und hast ьberlebt. Offensichtlich hast du nicht die hцchste Strahlung abbekommen, denn dann wдrst du ohne Zweifel tot. Aber es scheint so, dass du Emissionsniveaus, die fьr andere Menschen tцdlich wдren, ьberleben kannst. Das ist die grobe Erklдrung dessen, was geschehen ist.</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_3">
+		<text>Es stimmt - einige deiner Fдhigkeiten, wie etwa die motorischen Fдhigkeiten, dein Reaktionsvermцgen und deine Ausdauer haben sich nach der Emission stark verbessert. Scheinbar hat die Emission deinem Kцrper Energie zugefьhrt... aber dieser kurzen Phase der Stдrke ist ein starker kцrperlicher Verfall gefolgt, dessen Folgen du gerade spьrst. \nZusammenfassend muss ich dir etwas mitteilen, was du schon weiЯt: Die Emissionen zerstцren dein Nervensystem. Wenn sie weiterhin auftreten, wirst du sterben oder - noch schlimmer - deinen Verstand und dein "Selbst" verlieren!</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_5">
+		<text>Leider nein. Das einzige, was ich fьr dich tun kann, ist, die Wirkung der Emissionen auf deinen Kцrper zu mildern. Momentan fьhre ich eine Reihe von Untersuchungen durch und wenn Lebedew die Ergebnisse bestдtigt, werde ich in der Lage sein, die erforderlichen Vorkehrungen zu treffen. Dennoch mцchte ich ein weiteres Mal betonen, dass es sich hierbei nicht um ein Allheilmittel handelt und es das Problem nicht lцsen wird. Du bekommst nur ein wenig mehr Zeit, bevor dein Nervensystem zusammenbricht.</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_7">
+		<text>Nun ja, das ist alles. Abgesehen davon werde ich versuchen, deine Fragen zu beantworten...</text>
+	</string>
+	<string id="mar_csky_doctor_about_people_1">
+		<text>Die Menschen nehmen irrigerweise an, dass sie die wahre Natur der Zone verstehen. Manche glauben, dass es sich dabei um das Bцse an sich handelt, andere wiederum halten die Zone fьr ein Wunder, das zu den Menschen geschickt wurde... wieder andere sehen in ihr nichts weiter als eine Quelle fьr Reichtьmer. Sie liegen alle falsch! Man kann die Zone nicht verstehen, wenn man sie aus der menschlichen Warte aus betrachtet. Ьberhaupt sind die Menschen noch gar nicht so weit, die Zone zu verstehen. Daher sind sowohl die Aktionen der Regierung als auch der Stalker im Zusammenhang mit der Zone fehlgeleitet und ich befьrchte, dass sie vollkommen unabsehbare Konsequenzen nach sich ziehen werden. Dies stellt eine fьrchterliche Gefahr fьr uns alle dar!</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_1">
+		<text>Ach junger Mann, wenn ich nur die Antwort auf diese Frage hдtte... wir untersuchen die Zone akribisch, um das herauszufinden! \nDie Zone ist als Resultat von... sagen wir... "missgeleiteten" Handlungen der Menschen entstanden, und wir sind nicht in der Lage, den Ursprungszustand wiederherzustellen. Die Zone kann nicht zerstцrt werden und verschwindet auch nicht von selbst. Wir, Clear Sky, sind der Meinung, dass es nur einen Weg gibt, wie die Menschen ьberleben kцnnen: durch Koexistenz mit der Zone.</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_3">
+		<text>Wie erklдre ich das am besten? Lass es mich so ausdrьcken: Jedes komplexe System in der Natur, und das schlieЯt die Zone mit ein, strebt nach einem Gleichgewicht, solange keine destabilisierenden Krдfte von auЯen wirken. In den vergangenen Jahren war das hier der Fall - die Zone war stabil und es gab keine grцЯeren Abweichungen von der Norm. Und was ist jetzt? Wir haben eine gigantische Emission erlebt, die die Zone grundlegend verдndert hat. Das System ist instabil geworden, wurde gestцrt. Die Zone erzeugt eine Emission nach der anderen und pumpt sich mit derart viel Energie auf, dass meine Messgerдte durchdrehen! Und sofern wir keinen Weg finden, diesen Vorgang rьckgдngig zu machen, wird eine Katastrophe eintreten, die den Unfall von 1986 wie eine Silvesterparty erscheinen lдsst! \nDie wichtigste Lektion, die man aus dieser ganzen Sache ziehen muss, ist, dass diese "Stцrung" im System nicht natьrlichen Ursprungs ist, sondern eindeutig von Menschen verursacht wurde...</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_5">
+		<text>Das versuchen wir herauszufinden. Vielleicht wird es uns dabei helfen, die Katastrophe zu verhindern, wenn wir wissen, wer das Gleichgewicht der Zone gestцrt hat.</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_7">
+		<text>Da die Menschen dieses Chaos verursacht haben, kцnnen sie durchaus auch in der Lage sein, es wieder zu bereinigen. Auf jeden Fall hoffe ich das sehr...</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_9">
+		<text>Ich fьrchte, auf diese Frage habe ich keine Antwort. Du solltest sie Lebedew stellen.</text>
+	</string>
+	<string id="mar_csky_doctor_hello_dialog_0">
+		<text>Es freut mich, dich zu sehen, junger Mann. Du siehst deutlich besser aus.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_1">
+		<text>Leider ja. Also, wirst du uns helfen?</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_0">
+		<text>Warst du an der frischen Luft? Du siehst auf jeden Fall besser aus. \nIch werde dir die Lage schildern. \nDu befindest dich in der Basis von Clear Sky. Versuch nicht, dich daran zu erinnern, wer wir sind - du hast noch nie von uns gehцrt, und das mit gutem Grund. Unser Ziel ist die Erforschung der Zone. \nWir sind der Meinung, dass die Zone erforscht und verstanden werden muss, damit die Menschheit weiЯ, womit sie es zu tun hat. Die Zone zu verstehen, ist der Schlьssel zur Koexistenz mit ihr. Denn die Zone ist ohne Zweifel das wundersamste Phдnomen, mit dem es die Menschen bisher in ihrer gesamten Geschichte zu tun gehabt haben!</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_10">
+		<text>Wir haben hier momentan einige Schwierigkeiten. Die Emission hat die Anzahl der Anomalien in den Sьmpfen verringert. Deswegen ist das Gebiet fьr Banditen und anderes Gesindel leichter zugдnglich geworden. Es sind so viele, dass sie schon bald unsere Basis ьberrennen werden, wenn wir nicht etwas dagegen unternehmen! Das Problem ist, dass wir nicht unbedingt die geborenen Kдmpfer sind; aus diesem Grund haben wir immer mehr an Boden verloren. Aber du... schon auf den ersten Blick erkenne ich, dass du ein Profi in diesen Dingen bist! Deine Erfahrung kann hier viele Leben retten.</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_2">
+		<text>Wie ich gesagt habe: Wir sind Forscher. Wir versuchen, die Natur der Zone zu ergrьnden, ihre Ursache in Erfahrung zu bringen und die Regeln ihres Bestehens zu erfassen. Wir sind nicht auf Geld aus, gieren nicht nach Artefakten und interessieren uns nicht fьr Revierkдmpfe mit anderen Fraktionen. Das ist der Grund, warum wir uns hier in den Sьmpfen verstecken und uns auf unsere Forschung konzentrieren. \nUnsere Stдrke ist nicht der Kampf, sondern Wissen - das Wissen ьber die Zone, das wir im Laufe der Jahre gesammelt haben. Wir wissen mehr ьber die Zone als die Stalker und die Regierung zusammen und standen kurz davor, durch unsere Forschungen ein logisches und konsequentes Gesamtbild zu erhalten... bis vor einigen Tagen diese massive Emission auftrat...</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_4">
+		<text>Nein, die Emission war unglaublich stark... stдrker als je zuvor. Sie war wie ein Tornado, der ьber die Zone zog und sie verдnderte. Jetzt ist alles anders: Die bekannten und relativ sicheren Gebiete sind nun hochradioaktiv und voller Anomalien, wдhrend man sich problemlos in anderen Bereichen der Zone aufhalten kann, die zuvor jahrelang unzugдnglich waren. Nicht einmal die besten und abgebrьhtesten Stalker wissen genau, was sie auf ihren bevorzugten Pfaden erwartet. \nAber auch die Menschen haben sich verдndert, was sofort deutlich wurde. Die Emission hat das empfindliche Gleichgewicht zwischen den Fraktionen zerstцrt, und deswegen fьhren sie nun Kriege um die Kontrolle ьber die Gebiete der Zone... \nMit anderen Worten, viele seltsame Dinge sind vorgefallen und ich kann das AusmaЯ dieser Verдnderungen noch nicht ganz erfassen... immerhin ist die Emission erst ein paar Tage her. Wenn du mich fragst, ist das Seltsamste der letzten Tage die Tatsache, dass du ьberlebt hast.</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_6">
+		<text>Ich verstehe. Wie kann ich dir helfen?</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_8">
+		<text>Es ist nicht einfach, hier herauszukommen... nicht im Geringsten. Die Sьmpfe sind ein wahres Labyrinth aus Schilfgebieten und radioaktivem Treibsand und es wimmelt hier von schrecklichen Monstern und menschlichem Abschaum - wobei ich nicht sagen kann, was davon schlimmer ist. Nur jemand, der sich hier gut auskennt, kann dich sicher herausfьhren - und von diesen Leuten haben wir gerade einmal eine Handvoll... Mдnner, denen ich mein Leben anvertrauen wьrde, ohne eine Sekunde zu zцgern. Leider ist das nicht so einfach, denn wenn ich dich gehen lasse, kцnnte unser Geheimnis hier schon bald gelьftet werden.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_0">
+		<text>Du hast die Emission schon wieder ьberlebt! Auch wenn mich das nicht wirklich ьberrascht! Unsere Jungs haben dich in der Nдhe des Turms gefunden, nachdem sich die Lage etwas beruhigt hatte. \nWeiЯt du, Beanpolew hatte Recht: Du trotzt jeder wissenschaftlichen Erklдrung! Er glaubt, dass du einige... sagen wir... "ungewцhnliche" Fдhigkeiten erlangt hast; diese helfen dir, anormale Umstдnde zu ьberleben, die andere Menschen buchstдblich in ihre einzelnen Atome zerlegen wьrden. Zudem scheint etwas die Leistungsfдhigkeit deines Kцrpers in manchen Bereichen auf eine Art und Weise zu erhцhen, die den Messbereich unserer Gerдte sprengt. Halt, halt... nur nicht ьbermьtig werden. Wie immer gibt es auch in diesem Fall die Kehrseite der Medaille: Jede Emission zieht dein Nervensystem in Mitleidenschaft. Und wenn das so weitergeht, wirst du daran sterben!</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_10">
+		<text>Du hast Recht, aber wir wissen, wie man eine Katastrophe verhindern und die Emissionen stoppen kцnnte. Und das will was heiЯen...</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_12">
+		<text>Wir mьssen herausfinden, wer im Zentrum der Zone war, und diese Leute um JEDEN Preis aufhalten.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_14">
+		<text>Zwischen dir und der Zone existiert eine seltsame Verbindung. Auf der einen Seite bringt dich jede Emission dem Tod ein Stьck nдher. Aber auf der anderen Seite ьberlebst du in Situationen, in denen andere Menschen nicht den Hauch einer Chance hдtten. Mein Gefьhl sagt mir, dass deine Fдhigkeiten... dein Segen, dein Fluch, wie auch immer... dass sie dafьr sorgen, dass du an Orte gelangen kannst, von denen andere nur trдumen kцnnen. Und gerade jetzt mьssen wir sehr schnell handeln.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_16">
+		<text>Ich wusste, dass du das fragen wьrdest. Die Antwort ist einfach: Wenn die Emissionen nicht aufhцren, wird dein Nervensystem quasi ausbrennen - und du wirst sterben. Hilf uns und du hilfst dir selbst. Auch wenn das jetzt wie in einem schlechten Film klingt: Du hast keine andere Wahl.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_2">
+		<text>Eine normale Emission ist eine Freisetzung von Energie, die sich in der Zone aufgestaut hat... eine Entladung sozusagen. Aber was momentan geschieht, ist etwas ganz anderes! \nMeiner Meinung nach stellt die zunehmende Hдufigkeit dieser Emissionen die Reaktion der Zone auf eine wie auch immer geartete Gefahr dar, wie etwa die Abwehrreaktion des menschlichen Immunsystems gegen Krankheitserreger. Die Koexistenz von Mensch und Zone vernьnftig zu erklдren, ist schwierig. Die Zone toleriert uns in einigen Gebieten, wдhrend sie uns den Zugang zu anderen Gebieten nicht gewдhrt. Alles jenseits des Schmelzers und in Richtung des Zentrums ist tabu - Orte, die Stalker nie betreten dьrfen. Ich glaube, die jьngsten Ereignisse in der Zone sind darauf zurьckzufьhren, dass jemand dieses Tabu gebrochen und nicht am Hirnschmelzer Halt gemacht hat.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_4">
+		<text>Schwer zu sagen. Um diese Frage zu beantworten, mьsste ich wissen, was sich im Zentrum der Zone befindet. Manche sagen der Monolith, andere behaupten der Wunschgцnner... weniger Abgedrehte trдumen von ganzen Feldern voller seltener Artefakte... Als junger Spezialist war ich selbst schon einmal beim Kraftwerk, aber ich weiЯ nicht, wie es jetzt dort aussieht. Alles, was ich sagen kann, ist, dass der Schmelzer nicht ohne Grund aufgetaucht ist. Er sorgt dafьr, dass man das Zentrum der Zone nicht betreten kann. Die Menschen kцnnen den Hirnschmelzer nicht passieren.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_6">
+		<text>Das habe ich bis zur groЯen Emission nicht gedacht. Verflucht, keiner hat das. Wenn man die Emissionen jedoch als eine Abwehrreaktion interpretiert, liegt die Antwort auf der Hand: Jemand ist am Schmelzer vorbeigekommen und die Zone hat darauf mit der Emission reagiert. Und da die Emissionen nicht aufhцren, muss dieser Jemand noch am Leben sein. Die Zone versucht, den Eindringling auszuschalten, und tцtet dabei jedes Leben.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_8">
+		<text>Ich weiЯ eine Menge ьber die Zone, aber ich kann dir nicht alles verraten. Bei manchen Dingen musst du mir einfach vertrauen. \nEin System - jedes System - strebt nach einem Gleichgewicht. Die Zone befindet sich momentan in einem instabilen Zustand und die Instabilitдt nimmt zu. Wenn die stдndigen Emissionen nicht gestoppt werden, wird die Zone so instabil werden, dass es auf jeden Fall zu einer Katastrophe kommen wird. Das bringt uns zu dem, was Clear Sky macht - wir versuchen, diese Katastrophe zu verhindern.</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_0">
+		<text>Genug geredet! Unser AuЯenposten wird erneut angegriffen... hilf uns dabei, den Angriff abzuwehren! \nFalls es irgendeinen Unterschied fьr dich macht: Einige der Mдnner, die dich gerettet haben, befinden sich gerade dort. \nWeiЯt du noch, wie man in der Zone ьberlebt?</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_21">
+		<text>GroЯartig! Begib dich zum Hдndler, er wird dir eine Grundausrьstung verpassen. Gehe danach zum AuЯenposten. Sobald du die Basis verlassen hast, hцre auf meine Anweisungen - ich werde dich fьhren.</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_1">
+		<text>Sieh selbst: Es sind kaum Ausrьstungsgegenstдnde da - es ist wie nach einem nuklearen Krieg! Wenn wir etwas in die Hдnde bekommen, dauert es nicht sehr lange, bis es ausfдllt. Und hier in der Gegend kann man kaum etwas finden, womit sich das Zeug reparieren lдsst. Deswegen muss ich das Beste aus dem machen, was ich in die Finger kriege. Erst letzte Woche musste ich einen Funkempfдnger bauen. Was meinst du, was ich dafьr hernehmen musste? Ganz genau, einen gottverdammten Kьhlschrank! Hah! Ich weiЯ nicht, ob ich lachen oder weinen soll...</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_3">
+		<text>Ja, diese Gegend ist nicht besonders aufregend. Nicht so wie auf der Mьllhalde... ich habe gehцrt, dass sie dort alte Sowjet-Verstecke gefunden haben! Nach dem Tschernobyl-Unfall wurden Konvois mit verstrahlten Fahrzeugen, Ausrьstungsteilen und so weiter dorthin verfrachtet... sie dachten, das wдre alles nichts mehr wert wegen der Radioaktivitдt! Das war damals! Heutzutage wьrde das niemand radioaktiv nennen, daher herrscht dort so etwas wie ein neuer Goldrausch. Stalker aus der ganzen Zone schwдrmen dorthin, um nach Beute zu graben. Leider kommt davon nur wenig hier an, auЯer Lebedew schickt seine Mдnner auf die Mьllhalde, um bestimmte Ersatzteile zu holen...</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_5">
+		<text>Nichts Besonderes. Ich repariere und erweitere Waffen und Schutzanzьge... im Grunde genommen mache ich alles, was getan werden muss. Wenn du etwas reparieren lassen willst, bist du bei mir goldrichtig. \nAch, wenn ich ein paar entsprechende Ersatzteile hдtte, wьrde ich wirklich einige nette Spielsachen fьr die Jungs zusammenbauen! Waffen, Schutzanzьge, Ausrьstung... das wдre alles nochmal ne Ecke besser! \nDenk daran: Wenn du etwas Interessantes findest, bring es zu mir, und ich hole alles aus dem Zeug raus - versprochen!</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_0">
+		<text>Oh, sei gegrьЯt, Gast aus der Fremde! Was fьhrst du mit dir? Einen berstenden Geldbeutel oder ausgezeichnete, exotische Wunder?</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_10">
+		<text>Ja, ich weiЯ. Aber egal, ich habe wieder einmal zu viel geredet. Zeit ist Geld und wenn du handeln willst, dann los. Falls nicht - schцnen Tag noch.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_2">
+		<text>Ja, ich habe deine Geschichte gehцrt. Ich denke, das Wichtigste ist, dass du noch am Leben bist... Gegenstдnde lassen sich leicht genug ersetzen, wenn dich die Zone gut behandelt. Also, wollen wir handeln oder hast du Fragen?</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_4">
+		<text>Genau so sind wir! Unser Ruf mag zwar nicht der beste sein, aber wir Hдndler werden trotzdem ьberall gebraucht. Selbst in der Zone, selbst in den Sьmpfen, selbst unter der Erde! \nEs ist eine Illusion zu glauben, dass die Zone Sperrgebiet ist und die Armee alle Wege hinein und hinaus kontrolliert. Denk mal darьber nach, heutzutage kann man Artefakte und seltene Gegenstдnde aus der Zone ьberall auf der Welt kaufen... und deinen Stalker-Kollegen mangelt es nie an Wodka, Munition oder Ausrьstung - wer, glaubst du, sorgt dafьr, hmm? Genau da kommen wir ins Spiel. Der Handel hier ist aber nicht so etwas wie kopierte CDs auf dem Marktplatz zu verkaufen und ab und an vor der Polizei wegzulaufen! \nDie Situation hier ist eigentlich ziemlich einfach zu beschreiben: Die AuЯenwelt interessiert sich fьr die Zone und umgekehrt, aber offiziell ist das verboten, untersagt und weiЯ der Teufel was! Deswegen gibt es uns... wir sorgen dafьr, dass dieses Interesse gestillt wird und jeder glьcklich ist. Unter den Hдndlern erzдhlt man sich einen netten, kleinen Witz: Wenn jemand eine Waffe auf dich richtet, ьberlebst du am ehesten, wenn du sie ihm abkaufst!</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_6">
+		<text>Lass uns nicht darьber sprechen! Du kannst dir nicht vorstellen, wie satt ich es habe, dieses Zeug hier zu verhцkern! Da drauЯen liegen tausende Artefakte herum, aber die besten landen nie hier. Schon seit langer Zeit habe ich keinen besonderen Gegenstand mehr in meinem Laden verkauft.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_8">
+		<text>Wer weiЯ? Vielleicht haben die Stalker ja schon alles gefunden, was man finden kann... Mann, den Schmelzer zu passieren, wдre ein Traum. Es heiЯt, dass man dahinter mehr Artefakte finden kann, als man in seinem ganzen Leben verkaufen kцnnte... vorausgesetzt natьrlich, dass man dort nicht gleich ins Gras beiЯt. Es ist an der Zeit, dass wir Hдndler uns zusammenschlieЯen und einen Weg finden, an diesem Schmelzerding vorbeizukommen...</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_0">
+		<text>Endlich! Hier, nimm diese Grundausrьstung - sie ist speziell fьr  Patrouilleneinsдtze gedacht.</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_2">
+		<text>Ich habe die Anweisung, dir deine Ausrьstung zu ьbergeben. Wir haben keine Zeit fьr Fragen... die Mдnner brauchen deine Hilfe!</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_111">
+		<text>Dann hцr gut zu. Wir haben alle unsere Kontakte und Verbindungen in der Zone spielen lassen. Jetzt wissen wir, dass ein gewisser Stalker beim Kordon Sidorowitsch nach sehr seltsamen Ersatzteilen gefragt hat. Das ist alles, was wir bisher haben, aber es ist immerhin eine Spur.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_11111">
+		<text>Durch die Sьmpfe natьrlich, wie sonst? Aber denke daran, was ich gesagt habe: Nach der Emission ist in dem Gebiet jede Art von Abschaum aufgetaucht. Jetzt haben sie fast alles unter Kontrolle - wir werden belagert und damit ьbertreibe ich nicht im Geringsten! Bevor wir dir also helfen kцnnen, zum Kordon zu gehen, mьssen wir erst wieder die Kontrolle ьber die Sьmpfe erlangen. Und mit deiner Hilfe ist das mцglich, denke ich.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_211">
+		<text>Nun, du hast noch Zeit zum Nachdenken. Nicht sehr viel allerdings. Komm zurьck, wenn du bereit bist.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_11">
+		<text>Geh am besten zur Bar und gцnne dir einen guten Drink. Komm dann wieder her. Jetzt momentan hat es keinen Sinn, mit dir zu reden - du siehst so aus, als ob dir jemand das Hirn verdreht hдtte.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_21">
+		<text>Was tust du noch hier? Geh und hol dir sofort bei Suslow deine Ausrьstung ab.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_31">
+		<text>Du hast die Ausrьstung? Gut, dann verschwende keine Zeit! Begib dich zum AuЯenposten, auf geht's!</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_41">
+		<text>Es ist in deinem eigenen Interesse, uns zu helfen. AuЯer natьrlich, wenn du den Rest deines Lebens als hirnloses Stьck Fleisch verbringen willst.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_91">
+		<text>Leg los, Kumpel.</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_11">
+		<text>Du solltest besser zu Lebedew gehen - er ruft nicht grundlos Leute zu sich.</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_21">
+		<text>Kein guter Zeitpunkt zum Plaudern, mein Freund. Hast du es nicht mitbekommen? Der zweite AuЯenposten wird angegriffen. Wie wдre es, wenn du ihnen hilfst, hmm?</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_31">
+		<text>Hallo, Mr. Zwei-Emissionen-Aber-Ich-Lebe-Noch! Ich glaube, Lebedew wollte dich sprechen. Warum gehst du nicht zu ihm, bevor dich eine dritte Emission trifft? Ha ha!</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_41">
+		<text>Was gibt's Neues, Bruder?</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_11">
+		<text>Verdammt Kumpel, du siehst erbдrmlich aus! Du brauchst frische Luft oder sowas. Apropos frische Luft, wir haben hier eine Open-Air-Bar.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_21">
+		<text>Ich glaube, Lebedew will dich sehen. Du solltest am besten zu ihm gehen. In der Zwischenzeit werde ich einige der Kanonen reparieren... wie immer mit diesem Mьll hier.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_31">
+		<text>Du hast doch das Hilfe-Signal vom zweiten AuЯenposten gehцrt, oder? Geh und hilf ihnen!</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_41">
+		<text>Hallo, Supermann der Zone! Ich habe gehцrt, dass Lebedew sich in deinem Glanze sonnen will! Geh und sprich mit ihm.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_91">
+		<text>Was gibt's?</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_11">
+		<text>Mein Gott, du bist blasser als meine tote Oma! Was du brauchst, ist ein guter Drink in der Bar!</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_21">
+		<text>Du siehst ziemlich gut aus... zumindest fьr jemanden, der gerade eine Emission ьberlebt hat. Was dir helfen wird, ist, bei Lebedew am Feuer zu sitzen...</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_31">
+		<text>Wir kцnnen spдter reden. Jetzt wirst du am AuЯenposten gebraucht - los!</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_41">
+		<text>Meine Gьte! Du solltest zu Lebedew gehen... ein Drink wird da nichts nьtzen.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_91">
+		<text>Willst du handeln?</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_111">
+		<text>Okay.</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_211">
+		<text>Alles klar.</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_311">
+		<text>Wirklich unglaublich witzig!</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_1">
+		<text>Es gibt nicht viel zu erzдhlen. Ich habe gerade eine Gruppe Wissenschaftler durch die Sьmpfe gefьhrt, als wir plцtzlich von einer Emission ьberrascht wurden. Danach kann ich mich an nichts mehr erinnern... Ich bin erst hier wieder aufgewacht. Also, erzдhl du mir, was passiert ist.</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_3">
+		<text>Wie bist du hierher gekommen?</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_5">
+		<text>Дhm, was diesen Ort angeht... Kannst du mir verraten, wo wir hier sind?</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_7">
+		<text>Ich kenn mich in der Zone eigentlich ganz gut aus, aber von Clear Sky hab ich noch nie etwas gehцrt. Wie laufen die Dinge hier?</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_9">
+		<text>...</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_0">
+		<text>Was ist passiert?</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_2">
+		<text>Ich bin ganz durcheinander. Alles fьhlt sich so komisch an...</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_4">
+		<text>Kцnnen Sie die Zerstцrung meines Nervensystems verhindern?</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_6">
+		<text>Kцnnen Sie sonst irgendetwas fьr mich tun?</text>
+	</string>
+	<string id="mar_csky_doctor_about_people_0">
+		<text>Ich habe in der Zone alle mцglichen Leute gesehen. Manche kommen her, um ihren Trдumen hinterherzujagen, andere suchen hier nach den Wundern, die die Zone bereithдlt, und wieder andere sind einfach auf der Suche nach mцglichst viel Beute. Warum untersucht Clear Sky die Zone?</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_0">
+		<text>Was ist die Zone eigentlich?</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_2">
+		<text>Warum gibt es in der Zone diese Erschьtterungen? Wissen Sie irgendetwas darьber?</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_4">
+		<text>Ich wьnschte, ich wьsste, wer dafьr verantwortlich ist...</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_6">
+		<text>Ob die Menschen das wieder in Ordnung bringen kцnnen?</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_8">
+		<text>Hm... und wie genau kцnnte das funktionieren?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_11">
+		<text>Hцr auf, hier nur rumzuhдngen. Du hast Geschдfte mit Lebedew? Dann tu, was er sagt, Punkt.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_111">
+		<text>Ich find's schon alleine raus, danke.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21">
+		<text>Bist du bereit, zum AuЯenposten aufzubrechen?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_211">
+		<text>Das bin ich.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_2111">
+		<text>Gut. Ich werde dir die Augen verbinden, solange wir unterwegs sind. Das musst du verstehen - wir mьssen den Weg geheim halten.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21111">
+		<text>Okay.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_212">
+		<text>Noch nicht.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_2121">
+		<text>Dann mach schnell.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21211">
+		<text>Alles klar.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_31">
+		<text>Ich fьhre dich nicht durch die Sьmpfe. Befehl von Lebedew.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_311">
+		<text>Verstehe.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_41">
+		<text>Ich soll dich also zu den GroЯen Sьmpfen fьhren?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_411">
+		<text>Ja.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_4111">
+		<text>Du kennst die Regeln - dir werden die Augen verbunden. Wenn du meine Schulter nicht loslдsst, wird dir nichts geschehen.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_41111">
+		<text>Okay.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_412">
+		<text>Noch nicht.</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_11">
+		<text>Sehr gut. Soll ich dich zu unserer Basis fьhren?</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_111">
+		<text>Ja.</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_1111">
+		<text>Gut, dann leg dir das hier ьber die Augen und lass meine Schulter nicht los, bis ich es sage.</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_11111">
+		<text>Gehen wir.</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_112">
+		<text>Noch nicht.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_0">
+		<text>Da hab ich mir aber was eingebrockt, was?</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_11">
+		<text>Ja.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_1111">
+		<text>Wenigstens etwas. Wie gelange ich zum Kordon?</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_111111">
+		<text>Verstanden.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_21">
+		<text>Nein, ich brauche etwas Zeit zum Nachdenken.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_2111">
+		<text>Abgemacht.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_111">
+		<text>Ich verstehe schon.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_211">
+		<text>Okay.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_311">
+		<text>Jup.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_911">
+		<text>Ich bin nur kurz vorbeigekommen. Ich muss gleich wieder los.</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_1">
+		<text>Warum versteckt ihr euch?</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_11">
+		<text>...</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_3">
+		<text>Ja und? Wird wohl eine der Emissionen sein, dier hier immer wieder auftreten...</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_5">
+		<text>Wenn ich wьsste, wie ich ьberlebt habe, wьrde ich's dir sofort erzдhlen. Aber ich kann mich an nichts erinnern...</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_7">
+		<text>Ich sollte besser gehen. Ich bin ziemlich geschafft, aber ich kann mich immer noch auf den Beinen halten. Wie komm ich hier raus?</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_9">
+		<text>Was willst du damit sagen?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_1">
+		<text>Warum kommt es so oft zu Emissionen?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_11">
+		<text>Du hast ziemlich viel Selbstvertrauen. Also, was hast du vor?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_13">
+		<text>Und warum erzдhlst du das ausgerechnet mir?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_15">
+		<text>Hm... Ich weiЯ nicht, ob ich mich da einmischen soll. Warum sollte ich?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_3">
+		<text>Jemand ist am Schmelzer vorbeigekommen? Stellt das eine Gefahr fьr die Zone dar?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_5">
+		<text>Gibt es vielleicht doch einen Weg am Schmelzer vorbei? Eine theoretische Chance?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_7">
+		<text>Welche Gefahr geht von diesen Emissionen aus?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_9">
+		<text>Die Katastrophe verhindern? Ihr schafft es doch noch nicht einmal, gegen die Banditen zu bestehen.</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_1">
+		<text>Mein Kopf brummt... und alles dreht sich... Ich fьhl mich ziemlich miserabel.</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_3">
+		<text>Ich weiЯ noch, dass ich eine Expedition durch die Sьmpfe gefьhrt habe. Ein paar Wissenschaftler. Dann... die Emission... Das war's. Wo bin ich? Bin ich im Himmel? Aber warum sieht er so aus wie die Zone?</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_5">
+		<text>Oh. Dann hab ich wohl Glьck gehabt...</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_111">
+		<text>Okay.</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_2">
+		<text>Ich kann mich teilweise daran erinnern.</text>
+	</string>
+	<string id="mar_csky_tactic_about_me_dialog_0">
+		<text>Was machst du hier?</text>
+	</string>
+	<string id="mar_csky_tactic_about_me_dialog_1">
+		<text>Ich ruh mich aus. Dabei versuche ich, die Informationen, die mir die Jungs geben, so gut es geht zusammenzusetzen und unserem kьhnen Anfьhrer vorzulegen. Du siehst, wir Ortskundigen sind die Augen und Ohren von Clear Sky in den Sьmpfen.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_11">
+		<text>Mann, ich hab seit drei Tagen nicht geschlafen... oder sind es schon vier? Lass mich ein bisschen schlafen, okay?</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_111">
+		<text>Okay.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_21">
+		<text>Mann, bitte...</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_211">
+		<text>Schon gut, schon gut, ruh dich aus.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_31">
+		<text>Warte kurz. Zu den GroЯen Sьmpfen zu gelangen, ist einfach - unsere Ortskundigen werden dich hingeleiten. Aber wenn du dort ьberleben willst, musst du einiges ьber die taktische Lage dort lernen, und ьber die neuen Funktionen deines PDA. Also, wenn du mehr darьber wissen willst, frag einfach.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_41">
+		<text>In den Sьmpfen versumpfst du schneller, als du denkst. Dort wimmelt es nur so von Banditen und Monstern. Es ist fast schon eine Belagerung.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_51">
+		<text>Natьrlich haben wir einen FuЯ in die GroЯen Sьmpfe gesetzt, aber mehr als ein FuЯ ist es bisher noch nicht. Nicht die komfortabelste Situation, das kannst du mir glauben.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_61">
+		<text>Die Sьmpfe sind sicher, jedenfalls so sicher, wie ein Sumpf sein kann. Aber von den Wegen nach drauЯen kцnnen wir das nicht gerade behaupten.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_71">
+		<text>Du bist ganz schцn zдh, mein Freund. Wir sind alle beeindruckt von dir, sogar die Ortskundigen. Wenn du zum Kordon willst, wartet einer von uns im Dorf sьdцstlich der Sьmpfe auf dich.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_81">
+		<text>Alles in Ordnung? Dann werde ich mich mal wieder aufs Ohr hauen...</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_0">
+		<text>Wie sieht die taktische Lage aus?</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_1">
+		<text>Mit einem Wort: beschissen. Mit zwei Worten: absolut beschissen. Unsere Kдmpfer kцnnen die GroЯen Sьmpfe kaum halten - sie werden fortwдhrend von Banditen und Monstern zurьckgedrдngt. Es sind einfach zu viele.</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_2">
+		<text>Wir haben es geschafft, unsere Prдsenz hier in den Sьmpfen zu festigen, aber die Banditen setzen uns noch immer heftig zu. Ihre andauernden Ьberfдlle vom Bauernhof im Nordosten aus sind ziemlich... lдstig, um es milde auszudrьcken.</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_3">
+		<text>Die Sьmpfe sind in unserer Hand bis auf ein paar vereinzelte Gebiete. Leider gehцren dazu auch die Wege nach drauЯen. Sie stehen noch immer unter Kontrolle des Feindes.</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_4">
+		<text>Mit einem Wort: prдchtig. Banditen und Monster nerven uns zwar immer noch hin und wieder, aber verglichen damit, wie es noch bis vor kurzem war, ist es jetzt der Himmel auf Erden.</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_0">
+		<text>Was mьssen wir tun, um die Sьmpfe vollstдndig zu kontrollieren?</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_1">
+		<text>Die Zahl der Feinde verringern. Oder, einfach gesagt, so viele wie mцglich von denen ausschalten, die auf uns schieЯen. Wenn uns das nicht gelingt, haben die Kдmpfer keine Chance, die Sьmpfe unter ihre Kontrolle zu bringen.</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_2">
+		<text>Nimm den Bauernhof im Nordosten ein. Den Banditen dort geht es scheinbar zu gut.</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_3">
+		<text>Ьbernimm den Aussichtspunkt, von dem aus der Weg zum Kordon und zum Agroprom-Institut ьberblickt werden kann. Wenn es dir nicht gelingt, sind wir praktisch von der AuЯenwelt abgeschnitten.</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_4">
+		<text>Ausruhen? Wach auf, die Sьmpfe gehцren uns.</text>
+	</string>
+	<string id="mar_csky_tactic_tutorial_dialog_0">
+		<text>Erklдre mir die neuen Funktionen meines PDA.</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_0">
+		<text>Hey! Wie lдuft's, Herr Alleskцnner?</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_2">
+		<text>Tja, das ist halt kein Zuckerschlecken...</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_4">
+		<text>Und, was machst du ganz allgemein so?</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_111">
+		<text>Ich weiЯ, worauf du hinauswillst.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_211">
+		<text>Verstehe.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_311">
+		<text>Jep.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_411">
+		<text>Gut.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_111">
+		<text>Guter Gedanke.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_211">
+		<text>Gute Idee.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_311">
+		<text>Verstehe.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_411">
+		<text>Jep, danke fьr den Tipp.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_1">
+		<text>Weder noch - leider. Ich wurde von einer Emission getroffen und bin nur knapp mit dem Leben davongekommen. Bin jetzt vollkommen blank. Die Emission scheint meine Sachen ьber die ganzen Sьmpfe verteilt zu haben...</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_101">
+		<text>Bis dann.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_3">
+		<text>Ist schon erstaunlich... selbst mitten in den Sьmpfen in einer so geheimen Organisation wie dieser kann man auf einen Hдndler treffen... ha ha!</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_5">
+		<text>Verstehe. Allerdings kommt es mir so vor, als wьrde dein Geschдft nicht so gut laufen.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_7">
+		<text>Warum die kleine Auswahl?</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_9">
+		<text>Ihr seid nicht die Einzigen, die in dieser Richtung Ausschau halten.</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_1">
+		<text>Danke. Hey, ist es hier immer so stressig? </text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_3">
+		<text>Ja. Bin weg.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51">
+		<text>Hey! Wo soll ich dich hinfьhren?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_511">
+		<text>Zum Kordon.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5111">
+		<text>Mann, vielen Dank, dass du unseren Jungs geholfen hast. Ich weiЯ schon gar nicht mehr, wie es ist, sicher durch die Sьmpfe zu kommen... jedenfalls so sicher, wie es die Sьmpfe am Rand der Zone erlauben. Wie auch immer, zurьck an die Arbeit. Kцnnen wir gehen?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51111">
+		<text>Jup.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_511111">
+		<text>Diesmal kцnnen wir's ohne Augenbinde machen. Landest du im Treibsand, stirbt es sich umso schцner, wenn du die Augen offen lдsst... War nur SpaЯ! Halt die Augen offen und versuche, dir den Weg durch die Sьmpfe zu merken - nдchstes Mal musst du es alleine schaffen.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5111111">
+		<text>Erwischt.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51112">
+		<text>Nein, ich muss hier erst etwas zu Ende bringen.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5112">
+		<text>Mmm, das ist ganz schцn weit weg von hier... Na gut. Zeit fьr einen Spaziergang?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_512">
+		<text>Zu deiner Basis.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5121">
+		<text>Okay. Leg die Augenbinde an und lass auf keinen Fall meine Schulter los.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51211">
+		<text>Gehen wir.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_513">
+		<text>Zum Fischerdorf.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_514">
+		<text>Zum zerstцrten Dorf.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_515">
+		<text>Zum abgebrannten Bauernhof.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_516">
+		<text>Zum Bauernhof im Sьden.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_517">
+		<text>Nirgendwohin. Bis spдter.</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_7">
+		<text>...</text>
+	</string>
+</string_table>

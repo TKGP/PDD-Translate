@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bandit_outfit_description">
+		<text>Abbigliamento tradizionale dei banditi: una giacca di pelle sulla quale sono stati cuciti dei pezzi di armatura. La protezione che fornisce и del tutto inadeguata alle dure condizioni della Zona. La giacca и dotata di spazi in cui si tengono fino a due manufatti.</text>
+	</string>
+	<string id="bandit_outfit_name">
+		<text>Giacca da bandito</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>Una versione modernizzata della tuta protettiva della Duty che fornisce una buona protezione contro le anomalie, diversamente dalle tute della serie PSZ. L'armatura integrata и in grado di proteggere da una cartuccia di pistola. Non puт essere modificata per includere un contenitore di manufatti.</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>"Protezione universale" PS5-M</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>Un prototipo sperimentale di esoscheletro militare. Non и mai passato alla produzione in serie a causa dei costi troppo elevati e ad alcuni difetti nella progettazione. Nonostante questo ne vengono prodotti piccoli lotti in stabilimenti sotterranei fuori dai confini ucraini. И un esoscheletro di terza generazione, che risolve i difetti di mobilitа delle versioni precedenti ed и dotato di un'armatura piщ resistente.</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>Esoscheletro</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>La tuta militare corazzata Bulat и progettata per le operazioni d'assalto nelle aree anomale. Consiste di una tuta militare corazzata pesante, una tuta di compensazione integrata e il casco Sphere-12M. La corazza della tuta и in grado di fermare i colpi di un fucile d'assalto. Non puт essere modificata per includere un contenitore di manufatti.</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>Tuta corazzata "Bulat"</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>Questo esoscheletro fornisce un'eccellente protezione contro i proiettili e le granate a frammentazione, limitando perт la mobilitа di chi lo indossa. И vulnerabile alle cartucce anticarro.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>Esoscheletro</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>Questa tuta militare corazzata и pensata per le operazioni d'assalto. Fornisce un'eccellente protezione contro i proiettili e le granate a frammentazione, senza limitare la mobilitа di chi la indossa. Vulnerabile alle cartucce anticarro.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>Tuta militare corazzata</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>Questa tuta и progettata per le operazioni di ricerca nella Zona. И dotata di un modulo respiratorio a ciclo chiuso e un sistema incorporato di soppressione dei campi di anomalia, che fornisce un'eccellente protezione contro le anomalie. Estremamente vulnerabile a causa dello scarso scudo. Dotata di un contenitore per il trasporto dei manufatti.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>Tuta scientifica</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>Questa tuta, prodotta da uno degli istituti di ricerca di Kiev, fornisce un'ottima alternativa ad altre tute da stalker caserecce. И una buona unione di una tuta corazzata, un modulo respiratorio a ciclo chiuso e un sistema di soppressione dei campi di anomalia. Tutto questo, oltre a un'eccellente scelta di materiali, rende questa tuta molto pregiata. L'unico difetto и il prezzo.</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>Tuta SEVA</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>La Berill-5M и una tuta Spetsnaz, modificata per essere usata nella Zona. La tuta include un'armatura militare della serie PSZ-9a, con uno sputter al berillio e un casco Sphere-08. Progettata per le operazioni d'assalto nelle regioni piщ radioattive, и inefficace nelle zone ricche di attivitа anomale.</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>Tuta corazzata "Berill-5M"</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>Realizzata da dei "fai-da-te", questa tuta da stalker unisce con efficacia una corazza militare leggera e una tuta di tessuto in esterno gomma. Nonostante il fatto che non sia in grado di proteggere chi la indossa nemmeno dai colpi di una pistola, la tuta и molto popolare grazie a un prezzo contenuto e alle potenziali modifiche apportabili. Dotata della possibilitа di contenere fino a due manufatti.</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>Tuta "Alba"</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>Una tuta stalker rinforzata, realizzata dagli artigiani della Freedom. L'armatura militare standard, combinata con zirconio corazzato, fornisce una buona protezione contro il fuoco dei mitragliatori, dei fucili d'assalto e delle granate a frammentazione da ogni distanza. Il materiale a doppio strato della tuta combina cuoio trattato con un tessuto che contiene filato di amianto. La tuta offre una protezione limitata contro vari tipi di radiazioni e anomalie.</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>Tuta "Guardiano della Freedom"</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>Questa tuta stalker leggera и realizzata dagli artigiani della Freedom. L'armatura militare leggera и rinforzata con un rivestimento in Kevlar che protegge contro piccole armi da fuoco. Il tessuto della tuta и trattato con una soluzione speciale, che ne aumenta la resistenza alle anomalie.</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>Tuta "Vento della Freedom"</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>Equipaggiamento standard utilizzato dalle squadre d'assalto Clear Sky. Questa armatura и in grado di fermare i proiettili di una pistola e dispone di una maschera antigas integrata che fornisce un'ottima protezione contro le anomalie. Include un contenitore in grado di conservare un solo manufatto.</text>
+	</string>
+	<string id="csky_heavy_outfit_name">
+		<text>Armatura CS-1</text>
+	</string>
+	<string id="csky_light_outfit_description">
+		<text>Questa armatura и stata progettata per condurre operazioni di ricerca nelle aree con attivitа anomala ridotta. I suoi materiali d'alta qualitа garantiscono una maggiore resistenza. Include un contenitore in grado di conservare un solo manufatto.</text>
+	</string>
+	<string id="csky_light_outfit_name">
+		<text>Armatura CS-3a</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>Una delle prime tute militari fabbricate dalla Duty, nota per l'armatura integrata e l'assenza di protezioni contro le anomalie. Non puт essere modificata per includere un contenitore di manufatti.</text>
+	</string>
+	<string id="dolg_heavy_outfit_name">
+		<text>"Corazza Duty" PSZ-9d</text>
+	</string>
+	<string id="exo_freedom_outfit_description">
+		<text>Una versione potenziata di un esoscheletro standard. L'uso di materiali piщ leggeri ha consentito ai progettisti di ridurne il peso e aumentarne la resistenza.</text>
+	</string>
+	<string id="exo_freedom_outfit_name">
+		<text>Esoscheletro "Freedom"</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>Indumento tipico degli stalker alle prime armi. Non protegge dai proiettili o dalle emissioni, ma и sempre meglio di niente. Include un contenitore in grado di conservare due manufatti.</text>
+	</string>
+	<string id="novice_outfit_name">
+		<text>Giacca in pelle</text>
+	</string>
+</string_table>

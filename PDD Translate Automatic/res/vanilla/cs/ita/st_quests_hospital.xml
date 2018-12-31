@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hosp_task_general_name">
+		<text>Raggiungi la centrale di Chernobyl</text>
+	</string>
+	<string id="hosp_task_general_text">
+		<text>La strada per la centrale di Chernobyl attraversa l'ospedale abbandonato. Presto! Strelok ha superato il Bruciacervella ed и molto vicino alla centrale. Trova l'ingresso per le catacombe.</text>
+	</string>
+	<string id="hosp_task_heli_name">
+		<text>Distruggi l'elicottero</text>
+	</string>
+	<string id="hosp_task_heli_text">
+		<text>Abbatti l'elicottero militare.</text>
+	</string>
+	<string id="hosp_task_kill_sniper_name">
+		<text>Uccidi il cecchino</text>
+	</string>
+	<string id="hosp_task_kill_sniper_text">
+		<text>Il cecchino non и protetto da questo lato. Uccidilo.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_name">
+		<text>Elimina furtivamente il cecchino</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_text">
+		<text>Il salone dell'ospedale и coperto da un cecchino e da una mitragliatrice. La posizione del cecchino и ben protetta. La Clear Sky distrarrа il nemico mentre tu attraverserai il salone per eliminarlo.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_name">
+		<text>Raggiungi la parte opposta del salone</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_text">
+		<text>La mitragliatrice sta scatenando un inferno al piano inferiore, mentre quello superiore и coperto dal cecchino. La Clear Sky distrarrа brevemente il nemico. Entra in azione solo dopo il segnale del comandante della squadra Clear Sky.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_name">
+		<text>Raggiungi il ponte</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_text">
+		<text>Devi raggiungere il ponte. Entra in azione solo dopo il segnale del comandante della squadra Clear Sky, che cercherа di distrarre il nemico.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_name">
+		<text>Attraversa il ponte</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_text">
+		<text>Attraversa il ponte. Entra in azione solo dopo il segnale del comandante della squadra Clear Sky, che cercherа di distrarre il nemico.</text>
+	</string>
+	<string id="hosp_task_z2_exit_name">
+		<text>Raggiungi il prossimo salone</text>
+	</string>
+	<string id="hosp_task_z2_exit_text">
+		<text>Lo schianto dell'elicottero ha distrutto il muro e aperto una via per il prossimo salone. Raggiungilo subito.</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_name">
+		<text>Copri la squadra Clear Sky</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_text">
+		<text>La squadra Clear Sky sta avanzando per eliminare la mitragliatrice. I Monolitiani stanno attaccando la squadra. Cerca di fornirle del fuoco di copertura.</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_name">
+		<text>Resisti fino all'arrivo dei soccorsi</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_text">
+		<text>Una squadra Clear Sky si sta avvicinando. Resisti fino all'arrivo dei rinforzi.</text>
+	</string>
+</string_table>

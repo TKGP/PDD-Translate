@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>Mйdicaments antirad</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Cette seringue contient des ingrйdients actifs qui aident а йvacuer les radionuclйides du corps. Elle ne protиge pas contre les radiations, mais permet de rйduire la radioactivitй existante.</text>
+	</string>
+	<string id="st_bread">
+		<text>Pain</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>Difficile de dire qui a rйussi а pйtrir ce pain dans la Zone, mais il n'est pas contaminй et est tout а fait comestible. Du moins, aucun des Stalkers ne s'en est plaint.</text>
+	</string>
+	<string id="st_conserva">
+		<text>"Dйlice du touriste"</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>De la nourriture en conserve qui provient d'un entrepфt militaire dйvalisй par des Stalkers. La date de pйremption n'est pas dйpassйe.</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Saucisse diйtйtique</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Cette saucisse а base de poulet et de soja est souvent au menu des Stalkers au petit-dйjeuner, au dйjeuner et au dоner... faute de mieux.</text>
+	</string>
+	<string id="st_medkit">
+		<text>Mйdikit</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Ce kit mйdical universel permet de soigner de nombreuses petites blessures : plaies, brыlures, empoisonnements, etc.</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Mйdikit militaire</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Trousse mйdicale conзue pour lutter contre les blessures physiques et les saignements. Elle comprend un anticoagulant, des antibiotiques, des stimulants immunitaires et des calmants.</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Mйdikit scientifique</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Trousse mйdicale conзue pour la Zone. Elle permet de soigner les blessures et d'йliminer les radionuclйides de l'organisme. Elle empкche le dйveloppement de maladies radioactives et diminue la radiation accumulйe dans le corps.</text>
+	</string>
+	<string id="st_vodka">
+		<text>Vodka cosaque</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Distillйe par GSC, cette vodka descend facilement et rйduit considйrablement les effets des radiations. А consommer avec modйration !</text>
+	</string>
+	<string id="st_bandage">
+		<text>Pansements</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Des pansements classiques. Permettent d'arrкter les saignements.</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Boisson йnergйtique</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Souvent bue par les stalkers qui ne peuvent pas se payer le luxe de faire une pause. Contient des calories et des substances stimulant la glande adrйnale.</text>
+	</string>
+	<string id="st_detector1">
+		<text>Dйtecteur "Йcho"</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Ce dйtecteur d'activitй anormale, avec compteur Geiger intйgrй, йmet un signal sonore lorsque vous approchez d'une anomalie. En mode passif, il ne dйtecte que les radiations et les anomalies. En mode actif, il signale йgalement la prйsence d'artefacts et indique la distance vous sйparant du plus proche. Pour passer en mode actif, soulevez le couvercle (oщ se trouve l'antenne).</text>
+	</string>
+	<string id="st_detector2">
+		<text>Dйtecteur "Ours"</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Ce dйtecteur d'activitй anormale, avec compteur Geiger intйgrй, permet йgalement de trouver des anomalies. En mode passif, il ne dйtecte que les radiations et les anomalies. En mode actif, il signale la prйsence d'artefacts et indique la distance qui vous en sйpare. Pour passer en mode actif, soulevez le couvercle (oщ se trouve l'antenne).</text>
+	</string>
+	<string id="st_detector3">
+		<text>Dйtecteur "Veles"</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Ce dйtecteur de nouvelle gйnйration est entiиrement dйdiй а la recherche d'artefacts. Leur emplacement s'affiche sur un йcran spйcialisй, ce qui permet de les localiser plus facilement. Un compteur Geiger et un dйtecteur d'anomalies sont йgalement inclus. En mode passif, seules ces deux derniиres fonctions sont actives. Pour changer de mode, activez l'affichage frontal.</text>
+	</string>
+	<string id="st_cordon_case">
+		<text>Malette argentйe</text>
+	</string>
+	<string id="st_cordon_case_descr">
+		<text>Petit boоtier а serrure codйe. Contient des informations de valeur au sujet des marchands auxquels il est possible de revendre des artefacts.</text>
+	</string>
+	<string id="st_fang_pda">
+		<text>PDA des Crocs</text>
+	</string>
+	<string id="st_fang_pda_descr">
+		<text>PC de poche. Utilisй dans la Zone comme bloc-notes, systиme de navigation, dispositif de communication et enregistreur vocal. Chaque PDA a un code d'identification unique qui lui permet d'кtre localisй avec prйcision.</text>
+	</string>
+	<string id="st_shukin_pda">
+		<text>PDA de Lingov</text>
+	</string>
+	<string id="st_shukin_pda_descr">
+		<text>PC de poche. Utilisй dans la Zone comme bloc-notes, systиme de navigation, dispositif de communication et enregistreur vocal. Chaque PDA a un code d'identification unique qui lui permet d'кtre localisй avec prйcision.</text>
+	</string>
+	<string id="st_recorder">
+		<text>Dictaphone</text>
+	</string>
+	<string id="st_cooler_docs">
+		<text>Description de la station de refroidissement</text>
+	</string>
+	<string id="st_cooler_docs_descr">
+		<text>Le dossier contient une description dйtaillйe et des instructions de maintenance pour une station de refroidissement situйe dans le complexe de l'usine.</text>
+	</string>
+	<string id="st_compass">
+		<text>"Boussole"</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>Cela fait plusieurs annйes que personne n'avait trouvй un tel artefact. Il peut signaler les passages sыrs а travers les champs d'anomalies, comme une sorte de boussole. Il permettrait de traverser les champs d'anomalies les plus complexes sans aucune difficultй. Trиs peu de gens savent l'utiliser correctement.</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>Guitare а sept cordes</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Guitare</text>
+	</string>
+</string_table>

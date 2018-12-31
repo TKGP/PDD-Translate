@@ -1,0 +1,1797 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_val_box_01_2">
+		<text>Caisse au sous-sol</text>
+	</string>
+	<string id="st_val_box_01_2_descr">
+		<text>J'ai planquй mon matos au sous-sol, prиs des portes portant un panneau "Danger". Je reviendrai le chercher quand j'aurai le temps.</text>
+	</string>
+	<string id="st_val_electric_box_01">
+		<text>Planque dans la salle de contrфle</text>
+	</string>
+	<string id="st_val_electric_box_01_descr">
+		<text>Je me suis fait une jolie planque dans la salle de contrфle au deuxiиme йtage de l'usine dйsaffectйe. Je vais attendre de trouver quelques artefacts de plus et j'irai tous les revendre d'un coup.</text>
+	</string>
+	<string id="st_val_pipe_o1_base_free">
+		<text>Planque dans le cul-de-sac du collecteur</text>
+	</string>
+	<string id="st_val_pipe_o1_base_free_descr">
+		<text>Je suis tombй par hasard dans le cul-de-sac du collecteur sous la base. Зa m'a semblй une bonne planque, alors j'y ai cachй quelques trucs dans le raccord de tuyaux.</text>
+	</string>
+	<string id="st_val_pipe_02">
+		<text>Planque dans le tuyau</text>
+	</string>
+	<string id="st_val_pipe_02_descr">
+		<text>J'ai cachй mon matos dans un tuyau au premier йtage de l'йglise dйsaffectйe, prиs des escaliers.</text>
+	</string>
+	<string id="st_val_pipe_02_0000">
+		<text>Tuyau sous la citerne</text>
+	</string>
+	<string id="st_val_pipe_02_0000_descr">
+		<text>J'avais une meute de chiens au cul quand je suis passй prиs de la ferme, alors j'ai planquй mon bordel dans le tuyau sous la citerne et je me suis cassй. J'y retournerai dиs que je pourrai.</text>
+	</string>
+	<string id="st_val_pipe_valve_01_01">
+		<text>Planque de l'usine</text>
+	</string>
+	<string id="st_val_pipe_valve_01_01_descr">
+		<text>Y a une super planque dans l'usine dйsaffectйe. Elle est juste а l'entrйe, dans le raccord de tuyaux avec une valve. C'est facile de le confondre avec les autres.</text>
+	</string>
+	<string id="st_val_rucksack_01">
+		<text>Sac а dos dans le tracteur</text>
+	</string>
+	<string id="st_val_rucksack_01_descr">
+		<text>Il faut vraiment que j'aille rйcupйrer le sac а dos que j'ai laissй sur le siиge avant du tracteur renversй. Heureusement que je l'ai laissй lа-bas, sinon ces enfoirйs m'auraient rattrapй.</text>
+	</string>
+	<string id="st_val_rucksack_01_free_base">
+		<text>Planque sous le sapin</text>
+	</string>
+	<string id="st_val_rucksack_01_free_base_descr">
+		<text>Je ferais mieux de pas oublier oщ est le sapin dans lequel j'ai planquй mon matйriel. Il est pas loin de l'entrйe du collecteur, mais зa le rend pas forcйment plus reconnaissable !</text>
+	</string>
+	<string id="st_val_rucksack_02">
+		<text>Sac а dos dans l'arbre</text>
+	</string>
+	<string id="st_val_rucksack_02_descr">
+		<text>Tout le monde se fait des planques souterraines. Moi, je m'en suis fait une en hauteur ! Personne y pensera jamais !</text>
+	</string>
+	<string id="st_val_rucksack_02_02">
+		<text>Planque sous le toit</text>
+	</string>
+	<string id="st_val_rucksack_02_02_descr">
+		<text>Je m'inquiиte pas pour ma planque. Mкme si quelqu'un la trouve, il sera obligй de sauter de poutre en poutre comme un йcureuil pour l'atteindre.</text>
+	</string>
+	<string id="st_val_rucksack_02_03">
+		<text>Planque dans le chвteau d'eau</text>
+	</string>
+	<string id="st_val_rucksack_02_03_descr">
+		<text>J'ai dit а mon pote que j'avais perdu mon sac а dos sur le chemin du retour et ce gland m'a cru ! Je l'ai planquй en haut du chвteau d'eau. J'ai plus qu'а aller le rйcupйrer !</text>
+	</string>
+	<string id="st_val_rucksack_02_2">
+		<text>Sac а dos dans l'ascenseur</text>
+	</string>
+	<string id="st_val_rucksack_02_2_descr">
+		<text>Avec tous ces tirs, j'ai pas vraiment eu le temps de bien planquer mon matos. Je l'ai balancй dans une espиce de tuyau derriиre des panneaux en bois. J'irai le rйcupйrer quand tout sera plus calme.</text>
+	</string>
+	<string id="st_val_instrument_case_01">
+		<text>Caisse de serrurier</text>
+	</string>
+	<string id="st_val_instrument_case_01_descr">
+		<text>J'ai trouvй une vieille caisse de serrurier et j'y ai planquй mon matйriel. Je le dйplacerai vers un endroit plus sыr dиs que j'en aurai l'occasion.</text>
+	</string>
+	<string id="st_val_seif_01">
+		<text>Coffre dans l'usine</text>
+	</string>
+	<string id="st_val_seif_01_descr">
+		<text>Si quelqu'un lit зa, зa veut dire que je bouffe les pissenlits par la racine. Alors autant que tu saches que mon matos est planquй dans le coffre... connard !</text>
+	</string>
+	<string id="st_val_seif_02_descr">
+		<text>J'йtais pas sыr de m'en sortir vivant, alors j'ai planquй mon matos dans le coffre rouillй de la ferme dйsaffectйe. Il serait vraiment temps que j'aille le rйcupйrer.</text>
+	</string>
+	<string id="st_val_trees_log_01">
+		<text>Souche sur l'оle</text>
+	</string>
+	<string id="st_val_trees_log_01_descr">
+		<text>Un de mes potes avait pas mal de matos sur lui quand il s'est fait dessouder dans le Marais. Il a quand mкme eu le temps de me dire qu'il en avait planquй une partie dans la souche pourrie pas loin de l'antenne. Je ferais bien d'aller le rйcupйrer</text>
+	</string>
+	<string id="st_val_trees_log_01_1">
+		<text>Tronc pourri</text>
+	</string>
+	<string id="st_val_trees_log_01_1_descr">
+		<text>Je fais pas trop confiance а mon partenaire, alors j'ai planquй tout mon butin dans un tronc pourri prиs du pont de l'оle. J'espиre qu'il le trouvera pas.</text>
+	</string>
+	<string id="st_val_trees_stump_01">
+		<text>Souche pourrie</text>
+	</string>
+	<string id="st_val_trees_stump_01_descr">
+		<text>J'essayais d'йchapper а des sangliers l'autre jour et j'ai larguй tout mon butin dans une souche pas loin de la vieille ferme.</text>
+	</string>
+	<string id="st_val_trees_stump_01_0000">
+		<text>Souche prиs de la colline</text>
+	</string>
+	<string id="st_val_trees_stump_01_0000_descr">
+		<text>J'utilise une souche au pied de la colline comme planque. C'est une bonne cachette. J'espиre seulement que je continuerai а avoir de la chance et que je pourrai y ajouter plein de trucs.</text>
+	</string>
+	<string id="st_val_trees_stump_01_1">
+		<text>Souche prиs du ponton en bois</text>
+	</string>
+	<string id="st_val_trees_stump_01_1_descr">
+		<text>J'ai vu Kolya s'approcher d'une souche sur l'оle а plusieurs reprises. Je suis sыr que ce radin y planque son butin. Je vais attendre qu'il y ait mis un peu plus de trucs avant d'aller tout lui piquer !</text>
+	</string>
+	<string id="st_val_trees_zaz968">
+		<text>Vieille voiture Zaporozhets</text>
+	</string>
+	<string id="st_val_trees_zaz968_descr">
+		<text>Tous ces pauvres connards se demandent pourquoi leur butin disparaоt ! Ha ha ! J'ai tout planquй dans la vieille voiture prиs du Marais. Personne ira mettre son nez lа-dedans !</text>
+	</string>
+	<string id="st_yan_electric_box_01">
+		<text>Panneau йlectrique dans l'usine</text>
+	</string>
+	<string id="st_yan_electric_box_01_descr">
+		<text>J'ai regardй dans le PDA d'Andrew et j'ai vu que quand les йmissions psi ont commencй а faiblir, il s'est fait une cachette dans un panneau йlectrique de l'usine.</text>
+	</string>
+	<string id="st_yan_electric_box_02">
+		<text>Panneau de contrфle dans la salle du transformateur</text>
+	</string>
+	<string id="st_yan_electric_box_02_descr">
+		<text>Quand l'usine a commencй а s'йteindre, j'ai planquй tout mon matos derriиre un panneau de contrфle du transformateur.</text>
+	</string>
+	<string id="st_yan_instrument_case_01">
+		<text>Caisse dans l'usine</text>
+	</string>
+	<string id="st_yan_instrument_case_01_descr">
+		<text>J'йtais dans le hangar quand j'ai trouvй ce qui ressemblait а une boоte а outils. Vu le bruit quand on la secoue, il devait y avoir des trucs а l'intйrieur, mais j'ai dы filer vite. Je regarderai зa de plus prиs la prochaine fois.</text>
+	</string>
+	<string id="st_yan_instrument_case_01_0000">
+		<text>Mallette dans le camion</text>
+	</string>
+	<string id="st_yan_instrument_case_01_0000_descr">
+		<text>C'est une belle planque, juste entre la cabine et la remorque. Et en prime, les zombies et les radiations gardent mon matos bien au chaud.</text>
+	</string>
+	<string id="st_yan_pipe_01">
+		<text>Planque prиs de la grille</text>
+	</string>
+	<string id="st_yan_pipe_01_descr">
+		<text>J'ai cachй quelques trucs а l'intersection des tuyaux prиs du vйhicule de construction, а cфtй de la grille.</text>
+	</string>
+	<string id="st_yan_pipe_02">
+		<text>Quelques bibelots dans un tuyau</text>
+	</string>
+	<string id="st_yan_pipe_02_descr">
+		<text>J'ai gardй les trucs les plus prйcieux sur moi et j'ai mis le reste dans un tuyau de la salle avec un trou dans le mur.</text>
+	</string>
+	<string id="st_yan_rucksack_01">
+		<text>Sac а dos prиs de l'entrйe</text>
+	</string>
+	<string id="st_yan_rucksack_01_descr">
+		<text>Il a fallu que je laisse un sac а dos plein de butin prиs de l'entrйe. J'espиre que personne l'a trouvй...</text>
+	</string>
+	<string id="st_yan_rucksack_02">
+		<text>Planque dans le conduit d'aйration</text>
+	</string>
+	<string id="st_yan_rucksack_02_descr">
+		<text>Hй, Tony, souviens-toi de ces coordonnйes et du point de rйfйrence. Le sac а dos est dans le conduit d'aйration, prиs de la brиche dans le mur du complexe. Bien а toi, le Hibou.</text>
+	</string>
+	<string id="st_yan_rucksack_02_0000">
+		<text>Sac а dos sous le siиge</text>
+	</string>
+	<string id="st_yan_rucksack_02_0000_descr">
+		<text>J'avais pas le temps de rйflйchir, alors j'ai planquй mon butin sous le siиge conducteur d'un vieux vйhicule UAZ rouillй.</text>
+	</string>
+	<string id="st_yan_rucksack_02_0001">
+		<text>Planque dans la boоte de vitesse de la grue</text>
+	</string>
+	<string id="st_yan_rucksack_02_0001_descr">
+		<text>Quelle idйe а la con de planquer mon bordel tout lа-haut ! Je sais mкme plus comment y accйder, maintenant...</text>
+	</string>
+	<string id="st_yan_seif_01">
+		<text>Planque dans le coffre</text>
+	</string>
+	<string id="st_yan_seif_01_descr">
+		<text>J'ai la meilleure cachette de toute la Zone ! Tout mon matos est planquй dans un coffre de l'usine.</text>
+	</string>
+	<string id="st_yan_trees_log_01">
+		<text>Tronc creux</text>
+	</string>
+	<string id="st_yan_trees_log_01_descr">
+		<text>J'ai cachй mon butin dans un tronc creux prиs des barbelйs.</text>
+	</string>
+	<string id="st_yan_trees_log_01_0000">
+		<text>Tronc prиs de la colline</text>
+	</string>
+	<string id="st_yan_trees_log_01_0000_descr">
+		<text>Avec tous ces zombies qui sortaient de l'usine, j'ai йtй obligй de me dйbarrasser de mon butin et de la planquer dans un tronc au pied de la colline.</text>
+	</string>
+	<string id="st_yan_trees_stump_01">
+		<text>Souche prиs de la tour</text>
+	</string>
+	<string id="st_yan_trees_stump_01_descr">
+		<text>Je me suis fait une autre planque dans une souche creuse sur la colline avec la tour йlectrique. Ils croient tous que je vais lа-bas pour la vue, ces cons !</text>
+	</string>
+	<string id="gar_equipment_pipe_01_ss">
+		<text>Pavillon de tuyau</text>
+	</string>
+	<string id="gar_equipment_pipe_01_ss_descr">
+		<text>Je me suis fait une planque dans un pavillon de tuyau, au milieu d'une pile de merde radioactive.</text>
+	</string>
+	<string id="gar_equipment_pipe_02_ss">
+		<text>Tuyau prиs d'un moteur</text>
+	</string>
+	<string id="gar_equipment_pipe_02_ss_descr">
+		<text>J'ai planquй mon matos dans un tuyau а cфtй du moteur bousillй de la casse.</text>
+	</string>
+	<string id="st_agr_cross_1">
+		<text>Croix</text>
+	</string>
+	<string id="st_agr_cross_1_descr">
+		<text>Agroprom, buissons, croix. Tombe sous la croix.</text>
+	</string>
+	<string id="st_agr_electric_box_02">
+		<text>Panneau йlectrique dans l'atelier</text>
+	</string>
+	<string id="st_agr_electric_box_02_descr">
+		<text>Ce connard de Dйshydrateur nous pique tout notre butin. Quel vieux bвtard ! Pour йviter que зa se reproduise, je vais le planquer dans le panneau йlectrique au deuxiиme йtage.</text>
+	</string>
+	<string id="st_agr_instrument_case_01">
+		<text>Tracteur</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0000">
+		<text>Voiture dans le garage.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0000_descr">
+		<text>J'ai planquй mon matos dans le coffre du 4x4 du commandant. Tant qu'il va nulle part, mon trйsor est en sйcuritй.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0001">
+		<text>Caisse sous un wagon</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0001_descr">
+		<text>Boоte а outils sous un wagon, а l'Agroprom.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0002">
+		<text>Bus а l'arrкt</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0002_descr">
+		<text>Boоte а outils dans le bus prиs de l'arrкt de bus, pas loin de la base neutre.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_descr">
+		<text>Quand Timmy a rйussi а rйparer le tracteur, on s'est bourrй la gueule et on est allй faire un tour. Manque de bol, on a percutй une sangsue. On a dы mettre les voiles rapidement et laisser notre butin derriиre nous.</text>
+	</string>
+	<string id="st_agr_pipe_02">
+		<text>Tuyau dans les dйcombres</text>
+	</string>
+	<string id="st_agr_pipe_02_descr">
+		<text>Planque : entrйe bloquйe des souterrains, а l'intйrieur d'un tuyau en L.</text>
+	</string>
+	<string id="st_agr_rucksack_01">
+		<text>Sac-а-dos d'un inconnu</text>
+	</string>
+	<string id="st_agr_rucksack_01_0000">
+		<text>Base des stalkers</text>
+	</string>
+	<string id="st_agr_rucksack_01_0000_descr">
+		<text>J'ai jetй mon sac а dos dans l'arbre, sinon tout le monde aurait su que c'йtait moi qu'avait descendu Vitaly. Le plus rapide pour y arriver, c'est depuis les tuyaux de la base neutre.</text>
+	</string>
+	<string id="st_agr_rucksack_01_descr">
+		<text>J'en ai aperзu un dans un arbre prиs de la base du Devoir, mais j'ai pas eu le temps d'y grimper.</text>
+	</string>
+	<string id="st_agr_rucksack_02">
+		<text>Tuyau dans le Marais</text>
+	</string>
+	<string id="st_agr_rucksack_02_0000">
+		<text>Sac а dos perdu</text>
+	</string>
+	<string id="st_agr_rucksack_02_0000_descr">
+		<text>On s'est arrкtй pour se reposer sur des rochers au retour d'une expйdition et j'ai oubliй mon sac а dos. J'y retournerai dиs que je pourrai.</text>
+	</string>
+	<string id="st_agr_rucksack_02_0001">
+		<text>Sac а dos de Rigman</text>
+	</string>
+	<string id="st_agr_rucksack_02_0001_descr">
+		<text>Il a fallu que je grimpe tout en haut de cette putain de tour avant que nos gars se dйbarrassent de ces chiens de merde. J'ai lancй mon sac а dos dans les buissons.</text>
+	</string>
+	<string id="st_agr_rucksack_02_descr">
+		<text>Ma planque est dans un tuyau dans le Marais. Le butin est dans le sac а dos.</text>
+	</string>
+	<string id="st_agr_seif_01">
+		<text>Coffre dans des buissons</text>
+	</string>
+	<string id="st_agr_seif_01_descr">
+		<text>On a essayй de traоner ce coffre de l'autre cфtй du ravin, mais il avait plus et c'йtait tellement boueux qu'on arrкtait pas de tomber et de glisser, alors on l'a laissй sur place.</text>
+	</string>
+	<string id="st_agr_trees_log_01">
+		<text>Rondin isolй</text>
+	</string>
+	<string id="st_agr_trees_log_01_0000">
+		<text>Oeuf de Pвques</text>
+	</string>
+	<string id="st_agr_trees_log_01_0000_descr">
+		<text>Pour Pвques, Tony nous a fait faire des planques pour le clan. J'ai cachй un petit "oeuf de Pвques" dans un rondin vide.</text>
+	</string>
+	<string id="st_agr_trees_log_01_descr">
+		<text>Personne ira chercher ma planque dans un rondin aussi loin dans les buissons.</text>
+	</string>
+	<string id="st_agru_treasure_1">
+		<text>Tuyau dans la salle de contrфle</text>
+	</string>
+	<string id="st_agru_treasure_1_descr">
+		<text>Je me suis barrй aprиs avoir jetй mon barda dans un tuyau quand les monstres ont commencй а rappliquer.</text>
+	</string>
+	<string id="st_agru_treasure_2">
+		<text>Sac а dos dans une anomalie</text>
+	</string>
+	<string id="st_agru_treasure_2_descr">
+		<text>Je traversais le pont quand j'ai laissй glisser mon sac а dos dans une zone contaminйe. J'ai essayй de le rйcupйrer, mais j'ai pas rйussi !</text>
+	</string>
+	<string id="st_agru_treasure_3">
+		<text>Placard abandonnй</text>
+	</string>
+	<string id="st_agru_treasure_3_descr">
+		<text>J'ai toujours bien aimй ce placard. Plein de place. Quand les mutants ont commencй а sortir de leurs trous, on a dы se casser en vitesse et je l'ai laissй derriиre nous.</text>
+	</string>
+	<string id="st_agru_treasure_4">
+		<text>Sac а dos а cфtй d'un cadavre</text>
+	</string>
+	<string id="st_agru_treasure_4_descr">
+		<text>Des petits mutants de merde, comme des rats ou des gerboises, ont bouffй mon pote. J'ai failli y rester, moi aussi... Heureusement que les escaliers йtaient tout prиs.</text>
+	</string>
+	<string id="st_agru_treasure_5">
+		<text>Sac а dos sous l'escalier</text>
+	</string>
+	<string id="st_agru_treasure_5_descr">
+		<text>J'ai vu un йnorme sac а dos noir flotter sous l'escalier. J'y serais bien allй s'il y avait pas cette putain d'anomalie !</text>
+	</string>
+	<string id="st_esc_cross_2">
+		<text>Sous la croix sur la colline</text>
+	</string>
+	<string id="st_esc_cross_2_descr">
+		<text>J'ai planquй mon matйriel dans une fausse tombe de stalker sur la colline.</text>
+	</string>
+	<string id="st_esc_instrument_case_01_ramp">
+		<text>Coffre au-dessus du pont</text>
+	</string>
+	<string id="st_esc_instrument_case_01_ramp_descr">
+		<text>J'ai planquй ma marchandise dans un coffre а l'intersection des poutres du pont. Putain, ce que j'en ai bavй pour aller lа-haut !</text>
+	</string>
+	<string id="st_esc_pipe_02_in_crater">
+		<text>Tuyau sous un arbre dйracinй</text>
+	</string>
+	<string id="st_esc_pipe_02_in_crater_descr">
+		<text>On a fait escale pas loin du village des nouveaux. J'ai planquй ma came dans un tuyau sous un arbre dйracinй. J'y retournerai plus tard.</text>
+	</string>
+	<string id="st_esc_pipe_03_in_crater">
+		<text>Tuyau dans le tunnel</text>
+	</string>
+	<string id="st_esc_pipe_03_in_crater_descr">
+		<text>On balanзait des saloperies dans une anomalie pour rigoler quand cet abruti a lancй le tuyau dans lequel on avait foutu notre matos. Il y est toujours...</text>
+	</string>
+	<string id="st_esc_rucksack_01_in_chimney">
+		<text>Sac а dos dans fourneau</text>
+	</string>
+	<string id="st_esc_rucksack_01_in_chimney_descr">
+		<text>Quand j'ai dйbarquй dans la Zone, je me suis fait une planque dans le fourneau. Je me rappelle mкme plus ce qu'il y a dedans.</text>
+	</string>
+	<string id="st_esc_rucksack_01_natree">
+		<text>Planque dans un arbre</text>
+	</string>
+	<string id="st_esc_rucksack_01_natree_descr">
+		<text>J'йtais montй dans un arbre pour observer la gare routiиre quand je me suis dit que зa ferait une bonne planque. Pour monter facilement, il suffit de passer par la branche а flanc de colline.</text>
+	</string>
+	<string id="st_esc_rucksack_01_pod_train">
+		<text>Sous la locomotive</text>
+	</string>
+	<string id="st_esc_rucksack_01_pod_train_descr">
+		<text>Le commandant nous a ordonnй d'aller aider l'unitй de Nikolaev. Alors, j'ai balancй mon sac а dos sous la locomotive а cфtй du remblai.</text>
+	</string>
+	<string id="st_esc_rucksack_02_inbush">
+		<text>Sac а dos derriиre les buissons</text>
+	</string>
+	<string id="st_esc_rucksack_02_inbush_descr">
+		<text>Une nuit, on est tombйs sur des bandits. On a dы dйcamper vite fait, alors j'ai balancй mon sac а dos derriиre un buisson entre des rochers.</text>
+	</string>
+	<string id="st_esc_rucksack_02_natree">
+		<text>Sac а dos sous le bois de chauffe</text>
+	</string>
+	<string id="st_esc_rucksack_02_natree_descr">
+		<text>J'ai empilй du bois dйjа coupй sur ma planque, qui se trouve а cфtй du bвtiment а deux йtages prиs de la ferme.</text>
+	</string>
+	<string id="st_esc_seif_03">
+		<text>Coffre dans un tuyau</text>
+	</string>
+	<string id="st_esc_seif_03_0000">
+		<text>Coffre dans la base</text>
+	</string>
+	<string id="st_esc_seif_03_0000_desc">
+		<text>Zil garde sa came dans un coffre de la base neutre du Cordon.</text>
+	</string>
+	<string id="st_esc_seif_03_descr">
+		<text>Kolyan et moi, on s'est amйnagй une planque dans la casse pas loin du village des nouveaux.</text>
+	</string>
+	<string id="st_esc_trees_log_01">
+		<text>Planque dans un rondin</text>
+	</string>
+	<string id="st_esc_trees_log_01_descr">
+		<text>J'ai йtй attaquй par des chiens, alors j'ai pas eu trop le choix : j'ai planquй mon matos dans un vieux rondin au milieu du champ et j'ai couru vers le camp.</text>
+	</string>
+	<string id="st_esc_trees_log_02">
+		<text>Planque dans un rondin</text>
+	</string>
+	<string id="st_esc_trees_log_02_descr">
+		<text>J'ai rйcupйrй les coordonnйes de la planque d'un stalker mort. Elle se trouve dans un rondin vide derriиre la ferme.</text>
+	</string>
+	<string id="st_esc_trees_stump_01">
+		<text>Souche dans la forкt d'йpicйas</text>
+	</string>
+	<string id="st_esc_trees_stump_01_descr">
+		<text>On a cachй notre maigre butin dans une vieille souche au milieu des sapins.</text>
+	</string>
+	<string id="st_esc_trees_stump_01_penb_syn_trader">
+		<text>Souche prиs du village</text>
+	</string>
+	<string id="st_esc_trees_stump_01_penb_syn_trader_descr">
+		<text>J'ai pas йtй trиs loin pour ma planque : c'est la premiиre souche creuse а peu prиs potable pas loin du village des nouveaux. C'est lа que je planque ce que je trouve.</text>
+	</string>
+	<string id="st_esc_trees_stump_02">
+		<text>Souche dans les bois</text>
+	</string>
+	<string id="st_esc_trees_stump_02_descr">
+		<text>Sidorovich nous a demandй d'amйnager une planque prиs de l'avant-poste qui mиne а l'extйrieur... C'est pour un nouveau apparemment. On a tout mis sous une souche prиs de la colline.</text>
+	</string>
+	<string id="st_esc_trees_stump_03">
+		<text>Souche dans le Cordon</text>
+	</string>
+	<string id="st_esc_trees_stump_03_descr">
+		<text>En chemin pour la Dйcharge, j'ai tout planquй dans une souche, comme зa, les bandits pourront pas tout me piquer !</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Informations sur la planque reзues :</text>
+	</string>
+	<string id="st_gar_electric_box_01">
+		<text>Boоtier йlectrique prиs d'une grue</text>
+	</string>
+	<string id="st_gar_electric_box_01_descr">
+		<text>J'ai planquй un petit truc que je compte bien revendre au marchй aux puces, dans le boоtier йlectrique prиs de la cabine de la grue qui s'est effondrйe. </text>
+	</string>
+	<string id="st_gar_electric_box_02">
+		<text>Panneau sous la remise</text>
+	</string>
+	<string id="st_gar_electric_box_02_descr">
+		<text>J'ai vraiment hвte de revendre le petit bijou que j'ai planquй derriиre un panneau sous une remise pas loin d'ici.</text>
+	</string>
+	<string id="st_gar_electric_box_02_ss">
+		<text>Boоtier йlectrique de la casse</text>
+	</string>
+	<string id="st_gar_electric_box_02_ss_descr">
+		<text>Mon butin est planquй dans un boоtier йlectrique sous un tas d'ordures.</text>
+	</string>
+	<string id="st_gar_pipe_02">
+		<text>Tuyau de la Dйcharge</text>
+	</string>
+	<string id="st_gar_pipe_02_descr">
+		<text>J'ai mis mon butin bien а l'abri dans un tuyau coupй.</text>
+	</string>
+	<string id="st_gar_pipe_05">
+		<text>Tuyau au pied d'une grue</text>
+	</string>
+	<string id="st_gar_pipe_05_descr">
+		<text>Y a un tuyau au pied d'une grue qui s'est effondrйe. J'y ai planquй mon matos, histoire d'avoir de quoi voir venir...</text>
+	</string>
+	<string id="st_gar_rucksack_02">
+		<text>Sac а dos sous un sapin</text>
+	</string>
+	<string id="st_gar_rucksack_02_1_ss">
+		<text>Sac а dos dans la cabine d'une grue</text>
+	</string>
+	<string id="st_gar_rucksack_02_1_ss_descr">
+		<text>J'ai planquй mon sac а dos dans la cabine d'une grue avant qu'elle ne tombe, mais maintenant, je peux plus l'atteindre.</text>
+	</string>
+	<string id="st_gar_rucksack_02_descr">
+		<text>Mon sac а dos et son contenu resteront bien tranquillement planquйs sous ce sapin jusqu'а ce que les choses se tassent...</text>
+	</string>
+	<string id="st_gar_rucksack_02_ss">
+		<text>Planque introuvable</text>
+	</string>
+	<string id="st_gar_rucksack_02_ss_descr">
+		<text>J'ai balancй mon sac а dos dans un tas de dйchets radioactifs pour que mes ennemis puissent pas le rйcupйrer.</text>
+	</string>
+	<string id="st_gar_rucksack_03">
+		<text>Planque de la casse</text>
+	</string>
+	<string id="st_gar_rucksack_03_descr">
+		<text>J'ai planquй mes affaires sous une dalle de bйton prиs d'une casse de vйhicules contaminйs. Je ferais mieux d'aller les rйcupйrer vite fait !</text>
+	</string>
+	<string id="st_gar_rucksack_04">
+		<text>Toit de la locomotive</text>
+	</string>
+	<string id="st_gar_rucksack_04_descr">
+		<text>J'ai laissй mon sac а dos sur le toit de la locomotive. C'est pas compliquй d'y accйder depuis le remblai, mais bon, au moins, on le repиre pas facilement.</text>
+	</string>
+	<string id="st_gar_seif_01">
+		<text>Coffre dans une flaque</text>
+	</string>
+	<string id="st_gar_seif_01_descr">
+		<text>Je doute que qui que se soit aille s'amuser а ouvrir un vieux coffre surnageant dans une flaque. C'est pas mal comme planque temporaire...</text>
+	</string>
+	<string id="st_gar_seif_03">
+		<text>Coffre sous un йtai</text>
+	</string>
+	<string id="st_gar_seif_03_descr">
+		<text>J'ai planquй mon butin dans un coffre prиs d'un panneau Danger Radiations. Il faudrait кtre suicidaire pour aller me le piquer.</text>
+	</string>
+	<string id="st_gar_trees_log_01">
+		<text>Trou dans un rondin</text>
+	</string>
+	<string id="st_gar_trees_log_01_descr">
+		<text>J'ai planquй mon matos dans le trou d'un rondin pas loin du camp de travail.</text>
+	</string>
+	<string id="st_gar_trees_log_02">
+		<text>Rondin derriиre un chкne</text>
+	</string>
+	<string id="st_gar_trees_log_02_descr">
+		<text>Kolyan m'a filй une info sympa. Paraоt que Weedy planque son butin dans le trou d'un rondin derriиre le vieux chкne mort.</text>
+	</string>
+	<string id="st_gar_trees_log_03">
+		<text>Rondin dans les buissons</text>
+	</string>
+	<string id="st_gar_trees_log_03_descr">
+		<text>J'ai cachй mon butin dans un rondin que j'avais traоnй jusqu'aux buissons. Personne le retrouvera, c'est sыr.</text>
+	</string>
+	<string id="st_gar_trees_stump_01">
+		<text>Planque de Lamsters</text>
+	</string>
+	<string id="st_gar_trees_stump_01_descr">
+		<text>Un des mineurs a cru pouvoir se tailler avec son butin, mais Le Berger et ses gars йtaient pas d'accord. Ils ont butй le mec, mais ils ont pas rйussi а mettre la main sur son matos. Seulement, moi, je sais oщ se trouve la souche qui sert de planque aux mineurs.</text>
+	</string>
+	<string id="st_gar_trees_stump_03">
+		<text>Planque isolйe</text>
+	</string>
+	<string id="st_gar_trees_stump_03_descr">
+		<text>J'ai choisi une souche creuse bien а l'йcart pour y planquer mon butin. On sait jamais, un de mes potes pourraient vouloir me le piquer...</text>
+	</string>
+	<string id="st_gar_trees_stump_04">
+		<text>Planque prиs de la base</text>
+	</string>
+	<string id="st_gar_trees_stump_04_descr">
+		<text>Je sais pas pour les autres, mais moi, j'ai planquй mon matos juste sous le pif de Yoga, prиs de la clфture sous une vieille souche.</text>
+	</string>
+	<string id="st_gar_zaz968">
+		<text>Zaporozhets blanche</text>
+	</string>
+	<string id="st_gar_zaz968_descr">
+		<text>Yoga contrфlera pas la Dйcharge йternellement et le jour oщ il clamsera, j'irai rйcupйrer mon butin dans la Zaporozhets blanche et je dirai adieu а la Dйcharge pour toujours !</text>
+	</string>
+	<string id="st_hos_electric_box_02">
+		<text>Boоtier йlectrique de l'hфpital</text>
+	</string>
+	<string id="st_hos_electric_box_02_descr">
+		<text>Notre groupe a planquй le butin dans le panneau йlectrique au premier йtage de l'hфpital.</text>
+	</string>
+	<string id="st_hos_rucksack_01">
+		<text>Sac а dos sous l'escalier</text>
+	</string>
+	<string id="st_hos_rucksack_01_descr">
+		<text>On a dы se dйbarrasser du superflu pendant qu'on attaquait le deuxiиme йtage.</text>
+	</string>
+	<string id="st_hos_seif_01">
+		<text>Barricade dans le couloir</text>
+	</string>
+	<string id="st_hos_seif_01_descr">
+		<text>Зa tirait dans tous les sens et j'йtais coincй au deuxiиme йtage de l'hфpital. Du coup, j'ai йtй obligй de planquer mon butin dans un vieux coffre de la barricade.</text>
+	</string>
+	<string id="st_lim_electric_box_01">
+		<text>Tuyau dans les йgouts</text>
+	</string>
+	<string id="st_lim_electric_box_01_2">
+		<text>Boоtier йlectrique prиs de la tour radio</text>
+	</string>
+	<string id="st_lim_electric_box_01_2_descr">
+		<text>Pendant qu'on prenait d'assaut le bвtiment de l'institut, je suis tombй sur le matos de quelqu'un dans un boоtier йlectrique sur le balcon, mais j'ai pas eu le temps de le choper.</text>
+	</string>
+	<string id="st_lim_electric_box_01_descr">
+		<text>J'ai repйrй la planque de quelqu'un dans un tuyau des йgouts. Je reviendrai le chercher la prochaine fois qu'on sera dans le coin.</text>
+	</string>
+	<string id="st_lim_instrument_case_01">
+		<text>Sac dans un recoin</text>
+	</string>
+	<string id="st_lim_instrument_case_01_1">
+		<text>Sac dans le grenier</text>
+	</string>
+	<string id="st_lim_instrument_case_01_1_descr">
+		<text>On a repoussй leurs attaques pendant deux jours. Ils nous avaient obligйs а nous replier sur le toit quand nos renforts ont dйbarquй. J'ai repйrй un sac dans le grenier, mais j'ai oubliй de l'emporter.</text>
+	</string>
+	<string id="st_lim_instrument_case_01_descr">
+		<text>On passait а cфtй d'un jardin quand j'ai remarquй une petite boоte а outils prиs de la clфture.</text>
+	</string>
+	<string id="st_lim_pipe_02">
+		<text>Tuyau sous un 4x4</text>
+	</string>
+	<string id="st_lim_pipe_02_01">
+		<text>Derriиre les garages</text>
+	</string>
+	<string id="st_lim_pipe_02_01_descr">
+		<text>J'ai repйrй le butin de quelqu'un derriиre les garages, mais j'ai pas eu le temps d'aller y jeter un coup d'oeil. Il est planquй dans une conduite derriиre un arbre.</text>
+	</string>
+	<string id="st_lim_pipe_02_2">
+		<text>Tuyau dans une benne</text>
+	</string>
+	<string id="st_lim_pipe_02_2_descr">
+		<text>On s'йtait fait coincer dans un jardin oщ il y avait une benne. Je crois que j'ai vu un truc а l'intйrieur, dans un tuyau. Dиs qu'on en aura fini ici, je retourne regarder зa de plus prиs.</text>
+	</string>
+	<string id="st_lim_pipe_02_descr">
+		<text>Un sac remplis de je sais pas quoi dйpassait de sous un 4x4. J'ai pas eu le temps d'y jeter un coup d'oeil, mais je compte bien y retourner un de ces quatre... Si je suis toujours en vie...</text>
+	</string>
+	<string id="st_lim_rucksack_01">
+		<text>Sac а dos sous la boоte а gant</text>
+	</string>
+	<string id="st_lim_rucksack_01_descr">
+		<text>J'ai planquй le sac а dos de ce pauvre gugusse sous le tableau de bord d'une vieille Moskvich.</text>
+	</string>
+	<string id="st_lim_rucksack_02_1">
+		<text>Sac а dos prиs d'un mur</text>
+	</string>
+	<string id="st_lim_rucksack_02_12">
+		<text>Affaires d'un blessй</text>
+	</string>
+	<string id="st_lim_rucksack_02_12_descr">
+		<text>Sanek s'est pris une balle pendant qu'on escaladait un mur. Il a йtй obligй de larguer son sac а dos pour sauver sa peau.</text>
+	</string>
+	<string id="st_lim_rucksack_02_1_descr">
+		<text>J'avais des mecs au cul, alors j'ai balancй mon sac а dos prиs d'un mur а ces coordonnйes.</text>
+	</string>
+	<string id="st_lim_rucksack_02_2">
+		<text>Sac а dos d'un mort</text>
+	</string>
+	<string id="st_lim_rucksack_02_2_descr">
+		<text>Un bleu s'est fait dйchiqueter par une grenade juste а cфtй de moi. Dan a pris son sac а dos et l'a balancй sous le pont. Ce pauvre gars en aura plus besoin, mais зa pourrait nous servir un jour.</text>
+	</string>
+	<string id="st_lim_seif_03">
+		<text>Coffre dans un garage</text>
+	</string>
+	<string id="st_lim_seif_03_descr">
+		<text>On fouillait les garages а la recherche d'un fuyard quand on est tombйs sur un coffre. On ferait bien d'essayer de l'ouvrir un de ces quatre.</text>
+	</string>
+	<string id="st_lim_trees_log_01">
+		<text>Rondin а moitiй enfoui</text>
+	</string>
+	<string id="st_lim_trees_log_01_descr">
+		<text>Avant qu'on bute cet enfoirй, je l'ai vu trafiquer prиs du tronc derriиre le petit pavillon.</text>
+	</string>
+	<string id="st_lim_trees_stump_01_1">
+		<text>Balluchon dans une souche</text>
+	</string>
+	<string id="st_lim_trees_stump_01_1_descr">
+		<text>J'ai trouvй une sorte de balluchon dans une souche creuse au moment oщ on allait passer а l'attaque.</text>
+	</string>
+	<string id="st_mar_nichka_0000">
+		<text>Planque prиs d'un bunker</text>
+	</string>
+	<string id="st_mar_nichka_0000_descr">
+		<text>Les mecs du Bigleux йtaient а mes trousses, alors j'ai noyй un tas de matos prиs de la trappe d'un bunker, dans un marais pas loin d'une gare routiиre abandonnйe.</text>
+	</string>
+	<string id="st_mar_nichka_0001">
+		<text>Petite boоte sous une tour</text>
+	</string>
+	<string id="st_mar_nichka_0001_descr">
+		<text>Je suis en train d'amasser du butin dans une planque que je me suis faite sous l'une des tours haute tension.</text>
+	</string>
+	<string id="st_mar_nichka_0003">
+		<text>Boоte dans une berline ZIL</text>
+	</string>
+	<string id="st_mar_nichka_0003_descr">
+		<text>Ce tocard d'Alex a rйcupйrй une caisse de serrurier je ne sais oщ. On l'a remplie а ras bord avant de la planquer dans une vieille ZIL.</text>
+	</string>
+	<string id="st_mar_nichka_0004">
+		<text>Tuyau de la station</text>
+	</string>
+	<string id="st_mar_nichka_0004_descr">
+		<text>J'ai planquй un truc dans le pavillon d'un tuyau prиs d'une valve, dans l'ancienne station de pompage au milieu d'un marais.</text>
+	</string>
+	<string id="st_mar_nichka_0005">
+		<text>Tuyau dans le Marais</text>
+	</string>
+	<string id="st_mar_nichka_0005_descr">
+		<text>J'en avais ras-le-cul de trimballer tout mon barda dans ce Marais, alors je l'ai planquй sur une presqu'оle dans un tuyau portant une valve. Je me suis dit que j'en chierais moins et que mon matos serait а l'abri dans ces roseaux.</text>
+	</string>
+	<string id="st_mar_nichka_0006">
+		<text>Sac а dos dans le Marais</text>
+	</string>
+	<string id="st_mar_nichka_0006_descr">
+		<text>Cette sale bestiole du Marais allait avoir ma peau, alors j'ai dы balancer mon sac а dos pour pouvoir courir plus vite, mais je me sens pas trop d'aller le rйcupйrer.</text>
+	</string>
+	<string id="st_mar_nichka_0007">
+		<text>Coffre submergй</text>
+	</string>
+	<string id="st_mar_nichka_0007_descr">
+		<text>Il y a un coffre sous l'eau pas loin du pont qui s'est effondrй. J'y ai planquй tout mon matos. J'ai confiance, personne le retrouvera !</text>
+	</string>
+	<string id="st_mar_nichka_0008">
+		<text>Sac а dos dans les roseaux</text>
+	</string>
+	<string id="st_mar_nichka_0008_descr">
+		<text>J'ai balancй mon sac а dos dans des roseaux pendant que j'essayais de repousser des sangliers. Je sais pas exactement oщ, mais j'ai les coordonnйes du secteur.</text>
+	</string>
+	<string id="st_mar_nichka_0009">
+		<text>Artefacts abandonnйs</text>
+	</string>
+	<string id="st_mar_nichka_0009_descr">
+		<text>J'ai arnaquй un pigeon et je lui ai piquй son sac а dos. Mais j'ai dйcidй de le planquer dans les roseaux pendant un moment, histoire de pas me faire choper.</text>
+	</string>
+	<string id="st_mar_nichka_0010">
+		<text>Souche prиs d'un arbre</text>
+	</string>
+	<string id="st_mar_nichka_0010_descr">
+		<text>J'ai dйcidй de planquer mon butin dans une souche prиs de l'arbre mort. J'irai tout rйcupйrer quand je me tirerai dйfinitivement de ce Marais. </text>
+	</string>
+	<string id="st_mar_nichka_0011">
+		<text>Rondin prиs d'une tour</text>
+	</string>
+	<string id="st_mar_nichka_0011_descr">
+		<text>Un rondin fendu non loin d'une tour haute tension.</text>
+	</string>
+	<string id="st_mar_nichka_0012">
+		<text>Tombe avec un masque а gaz</text>
+	</string>
+	<string id="st_mar_nichka_0012_descr">
+		<text>Je fais plus confiance aux morts qu'aux vivants, alors je suis allй au cimetiиre pour planquer mon matos dans la tombe la plus а gauche, celle avec le masque а gaz.</text>
+	</string>
+	<string id="st_mar_nichka_0013">
+		<text>Croix en bois</text>
+	</string>
+	<string id="st_mar_nichka_0013_descr">
+		<text>J'ai mis du matos de cфtй pour les mauvais jours. Il est planquй dans la tombe avec la seule croix en bois du cimetiиre de l'йglise.</text>
+	</string>
+	<string id="st_mar_nichka_0014">
+		<text>Tas de bois de l'йglise</text>
+	</string>
+	<string id="st_mar_nichka_0014_descr">
+		<text>Mon Dieu, protйgez mes affaires pour moi ! Je les ai planquйes dans le gros rondin fendu du tas de bois.</text>
+	</string>
+	<string id="st_mar_nichka_0015">
+		<text>Planque dans les roseaux</text>
+	</string>
+	<string id="st_mar_nichka_0015_descr">
+		<text>J'ai laissй mon sac а dos dans les roseaux prиs de l'йglise. Mais maintenant, j'arrive plus а mettre la main dessus, mкme avec les coordonnйes exactes enregistrйes dans mon PDA.</text>
+	</string>
+	<string id="st_mar_nichka_0016">
+		<text>Coffre dans la terre</text>
+	</string>
+	<string id="st_mar_nichka_0016_descr">
+		<text>J'ai planquй tout mon butin dans un coffre au bord de l'eau а cфtй de l'йglise. Allez vous faire foutre, les pillards !</text>
+	</string>
+	<string id="st_mar_nichka_0017">
+		<text>Sac sous un four</text>
+	</string>
+	<string id="st_mar_nichka_0017_descr">
+		<text>Quel est le point commun entre un four brыlant et une nana en chaleur ? Si on s'en occupe trop longtemps, on finit par se cramer les doigts ! Ha ha ! Du coup, j'ai planquй mon sac plein de butin dans un four, moi !</text>
+	</string>
+	<string id="st_mar_nichka_0018">
+		<text>Matйriel dans une Zaporozhets</text>
+	</string>
+	<string id="st_mar_nichka_0018_descr">
+		<text>On a passй la moitiй de la nuit sur cette Zaporozhets а moitiй submergйe avant que nos gars viennent nous aider. Je savais pas qui allait nous trouver en premier, alors j'ai planquй mes affaires pas loin. Je ferais mieux d'aller les rйcupйrer pendant qu'il fait encore jour.</text>
+	</string>
+	<string id="st_mar_nichka_0019">
+		<text>Souche prиs de la voie ferrйe</text>
+	</string>
+	<string id="st_mar_nichka_0019_descr">
+		<text>On passait prиs de la voie ferrйe quand on a entendu des coups de feu. Du coup, j'ai balancй mes affaires dans une souche derriиre des rochers... On sait jamais...</text>
+	</string>
+	<string id="st_mar_nichka_0020">
+		<text>Tuyau de la citerne</text>
+	</string>
+	<string id="st_mar_nichka_0020_descr">
+		<text>Mes gars et moi, on planque tout notre matos dans le tuyau qui relie la citerne aux Marais, c'est celui qui porte une valve.</text>
+	</string>
+	<string id="st_mar_nichka_0021">
+		<text>Sac а dos prиs d'un matelas</text>
+	</string>
+	<string id="st_mar_nichka_0021_descr">
+		<text>Ce con de Leshka dormait sur le matelas d'un bateau qu'avait йchouй et il a fini par oublier son sac lа-bas.</text>
+	</string>
+	<string id="st_mar_nichka_0022">
+		<text>Caisse dans une cuisine</text>
+	</string>
+	<string id="st_mar_nichka_0022_descr">
+		<text>J'ai mis quelques marchandises de cфtй, histoire de les йchanger plus tard. Je les ai planquйes dans une caisse bleue dans la cuisine d'йtй.</text>
+	</string>
+	<string id="st_mar_nichka_0023">
+		<text>Planque dans un rondin</text>
+	</string>
+	<string id="st_mar_nichka_0023_descr">
+		<text>Avant de partir pour un autre coin du marais, j'ai йtй obligй d'allйger un peu mon sac а dos et du coup, j'ai planquй une partie de mes affaires dans un rondin fendu.</text>
+	</string>
+	<string id="st_mar_nichka_0024">
+		<text>Planque derriиre un panneau</text>
+	</string>
+	<string id="st_mar_nichka_0024_descr">
+		<text>Le panneau de contrфle а l'extйrieur de la salle du transformateur de la ferme, faut surtout pas s'en approcher ! C'est dangereux !</text>
+	</string>
+	<string id="st_mar_nichka_0025">
+		<text>Boоtier de contrфle d'une gare routiиre</text>
+	</string>
+	<string id="st_mar_nichka_0025_descr">
+		<text>Quand j'ai rejoint les gars de Grey, j'ai planquй quelques babioles dans le panneau de contrфle de la station. On sait jamais, зa pourrait кtre utile un jour.</text>
+	</string>
+	<string id="st_mar_nichka_0026">
+		<text>Sac а dos sur le sentier</text>
+	</string>
+	<string id="st_mar_nichka_0026_descr">
+		<text>J'ai croisй un barbak sur un sentier et j'avais qu'un couteau pour me dйfendre. Du coup, j'ai balancй mon sac а dos et je lui ai sautй а la gorge. Des mecs m'ont retrouvй un peu plus tard, а deux bornes de lа... Je ferais bien d'aller rйcupйrer mon barda un de ces quatre.</text>
+	</string>
+	<string id="st_mar_nichka_0027">
+		<text>Souche prиs d'un petit arbre</text>
+	</string>
+	<string id="st_mar_nichka_0027_descr">
+		<text>Le Crochet peut plumer autant de pigeons qu'il veut ! Moi, je me fais une bonne petite rйserve que je planque dans une souche prиs d'un petit arbre.</text>
+	</string>
+	<string id="st_mar_nichka_0028">
+		<text>Coffre derriиre un arbre mort</text>
+	</string>
+	<string id="st_mar_nichka_0028_descr">
+		<text>Je mets du butin de cфtй, histoire de pouvoir l'йchanger plus tard et payer pour les mйdocs de mon fils. J'ai tout planquй dans un coffre derriиre un arbre mort. Dиs que j'aurai assez de fric, je me tirerai de l'autre cфtй du Cordon.</text>
+	</string>
+	<string id="st_mar_nichka_0029">
+		<text>Planque dans des buissons</text>
+	</string>
+	<string id="st_mar_nichka_0029_descr">
+		<text>J'йtais tellement naze quand je suis sorti du Marais que j'arrivais а peine а marche. Du coup, j'ai balancй tout mon barda juste а cфtй du chemin, dans des buissons.</text>
+	</string>
+	<string id="st_mar_nichka_0030">
+		<text>Planque sous un camion</text>
+	</string>
+	<string id="st_mar_nichka_0030_descr">
+		<text>Dans la boоte а outil sous la remorque d'un camion, en face du pont.</text>
+	</string>
+	<string id="st_mar_nichka_0031">
+		<text>Au milieu du Marais</text>
+	</string>
+	<string id="st_mar_nichka_0031_descr">
+		<text>J'ai laissй une caisse de matos en plein milieu d'un marais, sur un morceau de bйton avec des barres en mйtal qui sortent de partout. J'irai la rйcupйrer quand je me tirerai de la Zone.</text>
+	</string>
+	<string id="st_mar_nichka_0032">
+		<text>Petite boоte dans un four</text>
+	</string>
+	<string id="st_mar_nichka_0032_descr">
+		<text>Mon matos est dans une boоte, la boоte est dans un four, le four est dans les ruines d'une maison incendiйe et la maison est dans le Marais.</text>
+	</string>
+	<string id="st_mar_nichka_0033">
+		<text>Coffre dans les roseaux</text>
+	</string>
+	<string id="st_mar_nichka_0033_descr">
+		<text>Je sais pas ce qu'un coffre pareil fait au milieu d'un marais, mais j'ai pas pu laisser passer cette chance. Je vais y planquer mes affaires pour le moment.</text>
+	</string>
+	<string id="st_mar_nichka_0034">
+		<text>Tronc d'arbre dans le Marais</text>
+	</string>
+	<string id="st_mar_nichka_0034_descr">
+		<text>Notre chef nous a dit de pas emporter trop de choses. Du coup, j'ai planquй mes affaires sous une souche prиs du chвteau d'eau. Elle est dans les buissons sous un arbre.</text>
+	</string>
+	<string id="st_mar_nichka_0035">
+		<text>Bois flottй dans le marais</text>
+	</string>
+	<string id="st_mar_nichka_0035_descr">
+		<text>J'йtais en train de traverser le Marais quand j'ai remarquй un vieux morceau de bois flottй prиs d'un ponton en bois. Je me suis dis que зa ferait une cachette gйnial pour mes petits "trйsors".</text>
+	</string>
+	<string id="st_mar_nichka_0036">
+		<text>Sac а dos sur une оle</text>
+	</string>
+	<string id="st_mar_nichka_0036_descr">
+		<text>Y avait une des ces saletйs du Marais qui voulait pas me lвcher. Au bout de quelques kilomиtres, j'йtais tellement naze que j'ai laissй mon sac а dos sur l'une des оles.</text>
+	</string>
+	<string id="st_mar_nichka_0037">
+		<text>Trappe prиs de la cale sиche</text>
+	</string>
+	<string id="st_mar_nichka_0037_descr">
+		<text>J'ai cachй mon butin sous l'une des trappes prиs de la cale sиche, histoire de pas tenter les voleurs.</text>
+	</string>
+	<string id="st_mar_nichka_0038">
+		<text>Planque dans un tuyau</text>
+	</string>
+	<string id="st_mar_nichka_0038_descr">
+		<text>Ce sac а dos noir planquй dans un gros tuyau est tout ce qu'il reste de Mitka.</text>
+	</string>
+	<string id="st_mar_nichka_0039">
+		<text>Boоte а outils dans la cabine</text>
+	</string>
+	<string id="st_mar_nichka_0039_descr">
+		<text>J'ai trouvй une boоte а outils dans le Marais, j'y ai mis toutes mes affaires et je l'ai cachйe dans la cabine d'une grue. Je vais attendre que les choses se tassent avant d'aller le rйcupйrer.</text>
+	</string>
+	<string id="st_mar_nichka_0040">
+		<text>Sac а dos sous un wagon</text>
+	</string>
+	<string id="st_mar_nichka_0040_descr">
+		<text>J'essayais de m'enfuir, alors pour pouvoir courir plus vite, j'ai balancй mon sac а dos sous l'un des wagons.</text>
+	</string>
+	<string id="st_mar_nichka_0041">
+		<text>Sur le bord du dфme</text>
+	</string>
+	<string id="st_mar_nichka_0041_descr">
+		<text>J'ai laissй mon sac а dos sur le bord du dфme de l'йglise. Je devais ressembler а un chamois complиtement tarй lorsque je sautais sur ce toit.</text>
+	</string>
+	<string id="st_mar_nichka_0042">
+		<text>Sous le pont</text>
+	</string>
+	<string id="st_mar_nichka_0042_descr">
+		<text>On s'est planquй sous un pont pour йchapper а des mecs qui nous poursuivaient. J'ai laissй mon sac а dos lа-bas, prиs d'un des йtais.</text>
+	</string>
+	<string id="st_mar_nichka_0043">
+		<text>Entre des rochers</text>
+	</string>
+	<string id="st_mar_nichka_0043_descr">
+		<text>J'ai balancй mon sac а dos entre trois rochers, histoire de pas avoir l'air d'un mec qui a du matos sur lui.</text>
+	</string>
+	<string id="st_mar_nichka_0044">
+		<text>Bois flottй entre des rochers</text>
+	</string>
+	<string id="st_mar_nichka_0044_descr">
+		<text>Je cherchais un endroit sыr oщ planquer mon butin quand j'ai trouvй un gros morceau de bois flottй avec un trou parfait sous des rochers dans les roseaux.</text>
+	</string>
+	<string id="st_mil_cross_1">
+		<text>Planque dans une tombe</text>
+	</string>
+	<string id="st_mil_cross_1_descr">
+		<text>J'ai enterrй mes affaires sous la croix d'une tombe. Qu'elles reposent en paix jusqu'а ce que je revienne les chercher.</text>
+	</string>
+	<string id="st_mil_cross_2">
+		<text>Croix prиs d'un arbre</text>
+	</string>
+	<string id="st_mil_cross_2_descr">
+		<text>Je me suis fait une planque dans une tombe prиs d'un arbre.</text>
+	</string>
+	<string id="st_mil_instrument_case_01">
+		<text>Mallette dans un four</text>
+	</string>
+	<string id="st_mil_instrument_case_01_descr">
+		<text>J'ai cachй une mallette dans le four d'une cabane dйlabrйe. Je compte bien y planquer mon butin.</text>
+	</string>
+	<string id="st_mil_pipe_02">
+		<text>Tuyau dans l'entrйe de la base</text>
+	</string>
+	<string id="st_mil_pipe_02_descr">
+		<text>J'ai cachй mes affaires juste sous le pif de l'enseigne. Elles sont dans un tuyau derriиre la cahute du garde, а l'entrйe de la base.</text>
+	</string>
+	<string id="st_mil_rucksack_01">
+		<text>Sac а dos prиs d'une cheminйe</text>
+	</string>
+	<string id="st_mil_rucksack_01_0000">
+		<text>Planque dans une Moskvich</text>
+	</string>
+	<string id="st_mil_rucksack_01_0000_descr">
+		<text>Je rendrai son sac а dos а Max quand il reviendra. D'ici lа, je vais le laisser dans cette vieille Moskvich.</text>
+	</string>
+	<string id="st_mil_rucksack_01_descr">
+		<text>J'ai laissй mon sac а dos prиs de la cheminйe dans les combles d'une maison dйlabrйe. Je retournerais bien le chercher, mais une sangsue s'est installйe dans le village.</text>
+	</string>
+	<string id="st_mil_rucksack_02">
+		<text>Planque sous une caravane</text>
+	</string>
+	<string id="st_mil_rucksack_02_0000">
+		<text>Planque sous le pont</text>
+	</string>
+	<string id="st_mil_rucksack_02_0000_descr">
+		<text>Le sac а dos se trouve dans un wagon sous le pont de la base de l'armйe.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0001">
+		<text>Fissure dans un tunnel</text>
+	</string>
+	<string id="st_mil_rucksack_02_0001_descr">
+		<text>J'ai laissй tomber mon sac а dos dans une fissure du tunnel quand зa a commencй а chauffer, mais il s'est accrochй а un bout de mйtal qui dйpassait. J'йtais dйgoыtй de repartir sans. Je ferais bien d'aller le rйcupйrer.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0002">
+		<text>Planque dans les toilettes</text>
+	</string>
+	<string id="st_mil_rucksack_02_0002_descr">
+		<text>Je doute que qui que ce soit aille chercher une planque dans les chiottes du village. Et c'est bien pour зa que je me fais pas de souci pour ma planque.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0003">
+		<text>Planque prиs d'une clфture</text>
+	</string>
+	<string id="st_mil_rucksack_02_0003_descr">
+		<text>J'ai balancй le sac а dos de ce pauvre Kolyan derriиre le hangar. J'avais dйjа tout mon barda а transporter, зa faisait trop.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0004">
+		<text>Sac а dos sous un arbre</text>
+	</string>
+	<string id="st_mil_rucksack_02_0004_descr">
+		<text>Dиs que j'ai vu ce monstre а cфtй du chвteau d'eau, j'ai balancй mon sac derriиre un arbre mort et je me suis tirй en courant.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0005">
+		<text>Sac а dos dans une cave</text>
+	</string>
+	<string id="st_mil_rucksack_02_0005_descr">
+		<text>Ma tкte tournait tellement aprиs l'йmission que j'ai laissй tomber mon sac а dos dans une cave. J'irai le rйcupйrer dиs que je me sentirai mieux.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0006">
+		<text>Sac а dos oubliй</text>
+	</string>
+	<string id="st_mil_rucksack_02_0006_descr">
+		<text>J'ai йtй pris au piиge quand une explosion a fait s'effondrer un mur sur moi. J'ai posй mon sac pour sortir de lа et me tirer vite fait, mais du coup, je me suis йclatй tellement que j'ai oubliй de le reprendre. Il doit toujours y кtre...</text>
+	</string>
+	<string id="st_mil_rucksack_02_0007">
+		<text>Cache dans une cuisine</text>
+	</string>
+	<string id="st_mil_rucksack_02_0007_descr">
+		<text>Un sac а dos vert dans le four de la cuisine de l'une des maisons du village abandonnй. Coordonnйes enregistrйes.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0008">
+		<text>Planque sous un rocher</text>
+	</string>
+	<string id="st_mil_rucksack_02_0008_descr">
+		<text>J'йtais en train de courir comme un dйratй l'autre jour et j'ai dы abandonner un sac а dos plein а craquer dans des buissons entre deux rochers.</text>
+	</string>
+	<string id="st_mil_rucksack_02_descr">
+		<text>J'ai vu un mec balancer son sac а dos sous une caravane juste avant qu'une йmission se produise. Je ferais bien d'aller y jeter un coup d'oeil.</text>
+	</string>
+	<string id="st_mil_trees_01_0001">
+		<text>Rondin sous des rochers</text>
+	</string>
+	<string id="st_mil_trees_01_0001_descr">
+		<text>J'ai planquй mon matos а l'abri des curieux, dans un rondin tout prиs de quelques rochers.</text>
+	</string>
+	<string id="st_mil_trees_log_01">
+		<text>Tronc fendu</text>
+	</string>
+	<string id="st_mil_trees_log_01_0000">
+		<text>Planque dans une luge de fermier</text>
+	</string>
+	<string id="st_mil_trees_log_01_0000_descr">
+		<text>Planque dans un gros tronc а cфtй d'une luge de fermier.</text>
+	</string>
+	<string id="st_mil_trees_log_01_0001">
+		<text>Tronc sous des rochers</text>
+	</string>
+	<string id="st_mil_trees_log_01_0001_descr">
+		<text>J'ai planquй mon matos а l'abri des curieux, dans un rondin tout prиs de quelques rochers.</text>
+	</string>
+	<string id="st_mil_trees_log_01_descr">
+		<text>J'ai planquй mes affaires sous un pin prиs de la tour qui s'est effondrйe.</text>
+	</string>
+	<string id="st_mil_trees_stump_01">
+		<text>Souche derriиre des dalles de bйton</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0000">
+		<text>Souche prиs d'une clфture</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0000_descr">
+		<text>Vityok m'a dit qu'il avait laissй ma part du butin dans une souche creuse qui se trouve entre la clфture de la base des militaires et le petit marais.</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0001">
+		<text>Souche prиs d'une clфture</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0001_descr">
+		<text>Vityok m'a dit qu'il avait laissй ma part du butin dans une souche creuse qui se trouve entre la clфture de la base des militaires et le petit marais.</text>
+	</string>
+	<string id="st_mil_trees_stump_01_descr">
+		<text>Une souche entre deux rochers, derriиre une pile de dalles de bйton.</text>
+	</string>
+	<string id="st_red_box_01_0000">
+		<text>Caisse bleue</text>
+	</string>
+	<string id="st_red_box_01_0000_descr">
+		<text>Mon butin est planquй dans une caisse bleue au deuxiиme йtage du bвtiment prиs du chevalement.</text>
+	</string>
+	<string id="st_red_pipe_02">
+		<text>Tuyau dans un wagonnet</text>
+	</string>
+	<string id="st_red_pipe_02_descr">
+		<text>J'ai mis mes affaires dans un tuyau que j'ai ensuite balancй dans un vieux wagonnet rouillй de la vieille carriиre.</text>
+	</string>
+	<string id="st_red_rucksack_01">
+		<text>Sac а dos noir</text>
+	</string>
+	<string id="st_red_rucksack_01_1_0000">
+		<text>Sac а dos noir sur une branche</text>
+	</string>
+	<string id="st_red_rucksack_01_1_0000_descr">
+		<text>J'avais grimpй dans un arbre pour йchapper а un monstre. Je pouvais pas le voir, mais je l'entendais, зa, c'est sыr. J'ai laissй mon sac а dos sur une branche, j'ai sautй а terre et je me suis tirй en courant.</text>
+	</string>
+	<string id="st_red_rucksack_01_descr">
+		<text>Merde ! J'ai paumй mon sac а dos noir pendant que je courais pour sortir de la forкt. Je sais trиs bien oщ je l'ai laissй, mais je compte pas retourner lа-bas avant qu'ils lвchent une bonne grosse bombe au napalm sur cet enfer.</text>
+	</string>
+	<string id="st_red_rucksack_01_on_tree">
+		<text>Arbre prиs d'une clфture</text>
+	</string>
+	<string id="st_red_rucksack_01_on_tree_descr">
+		<text>Une saletй de sangsue m'a collй au cul jusqu'а la clфture de la rйserve et mкme jusque dans un arbre. Si j'avais pas laissй mon sac а dos dans cet arbre, j'aurai jamais rйussi а passer la clфture.</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_2">
+		<text>Sac а dos dans une grotte</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_2_descr">
+		<text>Une nuit, j'ai rampй dans une grotte histoire de trouver un coin tranquille oщ dormir. Manque de bol, j'ai йtй rйveillй par une saletй de sangsue qui tirait sur mon sac. Je me suis tirй а toutes blindes, en laissant mon sac а cette sale bкte.</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_3">
+		<text>Rocher dans un ravin</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_3_descr">
+		<text>Des chiens m'avaient piйgй prиs d'un ravin. Du coup, j'ai balancй mon sac а dos entre des rochers et je me suis tirй de lа en courant.</text>
+	</string>
+	<string id="st_red_rucksack_02">
+		<text>Sac а dos dans des buissons</text>
+	</string>
+	<string id="st_red_rucksack_02_0000">
+		<text>Sac а dos dans la forкt</text>
+	</string>
+	<string id="st_red_rucksack_02_0000_descr">
+		<text>On se serait cru dans un film d'horreur. Franchement, je sais pas comment je m'en suis tirй.... J'ai perdu mon sac а dos, mais il n'y a qu'un seul endroit oщ j'ai pu le laisser tomber.</text>
+	</string>
+	<string id="st_red_rucksack_02_0001">
+		<text>Sac а dos sous des rochers</text>
+	</string>
+	<string id="st_red_rucksack_02_0001_descr">
+		<text>Je pouvais pas porter le sac а dos de Kolya. Du coup, je l'ai mis sous des rochers prиs du bout du pont de Limansk.</text>
+	</string>
+	<string id="st_red_rucksack_02_4">
+		<text>Butin maudit</text>
+	</string>
+	<string id="st_red_rucksack_02_4_descr">
+		<text>Ce sac а dos, c'est vraiment pas un cadeau ! Tous les mecs qui l'ont touchй sont morts. Je l'ai balancй, histoire de plus jamais avoir а le voir.</text>
+	</string>
+	<string id="st_red_rucksack_02_5">
+		<text>Endroit йtrange</text>
+	</string>
+	<string id="st_red_rucksack_02_5_descr">
+		<text>Je me suis endormi prиs d'un rocher, la tкte bien calйe sur mon sac а dos. Le lendemain matin, je me suis retrouvй dans un endroit complиtement diffйrent... J'avais l'impression de tourner en rond.</text>
+	</string>
+	<string id="st_red_rucksack_02_6">
+		<text>Sac а dos sous des йboulis</text>
+	</string>
+	<string id="st_red_rucksack_02_6_descr">
+		<text>Je me suis fait piйger par un йboulement dans un ravin juste а la lisiиre de la Forкt rouge. Et tout d'un coup, il y a ce truc йtrange qui a essayй de m'attraper... J'ai bien failli y rester... Il a fallu que j'abandonne mes affaires pour m'en tirer. </text>
+	</string>
+	<string id="st_red_rucksack_02_descr">
+		<text>On йtait en train de traverser des buissons et je sais pas comment j'ai fait, mais j'ai paumй mon sac а dos.</text>
+	</string>
+	<string id="st_red_rucksack_02_in_stone">
+		<text>Sac а dos perdu</text>
+	</string>
+	<string id="st_red_rucksack_02_in_stone_descr">
+		<text>Ce dйbile d'Abe a perdu mon sac а dos dans des rochers dans ce secteur. Et maintenant, il a trop la trouille d'y retourner pour le rйcupйrer. Tu parles d'un pote !</text>
+	</string>
+	<string id="st_red_rucksack_02_in_tonnel">
+		<text>Planque dans une galerie de mine</text>
+	</string>
+	<string id="st_red_rucksack_02_in_tonnel_descr">
+		<text>J'ai planquй mes artefacts tout au bout d'une galerie de mine dйsaffectйe.</text>
+	</string>
+	<string id="st_red_sekret_trees_stump_01_0000">
+		<text>Souche dans la nature</text>
+	</string>
+	<string id="st_red_sekret_trees_stump_01_0000_descr">
+		<text>Je me suis perdu dans la Forкt rouge... Du coup, j'ai planquй tout mon butin dans une vieille souche.</text>
+	</string>
+	<string id="st_red_trees_log_01">
+		<text>Affaires dans le trou d'un arbre</text>
+	</string>
+	<string id="st_red_trees_log_01_descr">
+		<text>Le Fouet et moi, on йtait en route pour Limansk et on a dйcidй de planquer notre matos dans le trou d'un arbre coupй, prиs de la sortie de la rйserve.</text>
+	</string>
+	<string id="st_red_trees_stump_01">
+		<text>Souche creuse</text>
+	</string>
+	<string id="st_red_trees_stump_01_0000">
+		<text>Souche а la lisiиre de la forкt</text>
+	</string>
+	<string id="st_red_trees_stump_01_0000_descr">
+		<text>On sait pas trop ce qui nous attend dans cette forкt... Du coup, on a planquй une partie de notre matos dans une souche pourrie.</text>
+	</string>
+	<string id="st_red_trees_stump_01_2_0000">
+		<text>Souche prиs d'un ravin</text>
+	</string>
+	<string id="st_red_trees_stump_01_2_0000_descr">
+		<text>On a planquй nos affaires prиs de cette йnorme anomalie. On compte bien y entrer... Elle est tellement gigantesque qu'elle doit forcйment contenir des artefacts trиs prйcieux.</text>
+	</string>
+	<string id="st_red_trees_stump_01_3">
+		<text>Grosse souche</text>
+	</string>
+	<string id="st_red_trees_stump_01_3_descr">
+		<text>Seva m'a parlй d'une grosse souche dans la Forкt rouge. Je vais essayer de la trouver pour voir ce qu'il y a а l'intйrieur.</text>
+	</string>
+	<string id="st_red_trees_stump_01_4">
+		<text>Planque dans une souche</text>
+	</string>
+	<string id="st_red_trees_stump_01_4_descr">
+		<text>Gene et moi, on a planquй quelques trucs dans une souche de la Forкt rouge.</text>
+	</string>
+	<string id="st_red_trees_stump_01_7">
+		<text>Souche prиs d'un ravin</text>
+	</string>
+	<string id="st_red_trees_stump_01_7_descr">
+		<text>En tombant dans le ravin, je me suis cognй а une souche. Du coup, j'y ai planquй mon butin.</text>
+	</string>
+	<string id="st_red_trees_stump_01_descr">
+		<text>Зa hurlait et зa criait dans tous les sens, alors j'ai planquй mon matos dans la premiиre souche creuse que j'ai trouvйe et je me suis cassй.</text>
+	</string>
+	<string id="st_red_zaz968">
+		<text>Zaporozhets au chevalement</text>
+	</string>
+	<string id="st_red_zaz968_descr">
+		<text>J'ai planquй mon butin sous le siиge d'un Zaporozhets prиs de l'entrйe de la mine. J'irai le rйcupйrer avant d'aller voir Sidorovich.</text>
+	</string>
+	<string id="st_val_seif_02">
+		<text>Coffre dans une ferme</text>
+	</string>
+	<string id="st_yan_trees_log_01_0001">
+		<text>Rondin derriиre les garages</text>
+	</string>
+	<string id="st_yan_trees_log_01_0001_descr">
+		<text>J'ai planquй une partie de mon butin dans un rondin prиs des garages, а cфtй de l'usine de Yantar. C'est la meilleure cachette que j'ai pu trouver sur le moment.</text>
+	</string>
+	<string id="val_equipment_rucksack_01_02">
+		<text>Planque sous un jeune pin</text>
+	</string>
+	<string id="val_equipment_rucksack_01_02_descr">
+		<text>J'ai planquй mon sac а dos dans un tuyau sous un jeune pin, pas loin du Marais.</text>
+	</string>
+	<string id="esc_treasure_weapon_prisoner_descr">
+		<text>Y a une petite cachette dans un conduit en ciment. J'y ai planquй quelques trucs pour mes vieux jours.</text>
+	</string>
+	<string id="esc_treasure_weapon_prisoner_name">
+		<text>Planque du major Khaletskiy</text>
+	</string>
+	<string id="gar_treasure_quest_digger_reward">
+		<text>Vieille planque</text>
+	</string>
+	<string id="gar_treasure_quest_digger_reward_descr">
+		<text>Les mineurs cachaient leur matйriel dans cette planque.</text>
+	</string>
+	<string id="gar_treasure_quest_old_pda">
+		<text>Boоte а outils</text>
+	</string>
+	<string id="gar_treasure_quest_old_pda_descr">
+		<text>Le vieux PDA se trouve dans le faux fond de la boоte а outils.</text>
+	</string>
+	<string id="gar_treasure_quest_reward_in_anomaly">
+		<text>Planque dans une anomalie</text>
+	</string>
+	<string id="gar_treasure_quest_reward_in_anomaly_descr">
+		<text>Si Yoga ne ment pas, la planque au milieu de l'anomalie contient un fusil.</text>
+	</string>
+	<string id="gar_treasure_quest_smuggler_weapons">
+		<text>Coffre de voiture</text>
+	</string>
+	<string id="gar_treasure_quest_smuggler_weapons_descr">
+		<text>Selon Stringov, le coffre de cette vieille voiture contient la marchandise du contrebandier.</text>
+	</string>
+	<string id="st_esc_seif_03_0000_descr">
+		<text>Zil garde son matos dans un coffre а la base neutre du Cordon.</text>
+	</string>
+	<string id="st_mar_q_n_10">
+		<text>Cache dans le Marais</text>
+	</string>
+	<string id="st_mar_q_n_10_descr">
+		<text>Il y a une cache remplis а ras-bord dans l'usine de recyclage du Marais. Quoi qu'elle contienne, elle est а toi maintenant.</text>
+	</string>
+	<string id="st_mar_q_n_11">
+		<text>Coffre avec rйcompense</text>
+	</string>
+	<string id="st_mar_q_n_11_descr">
+		<text>Ces clйs ouvrent un coffre qui contient du matйriel de valeur. En tout cas, c'est ce qu'on m'a dit...</text>
+	</string>
+	<string id="st_mar_q_n_12">
+		<text>Rйcompense</text>
+	</string>
+	<string id="st_mar_q_n_12_descr">
+		<text>File-moi ton fric et je te dirai oщ sont nos planques. Tu pourras revendre le matos en aval de la riviиre.</text>
+	</string>
+	<string id="st_mar_q_n_13">
+		<text>Mallette</text>
+	</string>
+	<string id="st_mar_q_n_13_descr">
+		<text>Dans cette caisse se trouvent les coordonnйes d'une autre caisse pleine de butin. Tu la trouveras dans la poubelle, derriиre le mur.</text>
+	</string>
+	<string id="st_mar_q_n_14">
+		<text>Coffre sous le pont</text>
+	</string>
+	<string id="st_mar_q_n_14_descr">
+		<text>Je veux pas t'emmerder avec mes histoires. Tu trouveras le butin dans un coffre sous le pont.</text>
+	</string>
+	<string id="st_mar_q_n_6">
+		<text>Sac а dos en guise de paiement</text>
+	</string>
+	<string id="st_mar_q_n_6_descr">
+		<text>Je vais charger les coordonnйes d'un sac а dos sur ton PDA. Il contient des trucs qui valent bien plus que le fric que tu me files.</text>
+	</string>
+	<string id="st_mar_q_n_7">
+		<text>Coffre а code</text>
+	</string>
+	<string id="st_mar_q_n_7_descr">
+		<text>Crois-moi, tu seras pas dйзu par le butin planquй dans ce coffre du Marais.</text>
+	</string>
+	<string id="st_mar_q_n_8">
+		<text>Butin en guise de paiement</text>
+	</string>
+	<string id="st_mar_q_n_8_descr">
+		<text>Le butin que tu trouveras dans le sac а dos noir sous les rochers est а toi. Pour ma part, je considиre qu'on est quittes.</text>
+	</string>
+	<string id="st_mar_q_n_9">
+		<text>Petite caisse prиs d'une tour</text>
+	</string>
+	<string id="st_mar_q_n_9_descr">
+		<text>Une source de confiance m'a un jour parlй d'un butin qui serait planquй sous une tour.</text>
+	</string>
+	<string id="st_mar_q_t_a_15">
+		<text>Sac а dos d'un soldat mort</text>
+	</string>
+	<string id="st_mar_q_t_a_15_descr">
+		<text>Tu vas en avoir pour ton argent. Ta rйcompense se trouve dans un sac а dos а cфtй du cadavre d'un soldat.</text>
+	</string>
+	<string id="st_mar_q_t_a_3">
+		<text>Un effort supplйmentaire</text>
+	</string>
+	<string id="st_mar_q_t_a_3_descr">
+		<text>Avance encore d'un kilomиtre ou deux, trouve le sac а dos du soldat mort et зa paiera tes frais avec les intйrкts.</text>
+	</string>
+	<string id="st_mar_q_t_l_16">
+		<text>Rйcompense pas йvidente</text>
+	</string>
+	<string id="st_mar_q_t_l_16_descr">
+		<text>Je vais te rendre service en te donnant des infos sur du matos trиs prйcieux, mais pas йvident а choper... Reste bien sur tes gardes... Son ancien propriйtaire n'a pas suivi mon conseil...</text>
+	</string>
+	<string id="st_mar_q_t_l_1">
+		<text>Sac а dos sur un cadavre</text>
+	</string>
+	<string id="st_mar_q_t_l_1_descr">
+		<text>Tiens, une petite info intйressante : tu trouveras du butin dans le sac а dos d'un cadavre.</text>
+	</string>
+	<string id="st_mar_q_t_l_2">
+		<text>Para</text>
+	</string>
+	<string id="st_mar_q_t_l_2_descr">
+		<text>Tu trouveras le cadavre а ces coordonnйes. Son sac а dos contient ce que je te dois.</text>
+	</string>
+	<string id="st_mar_q_t_l_4">
+		<text>Cadavre d'un combattant</text>
+	</string>
+	<string id="st_mar_q_t_l_4_descr">
+		<text>Alors, voilа : un jeune combattant "se repose" dans des buissons а cфtй du sac а dos qu'il garde pour toi.</text>
+	</string>
+	<string id="st_mar_q_t_l_5">
+		<text>Sac а dos sous un pipeline</text>
+	</string>
+	<string id="st_mar_q_t_l_5_descr">
+		<text>Prends ces coordonnйes. Elles te mиneront а un sac а dos qui traоne а cфtй du cadavre d'un stalker sous le pipeline.</text>
+	</string>
+	<string id="st_esc_q10_n">
+		<text>Souche prиs des fils barbelйs</text>
+	</string>
+	<string id="st_esc_q10_n_descr">
+		<text>Ok, mon pote ! Tu trouveras ta rйcompense dans une souche pas loin des fils barbelйs.</text>
+	</string>
+	<string id="st_esc_q1_n">
+		<text>Caisse verte</text>
+	</string>
+	<string id="st_esc_q1_n_descr">
+		<text>Je t'ai rйservй un petit truc. Tu le trouveras dans une caisse de l'armйe а la limite du Cordon. C'est de bon coeur !</text>
+	</string>
+	<string id="st_esc_q2_n">
+		<text>Petit sac а dos de stalker neutre</text>
+	</string>
+	<string id="st_esc_q2_n_descr">
+		<text>Et que ta gйnйrositй soit rйcompensйe de faзon magnanime ! Hй hй hй !  Voici l'une de mes planques... Fais-en ce que tu en veux !</text>
+	</string>
+	<string id="st_esc_q3_t_l">
+		<text>Sur la route du Marais</text>
+	</string>
+	<string id="st_esc_q3_t_l_descr">
+		<text>Je prends ton fric, tu prends mon matos. Tu trouveras la planque le long de la route du Marais, prиs d'un cadavre.</text>
+	</string>
+	<string id="st_esc_q4_t_a">
+		<text>Rйcompense pour une tкte brыlйe</text>
+	</string>
+	<string id="st_esc_q4_t_a_descr">
+		<text>Ton matos t'attend dans un sac а dos prиs d'un stalker qui a pas eu de chance... Tu le trouveras prиs de la vieille locomotive йlectrique.</text>
+	</string>
+	<string id="st_esc_q5_n">
+		<text>Dйdommagement</text>
+	</string>
+	<string id="st_esc_q5_n_descr">
+		<text>Voici les coordonnйes de la cache. Tu y trouveras un sac а dos sous un arbre.</text>
+	</string>
+	<string id="st_esc_q6_n">
+		<text>Aucune dйfense d'entrer</text>
+	</string>
+	<string id="st_esc_q6_n_descr">
+		<text>Ce que je te dois se trouve dans le boоtier йlectrique de l'ascenseur. Hйsite pas а mettre la main dedans, l'йlectricitй а йtй coupйe... Mais bon, on sait jamais s'il y a pas une anomalie qui s'est formйe dans le coin...</text>
+	</string>
+	<string id="st_esc_q7_n">
+		<text>Caisse sous un wagon</text>
+	</string>
+	<string id="st_esc_q7_n_descr">
+		<text>Tu trouveras ce que je te dois dans une caisse sous un wagon.</text>
+	</string>
+	<string id="st_esc_q8_n">
+		<text>Fausse tombe</text>
+	</string>
+	<string id="st_esc_q8_n_descr">
+		<text>C'est mal de dйterrer des cadavres. Du coup, j'ai planquй mon matos dans une fausse tombe, histoire de laisser les morts reposer en paix.</text>
+	</string>
+	<string id="st_esc_q9_t_a">
+		<text>Caisse derriиre la casse</text>
+	</string>
+	<string id="st_esc_q9_t_a_descr">
+		<text>Je vais te payer avec le contenu d'une caisse qui traоne prиs d'une anomalie derriиre la casse du Cordon. Tu croiseras sыrement un autre type qui essaie de s'en emparer, mais t'inquiиte pas... Il est plus en mesure d'y arriver...</text>
+	</string>
+	<string id="st_gar_q10_n">
+		<text>Souche prиs de la Dйcharge</text>
+	</string>
+	<string id="st_gar_q10_n_descr">
+		<text>Bon, je vais te donner une info. Ton dйdommagement t'attend dans une souche а la limite de la Dйcharge.</text>
+	</string>
+	<string id="st_gar_q1_n">
+		<text>Sac а dos noir dans une йpave</text>
+	</string>
+	<string id="st_gar_q1_n_descr">
+		<text>Ce que je te dois se trouve dans un sac а dos noir dans la grue foutue.</text>
+	</string>
+	<string id="st_gar_q2_n">
+		<text>Tuyau coupй</text>
+	</string>
+	<string id="st_gar_q2_n_descr">
+		<text>J'ai mon fric, mais pour rйcupйrer ta mise, il va falloir que tu te grouilles d'aller prendre le matos dans un tuyau coupй.</text>
+	</string>
+	<string id="st_gar_q3_n">
+		<text>Boоtier йlectrique d'une йpave</text>
+	</string>
+	<string id="st_gar_q3_n_descr">
+		<text>Je m'йtais fait une jolie petite planque il y a un moment, mais je vais devoir te filer ce qu'elle contient. Tant pis...</text>
+	</string>
+	<string id="st_gar_q4_n">
+		<text>Petite boоte dans du matйriel contaminй</text>
+	</string>
+	<string id="st_gar_q4_n_descr">
+		<text>Je vais te donner les coordonnйes d'une petite boоte contenant du butin. Mais fais gaffe а ton cul lа-bas... Les compteurs Geiger s'affolent dans le coin...</text>
+	</string>
+	<string id="st_gar_q5_n">
+		<text>Caisse prиs de la lame d'un bulldozer</text>
+	</string>
+	<string id="st_gar_q5_n_descr">
+		<text>Tu trouveras ce que tu viens d'acheter prиs de la lame d'un bulldozer.</text>
+	</string>
+	<string id="st_gar_q6_t_l">
+		<text>Sac а dos d'un cadavre</text>
+	</string>
+	<string id="st_gar_q6_t_l_descr">
+		<text>T'as pas peur des fantфmes, hein ? Alors, va jeter un coup d'oeil dans le sac а dos prиs d'un cadavre.</text>
+	</string>
+	<string id="st_gar_q7_t_l">
+		<text>Cadavre prиs d'une excavatrice</text>
+	</string>
+	<string id="st_gar_q7_t_l_descr">
+		<text>Le pauvre gars qui se trouve а cфtй de l'excavatrice retournйe sera ravi de te filer le contenu de son sac а dos. Il lui sert plus а rien maintenant.</text>
+	</string>
+	<string id="st_gar_q8_t_a">
+		<text>Cadavre dans la Dйcharge</text>
+	</string>
+	<string id="st_gar_q8_t_a_descr">
+		<text>Eh ben, il va falloir que tu en chies un peu pour rйcupйrer ce que je te dois. Le butin se trouve dans le sac а dos d'un mec qui a йtй tuй par une anomalie.</text>
+	</string>
+	<string id="st_gar_q9_n">
+		<text>Sur la route de l'Agroprom</text>
+	</string>
+	<string id="st_gar_q9_n_descr">
+		<text>Cherche une petite boоte dans un 4x4 sur la route de l'Agroprom. Je suis sыr que tu apprйcieras ce qu'elle contient.</text>
+	</string>
+	<string id="st_val_q10_n">
+		<text>Coffre dans un hangar</text>
+	</string>
+	<string id="st_val_q10_n_descr">
+		<text>Je tiens toujours parole : le butin que je t'ai promis t'attend dans un coffre de l'usine dйsaffectйe.</text>
+	</string>
+	<string id="st_val_q11_t_l">
+		<text>Cadavres prиs de rochers</text>
+	</string>
+	<string id="st_val_q11_t_l_descr">
+		<text>Tu viens d'acheter le contenu du sac а dos du cadavre qui gоt а cфtй des rochers.</text>
+	</string>
+	<string id="st_val_q1_n">
+		<text>Sous une citerne</text>
+	</string>
+	<string id="st_val_q1_n_descr">
+		<text>Mon butin... ou plutфt, ton butin... se trouve dans le sac а dos sous la citerne.</text>
+	</string>
+	<string id="st_val_q2_n">
+		<text>Buissons prиs d'un pin</text>
+	</string>
+	<string id="st_val_q2_n_descr">
+		<text>En revenant d'une petite expйdition trиs fructueuse, j'ai planquй mon butin dans des buissons. Fais-en ce que tu en veux !</text>
+	</string>
+	<string id="st_val_q3_t_a">
+		<text>Cadavre de soldat</text>
+	</string>
+	<string id="st_val_q3_t_a_descr">
+		<text>Bon, alors, prends note : butin trиs prйcieux - sac а dos - soldat qu'a clamsй - juste а cфtй d'une anomalie.</text>
+	</string>
+	<string id="st_val_q4_n">
+		<text>Butin dans des buissons</text>
+	</string>
+	<string id="st_val_q4_n_descr">
+		<text>Je rиgle toujours mes comptes et je vais donc te donner les coordonnйes de ma planque.</text>
+	</string>
+	<string id="st_val_q5_n">
+		<text>Coffre dans la base de la Libertй</text>
+	</string>
+	<string id="st_val_q5_n_descr">
+		<text>Dans le bвtiment а trois йtages de la base de la Libertй se trouve un coffre qui contient du matйriel trиs prйcieux.</text>
+	</string>
+	<string id="st_val_q6_n">
+		<text>Caisse au sommet d'une tour</text>
+	</string>
+	<string id="st_val_q6_n_descr">
+		<text>Ravi de faire affaire avec toi. Tu trouveras ce que je te dois dans une caisse bleue au sommet de la tour juste derriиre la base de la Libertй.</text>
+	</string>
+	<string id="st_val_q7_n">
+		<text>Tombe d'un stalker</text>
+	</string>
+	<string id="st_val_q7_n_descr">
+		<text>Tu viens d'acheter ce qui se trouve sous la croix de la tombe d'un stalker а cфtй d'un vieil arbre.</text>
+	</string>
+	<string id="st_val_q8_n">
+		<text>Caisse sous un siиge</text>
+	</string>
+	<string id="st_val_q8_n_descr">
+		<text>Tu trouveras une caisse sous le siиge conducteur d'une LAZ rouge. А toi de voir ce que tu veux en faire... </text>
+	</string>
+	<string id="st_val_q9_n">
+		<text>Souche prиs d'une clфture</text>
+	</string>
+	<string id="st_val_q9_n_descr">
+		<text>Je garde du matos planquй dans une souche prиs d'une clфture pour les cas comme celui-lа.</text>
+	</string>
+	<string id="st_agr_q10_t_l">
+		<text>Marchandise confisquйe prиs d'une anomalie</text>
+	</string>
+	<string id="st_agr_q10_t_l_descr">
+		<text>Un soldat avait confisquй le butin de plusieurs stalkers juste avant de foncer tout droit dans une anomalie. Son sac а dos est toujours а cфtй de son cadavre. Avec un peu de chance, tu dois pouvoir le rйcupйrer.</text>
+	</string>
+	<string id="st_agr_q1_n">
+		<text>А cфtй d'une clфture prиs des fils barbelйs</text>
+	</string>
+	<string id="st_agr_q1_n_descr">
+		<text>Ok, je vais te payer en te disant oщ se trouve du super matos. Tu le trouveras dans le sac а dos d'un stalker, pas loin de la tour haute tension. </text>
+	</string>
+	<string id="st_agr_q2_n">
+		<text>Sous un arbre dйracinй</text>
+	</string>
+	<string id="st_agr_q2_n_descr">
+		<text>On a pas de rйserves oщ stocker notre matos dans la Zone, dйsolй ! Alors, tu ferais mieux de te dйpкcher de mettre la main sur les trucs planquйs sous un arbre dйracinй avant que quelqu'un d'autre les trouve !</text>
+	</string>
+	<string id="st_agr_q3_t_a">
+		<text>Cadavre dans des radiations</text>
+	</string>
+	<string id="st_agr_q3_t_a_descr">
+		<text>Tu cherches des super planques et j'en ai а revendre. Elles sont а toi si tu as pas peur des radiations. Tu trouveras ce que tu cherches а cфtй d'un cadavre.</text>
+	</string>
+	<string id="st_agr_q4_n">
+		<text>Cylindres sur une tombe</text>
+	</string>
+	<string id="st_agr_q4_n_descr">
+		<text>L'honneur a pas de prix ! Alors, le matos qui se trouve dans des cylindres sur la tombe d'un inconnu est а toi !</text>
+	</string>
+	<string id="st_agr_q5_n">
+		<text>Angle d'une clфture</text>
+	</string>
+	<string id="st_agr_q5_n_descr">
+		<text>Aprиs la derniиre йmission, Vlak Le Bigleux, Dieu ait son вme, a planquй un truc dans la vieille souche qui est juste а l'angle d'une clфture.</text>
+	</string>
+	<string id="st_agr_q6_n">
+		<text>Panneau йlectrique</text>
+	</string>
+	<string id="st_agr_q6_n_descr">
+		<text>Mon butin... ou plutфt, ton butin... se trouve dans le panneau йlectrique de la base du Devoir.</text>
+	</string>
+	<string id="st_agr_q7_n">
+		<text>Rondin prиs d'un arbre</text>
+	</string>
+	<string id="st_agr_q7_n_descr">
+		<text>L'autre jour, des mecs sympas m'ont parlй d'une planque oщ mes ennemis entreposent leur butin. Va nettoyer tout зa, tu veux ?</text>
+	</string>
+	<string id="st_agr_q8_t_a">
+		<text>Cadavre dans une camionnette</text>
+	</string>
+	<string id="st_agr_q8_t_a_descr">
+		<text>Ces soldats conduisaient tellement vite que leur bus a foncй tout droit dans une anomalie. Ils ont tous crevй et tu viens de te payer leur butin.</text>
+	</string>
+	<string id="st_agr_q9_n">
+		<text>Coffre sous des йboulis</text>
+	</string>
+	<string id="st_agr_q9_n_descr">
+		<text>J'ai а moitiй enterrй un coffre contenant mon butin au fond d'un ravin. On va dire qu'il devait te revenir depuis le dйbut...</text>
+	</string>
+	<string id="st_agru_q1_n">
+		<text>Traverse sous un escalier</text>
+	</string>
+	<string id="st_agru_q1_n_descr">
+		<text>J'ai entendu parler d'une planque dans un coin vraiment sordide. On peut кtre quasiment sыr que personne l'aura visitй, donc зa peut valoir le coup d'aller jeter un coup d'oeil au sous-sol, sous l'escalier.</text>
+	</string>
+	<string id="st_agru_q2_n">
+		<text>Caisse sous terre</text>
+	</string>
+	<string id="st_agru_q2_n_descr">
+		<text>Tu trouveras une caisse abandonnйes au pied d'un escalier en colimaзon. Son contenu est а toi, mais fais bien gaffe а pas dйranger les habitants des lieux...</text>
+	</string>
+	<string id="st_agru_q3_t_a">
+		<text>Sous terre</text>
+	</string>
+	<string id="st_agru_q3_t_a_descr">
+		<text>Je vais t'indiquer oщ tu peux rйcupйrer le sac а dos d'un soldat. Ce pauvre gars a foncй tout droit dans une anomalie quand il йtait dans les souterrains de l'Agroprom. Essaie de pas faire la mкme chose !</text>
+	</string>
+	<string id="st_agru_q4_n">
+		<text>Tuyau dans un collecteur</text>
+	</string>
+	<string id="st_agru_q4_n_descr">
+		<text>J'ai trouvй des infos sur du butin dans le PDA d'un stalker. Il l'a planquй dans les souterrains de l'Agroprom. Vas-y, tu peux copier les coordonnйes.</text>
+	</string>
+	<string id="st_yan_q8_t_l">
+		<text>Cadavre dans le lac</text>
+	</string>
+	<string id="st_yan_q8_t_l_descr">
+		<text>Cherche le sac а dos du soldat qui fait trempette dans le lac.</text>
+	</string>
+	<string id="st_yan_q1_n">
+		<text>Caisse sur le toit de la chaufferie</text>
+	</string>
+	<string id="st_yan_q1_n_descr">
+		<text>Il y a une petite cachette dans une caisse bleue sur le toit de la chaufferie. Mais fais gaffe, зa grouille de zombies, lа-bas !</text>
+	</string>
+	<string id="st_yan_q2_n">
+		<text>Caisse dans un wagon</text>
+	</string>
+	<string id="st_yan_q2_n_descr">
+		<text>Super. Bon, voilа les coordonnйes d'une caisse qui se trouve dans un wagon de l'usine. Tu sais ce qu'il te reste а faire.</text>
+	</string>
+	<string id="st_yan_q3_t_l">
+		<text>Sac а dos dans une conduite</text>
+	</string>
+	<string id="st_yan_q3_t_l_descr">
+		<text>Tu trouveras le sac а dos dans la conduite. Aprиs on sera quittes. Il y a un cadavre de stalker neutre pas loin, donc tu ne devrais pas avoir trop de mal а le repйrer.</text>
+	</string>
+	<string id="st_yan_q4_n">
+		<text>Caisse dans la base des scientifiques</text>
+	</string>
+	<string id="st_yan_q4_n_descr">
+		<text>Excellent ! Prends tout ce que tu trouveras dans la caisse qui est dans le coffre d'un 4x4 de la base des scientifiques.</text>
+	</string>
+	<string id="st_yan_q5_n">
+		<text>Cahute avec un standard</text>
+	</string>
+	<string id="st_yan_q5_n_descr">
+		<text>En йchange, je vais te donner les coordonnйes d'une planque qui se trouve dans une cahute prиs de l'usine.</text>
+	</string>
+	<string id="st_yan_q6_n">
+		<text>Pavillon de la citerne</text>
+	</string>
+	<string id="st_yan_q6_n_descr">
+		<text>Il y a quelque chose de cachй dans le pavillon de la citerne de l'usine, mais je suis jamais allй voir de quoi il s'agissait.</text>
+	</string>
+	<string id="st_yan_q7_n">
+		<text>Cabine de camion MAZ</text>
+	</string>
+	<string id="st_yan_q7_n_descr">
+		<text>Tu trouveras le matos dans une caisse, planquйe dans la cabine d'un camion MAZ.</text>
+	</string>
+	<string id="st_yan_q9_n">
+		<text>Souche non loin du campement des scientifiques</text>
+	</string>
+	<string id="st_yan_q9_n_descr">
+		<text>Tu trouveras le matos sous une souche pas loin du campement des scientifiques.</text>
+	</string>
+	<string id="st_red_q10_n">
+		<text>Tuyau dans une mine</text>
+	</string>
+	<string id="st_red_q10_n_descr">
+		<text>Je te garantis qu'il y a un truc qui vaut le dйtour dans cette planque de la Forкt rouge.</text>
+	</string>
+	<string id="st_red_q1_t_l">
+		<text>Cadavre de stalker</text>
+	</string>
+	<string id="st_red_q1_t_l_descr">
+		<text>Selon le PDA d'un stalker que j'ai rйcupйrй, son sac а dos contenait des trucs intйressants. Voici les coordonnйes.</text>
+	</string>
+	<string id="st_red_q2_t_a">
+		<text>Planque dangereuse</text>
+	</string>
+	<string id="st_red_q2_t_a_descr">
+		<text>J'avais dйjа donnй les coordonnйes de cette planque а un mec, mais il l'a jamais atteinte... Il a crevй dans une anomalie juste а cфtй.</text>
+	</string>
+	<string id="st_red_q3_n">
+		<text>Valve rouge</text>
+	</string>
+	<string id="st_red_q3_n_descr">
+		<text>La planque se trouve derriиre la valve rouge de la tuyauterie de la mine. Son contenu m'intйresse pas du tout.</text>
+	</string>
+	<string id="st_red_q4_n">
+		<text>Bus</text>
+	</string>
+	<string id="st_red_q4_n_descr">
+		<text>Un de mes potes avait planquй son matos sous un siиge au fond de ce bus. Il est plus de ce monde, donc il t'en voudra pas si tu vas le dйvaliser.</text>
+	</string>
+	<string id="st_red_q5_n">
+		<text>Tuyau dans des gravats</text>
+	</string>
+	<string id="st_red_q5_n_descr">
+		<text>Un prisonnier m'a parlй d'une planque... Elle se trouve dans un morceau de tuyau dans des gravats derriиre le blindй.</text>
+	</string>
+	<string id="st_red_q6_n">
+		<text>Caisse contenant un sac а dos</text>
+	</string>
+	<string id="st_red_q6_n_descr">
+		<text>Ton butin vaut le dйtour ! Bon, alors note bien : ta rйcompense se trouve dans un sac а dos, le sac а dos est dans une caisse, la caisse est sous un pont, le pont est de l'autre cфtй de la Forкt rouge.</text>
+	</string>
+	<string id="st_red_q7_t_a">
+		<text>Sac а dos d'un pauvre type</text>
+	</string>
+	<string id="st_red_q7_t_a_descr">
+		<text>Y a un pauvre gars qui devait me rapporter un sac а dos de la Forкt rouge, mais il n'est pas arrivй jusqu'ici... Si tu le trouves, son sac est а toi !</text>
+	</string>
+	<string id="st_red_q8_n">
+		<text>Coffre dans un wagonnet</text>
+	</string>
+	<string id="st_red_q8_n_descr">
+		<text>Mes infos, c'est du solide ! Un tocard a planquй un truc de valeur dans un coffre prиs du wagonnet retournй.</text>
+	</string>
+	<string id="st_red_q9_n">
+		<text>Vieille souche ordinaire</text>
+	</string>
+	<string id="st_red_q9_n_descr">
+		<text>Je connais une planque dans une souche tout ce qu'il y a de plus ordinaire. Tu la trouverais jamais sans mes coordonnйes. Mais je suis sympa, je vais te les donner...</text>
+	</string>
+	<string id="st_mil_q10_n">
+		<text>Planque dans les bois</text>
+	</string>
+	<string id="st_mil_q10_n_descr">
+		<text>Y a un sac а dos planquй sous des rochers dans les bois. Voici les coordonnйes, fais-en bon usage !</text>
+	</string>
+	<string id="st_mil_q1_t_l">
+		<text>Sac а dos sous un cadavre</text>
+	</string>
+	<string id="st_mil_q1_t_l_descr">
+		<text>C'est peut-кtre pas une planque а proprement parler, mais le sac а dos sur le chвteau d'eau contient du butin de valeur.</text>
+	</string>
+	<string id="st_mil_q2_n">
+		<text>Cache sous un arbre dйracinй</text>
+	</string>
+	<string id="st_mil_q2_n_descr">
+		<text>Crois-moi sur parole : il y a une planque sous l'arbre dйracinй.</text>
+	</string>
+	<string id="st_mil_q3_n">
+		<text>Coffre de grand-mиre</text>
+	</string>
+	<string id="st_mil_q3_n_descr">
+		<text>Je sais pas comment ce coffre a fini dans un four, mais selon mes sources, il n'est pas vide.</text>
+	</string>
+	<string id="st_mil_q4_n">
+		<text>Planque dans une tombe</text>
+	</string>
+	<string id="st_mil_q4_n_descr">
+		<text>Paraоt qu'il y a moyen de se faire un pactole avec ce qu'il y a sous la croix qui se trouve а ces coordonnйes.</text>
+	</string>
+	<string id="st_mil_q5_n">
+		<text>Caisse dans la base militaire</text>
+	</string>
+	<string id="st_mil_q5_n_descr">
+		<text>Si tu rйussis а entrer en douce dans la base des militaires et а atteindre la caisse qui se trouve dans le grenier, tu seras rйcompensй pour tes efforts...</text>
+	</string>
+	<string id="st_mil_q6_n_a">
+		<text>Coffre dans une armoire</text>
+	</string>
+	<string id="st_mil_q6_n_a_descr">
+		<text>Selon mes sources, le coffre de la caserne des militaires contient quelque chose d'intйressant.</text>
+	</string>
+	<string id="st_mil_q7_n_a">
+		<text>Petit coffre</text>
+	</string>
+	<string id="st_mil_q7_n_a_descr">
+		<text>Le capitaine Yeltyshev gardait ce coffre sur lui tout le temps jusqu'а ce qu'il se fasse muter ailleurs. Tu ferais peut-кtre bien d'aller voir ce qu'il y a а l'intйrieur...</text>
+	</string>
+	<string id="st_mil_q8_n_a">
+		<text>Tas d'ordures</text>
+	</string>
+	<string id="st_mil_q8_n_a_descr">
+		<text>Javas a fait exprиs de planquer son matos dans un tas d'ordure, mais ce con l'a complиtement oubliй... ce qui est pas mon cas... </text>
+	</string>
+	<string id="st_mil_q9_n_a">
+		<text>Boоte secrиte</text>
+	</string>
+	<string id="st_mil_q9_n_a_descr">
+		<text>Derriиre la cabine du MAZ militaire se trouve une petite boоte contenant un secret. Voilа l'info que je viens de te vendre.</text>
+	</string>
+</string_table>

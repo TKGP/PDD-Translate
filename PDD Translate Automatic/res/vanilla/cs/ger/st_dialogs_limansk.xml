@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_bandit_wounded_dialog_1_11">
+		<text>Hilfe, Leute! Ich brauche ein Medkit, mein Kumpel stirbt!</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_111">
+		<text>Hier.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1111">
+		<text>Warte, lass mich erst meinem Kumpel helfen.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_112">
+		<text>Tut mir leid, ich hab leider keine Medkits.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1121">
+		<text>Mist, Leute...</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_113">
+		<text>Zum Teufel mit dir, du Stьck Dreck!</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_11">
+		<text>Danke, dass du meinen Arsch gerettet hast. Willst du zur Stadt? Pass auf - Reds Leute haben ein Stьck die StraЯe runter einen Hinterhalt gelegt. Sie haben einen Stolperdraht gespannt - fall nicht drьber. Wenn du auf der rechten StraЯenseite gehst, wird dir nichts passieren.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_111">
+		<text>Wer hдlt sich sonst noch in der Stadt auf?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1111">
+		<text>Dort sorgen jede Menge Leute fьr Stress. Die Wдchter und Freiheitler sind in Richtung Stadtzentrum marschiert - sie suchen bestimmt nach einem Weg ins Zentrum der Zone. Wir haben auch ein paar Helis gesehen, das Militдr mischt also auch mit. Und dann sind da noch die Stalker, aber sie kommen von der anderen Seite, aus dem Zentrum der Zone.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_112">
+		<text>Was geht in der Stadt vor sich?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1121">
+		<text>Unser Boss und seine Mдnner haben sich in einem Haus die StraЯe runter verschanzt. Sie rьcken nicht weiter vor. Wenn du in die Stadt hineinwillst, musst du sie erst aus diesem Haus vertreiben.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_113">
+		<text>Danke fьr nichts. Mach dich vom Acker, sonst knall ich dich doch noch ab.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_12">
+		<text>Machen wir, dass wir wegkommen.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_121">
+		<text>Du hast recht, los.</text>
+	</string>
+</string_table>

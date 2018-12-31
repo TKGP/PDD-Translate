@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hello_mil_freedom_11">
+		<text>Has logrado cruzar el Bosque Rojo. Parece que eres un tнo suertudo. Pero aquн la situaciуn es incluso mбs difнcil, mercenario. La Barrera ha caнdo. Los militares no han sido capaces de defenderla.</text>
+	</string>
+	<string id="hello_mil_freedom_111">
+		<text>їQuй les ha pasado a los militares?</text>
+	</string>
+	<string id="hello_mil_freedom_2">
+		<text>Han muerto... casi todos ellos. Los que sobrevivieron a los numerosos ataques de zombis y mutantes estбn acorralados, como ratas en un agujero, en su base cerca del helipuerto. Ademбs, hemos perdido a mucha gente durante la gran emisiуn.</text>
+	</string>
+	<string id="hello_mil_freedom_22">
+		<text>їA quй te refieres con "perdido"? їQuй ha pasado?</text>
+	</string>
+	<string id="hello_mil_freedom_222">
+		<text>Nadie lo sabe seguro, mercenario, pero esa gente ya no estб. Stalkers solitarios e incluso grupos enteros. A veces captamos fragmentos de comunicaciones de radio pidiendo socorro. Un pelotуn de mercenarios se ha pasado toda la semana pasada buscando a los suyos en la granja.</text>
+	</string>
+	<string id="hello_mil_freedom_3">
+		<text>Dйjame ir allн a ver quй descubro.</text>
+	</string>
+	<string id="hello_mil_freedom_333">
+		<text>Avнsame si descubres algo importante.</text>
+	</string>
+	<string id="hello_mil_freedom_44">
+		<text>Lo harй.</text>
+	</string>
+	<string id="hello_mil_freedom_55">
+		<text>їY ahora quй?</text>
+	</string>
+	<string id="hello_mil_freedom_555">
+		<text>Da igual, nos vemos.</text>
+	</string>
+	<string id="hello_mil_freedom_66">
+		<text>Has logrado cruzar el Bosque Rojo. Parece que eres un tнo con suerte. Pero la situaciуn aquн es incluso mбs difнcil, mercenario.</text>
+	</string>
+	<string id="hello_mil_freedom_666">
+		<text>їQuй estб pasando? Dame detalles.</text>
+	</string>
+	<string id="hello_mil_freedom_6666">
+		<text>Ve primero a ver a Forester. Йl te informarб.</text>
+	</string>
+	<string id="hello_mil_freedom_77">
+		<text>їY ahora quй?</text>
+	</string>
+	<string id="hello_mil_freedom_777">
+		<text>Da igual, nos vemos.</text>
+	</string>
+	<string id="hello_mil_killer_11">
+		<text>Mercenario, їquй buscas aquн?</text>
+	</string>
+	<string id="hello_mil_killer_111">
+		<text>Os busco a vosotros. Los tipos de la avanzadilla de Libertad me dijeron que un grupo de vuestros hombres han desaparecido por aquн. їQuй ha pasado?</text>
+	</string>
+	<string id="hello_mil_killer_1111">
+		<text>Hace unas semanas recibimos un importante encargo para encontrar un artefacto ъnico. El pedido venнa desde arriba, el cliente era muy importante. En fin, todo estaba saliendo bien: nuestro pelotуn habнa encontrado el artefacto cerca de la Barrera y se preparaba para volver cuando fueron alcanzados por la gran emisiуn. Pensбbamos que habнan muerto, pero tuvieron suerte y sobrevivieron. El problema es que han desaparecido en algъn lugar de por aquн. Nos han ordenado encontrarlos, porque tenemos que cumplir con el pedido. Si fallamos, ningъn cliente volverб a darnos trabajo. </text>
+	</string>
+	<string id="hello_mil_killer_11111">
+		<text>їPuede ser que estйn muertos? No es fбcil sobrevivir a una emisiуn.</text>
+	</string>
+	<string id="hello_mil_killer_111111">
+		<text>Hemos captado fragmentos de las transmisiones de nuestro pelotуn, pero no logramos sacar nada en claro de ellas. Lo ъnico que sabemos es que se perdieron a plena luz del dнa y ahora estбn en una especie de trampa. Puede que sea una anomalнa o un nuevo tipo de peligro que ha aparecido en la Zona. No sabemos quй hacer. Hay un antiguo depуsito de agua cerca de la granja. Creo que podremos captar mejor sus transmisiones ahн arriba. Ya hemos intentado subir, pero un monstruo nos atacу de repente, cogiу a uno de nuestros muchachos y se lo llevo. ЎEl resto escapamos por los pelos!</text>
+	</string>
+	<string id="hello_mil_killer_1111111">
+		<text>Vaya trabajito divertido que tienes para mн. Pero oye, un hombre tiene que hacer lo que debe. Yo tambiйn necesito averiguar cуmo rescatar a ese grupo tanto como vosotros.</text>
+	</string>
+	<string id="hello_mil_killer_11111112">
+		<text>Me he ocupado de la bestia. Ahora tengo que transmitir las coordenadas desde el depуsito de agua.</text>
+	</string>
+	<string id="hello_mil_killer_11111113">
+		<text>No hay nada de quй preocuparse. Ya he transmitido las coordenadas desde el depуsito de agua.</text>
+	</string>
+	<string id="hello_mil_killer_22">
+		<text>Me alegro de verte. їHas averiguado cуmo sacar a nuestros muchachos?</text>
+	</string>
+	<string id="hello_mil_killer_222">
+		<text>Todavнa no.</text>
+	</string>
+	<string id="hello_mil_killer_44">
+		<text>їQuй hay de nuevo, mercenario?</text>
+	</string>
+	<string id="hello_mil_killer_444">
+		<text>Nada.</text>
+	</string>
+	<string id="hello_mil_killer_55">
+		<text>Hace tiempo que no te veo. Nuestros muchachos llevan demasiado tiempo atrapados en esa anomalнa. їHas averiguado cуmo sacarlos?</text>
+	</string>
+	<string id="hello_mil_killer_555">
+		<text>Pues sн. Forester me dio las coordenadas de la salida que permitirб a los mercenarios salir de la burbuja espacial. Lo ъnico que necesito es un transmisor potente para ponerme en contacto con el grupo y mandarles las coordenadas.</text>
+	</string>
+	<string id="hello_mil_killer_5555">
+		<text>La base del ejйrcito deberнa tener un transmisor. Los soldados fueron alcanzados por la gran emisiуn y solo sobrevivieron una docena de ellos. Estбn enviando seсales de socorro, creen que los rescatarбn. Pero no creo que venga nadie, los abandonarбn a su suerte, como siempre.</text>
+	</string>
+	<string id="hello_mil_killer_55555">
+		<text>Una docena de militares es una fuerza considerable, incluso despuйs de una emisiуn. їMe puedes echar una mano? Tenemos los mismos objetivos, їno?</text>
+	</string>
+	<string id="hello_mil_killer_555555">
+		<text>No podemos meternos en un conflicto con los militares. Lo siento, mercenario, pero йsta vez no. Pero sй que Libertad quiere hacerse con esa base. Podrнan usarla para facilitar el control sobre la Barrera. Pueden ayudarte, especialmente porque su comandante me debe una. Dйjame que hable con ellos.</text>
+	</string>
+	<string id="hello_mil_killer_5555555">
+		<text>Gracias por el consejo.</text>
+	</string>
+	<string id="hello_mil_killer_55555555">
+		<text>ЎBuena suerte, mercenario!</text>
+	</string>
+	<string id="hello_mil_killer_5555556">
+		<text>Me ocuparй yo mismo. No soy amigo de Libertad.</text>
+	</string>
+	<string id="hello_mil_killer_66">
+		<text>їCуmo va eso?</text>
+	</string>
+	<string id="hello_mil_killer_666">
+		<text>Todavнa nada.</text>
+	</string>
+	<string id="hello_mil_killer_667">
+		<text>Hemos sacado a vuestros combatientes de la burbuja. Se dirigen a Limansk y, si todo sale bien, estarбn aquн dentro de un par de horas.</text>
+	</string>
+	<string id="hello_mil_killer_6676">
+		<text>ЎExcelentes noticias! Muchas gracias, tнo. ЎTe debo una de las gordas!</text>
+	</string>
+	<string id="hello_mil_killer_77">
+		<text>Algъn dнa la Zona serб nuestra. Adiуs.</text>
+	</string>
+	<string id="mil_killer_about_around_0">
+		<text>їSabes cuбles son las noticias locales?</text>
+	</string>
+	<string id="mil_killer_about_around_1">
+		<text>Bueno, llevamos aquн algъn tiempo, asн que estamos bien informados. La facciуn Monolith ha vuelto de repente. Hace algъn tiempo me contrataron para cargarme a algunos de sus miembros. Esos tipos estбn chalados, te lo aseguro. Siempre hablan del Monolito, un mуdulo genйtico, o lo que sea. Asн que partieron en una especie de peregrinaje, mбs allб del Radar. Pensбbamos que aquello fue su fin, descansad en paz, idiotas. Pero fнjate quй sorpresa, los peregrinos han vuelto y estбn mбs chiflados que nunca. Ahora me pregunto quй habrбn encontrado allн, en el centro de la Zona. їHabrбn encontrado el Monolito? їO no habнa nada y la frustraciуn les hizo perder la cabeza? Oye, con esos locos no puedes estar seguro de nada.</text>
+	</string>
+	<string id="mil_killer_about_last_time_0">
+		<text>їAlguna otra noticia interesante?</text>
+	</string>
+	<string id="mil_killer_about_last_time_1">
+		<text>Siempre hay noticias en la Zona, y siempre son interesantes. Ya te he contado lo de Monolith, todo el mundo habla de ello. їHas oнdo que hay una importante expediciуn al interior de la Zona? Tйcnicamente son investigadores medioambientales de las Naciones Unidas, pero eso es solo la fachada. Claro, tienen algunos cientнficos, pero si echas un vistazo a los otros verбs que son combatientes veteranos. No tengo ni idea de por quй estбn aquн. Oh, y escucha esto: no estбn usando guнas. O los guнa un satйlite o la misiуn es tan secreta que no pueden reclutar a nadie. Parece que se estбn acercando al Radar. No sй cуmo acabarб esto, pero tengo el presentimiento de que no serб bonito.</text>
+	</string>
+	<string id="mil_killer_about_what_is_you_doing_0">
+		<text>їCуmo hacйis para vivir aquн?</text>
+	</string>
+	<string id="mil_killer_about_what_is_you_doing_1">
+		<text>Diablos, todavнa estamos intentando encontrar a nuestros hombres. No se nos da bien hacer de stalkers, procuramos centrarnos en trabajos especнficos. Se puede decir que somos contratistas independientes. Nunca habнa estado tan adentro de la Zona. Me consideraba un tнo bien informado y capaz, pero he subestimado a la Zona. Hemos tenido que soportar mucho y nuestros muchachos estбn a punto de dar media vuelta y volver al Cordуn. Ademбs, recientemente hemos oнdo historias de unos mutantes capaces de controlar tu mente. Los llaman controladores, їno? Parece que esos cabrones pueden hacerte ver cosas. Vas andando con tus amigos y de repente ves zombis por todas partes y empiezas a disparar como un loco. O, imagнnate, te crees que estбs andando por un camino cuando en realidad vas a caerte por un precipicio.</text>
+	</string>
+</string_table>

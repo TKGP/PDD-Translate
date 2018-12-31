@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="team_1_desc">
+		<text>Degli "anarchici" che considerano la Zona un luogo di massima libertа in cui tutte le leggi, le regole e le convenzioni del mondo esterno non valgono nulla. Il loro motto и "Fai quello che vuoi e fatti gli affari tuoi". La Freedom ostacola i tentativi del governo di controllare la Zona ed и in guerra con la fazione dei mercenari. I suoi membri sono equipaggiati principalmente con armi russe e sovietiche.</text>
+	</string>
+	<string id="team_1_name">
+		<text>Fazione Freedom (stalker liberi)</text>
+	</string>
+	<string id="team_2_desc">
+		<text>Questi assassini in cerca d'avventura provengono da ogni parte del mondo e non hanno paura di sporcarsi le mani. Il loro motto и "Tutto per il denaro", e questo spiega il loro interesse per i manufatti... I mercenari sono equipaggiati principalmente con armi di fabbricazione occidentale.</text>
+	</string>
+	<string id="team_2_name">
+		<text>Fazione dei mercenari (assassini)</text>
+	</string>
+</string_table>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="yan_scientist_hello_dialog_11">
+		<text>Bene, bene... И raro vedere una faccia nuova da queste parti! Allora, cosa vuoi sapere? </text>
+	</string>
+	<string id="yan_scientist_hello_dialog_12">
+		<text>Scoperto niente?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_13">
+		<text>Sono felice che siamo riusciti ad assisterci a vicenda. Posso fare nulla per aiutarti?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_14">
+		<text>Vai da Lefty. Ti sta aspettando.</text>
+	</string>
+	<string id="yan_scientist_go_diggers_1">
+		<text>Il gruppo и scomparso nella parte nord occidentale dello stabilimento. Quell'area pullula di zombi. A malapena riusciamo a difendere il perimetro dagli attacchi, quindi non posso inviare altri stalker. Il segnale di SOS continua ad arrivare, quindi cerca di tirare fuori gli stalker finchй sono ancora vivi.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_1">
+		<text>Quanto и successo a quei ragazzi и una vera disgrazia. Spero che il loro sacrificio non sia stato vano. Controlliamo i documenti... Molto interessante! Alcuni dei miei sospetti si stanno rivelando fondati... Ehi, и davvero interessante! Eccellente. Molte delle nostre domande hanno trovato risposta, ma ci servirа tempo per capire fino in fondo ciт che sta accadendo...</text>
+	</string>
+	<string id="yan_scientist_bring_documents_111">
+		<text>In questo caso direi che abbiamo a che fare con un congegno costruito dall'uomo. Questi documenti sono il manuale dell'impianto di raffreddamento del congegno in questione, che si trova nella parte sotterranea dello stabilimento. Il suo consumo energetico и stupefacente! Il quadro comincia a prendere forma... pare che questi picchi di psico-attivitа siano conseguenti a un mancato raffreddamento del congegno. Se riuscissimo a ripararlo ridurremmo in modo significativo i livelli di psico-emissione. Avrт bisogno di un po' di tempo per considerare questa faccenda, quindi procedi verso lo stabilimento e raggiungi Lefty e il suo gruppo di stalker. Lungo la strada cercherт di fornirti ulteriori informazioni. </text>
+	</string>
+	<string id="yan_scientist_about_zombie_1">
+		<text>Ci hanno dato problemi fin dal giorno in cui abbiamo aperto il laboratorio. Le pareti sono robuste, ma gli ululati e il chiasso provenienti dall'esterno sono fastidiosissimi. Come puoi immaginare, compiere delle ricerche o anche semplicemente dormire in queste condizioni non и affatto semplice. Inoltre, a volte dobbiamo lasciare il bunker per raccogliere dei campioni.</text>
+	</string>
+	<string id="yan_scientist_about_zombie_111">
+		<text>Abbiamo considerato a lungo la questione. Nonostante tutti gli sforzi compiuti dall'esercito per ripulire lo stabilimento, gli zombi continuano a tornare. Tutto и stato chiaro quando un mio ex assistente, scomparso mentre eseguiva delle misurazioni accanto allo stabilimento, и stato rinvenuto tra gli zombi... и lo psico-campo. Chiunque ne venga colpito smarrisce la ragione e diventa uno zombi. И l'effetto dei danni irreversibili alle funzioni cerebrali. Di conseguenza, queste creature cessano di essere umane: non hanno alcuna abilitа cognitiva e il loro comportamento и dettato da quanto resta dei loro istinti puramente animali...</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1">
+		<text>Sм, и venuto a trovarci. Sapeva parecchie cose, molte piщ degli altri. Sosteneva persino di essere stato al centro della Zona! Naturalmente io non gli ho creduto, anche se mi ha mostrato alcune foto...</text>
+	</string>
+	<string id="yan_scientist_about_strelok_111">
+		<text>Avevamo fatto un patto: lui promise di sperimentare sul campo uno dei nostri modelli sperimentali piщ promettenti. Si trattava di un bloccante per psico-emissioni, e noi gli regalammo la versione finale. Strelok credeva che il bloccante lo avrebbe aiutato a superare il Bruciacervella. Gli fornimmo il prototipo e lui andт nello stabilimento. И stata l'ultima volta che abbiamo visto sia Strelok sia il prototipo. Attraverso il satellite abbiamo ricevuto alcuni dati, ma il segnale и andato perduto. A quanto pare, allo stabilimento Strelok и stato colpito da una potente emissione.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11111">
+		<text>Se Strelok si trova nello stabilimento, entrare senza un congegno psico-protettivo и pressochй impossibile. Sono anni che studiamo le psico-emissioni originate nello stabilimento: hanno una forte connotazione a impulsi. Quando sono nella fase bassa и possibile entrare nello stabilimento senza rischi particolari. Non possiamo perт prevedere quando avverrа la prossima emissione, quindi entrare sarebbe come giocare alla roulette russa. Se decidi di seguire Strelok nello stabilimento probabilmente ti ritroverai il cervello in pappa, proprio come gran parte degli zombi. Forse perт posso fare qualcosa per te. Qualche tempo fa sono stato contattato da alcuni stalker usciti vivi dallo stabilimento. In uno degli edifici avevano trovato un archivio di documenti tecnici. Questi documenti potrebbero gettare luce sul contenuto dello stabilimento e aiutarci a scoprire la fonte di psico-emissioni cosм potenti. Aiutami a trovare quei documenti e io ti aiuterт a introdurti nello stabilimento.</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_1">
+		<text>И lo stabilimento abbandonato! Attira gli stalker come una calamita, perchй и uno dei pochi edifici che non hanno ancora raggiunto. Dicono che all'interno si trovino manufatti rari e attrezzature di valore, quindi gli stalker continuano a cercare di entrare, sperando di trovare una fortuna. Il guaio и che и come giocare alla roulette russa. Lo psico-campo и estremamente instabile. Al loro picco le emissioni possono sciogliere un cervello umano in pochi secondi.</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_11">
+		<text>Mercenario, ho ricevuto delle informazioni da Sakharov. Ragazzi che casino. Vedi quel varco nel muro? Dobbiamo passare di lа... И la via piщ rapida per raggiungere la macchina. Seguimi senza superarmi. Io e i ragazzi siamo una squadra molto unita, quindi non ostacolarci. Intesi?</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_111">
+		<text>Intesi.</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_0">
+		<text>Gli stalker cosa ci fanno qui?</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_11">
+		<text>E Lefty?</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_111">
+		<text>Lefty и piщ sveglio degli altri. La sua squadra lavora per noi, aiutandoci con le misurazioni e la raccolta di campioni. In cambio gli forniamo assistenza medica di alto livello. Se non ci fossimo aiutati a vicenda, del resto, saremmo morti in questo posto molto tempo fa.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_0">
+		<text>So che Strelok и stato qui. Cosa sa dirmi su di lui?</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11">
+		<text>Dov'и Strelok?</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1111">
+		<text>Come posso trovare Strelok?</text>
+	</string>
+	<string id="yan_scientist_about_zombie_0">
+		<text>Gli zombi vi attaccano spesso?</text>
+	</string>
+	<string id="yan_scientist_about_zombie_11">
+		<text>In tal caso, mi chiedo da dove vengano gli zombi...</text>
+	</string>
+	<string id="yan_scientist_bring_documents_0">
+		<text>Gli stalker erano morti. Ho portato i documenti.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_11">
+		<text>Potresti essere piщ preciso, professore?</text>
+	</string>
+	<string id="yan_scientist_go_diggers_0">
+		<text>Troverт i documenti. Mi dica tutto quello che sa.</text>
+	</string>
+	<string id="yan_scientist_start_frase_1">
+		<text>Ci metterт un attimo!</text>
+	</string>
+	<string id="yan_scientist_start_frase_2">
+		<text>Solo un momento!</text>
+	</string>
+</string_table>

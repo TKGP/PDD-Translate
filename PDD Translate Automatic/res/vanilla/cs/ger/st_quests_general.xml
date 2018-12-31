@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hide_from_surge_name">
+		<text>Verstecke dich, um der Emission zu entgehen</text>
+	</string>
+	<string id="hide_from_surge_name2">
+		<text>Warte so lange, bis die Emission vorbei ist</text>
+	</string>
+	<string id="hide_from_surge_text">
+		<text>Renne in die nдchste Deckung und verstecke dich, um der Emission zu entgehen.</text>
+	</string>
+	<string id="hide_from_surge_text1">
+		<text>Pass auf! Eine Emission!!! Geschдtzte Zeit bis zur Emission:</text>
+	</string>
+	<string id="hide_from_surge_text2">
+		<text>Sekunden.</text>
+	</string>
+	<string id="sim_bring_item">
+		<text>Verschiedene Gegenstдnde ьberbringen:</text>
+	</string>
+	<string id="sim_bring_item_text">
+		<text>Bringe die gesammelten Gegenstдnde dem Kommandanten der Einheit.</text>
+	</string>
+	<string id="sim_capture_smart">
+		<text>Einnehmen und halten</text>
+	</string>
+	<string id="sim_capture_smart_text">
+		<text>Du musst das angezeigte Objekt einnehmen und halten.</text>
+	</string>
+	<string id="sim_capture_wait_smart">
+		<text>Halte den Punkt, bis Hilfe kommt</text>
+	</string>
+	<string id="sim_defend_smart">
+		<text>Verteidige das Lager</text>
+	</string>
+	<string id="sim_defend_smart_delay">
+		<text>Hilfe</text>
+	</string>
+	<string id="sim_defend_smart_delay_text">
+		<text>Der Feind wurde ganz in der Nдhe gesichtet. Ein Angriff steht unmittelbar bevor.</text>
+	</string>
+	<string id="sim_defend_smart_text">
+		<text>Die Einheit wurde vom Feind angegriffen. Hilf der Einheit dabei, den Angriff zurьckzuschlagen.</text>
+	</string>
+	<string id="sim_eliminate_smart">
+		<text>Schalte den Feind aus</text>
+	</string>
+	<string id="sim_eliminate_smart_text">
+		<text>Schalte den Feind beim Kontrollpunkt aus.</text>
+	</string>
+	<string id="sim_find_upgrade">
+		<text>Finde die Verbesserung</text>
+	</string>
+	<string id="sim_find_upgrade_consent">
+		<text>Einverstanden?</text>
+	</string>
+	<string id="sim_recover_item">
+		<text>Gegenstand zurьckbringen:</text>
+	</string>
+	<string id="sim_repeal_counterattack">
+		<text>Schlage den feindlichen Gegenangriff zurьck.</text>
+	</string>
+	<string id="sim_take_reward">
+		<text>Hol dir deine Belohnung</text>
+	</string>
+	<string id="sim_take_reward_text">
+		<text>Du erhдltst deine Belohnung vom Hдndler der Fraktion.</text>
+	</string>
+	<string id="st_sim_eliminate_path_smart">
+		<text>Sichere die StraЯe</text>
+	</string>
+	<string id="st_sim_eliminate_path_text">
+		<text>Hilf der verbьndeten Einheit durchzukommen.</text>
+	</string>
+	<string id="st_sim_eliminate_resource_smart">
+		<text>Schalte den Feind aus</text>
+	</string>
+	<string id="st_sim_eliminate_resource_text">
+		<text>Verjage den Feind aus der Umgebung. Das wird ihn schwдchen.</text>
+	</string>
+	<string id="test_storyline_task_text">
+		<text>Nдhere dich dem Fass.</text>
+	</string>
+	<string id="tm_random_task_bring_item">
+		<text>text in default</text>
+	</string>
+	<string id="stc_kill_gunslinger_name">
+		<text>Schalte Streloks Psi-Schutz aus</text>
+	</string>
+	<string id="stc_kill_gunslinger_text">
+		<text>Die Stдrke des Psi-Feldes bei der Station liegt jenseits des messbaren Bereichs, aber Strelok wird durch den Prototyp vor den Psi-Emissionen geschьtzt. Wenn du ihn ausschaltest, kannst du Strelok aufhalten. Ein elektromagnetisches Gewehr kann die Elektronik des Prototyps lahmlegen - schieЯe damit auf Strelok und deaktiviere seinen Prototyp.</text>
+	</string>
+	<string id="stc_kill_monolith_name">
+		<text>Finde den Teleport, der zur Fernheizungsleitung fьhrt</text>
+	</string>
+	<string id="stc_kill_monolith_text">
+		<text>Die Umgebung rund um die Station ist voller Teleporte. Um weiter auf Strelok schieЯen zu kцnnen, musst du zur Fernheizungsleitung zurьckkehren. Finde den Teleport, der dort hinfьhrt.</text>
+	</string>
+</string_table>

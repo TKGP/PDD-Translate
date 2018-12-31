@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_destroy_ambush_2_name">
+		<text>Vernichte alle Feinde an der Kreuzung</text>
+	</string>
+	<string id="lim_destroy_ambush_2_text">
+		<text>Schlage den Hinterhalt an der Kreuzung zurьck.</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_name">
+		<text>Vernichte die Maschinengewehrstellung</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_text">
+		<text>Bei der Kreuzung gibt es ein Feuergefecht. Das Gebдude auf der linken Seite wird von den Banditen gehalten. Von dort aus kann man die StraЯe bestens ьberblicken. Vernichte die Maschinengewehrstellung in dem Gebдude.</text>
+	</string>
+	<string id="lim_destroy_military_minigun_name">
+		<text>Schalte die Maschinengewehrstellung aus</text>
+	</string>
+	<string id="lim_destroy_military_minigun_text">
+		<text>Der Feind hat im Gebдude auf der anderen Seite der Brьcke Verteidigungsstellung bezogen. Das Gebiet auf der anderen Seite der Brьcke bietet so guten Schutz, dass es die "Clear Sky"-Einheit nicht geschafft hat, die Brьcke zu ьberqueren. Du musst dich bis zum Gebдude durchschlagen und das gegnerische Feuer unterbinden. Die "Clear Sky"-Einheit wird den Feind in der Zwischenzeit ablenken.</text>
+	</string>
+	<string id="lim_electro_fence_name">
+		<text>Schalte den Generator aus</text>
+	</string>
+	<string id="lim_electro_fence_text">
+		<text>Elektrische Einheit gesichtet. Schalte den Generator aus und unterbreche die Stromzufuhr zum Zaun.</text>
+	</string>
+	<string id="lim_find_way_through_construction_name">
+		<text>Finde einen Weg durch das Baugelдnde</text>
+	</string>
+	<string id="lim_find_way_through_construction_text">
+		<text>Die Vororte von Limansk sind sehr nah. Die StraЯe dorthin fьhrt durch einen unfertigen Gebдudekomplex. Finde einen Weg durch das Baugelдnde.</text>
+	</string>
+	<string id="lim_go_into_limansk_name">
+		<text>Erkunde die StraЯe durch Limansk</text>
+	</string>
+	<string id="lim_go_into_limansk_text">
+		<text>Lebedew hat den Befehl gegeben, die StraЯe durch Limansk zu erkunden, um fьr den Hauptteil der "Clear Sky"-Einheit sicheren Durchmarsch zu gewдhrleisten. Auf den StraЯen der Stadt ist ein offener Krieg ausgebrochen - sei auf der Hut.</text>
+	</string>
+	<string id="lim_go_to_canal_name">
+		<text>Bewege dich am Kanal entlang zur Brьcke</text>
+	</string>
+	<string id="lim_go_to_canal_text">
+		<text>Das Feindfeuer ist zu stark. Ziehe dich am Kanal entlang zur Brьcke zurьck.</text>
+	</string>
+	<string id="lim_destroy_ambush_1_name">
+		<text>Schlage den Hinterhalt zurьck</text>
+	</string>
+	<string id="lim_destroy_ambush_1_text">
+		<text>Schlage den Hinterhalt zurьck</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_name">
+		<text>Kehre zum Kommandanten der Gruppe zurьck</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_text">
+		<text>Kehre zum Kommandanten der Gruppe zurьck</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_name">
+		<text>Hilf dem Kдmpfer, sich an den Scharfschьtzen heranzuschleichen</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_text">
+		<text>Hilf dem Kдmpfer, sich an den Scharfschьtzen heranzuschleichen.</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_name">
+		<text>Finde den Generator</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_text">
+		<text>Der Weg zum Generator ist durch einen elektrischen Zaun versperrt. In der Stadt gab es lange keinen Strom, deshalb hat der Zaun eine eigene Stromquelle. Die Kabel fьhren vom Zaun nach rechts zum Institutsgebдude. Finde den Generator, der den Zaun unter Strom hдlt.</text>
+	</string>
+	<string id="lim_electro_fence_sniper_name">
+		<text>Schalte den Scharfschьtzen aus</text>
+	</string>
+	<string id="lim_electro_fence_sniper_text">
+		<text>Die Stromzufuhr fьr den Zaun wurde unterbrochen. Du kannst jetzt nдher heran und den Scharfschьtzen ausschalten. Erledige ihn.</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_name">
+		<text>Finde den Kommandanten der Gruppe</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_text">
+		<text>Finde den Kommandanten der Gruppe</text>
+	</string>
+</string_table>

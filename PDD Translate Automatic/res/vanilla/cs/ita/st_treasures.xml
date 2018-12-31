@@ -1,0 +1,1797 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_val_box_01_2">
+		<text>Cassa nel seminterrato</text>
+	</string>
+	<string id="st_val_box_01_2_descr">
+		<text>Ho gettato le mie cose nel seminterrato vicino all'ingresso e sopra ho scritto "pericolo". Non ho tempo adesso, tornerт a prenderle piщ avanti.</text>
+	</string>
+	<string id="st_val_electric_box_01">
+		<text>Nascondiglio nella sala di controllo</text>
+	</string>
+	<string id="st_val_electric_box_01_descr">
+		<text>Ho creato un bel nascondiglio nella sala di controllo della fabbrica deserta, al secondo piano. Attenderт di avere altri manufatti e darli via tutti insieme per un po' di grana.</text>
+	</string>
+	<string id="st_val_pipe_o1_base_free">
+		<text>Nascondiglio nell'estremitа inattiva del collettore</text>
+	</string>
+	<string id="st_val_pipe_o1_base_free_descr">
+		<text>Sono finito per caso nell'estremitа inattiva del collettore sotto la base... mi и sembrato un buon nascondiglio, ho nascosto del bottino nell'intersezione dei condotti.</text>
+	</string>
+	<string id="st_val_pipe_02">
+		<text>Nascondiglio nel condotto</text>
+	</string>
+	<string id="st_val_pipe_02_descr">
+		<text>Ho ricavato un nascondiglio in un condotto al primo piano della fabbrica abbandonata, vicino alle scale.</text>
+	</string>
+	<string id="st_val_pipe_02_0000">
+		<text>Condotto sotto la cisterna</text>
+	</string>
+	<string id="st_val_pipe_02_0000_descr">
+		<text>Ho incrociato un branco di cani vicino alla fattoria e ho lasciato la roba nel condotto sotto la cisterna, poi ho tagliato la corda. La recupererт appena posso. </text>
+	</string>
+	<string id="st_val_pipe_valve_01_01">
+		<text>Nascondiglio nella fabbrica</text>
+	</string>
+	<string id="st_val_pipe_valve_01_01_descr">
+		<text>Un bel nascondiglio quello nella fabbrica abbandonata... subito dopo l'entrata, nell'intersezione di una valvola. И facile scambiarlo con altri posti quasi identici.</text>
+	</string>
+	<string id="st_val_rucksack_01">
+		<text>Zaino nell'abitacolo</text>
+	</string>
+	<string id="st_val_rucksack_01_descr">
+		<text>Devo assolutamente andare a riprendere lo zaino dal sedile anteriore dell'autoarticolato ribaltato. L'ho dovuto lasciare l'altro giorno, o mi avrebbero beccato.</text>
+	</string>
+	<string id="st_val_rucksack_01_free_base">
+		<text>Nascondiglio sotto l'abete</text>
+	</string>
+	<string id="st_val_rucksack_01_free_base_descr">
+		<text>Non devo dimenticare quell'abete dove ho lasciato il bottino. И vicino all'ingresso del collettore, ma questo non и di grande aiuto per individuarlo.</text>
+	</string>
+	<string id="st_val_rucksack_02">
+		<text>Zaino sull'albero</text>
+	</string>
+	<string id="st_val_rucksack_02_descr">
+		<text>Tutti nascondono il bottino sottoterra, allora l'ho messo su un albero... scommetto che non verrа in mente a nessuno!</text>
+	</string>
+	<string id="st_val_rucksack_02_02">
+		<text>Nascondiglio segreto sotto il tetto</text>
+	</string>
+	<string id="st_val_rucksack_02_02_descr">
+		<text>Sono sicuro del mio nascondiglio. Se anche qualcuno volesse fregarmi, dovrebbe saltare su quelle travi come uno scoiattolo.</text>
+	</string>
+	<string id="st_val_rucksack_02_03">
+		<text>Nascondiglio nella torre</text>
+	</string>
+	<string id="st_val_rucksack_02_03_descr">
+		<text>Ho raccontato al collega di aver perso lo zaino per strada e quel babbeo c'и cascato. L'ho nascosto in cima alla torre cisterna, и ancora lа che mi aspetta.</text>
+	</string>
+	<string id="st_val_rucksack_02_2">
+		<text>Zaino nell'ascensore</text>
+	</string>
+	<string id="st_val_rucksack_02_2_descr">
+		<text>Non ho avuto molto tempo per nascondere il bottino nel bel mezzo della sparatoria... l'ho gettato nel "buco" sotto le assi di legno. Al momento giusto lo riprenderт.</text>
+	</string>
+	<string id="st_val_instrument_case_01">
+		<text>Valigetta del fabbro</text>
+	</string>
+	<string id="st_val_instrument_case_01_descr">
+		<text>Ho trovato la valigetta di un fabbro e per un po' vi ho sistemato i miei "tesori". Troverт al piщ presto un nascondiglio migliore.</text>
+	</string>
+	<string id="st_val_seif_01">
+		<text>Cassaforte nella fabbrica</text>
+	</string>
+	<string id="st_val_seif_01_descr">
+		<text>Se leggi questo, vuol dire che mi hanno fatto fuori. Voglio che tu sappia una cosa sulla refurtiva nella cassaforte: spero che tu non riesca ad aprirla, bastardo!</text>
+	</string>
+	<string id="st_val_seif_02_descr">
+		<text>Non credevo di cavarmela, cosм ho lasciato la roba nella cassaforte arrugginita alla fattoria abbandonata. И ora di tornare a prenderla.</text>
+	</string>
+	<string id="st_val_trees_log_01">
+		<text>Ceppo sull'isola</text>
+	</string>
+	<string id="st_val_trees_log_01_descr">
+		<text>Un amico aveva della merce pregiata con sй quando ci hanno teso un'imboscata nelle paludi. Lui non ce l'ha fatta, ma и riuscito a dirmi che aveva nascosto del bottino in un ceppo marcio vicino a un'antenna. Devo recuperarla.</text>
+	</string>
+	<string id="st_val_trees_log_01_1">
+		<text>Tronco marcio</text>
+	</string>
+	<string id="st_val_trees_log_01_1_descr">
+		<text>Non mi fido del mio collega, credo mi voglia fregare, quindi tengo nascosta la mia roba. Ho creato un nascondiglio vicino al ponte dell'isola, in un tronco d'albero. Spero che non lo trovi.</text>
+	</string>
+	<string id="st_val_trees_stump_01">
+		<text>Ceppo marcio</text>
+	</string>
+	<string id="st_val_trees_stump_01_descr">
+		<text>L'altro giorno per sfuggire ai cinghiali ho gettato le mie cose nel buco di un ceppo, non lontano dalla vecchia fattoria.</text>
+	</string>
+	<string id="st_val_trees_stump_01_0000">
+		<text>Ceppo vicino alla collina</text>
+	</string>
+	<string id="st_val_trees_stump_01_0000_descr">
+		<text>Ho realizzato un nascondiglio ai piedi della collina, sotto un vecchio ceppo. И un riparo valido, spero di riuscire ad accumulare altri tesori.</text>
+	</string>
+	<string id="st_val_trees_stump_01_1">
+		<text>Ceppo vicino al pontile di legno</text>
+	</string>
+	<string id="st_val_trees_stump_01_1_descr">
+		<text>Ho visto Kolya recarsi un sacco di volte vicino a quel ceppo sull'isola. Scommetto che quello spilorcio ha un nascondiglio segreto... glielo lascerт usare ancora un po' prima di ripulirglielo.</text>
+	</string>
+	<string id="st_val_trees_zaz968">
+		<text>Vecchia automobile ZAZ</text>
+	</string>
+	<string id="st_val_trees_zaz968_descr">
+		<text>Quei poveri bastardi si stanno dannando l'anima per scoprire dove sparisce tutta la loro roba, ah ah ah! Beh, la metto tutta in quella vecchia piccola ZAZ vicino alle paludi, voglio proprio vedere chi andrа a controllare lм.</text>
+	</string>
+	<string id="st_yan_electric_box_01">
+		<text>Pannello di controllo nella fabbrica</text>
+	</string>
+	<string id="st_yan_electric_box_01_descr">
+		<text>Dando un'occhiata al PDA di Andrey ho visto che, quando il "bruciacervella" si и calmato, ha creato un nascondiglio nel pannello di controllo della fabbrica.</text>
+	</string>
+	<string id="st_yan_electric_box_02">
+		<text>Quadrante nella stanza del trasformatore</text>
+	</string>
+	<string id="st_yan_electric_box_02_descr">
+		<text>Quando la fabbrica ha iniziato a fermarsi, ho messo tutte le mie cose nel quadrante nella stanza del trasformatore.</text>
+	</string>
+	<string id="st_yan_instrument_case_01">
+		<text>Valigetta nella fabbrica</text>
+	</string>
+	<string id="st_yan_instrument_case_01_descr">
+		<text>Quand'ero nell'hangar ho trovato una vecchia cassetta degli attrezzi. Sembrava piena, ma non avevo tempo... la prossima volta la esaminerт.</text>
+	</string>
+	<string id="st_yan_instrument_case_01_0000">
+		<text>Valigetta nel camion</text>
+	</string>
+	<string id="st_yan_instrument_case_01_0000_descr">
+		<text>Un bel posticino per nascondere qualcosa, proprio fra la cabina e il rimorchio. Gli zombie e la radiazione del posto sono un'ottima difesa naturale.</text>
+	</string>
+	<string id="st_yan_pipe_01">
+		<text>Nascondiglio accanto alla recinzione</text>
+	</string>
+	<string id="st_yan_pipe_01_descr">
+		<text>Ho nascosto qualche gingillo all'incrocio dei condotti vicino al mezzo da lavoro, accanto alla recinzione.</text>
+	</string>
+	<string id="st_yan_pipe_02">
+		<text>Due gingilli in un condotto</text>
+	</string>
+	<string id="st_yan_pipe_02_descr">
+		<text>Ho portato con me le cose piщ preziose e ho lasciato il resto in un condotto nella stanza col muro forato.</text>
+	</string>
+	<string id="st_yan_rucksack_01">
+		<text>Zaino vicino all'entrata</text>
+	</string>
+	<string id="st_yan_rucksack_01_descr">
+		<text>Ho dovuto lasciare lo zaino pieno di merce nelle rovine accanto all'entrata. Spero che non l'abbia trovato ancora nessuno...</text>
+	</string>
+	<string id="st_yan_rucksack_02">
+		<text>Nascondiglio nel condotto d'aerazione</text>
+	</string>
+	<string id="st_yan_rucksack_02_descr">
+		<text>Ehi, Tony, ricordati le coordinate e i punti di riferimento: lo zaino и nel condotto d'aerazione accanto al passaggio nel muro. A presto, Gufo.</text>
+	</string>
+	<string id="st_yan_rucksack_02_0000">
+		<text>Zaino sotto il sedile</text>
+	</string>
+	<string id="st_yan_rucksack_02_0000_descr">
+		<text>Non avevo tempo per pensare, ho ficcato tutto sotto il sedile del veicolo UAZ arrugginito.</text>
+	</string>
+	<string id="st_yan_rucksack_02_0001">
+		<text>Nascondiglio fra i comandi della gru</text>
+	</string>
+	<string id="st_yan_rucksack_02_0001_descr">
+		<text>Che razza di idea ho avuto per andare a inventare un nascondiglio lassщ... non riuscirт piщ ad arrivarci!</text>
+	</string>
+	<string id="st_yan_seif_01">
+		<text>Tesoro nascosto nella cassaforte</text>
+	</string>
+	<string id="st_yan_seif_01_descr">
+		<text>Ho il miglior nascondiglio della Zona: una cassaforte negli uffici della fabbrica.</text>
+	</string>
+	<string id="st_yan_trees_log_01">
+		<text>Tronco cavo</text>
+	</string>
+	<string id="st_yan_trees_log_01_descr">
+		<text>Ho nascosto tutto in un tronco cavo vicino alla "spina".</text>
+	</string>
+	<string id="st_yan_trees_log_01_0000">
+		<text>Tronco vicino alla collina</text>
+	</string>
+	<string id="st_yan_trees_log_01_0000_descr">
+		<text>Con tutti quegli zombie alla fabbrica non ho avuto scelta, ho abbandonato il bottino. И tutto in un tronco ai piedi della collina.</text>
+	</string>
+	<string id="st_yan_trees_stump_01">
+		<text>Ceppo vicino al pilone</text>
+	</string>
+	<string id="st_yan_trees_stump_01_descr">
+		<text>Ho creato un altro nascondiglio nell'incavo di un ceppo, sulla collina del pilone dell'alta tensione. Idioti, credono tutti che fossi lа per il panorama!</text>
+	</string>
+	<string id="gar_equipment_pipe_01_ss">
+		<text>Bocca di un tubo</text>
+	</string>
+	<string id="gar_equipment_pipe_01_ss_descr">
+		<text>Ho ricavato un nascondiglio nella bocca di un tubo, in quel mucchio di rifiuti radioattivi.</text>
+	</string>
+	<string id="gar_equipment_pipe_02_ss">
+		<text>Tubo vicino al motore</text>
+	</string>
+	<string id="gar_equipment_pipe_02_ss_descr">
+		<text>In quella discarica, accanto a un motore in disuso, c'и un tubo con il mio bottino.</text>
+	</string>
+	<string id="st_agr_cross_1">
+		<text>Sotto la croce</text>
+	</string>
+	<string id="st_agr_cross_1_descr">
+		<text>Agroprom, cespugli, croce. Tomba sotto la croce.</text>
+	</string>
+	<string id="st_agr_electric_box_02">
+		<text>Pannello elettrico nell'officina</text>
+	</string>
+	<string id="st_agr_electric_box_02_descr">
+		<text>Quel Disidratante pezzo di merda ci frega tutto il bottino. Che sia maledetto. Nascondo la mia roba da quel brutto muso dentro il pannello elettrico al secondo piano.</text>
+	</string>
+	<string id="st_agr_instrument_case_01">
+		<text>Trattore</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0000">
+		<text>Veicolo nel garage</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0000_descr">
+		<text>Ho ricavato un nascondiglio nel portabagagli del 4x4 del comandante. Se non lo sposta da lм, la mia roba sarа al sicuro.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0001">
+		<text>Valigetta sotto un vagone</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0001_descr">
+		<text>Cassetta degli attrezzi sotto un vagone all'Agroprom.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0002">
+		<text>Autobus alla fermata</text>
+	</string>
+	<string id="st_agr_instrument_case_01_0002_descr">
+		<text>Cassetta degli attrezzi in un autobus alla fermata, vicino alla base neutrale.</text>
+	</string>
+	<string id="st_agr_instrument_case_01_descr">
+		<text>Quando Timmy ha sistemato il trattore siamo andati a fare un giretto notturno, ma siamo incappati in un succhiasangue. Ce la siamo data a gambe, perdendo il nostro bottino.</text>
+	</string>
+	<string id="st_agr_pipe_02">
+		<text>Tubo in rovina</text>
+	</string>
+	<string id="st_agr_pipe_02_descr">
+		<text>Nascondiglio: ingresso del sottosuolo bloccato, dentro un tubo a L.</text>
+	</string>
+	<string id="st_agr_rucksack_01">
+		<text>Zaino abbandonato</text>
+	</string>
+	<string id="st_agr_rucksack_01_0000">
+		<text>Base stalker</text>
+	</string>
+	<string id="st_agr_rucksack_01_0000_descr">
+		<text>Ho lanciato il mio zaino su quell'albero, altrimenti avrebbero scoperto che sono stato io a uccidere Vitaly. La via piщ rapida per raggiungerlo и attraverso i condotti della base neutrale.</text>
+	</string>
+	<string id="st_agr_rucksack_01_descr">
+		<text>Ne ho visto uno su un albero vicino alla base della Duty, ma non ho avuto il tempo di arrampicarmi.</text>
+	</string>
+	<string id="st_agr_rucksack_02">
+		<text>Tubo nelle Paludi</text>
+	</string>
+	<string id="st_agr_rucksack_02_0000">
+		<text>Zaino perduto</text>
+	</string>
+	<string id="st_agr_rucksack_02_0000_descr">
+		<text>Ci siamo riposati sulle rocce di ritorno da un lungo viaggio, ma ho dimenticato lм il mio zaino. Tornerт a riprenderlo appena ho un attimo di tempo.</text>
+	</string>
+	<string id="st_agr_rucksack_02_0001">
+		<text>Zaino di Rigman</text>
+	</string>
+	<string id="st_agr_rucksack_02_0001_descr">
+		<text>Mi ero arrampicato in cima a quella torre, in attesa che i nostri cacciassero via quei maledetti cani. Ho dovuto lasciare il mio zaino tra i cespugli.</text>
+	</string>
+	<string id="st_agr_rucksack_02_descr">
+		<text>Il mio nascondiglio и in un condotto nelle Paludi. Il bottino и nello zaino.</text>
+	</string>
+	<string id="st_agr_seif_01">
+		<text>Cassaforte tra i cespugli</text>
+	</string>
+	<string id="st_agr_seif_01_descr">
+		<text>Abbiamo cercato di trascinare quella cassaforte piena di roba fuori dal burrone. Il terreno era cosм viscido e fangoso che continuavamo a cadere e scivolare, quindi alla fine ci abbiamo rinunciato.</text>
+	</string>
+	<string id="st_agr_trees_log_01">
+		<text>Tronco isolato</text>
+	</string>
+	<string id="st_agr_trees_log_01_0000">
+		<text>Uova di Pasqua</text>
+	</string>
+	<string id="st_agr_trees_log_01_0000_descr">
+		<text>Come regalo di Pasqua, Tony ha creato dei nascondigli per il clan. Ho messo una di queste "uova di Pasqua" in un tronco.</text>
+	</string>
+	<string id="st_agr_trees_log_01_descr">
+		<text>Nessuno potrebbe mai accorgersi del nascondiglio che ho ricavato in quel tronco lontano.</text>
+	</string>
+	<string id="st_agru_treasure_1">
+		<text>Tubo nella sala di controllo</text>
+	</string>
+	<string id="st_agru_treasure_1_descr">
+		<text>Quando i mostri hanno iniziato a invadere l'area, ho nascosto la mia roba in un tubo e sono scappato via.</text>
+	</string>
+	<string id="st_agru_treasure_2">
+		<text>Zaino in un'anomalia</text>
+	</string>
+	<string id="st_agru_treasure_2_descr">
+		<text>Mentre stavo attraversando il ponte, il mio zaino и caduto in un'area contaminata. Ho cercato di riprenderlo, ma invano.</text>
+	</string>
+	<string id="st_agru_treasure_3">
+		<text>Armadio abbandonato</text>
+	</string>
+	<string id="st_agru_treasure_3_descr">
+		<text>Quell'armadio mi piaceva molto. Era tanto spazioso... Quando i mutanti hanno cominciato a uscire dai loro buchi, ci siamo ritirati e ho dovuto abbandonarlo.</text>
+	</string>
+	<string id="st_agru_treasure_4">
+		<text>Zaino vicino al cadavere</text>
+	</string>
+	<string id="st_agru_treasure_4_descr">
+		<text>Dei piccoli mutanti feroci, che somigliavano a ratti o gerboa, hanno fatto a pezzi il mio amico. Io mi sono salvato per un pelo. Per fortuna c'erano delle scale lм vicino.</text>
+	</string>
+	<string id="st_agru_treasure_5">
+		<text>Zaino sotto le scale</text>
+	</string>
+	<string id="st_agru_treasure_5_descr">
+		<text>Ho visto un grosso zaino nero nell'acqua sotto le scale. Se non fosse stato per quella pericolosa anomalia, sarei giа andato a prenderlo.</text>
+	</string>
+	<string id="st_esc_cross_2">
+		<text>Sotto una croce sulla collina</text>
+	</string>
+	<string id="st_esc_cross_2_descr">
+		<text>Ho nascosto il mio bottino nella tomba fasulla di uno stalker, sulla collina.</text>
+	</string>
+	<string id="st_esc_instrument_case_01_ramp">
+		<text>Baule sopra il ponte</text>
+	</string>
+	<string id="st_esc_instrument_case_01_ramp_descr">
+		<text>Ho messo il mio bottino in un baule all'intersezione delle travi del ponte. Ho sudato come una bestia per arrampicarmi fin lassщ...</text>
+	</string>
+	<string id="st_esc_pipe_02_in_crater">
+		<text>Tubo sotto l'albero caduto</text>
+	</string>
+	<string id="st_esc_pipe_02_in_crater_descr">
+		<text>Abbiamo creato un campo non lontano dal Villaggio dei Novellini. Ho nascosto la mia roba in un tubo sotto l'albero caduto. Prima o poi andrт a riprenderla.</text>
+	</string>
+	<string id="st_esc_pipe_03_in_crater">
+		<text>Tubo nella galleria</text>
+	</string>
+	<string id="st_esc_pipe_03_in_crater_descr">
+		<text>Cercavamo di colpire le anomalie con tutto ciт che avevamo sottomano, e per sbaglio ho buttato un tubo con il nostro bottino dentro. И ancora lм a prendere polvere.</text>
+	</string>
+	<string id="st_esc_rucksack_01_in_chimney">
+		<text>Zaino in un tubo da stufa</text>
+	</string>
+	<string id="st_esc_rucksack_01_in_chimney_descr">
+		<text>Quando ero ancora un novellino avevo ricavato un piccolo nascondiglio in un tubo da stufa. Non ricordo nemmeno cosa ci avevo messo dentro.</text>
+	</string>
+	<string id="st_esc_rucksack_01_natree">
+		<text>Nascondiglio su un albero</text>
+	</string>
+	<string id="st_esc_rucksack_01_natree_descr">
+		<text>Mentre guardavo il parcheggio da un albero, ho deciso di lasciare il mio zaino proprio lassщ. Il modo piщ rapido per arrampicarsi и attraverso il ramo dal lato della collina.</text>
+	</string>
+	<string id="st_esc_rucksack_01_pod_train">
+		<text>Sotto la locomotiva</text>
+	</string>
+	<string id="st_esc_rucksack_01_pod_train_descr">
+		<text>Il comandante ci aveva ordinato di aiutare subito il gruppo di Nikolaev, quindi ho dovuto gettare il mio zaino sotto la locomotiva, accanto alla massicciata.</text>
+	</string>
+	<string id="st_esc_rucksack_02_inbush">
+		<text>Zaino dietro un cespuglio</text>
+	</string>
+	<string id="st_esc_rucksack_02_inbush_descr">
+		<text>Una notte abbiamo avuto uno scontro a fuoco con dei banditi. Dopo un po' ce la siamo data a gambe, quindi ho lanciato il mio zaino tra alcuni massi, dietro un cespuglio.</text>
+	</string>
+	<string id="st_esc_rucksack_02_natree">
+		<text>Zaino sotto la legna da ardere</text>
+	</string>
+	<string id="st_esc_rucksack_02_natree_descr">
+		<text>Ho ammucchiato un po' di legna da ardere per coprire il mio nascondiglio, che si trova vicino a un edificio a due piani di fronte alla fattoria.</text>
+	</string>
+	<string id="st_esc_seif_03">
+		<text>Cassaforte nel tubo</text>
+	</string>
+	<string id="st_esc_seif_03_0000">
+		<text>Cassaforte nella base</text>
+	</string>
+	<string id="st_esc_seif_03_0000_desc">
+		<text>Zil tiene la sua roba in una cassaforte, nella base neutrale del Cordon.</text>
+	</string>
+	<string id="st_esc_seif_03_descr">
+		<text>Io e Kolyan abbiamo ricavato un nascondiglio in una cassaforte, in quel campo di rifiuti vicino al Villaggio dei Novellini.</text>
+	</string>
+	<string id="st_esc_trees_log_01">
+		<text>Nascondiglio in un tronco</text>
+	</string>
+	<string id="st_esc_trees_log_01_descr">
+		<text>Sono stato attaccato dai cani, quindi non ho avuto altra scelta. Dopo aver nascosto il bottino in un tronco spezzato in mezzo al campo, sono corso verso l'accampamento.</text>
+	</string>
+	<string id="st_esc_trees_log_02">
+		<text>Nascondiglio in un tronco</text>
+	</string>
+	<string id="st_esc_trees_log_02_descr">
+		<text>Ho ottenuto le coordinate del nascondiglio di uno stalker morto. Si trova in un tronco dietro la fattoria.</text>
+	</string>
+	<string id="st_esc_trees_stump_01">
+		<text>Ceppo nella foresta di abeti</text>
+	</string>
+	<string id="st_esc_trees_stump_01_descr">
+		<text>Io e il mio amico abbiamo nascosto il nostro piccolo bottino in un vecchio ceppo tra alcuni abeti.</text>
+	</string>
+	<string id="st_esc_trees_stump_01_penb_syn_trader">
+		<text>Ceppo vicino al villaggio</text>
+	</string>
+	<string id="st_esc_trees_stump_01_penb_syn_trader_descr">
+		<text>Non sono andato molto lontano per creare il mio nascondiglio. Ho scelto il primo ceppo decente vicino al Villaggio dei Novellini, nascondendo in una cavitа tutto il bottino che ho trovato.</text>
+	</string>
+	<string id="st_esc_trees_stump_02">
+		<text>Ceppo nel bosco</text>
+	</string>
+	<string id="st_esc_trees_stump_02_descr">
+		<text>Sidorovich ci ha chiesto di creare un nascondiglio vicino all'avamposto che conduce all'esterno, immagino per qualche novellino. Ho nascosto tutto sotto un ceppo vicino alla collina.</text>
+	</string>
+	<string id="st_esc_trees_stump_03">
+		<text>Ceppo al Cordon</text>
+	</string>
+	<string id="st_esc_trees_stump_03_descr">
+		<text>Mentre ero diretto alla Discarica ho nascosto tutto dentro un ceppo nel bosco, cosм i banditi non avranno niente da rubarmi.</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Informazioni sul nascondiglio ricevute:</text>
+	</string>
+	<string id="st_gar_electric_box_01">
+		<text>Pannello elettrico tra i rifiuti</text>
+	</string>
+	<string id="st_gar_electric_box_01_descr">
+		<text>Ho nascosto qualcosa da rivendermi in seguito al mercato delle pulci. Ho messo tutto nel pannello elettrico vicino all'abitacolo della gru distrutta.</text>
+	</string>
+	<string id="st_gar_electric_box_02">
+		<text>Pannello sotto un riparo</text>
+	</string>
+	<string id="st_gar_electric_box_02_descr">
+		<text>Non vedo l'ora di vendere il bottino che ho nascosto in un pannello sotto un riparo, non lontano da qui.</text>
+	</string>
+	<string id="st_gar_electric_box_02_ss">
+		<text>Pannello elettrico tra i rifiuti</text>
+	</string>
+	<string id="st_gar_electric_box_02_ss_descr">
+		<text>Il bottino и sotto lo sportello di un pannello elettrico in un mucchio di rifiuti.</text>
+	</string>
+	<string id="st_gar_pipe_02">
+		<text>Tubo alla Discarica</text>
+	</string>
+	<string id="st_gar_pipe_02_descr">
+		<text>Ho messo la mia roba in un tubo tagliato, cosм nessuno potrа rubarmela.</text>
+	</string>
+	<string id="st_gar_pipe_05">
+		<text>Tubo ai piedi della gru</text>
+	</string>
+	<string id="st_gar_pipe_05_descr">
+		<text>C'и un tubo ai piedi della gru distrutta. Ho nascosto lм la mia roba, in caso di necessitа.</text>
+	</string>
+	<string id="st_gar_rucksack_02">
+		<text>Zaino sotto l'abete</text>
+	</string>
+	<string id="st_gar_rucksack_02_1_ss">
+		<text>Zaino nell'abitacolo della gru</text>
+	</string>
+	<string id="st_gar_rucksack_02_1_ss_descr">
+		<text>Ho nascosto il mio zaino nell'abitacolo della gru, quando era ancora in piedi. Ora non posso piщ raggiungerlo.</text>
+	</string>
+	<string id="st_gar_rucksack_02_descr">
+		<text>In attesa di tempi migliori, il mio zaino e tutto il suo contenuto resteranno nascosti sotto questo abete.</text>
+	</string>
+	<string id="st_gar_rucksack_02_ss">
+		<text>Nascondiglio lontano dai miei nemici</text>
+	</string>
+	<string id="st_gar_rucksack_02_ss_descr">
+		<text>Ho lanciato il mio zaino in un cumulo di rifiuti radioattivi, cosм i miei nemici non potranno averlo.</text>
+	</string>
+	<string id="st_gar_rucksack_03">
+		<text>Nascondiglio tra i rifiuti</text>
+	</string>
+	<string id="st_gar_rucksack_03_descr">
+		<text>Ho messo le mie cose sotto una lastra di cemento vicino al cimitero di veicoli contaminato. Dovrei andare a riprenderle, prima che lo faccia qualcun altro.</text>
+	</string>
+	<string id="st_gar_rucksack_04">
+		<text>Tetto della locomotiva</text>
+	</string>
+	<string id="st_gar_rucksack_04_descr">
+		<text>Ho lasciato il mio piccolo zaino in cima alla locomotiva. И facile raggiungerlo dalla massicciata, ma non cosм semplice da vedere.</text>
+	</string>
+	<string id="st_gar_seif_01">
+		<text>Cassaforte in una pozza</text>
+	</string>
+	<string id="st_gar_seif_01_descr">
+		<text>Dubito che a qualcuno verrа in mente di cercare una cassaforte in una pozza melmosa come quella. И un ottimo nascondiglio temporaneo.</text>
+	</string>
+	<string id="st_gar_seif_03">
+		<text>Cassaforte sotto il supporto</text>
+	</string>
+	<string id="st_gar_seif_03_descr">
+		<text>Ho nascosto il mio bottino in una cassaforte vicino a un cartello di pericolo radiazioni. Cercare di prenderlo sarebbe un autentico suicidio!</text>
+	</string>
+	<string id="st_gar_trees_log_01">
+		<text>Cavitа dentro un tronco</text>
+	</string>
+	<string id="st_gar_trees_log_01_descr">
+		<text>Nascondevo le mie cose nella cavitа di un tronco non lontano dal campo di concentramento.</text>
+	</string>
+	<string id="st_gar_trees_log_02">
+		<text>Tronco dietro la quercia</text>
+	</string>
+	<string id="st_gar_trees_log_02_descr">
+		<text>Kolyan mi ha dato una dritta. Dice che Weedy nasconde il suo bottino nella cavitа di un tronco dietro la quercia morta.</text>
+	</string>
+	<string id="st_gar_trees_log_03">
+		<text>Tronco tra i cespugli</text>
+	</string>
+	<string id="st_gar_trees_log_03_descr">
+		<text>Ho nascosto il mio bottino in un tronco che poi ho trascinato tra i cespugli. Lм dovrebbe essere al sicuro e lontano da occhi indiscreti.</text>
+	</string>
+	<string id="st_gar_trees_stump_01">
+		<text>Nascondiglio di Lamster</text>
+	</string>
+	<string id="st_gar_trees_stump_01_descr">
+		<text>Uno scavatore voleva svignarsela con il bottino, ma Shepherd e i suoi ragazzi avevano altre idee. Dopo aver ammazzato quel tipo, perт, non sono riusciti a trovare il bottino. Solo io ho visto il ceppo che gli scavatori usavano come nascondiglio.</text>
+	</string>
+	<string id="st_gar_trees_stump_03">
+		<text>Nascondiglio solitario</text>
+	</string>
+	<string id="st_gar_trees_stump_03_descr">
+		<text>Ho scelto un ceppo solitario come nascondiglio, nel caso uno dei nostri decidesse di derubarmi.</text>
+	</string>
+	<string id="st_gar_trees_stump_04">
+		<text>Nascondiglio vicino alla base</text>
+	</string>
+	<string id="st_gar_trees_stump_04_descr">
+		<text>Non so gli altri, ma io preferisco nascondere la mia roba sotto il naso di Yoga. Vicino alla recinzione, sotto un vecchio ceppo.</text>
+	</string>
+	<string id="st_gar_zaz968">
+		<text>Automobile ZAZ bianca</text>
+	</string>
+	<string id="st_gar_zaz968_descr">
+		<text>Quando Yoga non comanderа piщ alla Discarica, tirerт fuori tutto il mio bottino da quell'auto ZAZ bianca e dirт addio a questo posto.</text>
+	</string>
+	<string id="st_hos_electric_box_02">
+		<text>Pannello elettrico all'ospedale</text>
+	</string>
+	<string id="st_hos_electric_box_02_descr">
+		<text>Il nostro gruppo ha ricavato un nascondiglio nel pannello elettrico al primo piano dell'ospedale.</text>
+	</string>
+	<string id="st_hos_rucksack_01">
+		<text>Zaino sotto le scale</text>
+	</string>
+	<string id="st_hos_rucksack_01_descr">
+		<text>Durante l'assalto al secondo piano, abbiamo dovuto sbarazzarci di tutte le cose superflue.</text>
+	</string>
+	<string id="st_hos_seif_01">
+		<text>Barricate nel salone</text>
+	</string>
+	<string id="st_hos_seif_01_descr">
+		<text>Ero nel bel mezzo di una sparatoria, bloccato nel salone al secondo piano dell'ospedale. Ho dovuto nascondere il mio bottino in una vecchia cassaforte nelle barricate.</text>
+	</string>
+	<string id="st_lim_electric_box_01">
+		<text>Tubo nelle fognature</text>
+	</string>
+	<string id="st_lim_electric_box_01_2">
+		<text>Pannello elettrico all'Onda Radio</text>
+	</string>
+	<string id="st_lim_electric_box_01_2_descr">
+		<text>Mentre stavamo occupando l'edificio, ho trovato il nascondiglio di qualcuno nel pannello elettrico del terrazzo. Purtroppo eravamo di fretta e non ho preso nulla.</text>
+	</string>
+	<string id="st_lim_electric_box_01_descr">
+		<text>Ho visto il nascondiglio di qualcuno nel condotto fognario. Ci darт un'occhiata quando torneremo in quell'area.</text>
+	</string>
+	<string id="st_lim_instrument_case_01">
+		<text>Valigia in un angolo</text>
+	</string>
+	<string id="st_lim_instrument_case_01_1">
+		<text>Valigia nell'attico</text>
+	</string>
+	<string id="st_lim_instrument_case_01_1_descr">
+		<text>Abbiamo passato due giorni a respingere gli attacchi. Alla fine ci hanno fatto ripiegare sul tetto, fino all'arrivo dei nostri rinforzi. Ho visto una valigetta nell'attico, ma ho dimenticato di portarla via con me.</text>
+	</string>
+	<string id="st_lim_instrument_case_01_descr">
+		<text>Stavamo attraversando un cortile sul retro quando ho notato una cassetta degli attrezzi dietro la recinzione.</text>
+	</string>
+	<string id="st_lim_pipe_02">
+		<text>Tubo sotto un veicolo UAZ</text>
+	</string>
+	<string id="st_lim_pipe_02_01">
+		<text>Dietro i garage</text>
+	</string>
+	<string id="st_lim_pipe_02_01_descr">
+		<text>Ho visto il nascondiglio di qualcuno dietro i garage, ma non ho fatto in tempo a guardare meglio. И dentro un grande tubo, dietro l'albero.</text>
+	</string>
+	<string id="st_lim_pipe_02_2">
+		<text>Tubo nel container</text>
+	</string>
+	<string id="st_lim_pipe_02_2_descr">
+		<text>Ci avevano bloccati in un cortile sul retro. Lм ho visto qualcosa dentro un container di rifiuti, all'interno di un tubo. Non appena avremo finito qui, andrт a dare un'occhiata.</text>
+	</string>
+	<string id="st_lim_pipe_02_descr">
+		<text>Ho visto un sacco con un po' di roba dentro spuntare da sotto un veicolo UAZ. Non ho fatto in tempo a controllare, ma prima o poi ci riuscirт... se sarт ancora vivo.</text>
+	</string>
+	<string id="st_lim_rucksack_01">
+		<text>Zaino sotto il cruscotto</text>
+	</string>
+	<string id="st_lim_rucksack_01_descr">
+		<text>Ho messo lo zaino del povero Tin Can sotto il cruscotto di una vecchia automobile Moskvich.</text>
+	</string>
+	<string id="st_lim_rucksack_02_1">
+		<text>Zaino vicino a una recinzione</text>
+	</string>
+	<string id="st_lim_rucksack_02_12">
+		<text>Effetti di un uomo ferito</text>
+	</string>
+	<string id="st_lim_rucksack_02_12_descr">
+		<text>Hanno beccato Sanek mentre ci stavamo arrampicando su un muro. Ha dovuto abbandonare il suo zaino per salvarsi il culo.</text>
+	</string>
+	<string id="st_lim_rucksack_02_1_descr">
+		<text>Mi stavano inseguendo, quindi ho dovuto lasciare il mio zaino vicino a una recinzione, a queste coordinate.</text>
+	</string>
+	<string id="st_lim_rucksack_02_2">
+		<text>Zaino di un uomo morto</text>
+	</string>
+	<string id="st_lim_rucksack_02_2_descr">
+		<text>Un novellino che avevo proprio di fianco и stato beccato da una granata, restandoci secco. Dan gli ha preso lo zaino e lo ha lanciato sotto il ponte. A un cadavere non serve piщ, ma a noi potrebbe tornare utile.</text>
+	</string>
+	<string id="st_lim_seif_03">
+		<text>Cassaforte nel garage</text>
+	</string>
+	<string id="st_lim_seif_03_descr">
+		<text>Stavamo perlustrando i garage in cerca di un fuggiasco, e invece abbiamo trovato una cassaforte. Prima o poi dovremmo provare a scassinarla.</text>
+	</string>
+	<string id="st_lim_trees_log_01">
+		<text>Tronco mezzo sepolto</text>
+	</string>
+	<string id="st_lim_trees_log_01_descr">
+		<text>Prima di ammazzare quell'idiota, l'ho visto armeggiare vicino a quel tronco dietro il gazebo.</text>
+	</string>
+	<string id="st_lim_trees_stump_01_1">
+		<text>Pacchetto nel ceppo</text>
+	</string>
+	<string id="st_lim_trees_stump_01_1_descr">
+		<text>Ho visto una specie di pacchetto in una cavitа di questo ceppo, mentre stavamo preparando un attacco.</text>
+	</string>
+	<string id="st_mar_nichka_0000">
+		<text>Nascondiglio vicino a un bunker</text>
+	</string>
+	<string id="st_mar_nichka_0000_descr">
+		<text>Avevo la banda di Squint alle calcagna, quindi ho nascosto il mio bottino vicino al portellone di un bunker, in una palude non lontana dal parcheggio abbandonato.</text>
+	</string>
+	<string id="st_mar_nichka_0001">
+		<text>Piccolo contenitore sotto un pilone</text>
+	</string>
+	<string id="st_mar_nichka_0001_descr">
+		<text>Conservo tutto il mio bottino in un nascondiglio che ho ricavato sotto un pilone dell'alta tensione.</text>
+	</string>
+	<string id="st_mar_nichka_0003">
+		<text>Contenitore nell'abitacolo dell'auto ZIL</text>
+	</string>
+	<string id="st_mar_nichka_0003_descr">
+		<text>Alex ha trovato la cassetta di un fabbro da qualche parte. Dopo averla riempita con un po' di roba, l'abbiamo messa nell'abitacolo di una vecchia ZIL.</text>
+	</string>
+	<string id="st_mar_nichka_0004">
+		<text>Tubo alla stazione</text>
+	</string>
+	<string id="st_mar_nichka_0004_descr">
+		<text>Ho nascosto qualcosa nella bocca di un tubo accanto a una valvola, nella vecchia stazione di pompaggio in mezzo a una palude.</text>
+	</string>
+	<string id="st_mar_nichka_0005">
+		<text>Tubo nella palude</text>
+	</string>
+	<string id="st_mar_nichka_0005_descr">
+		<text>Ero stufo di portarmi dietro la mia roba per queste paludi, quindi l'ho lasciata su una penisola, dentro la valvola di un tubo. Cosм avrт meno peso da portare, e il mio nascondiglio sarа al sicuro in quei canneti.</text>
+	</string>
+	<string id="st_mar_nichka_0006">
+		<text>Zaino nelle Paludi</text>
+	</string>
+	<string id="st_mar_nichka_0006_descr">
+		<text>Sono sfuggito per un pelo a una bestia delle paludi. Ho perso il mio zaino mentre correvo, ma non ho voglia di tornare indietro a riprenderlo.</text>
+	</string>
+	<string id="st_mar_nichka_0007">
+		<text>Cassaforte sommersa</text>
+	</string>
+	<string id="st_mar_nichka_0007_descr">
+		<text>C'и una cassaforte immersa nell'acqua a poca distanza dal ponte crollato. Ho messo tutta la mia roba in quel nascondiglio. Speriamo bene...</text>
+	</string>
+	<string id="st_mar_nichka_0008">
+		<text>Zaino nei canneti</text>
+	</string>
+	<string id="st_mar_nichka_0008_descr">
+		<text>Ho lasciato il mio zaino nei canneti mentre stavo combattendo contro dei cinghiali. Non ho punti di riferimento, ma solo le coordinate del posto.</text>
+	</string>
+	<string id="st_mar_nichka_0009">
+		<text>Manufatto abbandonato</text>
+	</string>
+	<string id="st_mar_nichka_0009_descr">
+		<text>Ho fregato un tizio e gli ho preso il suo zaino pieno di bottino. Poi ho deciso di nasconderlo per un po' nei canneti, in modo da non dare troppo nell'occhio.</text>
+	</string>
+	<string id="st_mar_nichka_0010">
+		<text>Ceppo vicino all'albero</text>
+	</string>
+	<string id="st_mar_nichka_0010_descr">
+		<text>Ho deciso di nascondere il mio bottino in un ceppo vicino all'albero seccato. Andrт a riprenderlo quando potrт lasciare per sempre le Paludi.</text>
+	</string>
+	<string id="st_mar_nichka_0011">
+		<text>Tronco vicino a un pilone</text>
+	</string>
+	<string id="st_mar_nichka_0011_descr">
+		<text>Un tronco spezzato non lontano da un pilone dell'alta tensione.</text>
+	</string>
+	<string id="st_mar_nichka_0012">
+		<text>Tomba con maschera antigas</text>
+	</string>
+	<string id="st_mar_nichka_0012_descr">
+		<text>Mi fido piщ dei morti che dei vivi. Il mio nascondiglio и al cimitero, nella tomba piщ a sinistra con la maschera antigas.</text>
+	</string>
+	<string id="st_mar_nichka_0013">
+		<text>Croce di legno</text>
+	</string>
+	<string id="st_mar_nichka_0013_descr">
+		<text>Ho messo via qualcosa per i giorni difficili. Il mio nascondiglio и nella tomba con l'unica croce in legno del cimitero della chiesa.</text>
+	</string>
+	<string id="st_mar_nichka_0014">
+		<text>Catasta di legna alla chiesa</text>
+	</string>
+	<string id="st_mar_nichka_0014_descr">
+		<text>Che il cielo protegga il mio bottino. L'ho nascosto in un tronco spezzato della catasta di legna.</text>
+	</string>
+	<string id="st_mar_nichka_0015">
+		<text>Nascondiglio nei canneti</text>
+	</string>
+	<string id="st_mar_nichka_0015_descr">
+		<text>Ho lasciato il mio zaino nei canneti, non lontano dalla chiesa. Ora non riesco piщ a trovarlo, neanche con le coordinate esatte nel mio PDA.</text>
+	</string>
+	<string id="st_mar_nichka_0016">
+		<text>Cassaforte nel fango</text>
+	</string>
+	<string id="st_mar_nichka_0016_descr">
+		<text>Ho nascosto tutto il mio bottino in una cassaforte in riva a una palude, vicino alla chiesa. Provate a trovarla, saccheggiatori!</text>
+	</string>
+	<string id="st_mar_nichka_0017">
+		<text>Valigia sotto una stufa</text>
+	</string>
+	<string id="st_mar_nichka_0017_descr">
+		<text>Cos'hanno in comune una stufa bollente e una tipa bollente? Se non stai attento, rischi di ustionarti! Ah ah. Tra l'altro, ho nascosto la mia valigia piena di bottino proprio in una stufa.</text>
+	</string>
+	<string id="st_mar_nichka_0018">
+		<text>Roba in un'automobile ZAZ</text>
+	</string>
+	<string id="st_mar_nichka_0018_descr">
+		<text>Abbiamo trascorso quasi tutta la notte in quell'auto ZAZ mezza affondata, prima che arrivassero i soccorsi. Non sapevo chi sarebbe venuto a salvarci, quindi per sicurezza ho nascosto la mia roba da quelle parti. Dovrei andare a riprenderla, ora che ci penso.</text>
+	</string>
+	<string id="st_mar_nichka_0019">
+		<text>Ceppo vicino alla ferrovia</text>
+	</string>
+	<string id="st_mar_nichka_0019_descr">
+		<text>Abbiamo sentito alcuni spari nei pressi della ferrovia, quindi ho subito nascosto le mie cose in un ceppo dietro alcuni massi.</text>
+	</string>
+	<string id="st_mar_nichka_0020">
+		<text>Tubo dalla cisterna</text>
+	</string>
+	<string id="st_mar_nichka_0020_descr">
+		<text>Io e i ragazzi conserviamo la nostra roba nel tubo con la valvola, quello che va dalla cisterna alle Paludi.</text>
+	</string>
+	<string id="st_mar_nichka_0021">
+		<text>Zaino vicino a un materasso</text>
+	</string>
+	<string id="st_mar_nichka_0021_descr">
+		<text>Quel cretino di Lekha ha dormito su un materasso della barca affondata, e poi ha dimenticato lм il suo zaino.</text>
+	</string>
+	<string id="st_mar_nichka_0022">
+		<text>Contenitore in cucina</text>
+	</string>
+	<string id="st_mar_nichka_0022_descr">
+		<text>Ho messo da parte qualche oggetto da scambiare in un contenitore blu, nella cucina separata.</text>
+	</string>
+	<string id="st_mar_nichka_0023">
+		<text>Nascondiglio in un tronco</text>
+	</string>
+	<string id="st_mar_nichka_0023_descr">
+		<text>Prima di partire per un'altra regione delle Paludi, ho dovuto svuotare lo zaino. Ho messo un po' del mio bottino dentro un tronco spezzato.</text>
+	</string>
+	<string id="st_mar_nichka_0024">
+		<text>Nascondiglio nel pannello</text>
+	</string>
+	<string id="st_mar_nichka_0024_descr">
+		<text>Il pannello fuori dalla stanza del trasformatore, alla fattoria. Pericolo! Stare alla larga!</text>
+	</string>
+	<string id="st_mar_nichka_0025">
+		<text>Unitа di controllo elettrica al parcheggio</text>
+	</string>
+	<string id="st_mar_nichka_0025_descr">
+		<text>Quando mi sono unito alla banda di Grey, ho nascosto un po' di roba nell'unitа di controllo elettrica al parcheggio, presso la torre. Chissа, forse un giorno potrebbe tornarmi utile.</text>
+	</string>
+	<string id="st_mar_nichka_0026">
+		<text>Zaino lungo un sentiero</text>
+	</string>
+	<string id="st_mar_nichka_0026_descr">
+		<text>Ho visto della carne lungo un sentiero, e con me avevo solo un coltello. Ho buttato lo zaino e sono partito subito. Mi hanno trovato dopo un po', a un chilometro di distanza. Prima o poi dovrт tornarci.</text>
+	</string>
+	<string id="st_mar_nichka_0027">
+		<text>Ceppo vicino un albero giovane</text>
+	</string>
+	<string id="st_mar_nichka_0027_descr">
+		<text>Io non mi faccio spremere da Hook come quegli idioti. Preferisco ottenere il mio bottino poco alla volta, nascondendolo sotto un ceppo vicino a un albero giovane.</text>
+	</string>
+	<string id="st_mar_nichka_0028">
+		<text>Cassaforte dietro un albero morto</text>
+	</string>
+	<string id="st_mar_nichka_0028_descr">
+		<text>Sto accumulando bottino da scambiare in cambio di medicine per mio figlio. Lo nascondo in una cassaforte dietro un albero morto. Quando ne avrт abbastanza, andrт subito all'esterno.</text>
+	</string>
+	<string id="st_mar_nichka_0029">
+		<text>Nascondiglio tra i cespugli</text>
+	</string>
+	<string id="st_mar_nichka_0029_descr">
+		<text>Quando sono uscito dalle Paludi ero troppo stanco per camminare, quindi ho lasciato la mia roba lungo la strada, tra i cespugli.</text>
+	</string>
+	<string id="st_mar_nichka_0030">
+		<text>Nascondiglio sotto il pianale di un camion</text>
+	</string>
+	<string id="st_mar_nichka_0030_descr">
+		<text>In una cassetta degli attrezzi sotto un camion, di fronte al ponte.</text>
+	</string>
+	<string id="st_mar_nichka_0031">
+		<text>In mezzo a una palude</text>
+	</string>
+	<string id="st_mar_nichka_0031_descr">
+		<text>Ho lasciato un contenitore in mezzo a una palude, sopra un pezzo di cemento con barre di metallo che spuntano fuori. Tornerт a prenderlo quando partirт per l'esterno.</text>
+	</string>
+	<string id="st_mar_nichka_0032">
+		<text>Piccolo contenitore dentro una stufa</text>
+	</string>
+	<string id="st_mar_nichka_0032_descr">
+		<text>Il mio nascondiglio и in un baule, il baule и in una stufa, la stufa и in una casa diroccata e la casa и nelle Paludi.</text>
+	</string>
+	<string id="st_mar_nichka_0033">
+		<text>Cassaforte tra i canneti</text>
+	</string>
+	<string id="st_mar_nichka_0033_descr">
+		<text>Non so cosa ci faccia una cassaforte come quella in una palude, ma mi fa comodo. La uso per nascondere la mia roba, almeno per un po'.</text>
+	</string>
+	<string id="st_mar_nichka_0034">
+		<text>Ceppo in una palude</text>
+	</string>
+	<string id="st_mar_nichka_0034_descr">
+		<text>Il capo ha detto di non portarci dietro troppa roba. Ho nascosto il mio bottino in un ceppo vicino alla cisterna, tra i cespugli sotto un albero.</text>
+	</string>
+	<string id="st_mar_nichka_0035">
+		<text>Ceppo in una palude</text>
+	</string>
+	<string id="st_mar_nichka_0035_descr">
+		<text>Stavo attraversando le Paludi quando ho notato un ceppo marcio vicino a un pontile di legno. Ho pensato che fosse un ottimo nascondiglio per i miei "tesori".</text>
+	</string>
+	<string id="st_mar_nichka_0036">
+		<text>Zaino su un'isola</text>
+	</string>
+	<string id="st_mar_nichka_0036_descr">
+		<text>Quella creatura delle paludi continuava a inseguirmi dappertutto. Dopo un bel po' di chilometri di corsa, ero cosм stanco che ho dovuto lasciare il mio zaino su un'isola.</text>
+	</string>
+	<string id="st_mar_nichka_0037">
+		<text>Portello vicino alla stazione</text>
+	</string>
+	<string id="st_mar_nichka_0037_descr">
+		<text>Ho sotterrato la mia roba sotto un portello vicino alla stazione, nel caso mi derubassero.</text>
+	</string>
+	<string id="st_mar_nichka_0038">
+		<text>Nascondiglio in un tubo</text>
+	</string>
+	<string id="st_mar_nichka_0038_descr">
+		<text>Quello zaino nero nel grosso tubo и tutto ciт che rimane di Mitka.</text>
+	</string>
+	<string id="st_mar_nichka_0039">
+		<text>Valigia in un abitacolo</text>
+	</string>
+	<string id="st_mar_nichka_0039_descr">
+		<text>Ho messo tutta la mia roba in una cassetta degil attrezzi  che ho trovato in una palude, poi l'ho nascosta nell'abitacolo di una gru. Aspetterт che la situazione </text>
+	</string>
+	<string id="st_mar_nichka_0040">
+		<text>Zaino sotto un vagone</text>
+	</string>
+	<string id="st_mar_nichka_0040_descr">
+		<text>Stavo cercando di fuggire, quindi ho alleggerito il carico lasciando il mio zaino sotto un vagone, lungo la ferrovia.</text>
+	</string>
+	<string id="st_mar_nichka_0041">
+		<text>Sulla sporgenza della cupola</text>
+	</string>
+	<string id="st_mar_nichka_0041_descr">
+		<text>Ho lasciato il mio zaino sulla sporgenza della cupola della chiesa. Camminare sul tetto di una chiesa и peccato?</text>
+	</string>
+	<string id="st_mar_nichka_0042">
+		<text>Sotto un ponte</text>
+	</string>
+	<string id="st_mar_nichka_0042_descr">
+		<text>Ci siamo nascosti sotto un ponte per sfuggire ai tizi che ci seguivano. Ho lasciato lм il mio zaino con un po' di bottino dentro, accanto a una trave.</text>
+	</string>
+	<string id="st_mar_nichka_0043">
+		<text>Tra i massi</text>
+	</string>
+	<string id="st_mar_nichka_0043_descr">
+		<text>Ho lanciato il mio zaino in una fenditura tra tre massi, altrimenti mi avrebbero sicuramente derubato.</text>
+	</string>
+	<string id="st_mar_nichka_0044">
+		<text>Ceppo sotto dei massi</text>
+	</string>
+	<string id="st_mar_nichka_0044_descr">
+		<text>Mentre cercavo un buon nascondiglio per la mia roba, ho trovato un bel ceppo con una cavitа, sotto alcuni massi tra i canneti.</text>
+	</string>
+	<string id="st_mil_cross_1">
+		<text>Nascondiglio in una tomba</text>
+	</string>
+	<string id="st_mil_cross_1_descr">
+		<text>Ho sepolto la mia roba sotto la croce di una tomba. Che riposi in pace finchй non tornerт a prenderla.</text>
+	</string>
+	<string id="st_mil_cross_2">
+		<text>Croce vicino a un albero</text>
+	</string>
+	<string id="st_mil_cross_2_descr">
+		<text>Ho ricavato un nascondiglio in una tomba vicino a un albero.</text>
+	</string>
+	<string id="st_mil_instrument_case_01">
+		<text>Valigetta in una stufa</text>
+	</string>
+	<string id="st_mil_instrument_case_01_descr">
+		<text>Ho nascosto una valigetta in una stufa, all'interno di una baracca in rovina. La riempirт con tutto il bottino che riuscirт a trovare.</text>
+	</string>
+	<string id="st_mil_pipe_02">
+		<text>Tubo all'ingresso della base</text>
+	</string>
+	<string id="st_mil_pipe_02_descr">
+		<text>Ho nascosto la mia roba sotto il naso del sottufficiale. И nel tubo dietro la postazione di guardia, all'ingresso della base.</text>
+	</string>
+	<string id="st_mil_rucksack_01">
+		<text>Zaino vicino a un camino</text>
+	</string>
+	<string id="st_mil_rucksack_01_0000">
+		<text>Nascondiglio in un'automobile Moskvich</text>
+	</string>
+	<string id="st_mil_rucksack_01_0000_descr">
+		<text>Restituirт a Max il suo zaino, quando tornerа. Nel frattempo lo lascerт in quella vecchia Moskvich.</text>
+	</string>
+	<string id="st_mil_rucksack_01_descr">
+		<text>Ho lasciato il mio zaino accanto a un camino, sull'attico di una casa in rovina. Andrei subito a prenderlo, se non fosse per quel succhiasangue nel villaggio.</text>
+	</string>
+	<string id="st_mil_rucksack_02">
+		<text>Zaino sotto un rimorchio</text>
+	</string>
+	<string id="st_mil_rucksack_02_0000">
+		<text>Nascondiglio sotto il ponte</text>
+	</string>
+	<string id="st_mil_rucksack_02_0000_descr">
+		<text>Lo zaino и in un vagone, sotto il ponte della base militare.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0001">
+		<text>Fenditura nella galleria</text>
+	</string>
+	<string id="st_mil_rucksack_02_0001_descr">
+		<text>Ho lasciato il mio zaino nella fenditura sopra la galleria quando la situazione si и fatta "bollente", ma и rimasto impigliato in una barra di metallo. Dovrei tornare indietro e recuperarlo prima possibile.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0002">
+		<text>Nascondiglio in bagno</text>
+	</string>
+	<string id="st_mil_rucksack_02_0002_descr">
+		<text>Dubito che qualcuno cercherа un nascondiglio nel bagno del villaggio. Io nascondo la mia roba proprio lм, quindi posso stare tranquillo.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0003">
+		<text>Nascondiglio vicino alla recinzione</text>
+	</string>
+	<string id="st_mil_rucksack_02_0003_descr">
+		<text>Ho lasciato lo zaino del povero Kolyan dietro l'hangar. Avevo giа abbastanza roba da portare.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0004">
+		<text>Zaino dietro un albero</text>
+	</string>
+	<string id="st_mil_rucksack_02_0004_descr">
+		<text>Nell'istante in cui ho visto quel mostro vicino alla cisterna, ho lasciato il mio zaino sotto un albero caduto. In quelle situazioni conta solo correre piщ velocemente possibile.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0005">
+		<text>Zaino in uno scantinato</text>
+	</string>
+	<string id="st_mil_rucksack_02_0005_descr">
+		<text>La testa mi girava cosм tanto dopo l'emissione che ho lasciato il mio zaino in uno scantinato. Tornerт a prenderlo non appena mi sentirт meglio.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0006">
+		<text>Zaino dimenticato</text>
+	</string>
+	<string id="st_mil_rucksack_02_0006_descr">
+		<text>Un'esplosione ha mandato un muro in frantumi e sono rimasto intrappolato tra le macerie. Ho dovuto lasciare il mio zaino per uscire da lм e punire i colpevoli, e mi sono divertito cosм tanto che alla fine ho dimenticato lм lo zaino. Spero che qualcuno non l'abbia preso...</text>
+	</string>
+	<string id="st_mil_rucksack_02_0007">
+		<text>Nascondiglio in cucina</text>
+	</string>
+	<string id="st_mil_rucksack_02_0007_descr">
+		<text>Uno zaino verde nella stufa di una cucina, in una casa del villaggio abbandonato. Coordinate registrate.</text>
+	</string>
+	<string id="st_mil_rucksack_02_0008">
+		<text>Nascondiglio sotto un masso</text>
+	</string>
+	<string id="st_mil_rucksack_02_0008_descr">
+		<text>L'altro giorno ho dovuto correre molto, e ho lasciato uno zaino pieno di roba nei cespugli tra due massi.</text>
+	</string>
+	<string id="st_mil_rucksack_02_descr">
+		<text>Ho visto un tizio lanciare il suo zaino sotto un rimorchio appena prima di un'emissione. Devo andare a controllare.</text>
+	</string>
+	<string id="st_mil_trees_01_0001">
+		<text>Tronco sotto dei massi</text>
+	</string>
+	<string id="st_mil_trees_01_0001_descr">
+		<text>Accanto a dei massi c'и un tronco che nasconde la mia roba, lontano da occhi indiscreti.</text>
+	</string>
+	<string id="st_mil_trees_log_01">
+		<text>Tronco spezzato</text>
+	</string>
+	<string id="st_mil_trees_log_01_0000">
+		<text>Nascondiglio nella slitta del contadino</text>
+	</string>
+	<string id="st_mil_trees_log_01_0000_descr">
+		<text>Nascondiglio nel grande tronco vicino alla slitta del contadino.</text>
+	</string>
+	<string id="st_mil_trees_log_01_0001">
+		<text>Tronco sotto dei massi</text>
+	</string>
+	<string id="st_mil_trees_log_01_0001_descr">
+		<text>Accanto a dei massi c'и un tronco che nasconde la mia roba, lontano da occhi indiscreti.</text>
+	</string>
+	<string id="st_mil_trees_log_01_descr">
+		<text>Ho nascosto la mia roba in un tronco sotto un pino, accanto alla torre caduta.</text>
+	</string>
+	<string id="st_mil_trees_stump_01">
+		<text>Ceppo dietro delle lastre di cemento</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0000">
+		<text>Ceppo vicino alla recinzione</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0000_descr">
+		<text>Vityok ha detto di aver lasciato la mia parte di bottino nella cavitа di un ceppo, tra la recinzione della base militare e la piccola palude.</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0001">
+		<text>Ceppo vicino alla recinzione</text>
+	</string>
+	<string id="st_mil_trees_stump_01_0001_descr">
+		<text>Vityok ha detto di aver lasciato la mia parte di bottino nella cavitа di un ceppo, tra la recinzione della base militare e la piccola palude.</text>
+	</string>
+	<string id="st_mil_trees_stump_01_descr">
+		<text>Un ceppo tra due massi, dietro un mucchio di lastre di cemento.</text>
+	</string>
+	<string id="st_red_box_01_0000">
+		<text>Cassa blu</text>
+	</string>
+	<string id="st_red_box_01_0000_descr">
+		<text>Il mio bottino и in una cassa blu al secondo piano dell'edificio, vicino al montacarichi.</text>
+	</string>
+	<string id="st_red_pipe_02">
+		<text>Tubo in un carrello</text>
+	</string>
+	<string id="st_red_pipe_02_descr">
+		<text>Ho messo la mia roba dentro un tubo, che ho poi gettato in un carrello arrugginito alla vecchia cava.</text>
+	</string>
+	<string id="st_red_rucksack_01">
+		<text>Zaino nero</text>
+	</string>
+	<string id="st_red_rucksack_01_1_0000">
+		<text>Zaino sul ramo di un albero</text>
+	</string>
+	<string id="st_red_rucksack_01_1_0000_descr">
+		<text>Mi sono arrampicato su un albero per nascondermi da un mostro. Non riuscivo a vederlo, ma lo sentivo eccome. Dopo aver lasciato lo zaino su un ramo, sono saltato giщ e sono corso via.</text>
+	</string>
+	<string id="st_red_rucksack_01_descr">
+		<text>Accidenti, ho perso il mio zaino nero mentre correvo nella foresta. So dove si trova, ma tornerт in quel posto maledetto solo quando lo raderanno al suolo col napalm.</text>
+	</string>
+	<string id="st_red_rucksack_01_on_tree">
+		<text>Albero vicino alla recinzione</text>
+	</string>
+	<string id="st_red_rucksack_01_on_tree_descr">
+		<text>Un dannato succhiasangue mi ha inseguito fino alla recinzione, costringendomi a salire su un albero. Se non avessi lasciato il mio zaino lassщ, non sarei mai riuscito a saltare fino alla recinzione.</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_2">
+		<text>Zaino in una caverna</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_2_descr">
+		<text>Una notte sono entrato in una caverna per dormire un po', ma mi sono svegliato con un succhiasangue che strattonava il mio zaino. Sono scappato via alla velocitа della luce, ma quel maledetto si и tenuto la mia roba.</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_3">
+		<text>Masso vicino al burrone</text>
+	</string>
+	<string id="st_red_rucksack_01_under_stone_3_descr">
+		<text>Alcuni cani mi hanno intrappolato vicino a un burrone, quindi ho lanciato il mio zaino tra i massi e ho cercato di fuggire via.</text>
+	</string>
+	<string id="st_red_rucksack_02">
+		<text>Zaino tra i cespugli</text>
+	</string>
+	<string id="st_red_rucksack_02_0000">
+		<text>Zaino nella foresta</text>
+	</string>
+	<string id="st_red_rucksack_02_0000_descr">
+		<text>Sembrava di essere in un film dell'orrore. Non so come ho fatto a sopravvivere... Ho perso il mio zaino, ma credo ci sia un solo posto in cui potrebbe essere caduto.</text>
+	</string>
+	<string id="st_red_rucksack_02_0001">
+		<text>Zaino sotto i massi</text>
+	</string>
+	<string id="st_red_rucksack_02_0001_descr">
+		<text>Lo zaino di Kolya era troppo pesante, quindi l'ho messo sotto alcuni massi all'uscita per il ponte di Limansk.</text>
+	</string>
+	<string id="st_red_rucksack_02_4">
+		<text>Bottino maledetto</text>
+	</string>
+	<string id="st_red_rucksack_02_4_descr">
+		<text>Quello zaino ne ha da raccontare! Tutti i suoi proprietari sono morti. Io l'ho lanciato via per non fare la stessa fine.</text>
+	</string>
+	<string id="st_red_rucksack_02_5">
+		<text>Luogo strano</text>
+	</string>
+	<string id="st_red_rucksack_02_5_descr">
+		<text>Mi ero appisolato vicino a un masso, appoggiandomi al mio zaino. Il mattino seguente mi sono ritrovato in un posto totalmente diverso. Ho cercato di trovare quel masso, ma qualcosa continuava a farmi girare in tondo.</text>
+	</string>
+	<string id="st_red_rucksack_02_6">
+		<text>Zaino sotto la frana</text>
+	</string>
+	<string id="st_red_rucksack_02_6_descr">
+		<text>Alcuni massi si sono staccati dal burrone, cadendo sopra di me all'uscita della Foresta rossa. Poi qualcosa di scuro и uscito da dietro i massi lanciandosi verso di me. Sono sopravvissuto per miracolo, ma ho dovuto abbandonare la mia roba.</text>
+	</string>
+	<string id="st_red_rucksack_02_descr">
+		<text>Non so come sia successo, ma ho perso il mio zaino mentre stavamo attraversando i cespugli.</text>
+	</string>
+	<string id="st_red_rucksack_02_in_stone">
+		<text>Zaino perduto</text>
+	</string>
+	<string id="st_red_rucksack_02_in_stone_descr">
+		<text>Quell'idiota di Abe ha perso il mio zaino da queste parti, tra le rocce, ma non ha il coraggio di andare a riprenderlo. Bell'amico, davvero!</text>
+	</string>
+	<string id="st_red_rucksack_02_in_tonnel">
+		<text>Nascondiglio in una galleria della miniera</text>
+	</string>
+	<string id="st_red_rucksack_02_in_tonnel_descr">
+		<text>Ho nascosto i miei manufatti in fondo a una galleria abbandonata della miniera.</text>
+	</string>
+	<string id="st_red_sekret_trees_stump_01_0000">
+		<text>Ceppo nella foresta</text>
+	</string>
+	<string id="st_red_sekret_trees_stump_01_0000_descr">
+		<text>Mi sono perso nella Foresta rossa e ho messo la mia roba nella cavitа di un ceppo qui vicino.</text>
+	</string>
+	<string id="st_red_trees_log_01">
+		<text>Oggetti dentro la cavitа di un albero</text>
+	</string>
+	<string id="st_red_trees_log_01_descr">
+		<text>Sulla strada per Limansk, io e Whip abbiamo nascosto la nostra roba nella cavitа di un albero caduto, vicino all'uscita della riserva.</text>
+	</string>
+	<string id="st_red_trees_stump_01">
+		<text>Ceppo pieno di buchi</text>
+	</string>
+	<string id="st_red_trees_stump_01_0000">
+		<text>Ceppo di fronte alla foresta</text>
+	</string>
+	<string id="st_red_trees_stump_01_0000_descr">
+		<text>Chissа cosa ci attende nella foresta... Abbiamo deciso di nascondere il nostro bottino in un ceppo marcio.</text>
+	</string>
+	<string id="st_red_trees_stump_01_2_0000">
+		<text>Ceppo vicino al burrone</text>
+	</string>
+	<string id="st_red_trees_stump_01_2_0000_descr">
+		<text>Abbiamo nascosto la nostra roba nei pressi di quell'anomalia pazzesca, che и anche il nostro obiettivo. И talmente straordinaria che deve contenere per forza qualche manufatto raro.</text>
+	</string>
+	<string id="st_red_trees_stump_01_3">
+		<text>Grosso ceppo</text>
+	</string>
+	<string id="st_red_trees_stump_01_3_descr">
+		<text>Seva mi ha parlato di un grosso ceppo nella Foresta rossa. Cercherт di trovarlo per scoprire cosa contiene.</text>
+	</string>
+	<string id="st_red_trees_stump_01_4">
+		<text>Nascondiglio in un ceppo</text>
+	</string>
+	<string id="st_red_trees_stump_01_4_descr">
+		<text>Io e Gene abbiamo nascosto un po' di roba in un ceppo nella Foresta rossa.</text>
+	</string>
+	<string id="st_red_trees_stump_01_7">
+		<text>Ceppo vicino al burrone</text>
+	</string>
+	<string id="st_red_trees_stump_01_7_descr">
+		<text>Ho urtato questo ceppo mentre stavo cadendo nel burrone e ho deciso di nasconderci dentro il mio bottino, per il momento.</text>
+	</string>
+	<string id="st_red_trees_stump_01_descr">
+		<text>Ho sentito delle strane urla, quindi ho messo la mia roba nel ceppo piщ vicino e sono scappato via.</text>
+	</string>
+	<string id="st_red_zaz968">
+		<text>Auto ZAZ al montacarichi</text>
+	</string>
+	<string id="st_red_zaz968_descr">
+		<text>Ho nascosto il mio bottino sotto il sedile di quell'automobile ZAZ vicino all'ingresso della miniera. Andrт a riprenderlo prima di andare da Sidorovich.</text>
+	</string>
+	<string id="st_val_seif_02">
+		<text>Cassaforte alla fattoria</text>
+	</string>
+	<string id="st_yan_trees_log_01_0001">
+		<text>Tronco dietro i garage</text>
+	</string>
+	<string id="st_yan_trees_log_01_0001_descr">
+		<text>Ho nascosto il mio modesto bottino in un tronco vicino ai garage, accanto alla fabbrica di Yantar. Non sono riuscito a trovare un posto migliore.</text>
+	</string>
+	<string id="val_equipment_rucksack_01_02">
+		<text>Nascondiglio sotto un giovane abete</text>
+	</string>
+	<string id="val_equipment_rucksack_01_02_descr">
+		<text>Non lontano dalla palude, ho nascosto il mio zaino in un tubo sotto un giovane abete.</text>
+	</string>
+	<string id="esc_treasure_weapon_prisoner_descr">
+		<text>Una piccola cassaforte и nascosta nel tubo di cemento. Contiene alcune cose che ho conservato per i giorni difficili.</text>
+	</string>
+	<string id="esc_treasure_weapon_prisoner_name">
+		<text>Nascondiglio del maggiore Khaletskiy</text>
+	</string>
+	<string id="gar_treasure_quest_digger_reward">
+		<text>Vecchio nascondiglio</text>
+	</string>
+	<string id="gar_treasure_quest_digger_reward_descr">
+		<text>Gli scavatori tenevano il loro bottino in questo nascondiglio.</text>
+	</string>
+	<string id="gar_treasure_quest_old_pda">
+		<text>Cassetta degli attrezzi</text>
+	</string>
+	<string id="gar_treasure_quest_old_pda_descr">
+		<text>Il vecchio PDA и nel doppio fondo della cassetta degli attrezzi.</text>
+	</string>
+	<string id="gar_treasure_quest_reward_in_anomaly">
+		<text>Nascondiglio nell'anomalia</text>
+	</string>
+	<string id="gar_treasure_quest_reward_in_anomaly_descr">
+		<text>Se Yoga non ha mentito, c'и un'arma speciale in un nascondiglio tra le anomalie.</text>
+	</string>
+	<string id="gar_treasure_quest_smuggler_weapons">
+		<text>Portabagagli</text>
+	</string>
+	<string id="gar_treasure_quest_smuggler_weapons_descr">
+		<text>Secondo Stringov, il portabagagli della vecchia automobile contiene alcuni articoli del contrabbandiere.</text>
+	</string>
+	<string id="st_esc_seif_03_0000_descr">
+		<text>Zil tiene la sua roba in una cassaforte, nella base neutrale del Cordon.</text>
+	</string>
+	<string id="st_mar_q_n_10">
+		<text>Nascondiglio nelle Paludi</text>
+	</string>
+	<string id="st_mar_q_n_10_descr">
+		<text>C'и un nascondiglio con roba molto preziosa alla stazione di riciclaggio delle Paludi. Qualunque sia il contenuto, ora и tutto tuo.</text>
+	</string>
+	<string id="st_mar_q_n_11">
+		<text>Cassaforte con ricompensa</text>
+	</string>
+	<string id="st_mar_q_n_11_descr">
+		<text>Queste chiavi aprono una cassaforte che contiene roba molto preziosa. Almeno cosм mi hanno detto...</text>
+	</string>
+	<string id="st_mar_q_n_12">
+		<text>Ricompensa</text>
+	</string>
+	<string id="st_mar_q_n_12_descr">
+		<text>I nostri nascondigli segreti per il tuo denaro. Li vendo esclusivamente a te.</text>
+	</string>
+	<string id="st_mar_q_n_13">
+		<text>Piccola valigetta</text>
+	</string>
+	<string id="st_mar_q_n_13_descr">
+		<text>In quella valigetta ci sono le coordinate di un bel bottino. Puoi trovarla dietro il cestino della spazzatura, accanto al muro.</text>
+	</string>
+	<string id="st_mar_q_n_14">
+		<text>Cassaforte sotto il ponte</text>
+	</string>
+	<string id="st_mar_q_n_14_descr">
+		<text>Non ti annoierт con le mie storie. Troverai il nascondiglio nella cassaforte sotto il ponte.</text>
+	</string>
+	<string id="st_mar_q_n_6">
+		<text>Zaino come pagamento</text>
+	</string>
+	<string id="st_mar_q_n_6_descr">
+		<text>Il contenuto di questo zaino vale molto piщ del denaro che mi stai dando. Sto inviando le coordinate al tuo PDA.</text>
+	</string>
+	<string id="st_mar_q_n_7">
+		<text>Cassaforte con codice di sicurezza</text>
+	</string>
+	<string id="st_mar_q_n_7_descr">
+		<text>Il tuo pagamento и sufficiente per il bottino nascosto in questa cassaforte, nelle Paludi.</text>
+	</string>
+	<string id="st_mar_q_n_8">
+		<text>Bottino come pagamento</text>
+	</string>
+	<string id="st_mar_q_n_8_descr">
+		<text>Il bottino che troverai nello zaino nero sotto i massi и tutto tuo. Ora considero chiusa questa transazione.</text>
+	</string>
+	<string id="st_mar_q_n_9">
+		<text>Piccola cassa vicino a una torre</text>
+	</string>
+	<string id="st_mar_q_n_9_descr">
+		<text>Una fonte affidabile mi ha parlato di un bottino in un nascondiglio sotto una torre. Non si sa a chi appartenga.</text>
+	</string>
+	<string id="st_mar_q_t_a_15">
+		<text>Zaino di un soldato morto</text>
+	</string>
+	<string id="st_mar_q_t_a_15_descr">
+		<text>Otterrai molto piщ di quello che hai pagato. La tua ricompensa и dentro uno zaino accanto al cadavere di un soldato.</text>
+	</string>
+	<string id="st_mar_q_t_a_3">
+		<text>Sforzo extra</text>
+	</string>
+	<string id="st_mar_q_t_a_3_descr">
+		<text>Fai un piccolo sforzo e trova lo zaino del soldato morto. Riavrai indietro il tuo investimento con gli interessi.</text>
+	</string>
+	<string id="st_mar_q_t_l_16">
+		<text>Ricompensa difficile</text>
+	</string>
+	<string id="st_mar_q_t_l_16_descr">
+		<text>Ti ricompenserт con delle informazioni su un bottino prezioso ma "difficile". Fai molta attenzione, perт. Il suo precedente proprietario non aveva seguito il mio consiglio...</text>
+	</string>
+	<string id="st_mar_q_t_l_1">
+		<text>Zaino su un cadavere</text>
+	</string>
+	<string id="st_mar_q_t_l_1_descr">
+		<text>Vuoi trovare un bel bottino? Guarda nello zaino sulla schiena di un cadavere.</text>
+	</string>
+	<string id="st_mar_q_t_l_2">
+		<text>Paracadutista</text>
+	</string>
+	<string id="st_mar_q_t_l_2_descr">
+		<text>Troverai il cadavere a queste coordinate. Il suo zaino contiene ciт che ti spetta.</text>
+	</string>
+	<string id="st_mar_q_t_l_4">
+		<text>Cadavere di un combattente</text>
+	</string>
+	<string id="st_mar_q_t_l_4_descr">
+		<text>Ecco le informazioni: un giovane combattente che "riposa" tra i cespugli aspetta che tu vada a prendere il suo zaino.</text>
+	</string>
+	<string id="st_mar_q_t_l_5">
+		<text>Zaino sotto il condotto</text>
+	</string>
+	<string id="st_mar_q_t_l_5_descr">
+		<text>Prendi queste coordinate. Ti porteranno a uno zaino accanto al cadavere di uno stalker, sotto il condotto.</text>
+	</string>
+	<string id="st_esc_q10_n">
+		<text>Ceppo vicino al filo spinato</text>
+	</string>
+	<string id="st_esc_q10_n_descr">
+		<text>OK, amico. Per avere la tua ricompensa dovrai cercare un ceppo non lontano dal filo spinato.</text>
+	</string>
+	<string id="st_esc_q1_n">
+		<text>Cassa verde</text>
+	</string>
+	<string id="st_esc_q1_n_descr">
+		<text>Ho conservato questo bottino solo per te. Si trova in una cassa dell'esercito al limite del Cordon. Ci tenevo molto!</text>
+	</string>
+	<string id="st_esc_q2_n">
+		<text>Piccolo zaino solitario</text>
+	</string>
+	<string id="st_esc_q2_n_descr">
+		<text>La tua disponibilitа sarа premiata con una grande generositа! Eh eh eh. Questo и un mio nascondiglio. Ora il suo contenuto и tutto tuo.</text>
+	</string>
+	<string id="st_esc_q3_t_l">
+		<text>Strada per le Paludi</text>
+	</string>
+	<string id="st_esc_q3_t_l_descr">
+		<text>I tuoi soldi in cambio del mio nascondiglio. Lo troverai lungo la strada per le Paludi, accanto a un cadavere.</text>
+	</string>
+	<string id="st_esc_q4_t_a">
+		<text>Ricompensa per un eroe</text>
+	</string>
+	<string id="st_esc_q4_t_a_descr">
+		<text>Il tuo acquisto ti attende dentro uno zaino accanto al cadavere di un povero stalker. Lo troverai vicino alla vecchia locomotiva elettrica.</text>
+	</string>
+	<string id="st_esc_q5_n">
+		<text>Compensazione</text>
+	</string>
+	<string id="st_esc_q5_n_descr">
+		<text>Troverai il nascondiglio a queste coordinate, dentro uno zaino sotto un albero.</text>
+	</string>
+	<string id="st_esc_q6_n">
+		<text>Accesso consentito</text>
+	</string>
+	<string id="st_esc_q6_n_descr">
+		<text>La mia parte dell'accordo и dentro il pannello elettrico dell'ascensore. Puoi raggiungerlo facilmente, visto che la corrente и staccata. Ma un'anomalia potrebbe essere in agguato...</text>
+	</string>
+	<string id="st_esc_q7_n">
+		<text>Valigetta sotto un vagone</text>
+	</string>
+	<string id="st_esc_q7_n_descr">
+		<text>La tua "preda" и il contenuto di una valigetta sotto un vagone.</text>
+	</string>
+	<string id="st_esc_q8_n">
+		<text>Tomba fasulla</text>
+	</string>
+	<string id="st_esc_q8_n_descr">
+		<text>Profanare i cimiteri и sbagliato, ma il mio bottino и nascosto in una tomba fasulla. Cosм non disturberai i defunti.</text>
+	</string>
+	<string id="st_esc_q9_t_a">
+		<text>Valigetta dietro il campo di rifiuti</text>
+	</string>
+	<string id="st_esc_q9_t_a_descr">
+		<text>Ti pagherт con il contenuto della valigetta che si trova accanto a un'anomalia, dietro il campo di rifiuti del Cordon. Un altro tizio voleva metterci le mani sopra, ma ormai non и piщ in attivitа, diciamo.</text>
+	</string>
+	<string id="st_gar_q10_n">
+		<text>Ceppo al limitare della Discarica</text>
+	</string>
+	<string id="st_gar_q10_n_descr">
+		<text>Voglio darti una dritta. La tua ricompensa ti aspetta dentro un ceppo al limitare della Discarica.</text>
+	</string>
+	<string id="st_gar_q1_n">
+		<text>Zaino nero in un rottame</text>
+	</string>
+	<string id="st_gar_q1_n_descr">
+		<text>Ciт che ti devo si trova all'interno di uno zaino nero, dentro il rottame di una gru.</text>
+	</string>
+	<string id="st_gar_q2_n">
+		<text>Tubo tagliato</text>
+	</string>
+	<string id="st_gar_q2_n_descr">
+		<text>Io ho avuto i miei soldi, ma per ottenere i tuoi dovrai trovare questo nascondiglio dentro un tubo tagliato.</text>
+	</string>
+	<string id="st_gar_q3_n">
+		<text>Pannello elettrico in un rottame</text>
+	</string>
+	<string id="st_gar_q3_n_descr">
+		<text>Ho creato questo nascondiglio tempo fa, ma ora и tutto tuo. Oh, pazienza.</text>
+	</string>
+	<string id="st_gar_q4_n">
+		<text>Piccolo contenitore tra rifiuti radioattivi</text>
+	</string>
+	<string id="st_gar_q4_n_descr">
+		<text>Ti darт le coordinate di un piccolo contenitore con un bottino dentro. Non fare salti di gioia, perт: laggiщ le radiazioni sono fuori parametro.</text>
+	</string>
+	<string id="st_gar_q5_n">
+		<text>Cassa vicino alla pala di un bulldozer</text>
+	</string>
+	<string id="st_gar_q5_n_descr">
+		<text>Troverai ciт che hai appena acquistato alla base della pala di un bulldozer.</text>
+	</string>
+	<string id="st_gar_q6_t_l">
+		<text>Zaino di un uomo morto</text>
+	</string>
+	<string id="st_gar_q6_t_l_descr">
+		<text>Non hai paura dei fantasmi, vero? Allora cerca un nascondiglio in uno zaino accanto a un cadavere.</text>
+	</string>
+	<string id="st_gar_q7_t_l">
+		<text>Cadavere vicino alla scavatrice</text>
+	</string>
+	<string id="st_gar_q7_t_l_descr">
+		<text>Il tizio vicino alla scavatrice capovolta и passato a miglior vita, quindi puoi frugare nel suo zaino.</text>
+	</string>
+	<string id="st_gar_q8_t_a">
+		<text>Cadavere alla Discarica</text>
+	</string>
+	<string id="st_gar_q8_t_a_descr">
+		<text>Temo che dovrai sudare un po' per avere ciт che ti spetta. Il bottino и nello zaino della vittima di un'anomalia.</text>
+	</string>
+	<string id="st_gar_q9_n">
+		<text>Verso l'Agroprom</text>
+	</string>
+	<string id="st_gar_q9_n_descr">
+		<text>Cerca un piccolo contenitore nel veicolo UAZ diretto all'Agroprom. Credo che apprezzerai il contenuto.</text>
+	</string>
+	<string id="st_val_q10_n">
+		<text>Cassaforte nell'hangar</text>
+	</string>
+	<string id="st_val_q10_n_descr">
+		<text>Io mantengo sempre la parola. Il bottino che ti ho promesso и in una cassaforte della vecchia fabbrica.</text>
+	</string>
+	<string id="st_val_q11_t_l">
+		<text>Cadavere vicino alle rocce</text>
+	</string>
+	<string id="st_val_q11_t_l_descr">
+		<text>Hai appena acquistato il contenuto di uno zaino che si trova su un cadavere accanto alle rocce.</text>
+	</string>
+	<string id="st_val_q1_n">
+		<text>Sotto la cisterna</text>
+	</string>
+	<string id="st_val_q1_n_descr">
+		<text>Il mio bottino, che ora и tutto tuo, и dentro uno zaino sotto la cisterna.</text>
+	</string>
+	<string id="st_val_q2_n">
+		<text>Arbusti sotto un abete</text>
+	</string>
+	<string id="st_val_q2_n_descr">
+		<text>Di ritorno da un viaggio fortunato, ho nascosto il mio bottino tra gli arbusti. Ora и tutto tuo.</text>
+	</string>
+	<string id="st_val_q3_t_a">
+		<text>Cadavere di un soldato</text>
+	</string>
+	<string id="st_val_q3_t_a_descr">
+		<text>Prendi nota: bel bottino - zaino - soldato sfortunato - accanto a un'anomalia.</text>
+	</string>
+	<string id="st_val_q4_n">
+		<text>Bottino tra i cespugli</text>
+	</string>
+	<string id="st_val_q4_n_descr">
+		<text>Io tengo fede alle mie promesse. Ecco perchй mi sento in dovere di confidarti le coordinate del mio bottino.</text>
+	</string>
+	<string id="st_val_q5_n">
+		<text>Cassaforte nella base della Freedom</text>
+	</string>
+	<string id="st_val_q5_n_descr">
+		<text>Nell'edificio a tre piani della base della Freedom c'и una cassaforte che contiene un bottino molto interessante.</text>
+	</string>
+	<string id="st_val_q6_n">
+		<text>Cassa in cima alla torre</text>
+	</string>
+	<string id="st_val_q6_n_descr">
+		<text>Apprezzo la tua sete di conoscenza, e la placherт con il contenuto di una cassa blu in cima alla torre, appena oltre la base della Freedom.</text>
+	</string>
+	<string id="st_val_q7_n">
+		<text>Tomba di uno stalker</text>
+	</string>
+	<string id="st_val_q7_n_descr">
+		<text>Hai appena comprato ciт che si trova sotto la croce della tomba di uno stalker, accanto a un vecchio albero.</text>
+	</string>
+	<string id="st_val_q8_n">
+		<text>Cassa sotto il sedile</text>
+	</string>
+	<string id="st_val_q8_n_descr">
+		<text>Sotto il sedile del guidatore di un veicolo LAZ rosso troverai una cassa. Aprila pure, se ti va.</text>
+	</string>
+	<string id="st_val_q9_n">
+		<text>Ceppo accanto a una recinzione</text>
+	</string>
+	<string id="st_val_q9_n_descr">
+		<text>In vista di situazioni come questa, ho messo al sicuro un po' di roba dentro il ceppo di un albero accanto a una recinzione.</text>
+	</string>
+	<string id="st_agr_q10_t_l">
+		<text>Beni confiscati vicino all'anomalia</text>
+	</string>
+	<string id="st_agr_q10_t_l_descr">
+		<text>Questo soldato и incappato in un'anomalia, e il suo zaino con il bottino che aveva sequestrato agli stalker и ancora lм accanto a lui. Con un po' di fortuna, potrа diventare tuo.</text>
+	</string>
+	<string id="st_agr_q1_n">
+		<text>Accanto alla recinzione, vicino al filo spinato</text>
+	</string>
+	<string id="st_agr_q1_n_descr">
+		<text>OK, ti pagherт con questo nascondiglio segreto. Trova lo zaino di uno stalker accanto a una recinzione. Usa il pilone dell'alta tensione come punto di riferimento.</text>
+	</string>
+	<string id="st_agr_q2_n">
+		<text>Sotto un albero sradicato</text>
+	</string>
+	<string id="st_agr_q2_n_descr">
+		<text>Spiacente, ma nella Zona non abbiamo magazzini! Sbrigati a trovare questo nascondiglio sotto un albero sradicato, prima che qualcuno ti preceda.</text>
+	</string>
+	<string id="st_agr_q3_t_a">
+		<text>Cadavere in un'area radioattiva</text>
+	</string>
+	<string id="st_agr_q3_t_a_descr">
+		<text>Vuoi un bel bottino? Posso accontentarti, se avrai il coraggio di entrare in un'area radioattiva. Il tuo premio и accanto a un cadavere.</text>
+	</string>
+	<string id="st_agr_q4_n">
+		<text>Cilindri su una tomba</text>
+	</string>
+	<string id="st_agr_q4_n_descr">
+		<text>L'onore vale piщ del denaro, quindi prendi pure il bottino nascosto dentro dei cilindri su una tomba senza nome.</text>
+	</string>
+	<string id="st_agr_q5_n">
+		<text>Angolo di una recinzione</text>
+	</string>
+	<string id="st_agr_q5_n_descr">
+		<text>Dopo l'ultima emissione Valka Squint, che riposi in pace, aveva nascosto qualcosa sotto un vecchio ceppo all'angolo di una recinzione.</text>
+	</string>
+	<string id="st_agr_q6_n">
+		<text>Sala di controllo</text>
+	</string>
+	<string id="st_agr_q6_n_descr">
+		<text>Il mio nascondiglio... anzi, il tuo nascondiglio... и nella sala di controllo della base della Duty.</text>
+	</string>
+	<string id="st_agr_q7_n">
+		<text>Tronco vicino a un albero</text>
+	</string>
+	<string id="st_agr_q7_n_descr">
+		<text>L'altro giorno dei tizi affidabili mi hanno parlato di un nascondiglio dei miei nemici. Vai pure a saccheggiarlo!</text>
+	</string>
+	<string id="st_agr_q8_t_a">
+		<text>Cadavere nel veicolo</text>
+	</string>
+	<string id="st_agr_q8_t_a_descr">
+		<text>Questi soldati andavano cosм di fretta che sono finiti dentro un'anomalia nei pressi di quest'area. Ormai sono all'altro mondo, quindi il loro bottino и tutto tuo.</text>
+	</string>
+	<string id="st_agr_q9_n">
+		<text>Cassaforte sotto una frana</text>
+	</string>
+	<string id="st_agr_q9_n_descr">
+		<text>Ho nascosto una cassaforte con il mio bottino in fondo a un burrone. Facciamo finta che fosse destinato a te fin dall'inizio.</text>
+	</string>
+	<string id="st_agru_q1_n">
+		<text>Traversa sotto le scale</text>
+	</string>
+	<string id="st_agru_q1_n_descr">
+		<text>Conosco un nascondiglio in questo luogo dimenticato, ma non posso assicurarti che non sia giа stato depredato. Cerca nel seminterrato, sotto le scale.</text>
+	</string>
+	<string id="st_agru_q2_n">
+		<text>Cassaforte nel sottosuolo</text>
+	</string>
+	<string id="st_agru_q2_n_descr">
+		<text>In fondo alle scale a chiocciola troverai una valigetta con un bottino. Ricorda solo di non disturbare i molti abitanti del sottosuolo.</text>
+	</string>
+	<string id="st_agru_q3_t_a">
+		<text>Sottosuolo</text>
+	</string>
+	<string id="st_agru_q3_t_a_descr">
+		<text>C'и un posto in cui puoi prendere lo zaino di un soldato. Sai, и finito in un'anomalia nel sottosuolo dell'Agroprom. Vedi di non fare la stessa fine!</text>
+	</string>
+	<string id="st_agru_q4_n">
+		<text>Tubo nel collettore</text>
+	</string>
+	<string id="st_agru_q4_n_descr">
+		<text>Secondo il PDA di uno stalker, il suo bottino и nascosto nel sottosuolo dell'Agroprom. Copia subito le coordinate.</text>
+	</string>
+	<string id="st_yan_q8_t_l">
+		<text>Cadavere nel lago</text>
+	</string>
+	<string id="st_yan_q8_t_l_descr">
+		<text>Cerca lo zaino di questo soldato che ha deciso di farsi una nuotata nel lago.</text>
+	</string>
+	<string id="st_yan_q1_n">
+		<text>Cassa sul tetto di un locale caldaie</text>
+	</string>
+	<string id="st_yan_q1_n_descr">
+		<text>C'и un piccolo nascondiglio dentro una cassa blu sul tetto di un locale caldaie. L'area brulica di zombi, quindi fai attenzione.</text>
+	</string>
+	<string id="st_yan_q2_n">
+		<text>Cassa nel vagone</text>
+	</string>
+	<string id="st_yan_q2_n_descr">
+		<text>Grandioso. Ora prendi queste coordinate di una cassa dentro il vagone alla fabbrica. Sai cosa fare, una volta arrivato laggiщ.</text>
+	</string>
+	<string id="st_yan_q3_t_l">
+		<text>Zaino nel tubo di drenaggio</text>
+	</string>
+	<string id="st_yan_q3_t_l_descr">
+		<text>Trova questo zaino nel tubo di drenaggio e siamo pari. Puoi usare come punto di riferimento il cadavere di un neutrale lм vicino.</text>
+	</string>
+	<string id="st_yan_q4_n">
+		<text>Valigetta alla base degli scienziati</text>
+	</string>
+	<string id="st_yan_q4_n_descr">
+		<text>Eccellente! Prendi tutto quello che trovi nella cassa dentro il portabagagli di un UAZ, alla base degli scienziati.</text>
+	</string>
+	<string id="st_yan_q5_n">
+		<text>Cabina con controlli</text>
+	</string>
+	<string id="st_yan_q5_n_descr">
+		<text>Ti rimborserт con le coordinate di un nascondiglio nella cabina nei pressi della fabbrica.</text>
+	</string>
+	<string id="st_yan_q6_n">
+		<text>Bocca della cisterna</text>
+	</string>
+	<string id="st_yan_q6_n_descr">
+		<text>Nella bocca della cisterna, alla fabbrica, и nascosto qualcosa. Non ho mai controllato personalmente.</text>
+	</string>
+	<string id="st_yan_q7_n">
+		<text>Abitacolo camion MAZ</text>
+	</string>
+	<string id="st_yan_q7_n_descr">
+		<text>Troverai la roba nell'abitacolo di questo camion MAZ, all'interno di una valigetta.</text>
+	</string>
+	<string id="st_yan_q9_n">
+		<text>Ceppo di fronte al campo degli scienziati</text>
+	</string>
+	<string id="st_yan_q9_n_descr">
+		<text>Cerca il nascondiglio sotto il ceppo di fronte al campo degli scienziati.</text>
+	</string>
+	<string id="st_red_q10_n">
+		<text>Tubo in miniera</text>
+	</string>
+	<string id="st_red_q10_n_descr">
+		<text>Ti assicuro che c'и qualcosa di valore in questo nascondiglio nella Foresta rossa.</text>
+	</string>
+	<string id="st_red_q1_t_l">
+		<text>Stalker morto</text>
+	</string>
+	<string id="st_red_q1_t_l_descr">
+		<text>Ho letto nel PDA di uno stalker morto che il suo zaino conteneva qualcosa di interessante. Eccoti le coordinate.</text>
+	</string>
+	<string id="st_red_q2_t_a">
+		<text>Nascondiglio pericoloso</text>
+	</string>
+	<string id="st_red_q2_t_a_descr">
+		<text>Questo nascondiglio l'avevo giа indicato a un idiota, ma so che non l'ha mai raggiunto. И morto in un'anomalia nelle vicinanze.</text>
+	</string>
+	<string id="st_red_q3_n">
+		<text>Valvola rossa</text>
+	</string>
+	<string id="st_red_q3_n_descr">
+		<text>Il nascondiglio и dietro la valvola rossa del sistema di tubature della miniera. Il suo contenuto non mi interessa minimamente.</text>
+	</string>
+	<string id="st_red_q4_n">
+		<text>Autobus</text>
+	</string>
+	<string id="st_red_q4_n_descr">
+		<text>Un mio amico ha ricavato questo nascondiglio nel sedile posteriore di un autobus. Ormai non и piщ tra noi, quindi puoi saccheggiare liberamente i suoi averi.</text>
+	</string>
+	<string id="st_red_q5_n">
+		<text>Tubo in rovina</text>
+	</string>
+	<string id="st_red_q5_n_descr">
+		<text>И stato un prigioniero a parlarmi di questo nascondiglio. Si trova in un tubo in rovina dietro il mezzo corazzato.</text>
+	</string>
+	<string id="st_red_q6_n">
+		<text>Cassa con zaino</text>
+	</string>
+	<string id="st_red_q6_n_descr">
+		<text>Il tuo tesoro и semplicemente favoloso! OK, prendi nota: la ricompensa и nello zaino, lo zaino и nella cassa, la cassa и al ponte, il ponte и dalla parte opposta della Foresta rossa.</text>
+	</string>
+	<string id="st_red_q7_t_a">
+		<text>Zaino di uno sventurato</text>
+	</string>
+	<string id="st_red_q7_t_a_descr">
+		<text>Questo poveretto stava attraversando la Foresta rossa per portarmi uno zaino, ma non и mai arrivato. Se lo trovi, и tutto tuo.</text>
+	</string>
+	<string id="st_red_q8_n">
+		<text>Cassaforte vicino al tram</text>
+	</string>
+	<string id="st_red_q8_n_descr">
+		<text>Le mie informazioni sono del tutto affidabili. Qualcuno ha nascosto un bottino in una cassaforte vicino al tram rovesciato.</text>
+	</string>
+	<string id="st_red_q9_n">
+		<text>Vecchio ceppo</text>
+	</string>
+	<string id="st_red_q9_n_descr">
+		<text>C'и un nascondiglio nel ceppo pieno di buchi. Niente di speciale, и solo un posto poco appariscente che non troveresti mai senza le mie coordinate. Ecco perchй voglio dartele.</text>
+	</string>
+	<string id="st_mil_q10_n">
+		<text>Nascondiglio nel bosco</text>
+	</string>
+	<string id="st_mil_q10_n_descr">
+		<text>C'и uno zaino nascosto sotto le rocce in mezzo al bosco, e sono contento di darti le coordinate.</text>
+	</string>
+	<string id="st_mil_q1_t_l">
+		<text>Zaino sotto un cadavere</text>
+	</string>
+	<string id="st_mil_q1_t_l_descr">
+		<text>Non и un nascondiglio vero e proprio, ma in quello zaino alla cisterna potrebbe esserci un bottino di valore.</text>
+	</string>
+	<string id="st_mil_q2_n">
+		<text>Nascondiglio sotto l'albero sradicato</text>
+	</string>
+	<string id="st_mil_q2_n_descr">
+		<text>C'и un nascondiglio sotto l'albero sradicato. Vai pure a saccheggiarlo.</text>
+	</string>
+	<string id="st_mil_q3_n">
+		<text>Cassaforte della nonna</text>
+	</string>
+	<string id="st_mil_q3_n_descr">
+		<text>Non so cosa ci faccia una cassaforte in una stufa, ma le mie fonti dicono che non и vuota.</text>
+	</string>
+	<string id="st_mil_q4_n">
+		<text>Nascondiglio in una tomba</text>
+	</string>
+	<string id="st_mil_q4_n_descr">
+		<text>Dicono che guardando sotto la croce a queste coordinate c'и una buona probabilitа di diventare ricchi.</text>
+	</string>
+	<string id="st_mil_q5_n">
+		<text>Cassa nella base militare</text>
+	</string>
+	<string id="st_mil_q5_n_descr">
+		<text>Se riuscirai a intrufolarti nella base militare, troverai la tua ricompensa nella cassa di un attico.</text>
+	</string>
+	<string id="st_mil_q6_n_a">
+		<text>Cassaforte nell'armadio</text>
+	</string>
+	<string id="st_mil_q6_n_a_descr">
+		<text>Secondo le mie fonti, la cassaforte nelle caserme militari contiene qualcosa.</text>
+	</string>
+	<string id="st_mil_q7_n_a">
+		<text>Piccola cassaforte</text>
+	</string>
+	<string id="st_mil_q7_n_a_descr">
+		<text>Il capitano Yeltyshev portava questa cassaforte sempre con sй, prima di essere trasferito altrove. Perchй non vai a vedere cosa contiene?</text>
+	</string>
+	<string id="st_mil_q8_n_a">
+		<text>Mucchio di rifiuti</text>
+	</string>
+	<string id="st_mil_q8_n_a_descr">
+		<text>Java ha nascosto la sua roba in un mucchio di rifiuti, ma poi se n'и dimenticato... a differenza di me. Ora и tutta tua.</text>
+	</string>
+	<string id="st_mil_q9_n_a">
+		<text>Contenitore con segreto</text>
+	</string>
+	<string id="st_mil_q9_n_a_descr">
+		<text>Dietro l'abitacolo del MAZ militare c'и un piccolo contenitore con un segreto. Prorio questo и il segreto che ti sto vendendo.</text>
+	</string>
+</string_table>

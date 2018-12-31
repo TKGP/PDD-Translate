@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_duty_bar_secret_1_descr">
+		<text>Beschreibung Geheimnis 1</text>
+	</string>
+	<string id="agr_duty_bar_secret_1_name">
+		<text>Geheimnis 1</text>
+	</string>
+	<string id="agr_duty_bar_secret_2_descr">
+		<text>Beschreibung Geheimnis 2</text>
+	</string>
+	<string id="agr_duty_bar_secret_2_name">
+		<text>Geheimnis 2</text>
+	</string>
+	<string id="agr_duty_bar_secret_3_descr">
+		<text>Beschreibung Geheimnis 3</text>
+	</string>
+	<string id="agr_duty_bar_secret_3_name">
+		<text>Geheimnis 3</text>
+	</string>
+	<string id="agr_duty_bar_secret_4_descr">
+		<text>Beschreibung Geheimnis 4</text>
+	</string>
+	<string id="agr_duty_bar_secret_4_name">
+		<text>Geheimnis 4</text>
+	</string>
+	<string id="agr_duty_bar_secret_5_descr">
+		<text>Beschreibung Geheimnis 4</text>
+	</string>
+	<string id="agr_duty_bar_secret_5_name">
+		<text>Geheimnis 5</text>
+	</string>
+	<string id="agr_duty_trader_secret_1_descr">
+		<text>Beschreibung Geheimnis 6</text>
+	</string>
+	<string id="agr_duty_trader_secret_1_name">
+		<text>Geheimnis 6</text>
+	</string>
+	<string id="device_pda_old">
+		<text>Freshys alter PDA</text>
+	</string>
+	<string id="esc_treasure_novice_stalker_descr">
+		<text>Das habe ich fьr schlechte Zeiten zurьckgelegt. Sollte es jemals nцtig sein, weiЯ ich, wo ich meine Vorrдte versteckt habe.</text>
+	</string>
+	<string id="esc_treasure_novice_stalker_name">
+		<text>Anfдngerversteck</text>
+	</string>
+	<string id="esc_treasure_weapon_box_descr">
+		<text>Waffen und Munition sind nьtzlich im Kampf gegen Militдr und Banditen.</text>
+	</string>
+	<string id="esc_treasure_weapon_box_name">
+		<text>Tresor mit Waffen und Munition</text>
+	</string>
+	<string id="st_agr_map_animals">
+		<text>PDA mit Zugkarte</text>
+	</string>
+	<string id="st_agr_map_animals_descr">
+		<text>Mithilfe der Zugkarte lassen sich seltene Monsterspezies aufspьren, die fьr wissenschaftliche Untersuchungen von Nutzen sind.</text>
+	</string>
+	<string id="st_agr_mechanic_pda">
+		<text>PDA mit Daten ьber Waffenverbesserungen</text>
+	</string>
+	<string id="st_agr_mechanic_pda_descr">
+		<text>Elektronische Diagramme sind hilfreich fьr Waffenverbesserungen</text>
+	</string>
+	<string id="st_agr_pda_for_secret_trader">
+		<text>PDA mit wertvollen Informationen</text>
+	</string>
+	<string id="st_agr_pda_for_secret_trader_descr">
+		<text>Keine Daten.</text>
+	</string>
+	<string id="st_device_pda_fang">
+		<text>Fangs PDA</text>
+	</string>
+	<string id="st_device_pda_fang_descr">
+		<text>Fangs PDA</text>
+	</string>
+	<string id="st_device_pda_lost_squard_descr">
+		<text>Geheime Informationen ьber Militдraktivitдten in den Lagerhдusern</text>
+	</string>
+	<string id="st_device_pda_lost_squard_fang">
+		<text>PDA des Kommandanten der Stalkergruppe</text>
+	</string>
+	<string id="st_device_pda_military">
+		<text>PDA des Generals</text>
+	</string>
+	<string id="st_device_pda_military_descr">
+		<text>Der PDA enthдlt geheime Informationen ьber die Plдne des Militдrs beim Kordon.</text>
+	</string>
+	<string id="st_esc_device_pda_driver">
+		<text>PDA des Freundes des Fahrers</text>
+	</string>
+	<string id="st_esc_device_pda_driver_descr">
+		<text>PDA des Freundes des Fahrers.</text>
+	</string>
+	<string id="st_esc_mechanic_flash_card">
+		<text>Informationen ьber Waffenverbesserungen</text>
+	</string>
+	<string id="st_esc_mechanic_flash_card_descr">
+		<text>Informationen ьber Waffenverbesserungen.</text>
+	</string>
+	<string id="st_esc_military_documentation">
+		<text>Geheime Militдrdaten</text>
+	</string>
+	<string id="st_esc_military_documentation_descr">
+		<text>Geheime Daten.</text>
+	</string>
+	<string id="st_mil_device_pda_lost_squard">
+		<text>PDA des Kommandanten</text>
+	</string>
+	<string id="st_mil_device_pda_lost_squard_descr">
+		<text>PDA des Kommandanten der Stalkergruppe. Enthдlt wertvolle Informationen ьber die Plдne der Banditen, die Armeelagerhдuser zu besetzen.</text>
+	</string>
+	<string id="st_red_forest_pda_map">
+		<text>PDA mit Karte des Roten Waldes</text>
+	</string>
+	<string id="st_red_forest_pda_map_descr">
+		<text>Dieser PDA enthдlt eine Karte des Roten Waldes, auf der sowohl die anormale Zone als auch die Raumanomalie eingezeichnet sind. Es scheint, dass einen die Anomalie irgendwie dorthin bringt, wo der Fцrster lebt.</text>
+	</string>
+	<string id="device_pda_digger_descr">
+		<text>Dieser PDA enthдlt technische Informationen, die den Wissenschaftlern dabei helfen kцnnen, die Ursache fьr das starke Psi-Feld bei Jantar herauszufinden.</text>
+	</string>
+	<string id="device_pda_digger_name">
+		<text>PDA der verlorenen Gruppe</text>
+	</string>
+	<string id="device_pda_garbage_traitor">
+		<text>PDA des Schmugglers</text>
+	</string>
+	<string id="device_pda_garbage_traitor_descr">
+		<text>Der PDA des Schmugglers befand sich bei Stringows Sachen.</text>
+	</string>
+	<string id="device_pda_old_descr">
+		<text>Alter PDA, der unter dem doppelten Boden des Werkzeugkastens in Freshys Lager gefunden wurde.</text>
+	</string>
+	<string id="flesh_up_a_novice_outfit_name">
+		<text>Speicherstick mit Daten ьber superleichten Kevlar-Kцrperschutz</text>
+	</string>
+	<string id="flesh_up_ab_pkm_name">
+		<text>Speicherstick mit Daten ьber das Ausbalancieren der Automatik eines Maschinengewehrs</text>
+	</string>
+	<string id="flesh_up_ab_svu_name">
+		<text>Speicherstick mit Daten ьber Lдufe von Scharfschьtzengewehren</text>
+	</string>
+	<string id="flesh_up_abcd_pkm_name">
+		<text>Speicherstick mit Daten ьber die Modifikation des Gasventils eines Maschinengewehrs</text>
+	</string>
+	<string id="flesh_up_abcd_svu_name">
+		<text>Speicherstick mit Daten ьber einen elektronischen Stabilisator fьr Scharfschьtzengewehre</text>
+	</string>
+	<string id="flesh_up_ac_ak74u_name">
+		<text>Speicherstick mit Daten ьber das Ausbalancieren der Automatik</text>
+	</string>
+	<string id="flesh_up_ac_desert_eagle_name">
+		<text>Speicherstick mit Daten ьber eine Mьndungsbremse fьr Pistolen</text>
+	</string>
+	<string id="flesh_up_ac_mp5_name">
+		<text>Speicherstick mit Daten ьber eine Mьndungsbremse fьr Maschinenpistolen</text>
+	</string>
+	<string id="flesh_up_ac_spas12_name">
+		<text>Speicherstick mit Daten ьber Repetiermechanismen fьr Gefechtsschrotflinten</text>
+	</string>
+	<string id="flesh_up_ac_wincheaster1300_name">
+		<text>Speicherstick mit Daten ьber Repetiermechanismen fьr Schrotflinten</text>
+	</string>
+	<string id="flesh_up_aceg_scientific_outfit_name">
+		<text>Speicherstick mit Daten ьber verstдrkten Kцrperschutz</text>
+	</string>
+	<string id="flesh_up_bd_desert_eagle_name">
+		<text>Speicherstick mit Daten ьber die Modifikation von Pistolenlдufen</text>
+	</string>
+	<string id="flesh_up_bd_mp5_name">
+		<text>Speicherstick mit Daten ьber die Modifikation von Maschinenpistolenlдufen</text>
+	</string>
+	<string id="flesh_up_bd_wincheaster1300_name">
+		<text>Speicherstick mit Daten ьber ein elektronisches Stabilisationssystem fьr Schrotflinten</text>
+	</string>
+	<string id="flesh_up_bdfh_scientific_outfit_name">
+		<text>Speicherstick mit Daten ьber ein Psi-Schutz-System</text>
+	</string>
+	<string id="flesh_up_cd_pkm_name">
+		<text>Speicherstick mit Daten ьber eine Mьndungsbremse fьr Maschinengewehre</text>
+	</string>
+	<string id="flesh_up_cd_svu_name">
+		<text>Speicherstick mit Daten ьber eine Mьndungsbremse fьr Scharfschьtzengewehre</text>
+	</string>
+	<string id="flesh_up_fh_scientific_outfit_name">
+		<text>Speicherstick mit Daten ьber ein geschlossenes Atemmodul</text>
+	</string>
+	<string id="st_device_pda_bloodsucker_desc">
+		<text>PDA mit Zeichnungen, die nur ein Genie verstehen kann.</text>
+	</string>
+	<string id="st_device_pda_bloodsucker_name">
+		<text>Der PDA von Onkel Jars Kumpel.</text>
+	</string>
+	<string id="st_device_pda_comendant_desc">
+		<text>Kommandant Lingows persцnlicher PDA. Enthдlt unter anderem Informationen ьber die Zusammenarbeit mit Sцldnern.</text>
+	</string>
+	<string id="st_device_pda_comendant_name">
+		<text>Lingows PDA</text>
+	</string>
+	<string id="st_device_pda_freedom">
+		<text>PDA eines Freiheit-Stalkers</text>
+	</string>
+	<string id="st_device_pda_freedom_desc">
+		<text>Der PDA eines Freiheitlers mit der Aufnahme eines Gesprдchs zwischen den Angreifern.</text>
+	</string>
+	<string id="st_esc_trader_habar_desc">
+		<text>Koffer mit Zahlenschloss. Hцchst wertvoll fьr Sidorowitsch.</text>
+	</string>
+	<string id="st_esc_trader_habar_name">
+		<text>Beute</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>Keine Daten.</text>
+	</string>
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+</string_table>

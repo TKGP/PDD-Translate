@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="team_1_desc">
+		<text>Les anarchistes de la Zone. Ils considиrent que la Zone est un sanctuaire de libertй et que les lois, conventions et rиgles du monde extйrieur ne s'appliquent pas ici. Leur devise : "Fais ce que tu veux et occupe-toi de tes oignons". La Libertй essaie d'empкcher le gouvernement de prendre le contrфle de la Zone et est en guerre contre les Mercenaires. Ses membres sont principalement йquipйs d'armes russes ou soviйtiques.</text>
+	</string>
+	<string id="team_1_name">
+		<text>Faction de la libertй (les Stalkers libres)</text>
+	</string>
+	<string id="team_2_desc">
+		<text>Ces aventuriers sans scrupules viennent du monde entier et acceptent tous les contrats, mкme les plus douteux. Leur devise est "l'argent n'a pas d'odeur", mкme si les artefacts ont une odeur d'argent... Les Mercenaires sont principalement йquipйs d'armes occidentales.</text>
+	</string>
+	<string id="team_2_name">
+		<text>Faction des Mercenaires (les Coupeurs de gorges)</text>
+	</string>
+</string_table>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mil_actor_attack_house">
+		<text>Elimina i militari nel quartier generale</text>
+	</string>
+	<string id="mil_actor_attack_house_text">
+		<text>Una squadra di militari si и trincerata nel quartier generale. Elimina i militari nell'edificio.</text>
+	</string>
+	<string id="mil_additional_quest_1_name">
+		<text>Prendi il carico militare dall'elicottero</text>
+	</string>
+	<string id="mil_additional_quest_1_text">
+		<text>Un elicottero militare di pattuglia che trasportava armi e munizioni и precipitato nelle vicinanze. Ogni singolo proiettile o arma da fuoco puт fare la differenza per difendere la barriera, quindi ci serve quel carico. Purtroppo i nostri non possono accedere a quell'area. I Monolitiani che la presidiano hanno tute antiradiazioni, a differenza di noi, e sono molto aggressivi.</text>
+	</string>
+	<string id="mil_additional_quest_2_name">
+		<text>Trova il PDA</text>
+	</string>
+	<string id="mil_additional_quest_2_text">
+		<text>Qualche giorno fa, una squadra di stalker и stata attaccata di notte da un branco di cani inferociti. Non ci sono stati superstiti. Il comandante della squadra и morto con i suoi uomini, ma ci stava portando delle informazioni preziose. Trova il corpo del comandante e prendi il PDA con le informazioni.</text>
+	</string>
+	<string id="mil_additional_quest_3_name">
+		<text>Trova il bottino dello stalker disperso</text>
+	</string>
+	<string id="mil_additional_quest_3_text">
+		<text>Uno dei nostri cecchini, equipaggiato con munizioni preziosissime, и morto durante un'anomalia. Riportaci quelle munizioni e sarai ricompensato profumatamente.</text>
+	</string>
+	<string id="mil_additional_quest_4_name">
+		<text>Prendi il manufatto dallo stalker deceduto</text>
+	</string>
+	<string id="mil_additional_quest_4_text">
+		<text>Uno dei nostri stalker ha attraversato una palude anomala, ma non и riuscito a riportare indietro un manufatto raro. Portaci questo manufatto e verrai ricompensato.</text>
+	</string>
+	<string id="mil_additional_quest_5_name">
+		<text>Ottieni il manufatto dal villaggio</text>
+	</string>
+	<string id="mil_additional_quest_5_text">
+		<text>Quel villaggio и maledetto, stalker. I succhiasangue sbucano dal nulla, e nessuno ha il coraggio di andarci. Solo alcuni avventurieri fuori di testa sono attirati da quel luogo, anche se и infestato dai succhiasangue piщ spietati e pericolosi della Zona. Se riuscirai a ucciderli, nella casa abbandonata troverai il manufatto piщ incredibile che tu abbia mai visto.</text>
+	</string>
+	<string id="mil_contact_with_clear_sky_commander_descr">
+		<text>Vai da Lebedev</text>
+	</string>
+	<string id="mil_contact_with_clear_sky_commander_name">
+		<text>Una squadra di mercenari и uscita dalla bolla di spazio e ora si dirige verso il ponte vicino a Limansk. La squadra avanzata della Clear Sky и giа al ponte. Dirigiti verso la Foresta rossa e incontra Lebedev.</text>
+	</string>
+	<string id="mil_defend_barrier_name">
+		<text>Difendi la barriera</text>
+	</string>
+	<string id="mil_defend_barrier_text">
+		<text>La barriera ha subito un altro attacco. Aiuta gli stalker a difenderla.</text>
+	</string>
+	<string id="mil_elim_military">
+		<text>Elimina i militari</text>
+	</string>
+	<string id="mil_elim_military_text">
+		<text>Elimina i militari alla base.</text>
+	</string>
+	<string id="mil_hires">
+		<text>Incontra i mercenari al villaggio</text>
+	</string>
+	<string id="mil_hires_text">
+		<text>Nel villaggio abbandonato c'и un gruppo di mercenari che cercano la squadra rimasta intrappolata nell'anomalia vicino a Limansk. Loro sapranno dirti da che punto si ricevono meglio i segnali radio. Incontra i mercenari al villaggio.</text>
+	</string>
+	<string id="mil_hog_about_signal_1">
+		<text>Accidenti! Scusa, fratello, ma questa non и la mia specialitа. Forester saprа aiutarti. Dicono che sappia tutto quello che c'и da sapere sulla Zona.</text>
+	</string>
+	<string id="mil_hog_hello_dialog_11">
+		<text>Salve, mercenario!</text>
+	</string>
+	<string id="mil_hog_hello_dialog_12">
+		<text>Sono contento di vederti. Hai trovato un modo per salvare i nostri?</text>
+	</string>
+	<string id="mil_hog_hello_dialog_1221">
+		<text>Giа, la base dei banditi alla Discarica и un bel problema. Non ce la farai mai da solo.</text>
+	</string>
+	<string id="mil_hog_hello_dialog_1231">
+		<text>Mmm... ti servirа una buona trasmittente. I militari ne avevano una... Aspetta, ci inventeremo qualcosa...</text>
+	</string>
+	<string id="mil_hog_hello_dialog_13">
+		<text>Vai da Kostyan, mercenario!</text>
+	</string>
+	<string id="mil_hog_talk_about_1">
+		<text>Qualche settimana fa abbiamo ricevuto un ordine importante per un manufatto unico. L'ordine veniva dall'alto. Il cliente и un vero pezzo grosso. Comunque stava andando tutto bene: la nostra squadra aveva trovato il manufatto vicino alla barriera e stava giа tornando indietro, quando и stata investita dalla grande emissione. Pensavamo che fossero spacciati, ma invece sono sopravvissuti. Il problema и che sono spariti qui nelle vicinanze. Abbiamo l'ordine di trovarli, visto che dobbiamo mantenere il nostro impegno. Se falliamo, nessun cliente si fiderа piщ dei mercenari.</text>
+	</string>
+	<string id="mil_hog_talk_about_111">
+		<text>Riceviamo frammenti di comunicazioni della nostra squadra, ma non riusciamo a decifrarle. Di sicuro si sono persi e sono caduti in una specie di trappola. Potrebbe essere un'anomalia o una nuova minaccia comparsa nella Zona. Non sappiamo cosa fare. C'и una vecchia cisterna vicino alla fattoria. Forse da lм riusciremmo a ricevere meglio le loro trasmissioni. Abbiamo giа cercato di salire lassщ, ma alcuni mostri davvero forti sono sbucati dal nulla portandosi via uno dei nostri. И un miracolo che gli altri siano sopravvissuti a quell'attacco!</text>
+	</string>
+	<string id="mil_hog_talk_about_11111">
+		<text>Sei fuori? Me la sto ancora facendo sotto dall'altra volta, e i ragazzi non vorranno piщ avvicinarsi alla torre. Tu, invece, sembri saperla lunga sulla Zona. Non potresti uccidere quella bestia e ricevere il messaggio dei nostri?</text>
+	</string>
+	<string id="mil_kill_bs">
+		<text>Uccidi il succhiasangue</text>
+	</string>
+	<string id="mil_kill_bs_text">
+		<text>Un succhiasangue и stato avvistato nei pressi della cisterna, che garantisce la migliore ricezione dei segnali radio. Uccidi il succhiasangue.</text>
+	</string>
+	<string id="mil_reach_battle">
+		<text>Vai dalla squadra della Freedom</text>
+	</string>
+	<string id="mil_reach_battle_text">
+		<text>Vai dalla squadra della Freedom.</text>
+	</string>
+	<string id="mil_reach_tower_task">
+		<text>Ricevi la trasmissione</text>
+	</string>
+	<string id="mil_reach_tower_task_text">
+		<text>La cisterna и il punto piщ alto dei depositi militari, quindi garantisce la migliore ricezione dei segnali radio. Sali in cima alla torre e ricevi il segnale del gruppo di mercenari disperso.</text>
+	</string>
+	<string id="mil_talk_2_forester2">
+		<text>Parla con Forester</text>
+	</string>
+	<string id="mil_talk_2_forester2_text">
+		<text>Un messaggio del gruppo di mercenari disperso и stato ricevuto da Forester tramite il canale radio del suo PDA. Torna da Forester per ricevere ulteriori istruzioni.</text>
+	</string>
+	<string id="mil_talk_2_fr_com">
+		<text>Vai dalla squadra della Freedom</text>
+	</string>
+	<string id="mil_talk_2_fr_com_text">
+		<text>La Freedom si sta preparando ad attaccare la base militare per cacciare l'esercito e creare una base nei depositi militari. Aiuta la Freedom ad attaccare la base militare.</text>
+	</string>
+	<string id="mil_talk_2_merc_2_task">
+		<text>Parla con i mercenari</text>
+	</string>
+	<string id="mil_talk_2_merc_2_task_text">
+		<text>La base и piena di soldati che sorvegliano la trasmittente. Senza un aiuto esterno, non sarа facile cacciare i militari e trasmettere le coordinate ai mercenari per aiutarli a uscire dalla bolla. Torna al villaggio abbandonato e parla di nuovo con i mercenari.</text>
+	</string>
+	<string id="mil_test">
+		<text>Aiuta</text>
+	</string>
+	<string id="mil_transfer_coo">
+		<text>Trasmetti le coordinate</text>
+	</string>
+	<string id="mil_transfer_coo_text">
+		<text>La via per la trasmittente и libera. Sali in cima alla torre e trasmetti le coordinate di Forester al gruppo di mercenari intrappolato nella bolla di spazio.</text>
+	</string>
+	<string id="mil_treasure_weapon_box_descr">
+		<text>Cassa di munizioni.</text>
+	</string>
+	<string id="mil_treasure_weapon_box_name">
+		<text>Cassa di munizioni</text>
+	</string>
+	<string id="mil_blockpost_task">
+		<text>Parla con il comandante dell'avamposto</text>
+	</string>
+	<string id="mil_blockpost_text">
+		<text>Parla con il comandante dell'avamposto riguardo alla situazione ai depositi militari.</text>
+	</string>
+</string_table>

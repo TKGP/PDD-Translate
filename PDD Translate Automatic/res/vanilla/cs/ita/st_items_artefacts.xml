@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_af_medusa_name">
+		<text>"Medusa"</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>Questo manufatto gravitazionale assorbe particelle radioattive, riducendo gli effetti delle radiazioni sul corpo. Molto diffuso nella Zona.</text>
+	</string>
+	<string id="st_af_cristall_flowe_name">
+		<text>"Fiore di pietra"</text>
+	</string>
+	<string id="st_af_cristall_flowe_descr">
+		<text>Questo manufatto in pietra, deformato da una intensa forza gravitazionale, ha delle proprietа simili al granito e puт fornire una protezione contenuta contro le psico-emissioni. И radioattivo.</text>
+	</string>
+	<string id="st_af_night_star_name">
+		<text>"Stella della notte"</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>Questo manufatto luminoso puт generare un piccolo campo di gravitа localizzato. Quando posto nelle loro vicinanze, riduce il peso degli zaini. Molto usato per aumentare il carico massimo. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>"Contorto"</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>Questo manufatto dalla forma bizzarra compare in luoghi dove l'attivitа gravitazionale и piщ intensa. Funziona come una sorta di spugna e assorbe elementi radioattivi. Nel farlo, il manufatto fornisce protezione sia dalle radiazioni esterne sia dalle particelle radioattive che hanno giа raggiunto il corpo.</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>"Gravi"</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>Gravi и formato da sostanze metalliche esposte a radiazioni prolungate. Questo lo rende in grado di generare un campo antigravitazionale, consentendo a molti stalker di trasportare carichi piщ pesanti. Emette radiazioni. </text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>"Pesce rosso"</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>Come risultato della superinterazione tra campi gravitazionali, il Pesce rosso produce un suo campo gravitazionale e aumenta sensibilmente le capacitа di carico degli stalker. Questo spiega perchй sia tanto richiesto. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_blood_name">
+		<text>"Sangue di Pietra"</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>Una formazione rossastra di detriti vegetali, ossei e terreni polimerizzati, compressi e deformati. Puт neutralizzare parzialmente i veleni chimici, ma emette radiazioni.</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>"Pezzo di Carne"</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>Questo manufatto organico и fatto di tessuti animali mutati e fossilizzati. Trasuda un fluido mucoso che neutralizza parzialmente gli effetti di sostanze chimiche dannose per la pelle umana. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_soul_name">
+		<text>"Anima"</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>Un manufatto organico unico, dalle proprietа altrettanto uniche. In qualche modo riesce ad aumentare la velocitа di guarigione del corpo. Grazie a un prezzo ragionevole e a un aspetto accattivante, questo manufatto и un prezioso oggetto da collezione. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>"Kolobok"</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>Un manufatto relativamente raro e costoso, che si forma nelle zone di forte attivitа chimica. Molto apprezzato per la sua abilitа di migliorare il benessere generale del corpo, emette radiazioni.</text>
+	</string>
+	<string id="st_af_baloon_name">
+		<text>"Bolla"</text>
+	</string>
+	<string id="st_af_baloon_descr">
+		<text>Composto da numerose formazioni organiche cave, questo manufatto emette una sostanza gassosa che puт neutralizzare le particelle radioattive presenti nel corpo. И molto prezioso.</text>
+	</string>
+	<string id="st_af_glass_name">
+		<text>"Lucciola"</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>Lucciola emette un tipo di energia sconosciuto, che accelera la guarigione degli esseri viventi, a volte riportando in vita le persone nel giro di pochi secondi. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>"Ardente"</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>Anche se l'Ardente и un manufatto termico, lo si puт tenere in mano senza correre il rischio di bruciarsi. И tenuto in grande considerazione per la sua capacitа di mantenere la temperatura di 75 gradi in una piccola zona, indipendentemente dall'ambiente circostante. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_cristall_name">
+		<text>"Cristallo"</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>Questo manufatto si forma in zone anomale dove l'attivitа termica и intensa. Consuma in modo attivo il calore in eccesso, mantenendosi sempre fresco al tatto. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_name">
+		<text>"Spirale di perle"</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>La natura termica della Spirale di perle non и ormai piщ un segreto, ma la sua forma continua a sconcertare le menti degli scienziati. Le emissioni prodotte dalle pulsazioni nelle sue sezioni piщ spesse incrementano il metabolismo degli esseri viventi, il che porta a una guarigione piщ rapida delle ferite. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>"Occhio"</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>Questo manufatto, che ricorda la forma di un occhio umano, aumenta in modo considerevole il metabolismo del corpo, permettendo alle ferite di guarire piщ rapidamente. Gli stalker piщ esperti sostengono che l'Occhio porti anche fortuna. Che sia vero o falso, di sicuro porta molti soldi. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>"Fiamma"</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>Questo raro manufatto si forma nelle zone dove l'attivitа termica и piщ intensa. Emette potenti infrarossi che intensificano i processi metabolici, curando le ferite a occhio nudo. И un manufatto estremamente prezioso, ma emette radiazioni.</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>"Scintilla"</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>Un brillante rappresentante della famiglia dei manufatti elettrostatici, in grado di ridurre le fluttuazioni nella densitа dei campi elettrici. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>"Lampo"</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>Grazie alle sue molecole densamente cristallizzate, questo manufatto elettrostatico и un valido assorbente di cariche elettriche, in grado di proteggere chi lo possiede da scariche elettriche fino a 5.000 volt. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>"Chiaro di luna"</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>Questo manufatto elettrostatico puт risuonare sotto l'influsso di psico-onde. Gli stalker hanno imparato a perfezionarlo in modo da farlo risuonare a fasi opposte, affinchй possa assorbire le psico-emissioni. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_dummy_battery_name">
+		<text>"Batteria"</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>L'origine di questo oggetto resta un enigma scientifico. Si sa soltanto che la sua composizione include elementi dielettrici, ma gli scienziati devono ancora identificare le condizioni fisiche esatte che portano alla sua formazione. И molto diffuso nella Zona e tenuto in grande considerazione sia da chi vi risiede, sia da chi la attraversa per le sue qualitа tonificanti. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>"Conchiglia"</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>Un tempo questo manufatto era considerato spazzatura priva di qualunque proprietа utile. Gli scienziati hanno perт scoperto di recente che, se tenuto a contatto costante con il corpo, ha un eccellente effetto stimolante sul sistema nervoso e puт ripristinare l'energia di chi lo possiede. Emette radiazioni.</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>"Fiocco di neve"</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>A prima vista, questo manufatto assomiglia al Kolobok. Alcuni sostengono che si tratti in effetti del Kolobok, le cui proprietа sono state amplificate dall'esposizione a un potente campo elettrico. Il manufatto possiede eccellenti proprietа elettrostimolanti e aumenta in modo considerevole la vitalitа di chi lo possiede. Emette radiazioni.</text>
+	</string>
+</string_table>

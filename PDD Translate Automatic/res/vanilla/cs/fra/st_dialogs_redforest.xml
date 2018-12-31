@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="red_forester_hello_dialog_0">
+		<text>Que me vaut l'honneur ?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1">
+		<text>Les mercenaires t'ont donnй des infos trиs intйressantes. On dirait que j'avais raison. La gigantesque йmission qui a bouleversй la Zone йtait si puissante que l'espace lui-mкme a йtй affectй et a formй une sorte de bulle.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111">
+		<text>Inutile de sortir le jargon scientifique, professeur ! C'est comme une bulle ! Oщ que tu ailles, tu reviens а ton point de dйpart. Aprиs l'йmission, des stalkers se sont retrouvйs prisonniers de bulles de ce genre autour de Limansk, et impossible d'en sortir ! Mais on en sait plus maintenant grвce aux coordonnйes des mercenaires et aux frйquences de PDA. Je commence а mieux comprendre le principe.</text>
+	</string>
+	<string id="red_forester_has_compas_1">
+		<text>J'avais perdu tout espoir de revoir la Boussole ! Merci ! Donne-moi un instant et je trouverai un moyen de sortir de cette bulle. Pendant ce temps, tвche de contacter les mercenaires. Il va te falloir un sacrй transmetteur pour зa... Paraоt que les militaires en ont un, dans leurs entrepфts... C'est comme зa qu'ils communiquent avec le monde extйrieur. Il devrait кtre assez puissant pour contacter les mercenaires.</text>
+	</string>
+	<string id="red_forester_has_compas_111">
+		<text>Je t'enverrai les coordonnйes nйcessaires une fois que tu auras trouvй le transmetteur. S'ils se dйbrouillent bien, ils sortiront de la Bulle tout prиs du pont de Limansk. Ils pourront peut-кtre mкme rendre une visite de courtoisie aux bandits du coin...</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11111">
+		<text>En fait, moi aussi, je me suis retrouvй coincй dans une bulle il y a quelques jours. Sur le moment, j'ai pas compris que c'йtait une nouvelle forme d'anomalie, alors j'ai cru que j'avais perdu la tкte. La clairiиre avait l'air familiиre, mais pas moyen d'en sortir ! Et puis, la Zone elle-mкme m'a fait cadeau d'un artefact qui m'a montrй la sortie. Je l'ai appelй la Boussole. Mais en rentrant, j'ai йtй attaquй par des bandits... Ils m'ont йpargnй, un vieux croulant comme moi, mais ils m'ont volй la Boussole... Rapporte-la-moi et je trouverai un moyen de sortir tes gars de leur Bulle.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111111">
+		<text>Ces ordures se sont installйes а la lisiиre de la Forкt rouge. Je viens d'envoyer les coordonnйes sur ton PDA.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_1">
+		<text>Limansk йtait complиtement isolйe pendant des annйes et il y avait de bonnes raisons а зa. Ce serait mieux pour tout le monde que зa reste comme зa. Qu'est-ce que tu veux faire lа-bas ?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_3">
+		<text>T'as rien d'un homme ordinaire, toi. T'as йtй marquй par la Zone et je sais pas encore si c'est un bien ou un mal. L'ordre des choses a йtй chamboulй. La Zone devient de plus en plus instable et tu joues un rфle dans ce bouleversement. Je vais t'aider... mкme si c'est peut-кtre pas la chose а faire...
+Ce sera pas facile d'entrer dans Limansk. Le chemin le plus court passe par ce pont, mais il a йtй relevй. Pourtant, j'ai йtй surpris de constater que ce n'йtait pas le seul accиs. Les factions du Devoir et de la Libertй ont levй le pont juste aprиs l'йmission gigantesque. Pourtant, il y a quelques jours, on a aperзu des bandits sur l'autre rive. Ils se sont emparйs du pont. Зa veut dire qu'il y a forcйment un autre moyen de traverser.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_5">
+		<text>L'йmission a complиtement transformй la Zone. Maintenant, les chemins connus et sыrs grouillent d'anomalies mortelles, mais de nouveaux passages, bloquйs depuis des annйes, se sont ouverts. Et je pense pas qu'on les ait tous trouvйs... Crois-moi si tu veux, mais de temps а autre, je capte des bribes de transmissions radio sur mon PDA en provenance des environs de Limansk. Зa peut vouloir dire qu'une chose : des stalkers ont dйcouvert de nouveaux passages vers Limansk et ont besoin d'aide.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_7">
+		<text>Malheureusement, le signal est trop faible, je capte pas grand-chose. J'ai l'impression que ces stalkers se sont retrouvй piйgйs dans une sorte de bulle : oщ qu'ils aillent, ils reviennent а leur point de dйpart. Si on pouvait les aider а en sortir, on apprendrait sыrement comment entrer dans Limansk.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_9">
+		<text>Va jusqu'aux entrepфts militaires. Le signal devrait кtre meilleur sur ces collines. Prйviens-moi quand tu auras trouvй quelque chose, d'accord ?</text>
+	</string>
+	<string id="red_artefact_hunters_11">
+		<text>Salut, mercenaire. Quelle chance que la Zone t'ait conduit а nous !</text>
+	</string>
+	<string id="red_artefact_hunters_111">
+		<text>Salut.</text>
+	</string>
+	<string id="red_artefact_hunters_1111">
+		<text>On a un boulot pour toi. Tu vois, on n'est pas vraiment venu dans cette forкt pour cueillir des champignons. Il y a une zone anormale pas loin, avec une tonne d'artefacts а l'intйrieur. Je sais comment y aller, mais la route passe а travers la forкt, et t'as entendu parler de cette forкt, je suis sыr. C'est un vrai traquenard ! Alors, tu nous escortes, tu montes la garde un moment et on te paye avec des artefacts tous frais. Qu'est-ce que tu en dis ?</text>
+	</string>
+	<string id="red_artefact_hunters_11111">
+		<text>Ok. Allons-y.</text>
+	</string>
+	<string id="red_artefact_hunters_11112">
+		<text>Je n'aime pas cette forкt non plus. Au revoir.</text>
+	</string>
+	<string id="red_artefact_hunters_111121">
+		<text>Comme tu voudras. Reviens nous voir si tu changes d'avis !</text>
+	</string>
+	<string id="red_artefact_hunters_21">
+		<text>Oui ?</text>
+	</string>
+	<string id="red_artefact_hunters_211">
+		<text>Qu'est-ce que tu racontais sur une pile d'artefacts ?</text>
+	</string>
+	<string id="red_artefact_hunters_22">
+		<text>Au revoir.</text>
+	</string>
+	<string id="red_artefact_hunters_31">
+		<text>On parlera plus tard.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11">
+		<text>Tire pas !</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_111">
+		<text>Qui кtes-vous ?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1111">
+		<text>De simples stalkers engagйs par Strelok.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11111">
+		<text>Pourquoi vous m'avez attaquй ?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_111111">
+		<text>Strelok nous a dit que quelqu'un le suivait et qu'il avait besoin qu'on le protиge. On a pensй que t'йtais l'assassin.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1111111">
+		<text>Je vois.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_112">
+		<text>Oщ est parti Strelok ?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1121">
+		<text>Je sais pas, il a pas dit oщ il allait !</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11211">
+		<text>Il a rien dit du tout, hein ? Et une balle entre les deux yeux, зa te rafraоchirait la mйmoire ?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_112111">
+		<text>Pitiй, non ! Il a pas vraiment dit oщ il allait, mais je sais oщ il a planquй son matйriel. Voilа les coordonnйes.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1121111">
+		<text>Ok...</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11212">
+		<text>D'accord...</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_113">
+		<text>Tu sais comment trouver le Forestier ?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1131">
+		<text>Ouais, tu le trouveras prиs de la vieille mine, de l'autre cфtй de la forкt. Il a vendu une carte de la forкt а Strelok. Sans elle, il y a pas moyen de s'y retrouver lа-dedans.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11311">
+		<text>Tu peux m'y conduire ?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_113111">
+		<text>Ouais, j'ai mйmorisй la carte. Mais c'est dangereux, la forкt grouille de mutants.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1131111">
+		<text>Je m'en occuperai. Allons-y !</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_114">
+		<text>J'y vais. Reste ici.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_0">
+		<text>Tire pas !</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_1">
+		<text>Qui кtes-vous ?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_11">
+		<text>De simples stalkers engagйs par Strelok.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_111">
+		<text>Pourquoi vous m'avez attaquй ?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_1111">
+		<text>Strelok nous a dit que quelqu'un le suivait et qu'il avait besoin qu'on le protиge. On a pensй que t'йtais l'assassin.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_11111">
+		<text>Je vois.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_3">
+		<text>Oщ est parti Strelok ?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_31">
+		<text>Je sais pas, il a pas dit oщ il allait !</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_311">
+		<text>Il a rien dit du tout, hein ? Et une balle entre les deux yeux, зa te rafraоchirait la mйmoire ?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_3111">
+		<text>Pitiй, non ! Il a pas vraiment dit oщ il allait, mais je sais oщ il a planquй son matйriel. Voilа les coordonnйes.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_31111">
+		<text>Ok...</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_312">
+		<text>D'accord...</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_4">
+		<text>Tu sais comment trouver le Forestier ?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_41">
+		<text>Ouais, tu le trouveras prиs de la vieille mine, de l'autre cфtй de la forкt. Il a vendu une carte de la forкt а Strelok. Sans elle, il y a pas moyen de s'y retrouver lа-dedans.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_411">
+		<text>Tu peux m'y conduire ?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_4111">
+		<text>Ouais, j'ai mйmorisй la carte. Mais c'est dangereux, la forкt grouille de mutants.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_41111">
+		<text>Je m'en occuperai. Allons-y !</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_5">
+		<text>J'y vais. Reste ici.</text>
+	</string>
+	<string id="red_bounty_hunter_way_11">
+		<text>Faut qu'on accйlиre ! C'est dangereux par ici !</text>
+	</string>
+	<string id="red_bounty_hunter_way_111">
+		<text>De quel danger tu parles ?</text>
+	</string>
+	<string id="red_bounty_hunter_way_1111">
+		<text>C'est la Forкt rouge, enfin ! Un endroit oщ les stalkers disparaissent par dizaines ! Et on est que deux ! Dйpкchons-nous avant de le regretter !</text>
+	</string>
+	<string id="red_bounty_hunter_way_12">
+		<text>On y est presque. Il y a un camp de stalkers par lа.</text>
+	</string>
+	<string id="red_bounty_hunter_way_13">
+		<text>On y est. C'est lа que vit le Forestier !</text>
+	</string>
+	<string id="red_bounty_hunter_way_14">
+		<text>Faut qu'on accйlиre !</text>
+	</string>
+	<string id="red_bounty_hunter_way_15">
+		<text>Salut.</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11">
+		<text>T'approche pas du portail ! Il est piйgй !</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_111">
+		<text>Quoi ? Mais je dois passer !</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_1111">
+		<text>Mercenaire, aussi longtemps qu'on sera ici, on ouvrira pas ces portes. La forкt grouille de monstres qui attendent la premiиre occasion pour nous dйvorer. Par contre, si tu nous aides, on peut trouver un arrangement. On veut aller dans la vieille mine... Paraоt qu'elle est pleine d'artefacts et que c'est un endroit assez sыr pour se protйger d'une йmission. Seulement, on peut pas l'atteindre tout seuls. On avait quelques autres stalkers avec nous : certains sont passйs par la Dйcharge, d'autres par Yantar. S'ils ont survйcu, il faut que tu les conduises а la mine. Fais зa et on t'ouvrir le portail !</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11111">
+		<text>Compris. Je vous amиne de l'aide et vous ouvrez le portail.</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11112">
+		<text>Hors de question !</text>
+	</string>
+	<string id="red_forest_stalkers_task_11">
+		<text>Salut, mercenaire !</text>
+	</string>
+	<string id="red_forest_stalkers_task_111">
+		<text>Salut !</text>
+	</string>
+	<string id="red_forest_stalkers_task_1111">
+		<text>On a du boulot pour toi.</text>
+	</string>
+	<string id="red_forest_stalkers_task_11111">
+		<text>Je t'йcoute.</text>
+	</string>
+	<string id="red_forest_stalkers_task_111111">
+		<text>Trouve-nous une carte de la Forкt rouge !</text>
+	</string>
+	<string id="red_forest_stalkers_task_11111111">
+		<text>Ok.</text>
+	</string>
+	<string id="red_forest_stalkers_task_2">
+		<text>Voilа ta carte !</text>
+	</string>
+	<string id="red_forest_stalkers_task_21">
+		<text>Merci pour ton aide !</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>Parle-moi de la Forкt rouge !</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>C'йtait une rйserve naturelle, avant, et c'est moi qui m'en occupais. Je protйgeais la forкt et ses animaux des braconniers. Maintenant, c'est la Zone qui la protиge et elle le fait si bien que la plupart des gens font des dizaines de kilomиtres pour la contourner. Tous les йtrangers qui pйnиtrent dans la forкt sont des hommes morts. On m'appelle peut-кtre le Forestier, mais je sais pas exactement ce qui se passe dans les bois. Il y a des mecs qui disparaissent dans la brume, en un clin d'oeil. Tu pourrais marcher derriиre lui que tu saurais pas ce qu'il est devenu. C'est tout ce que je peux t'en dire.</text>
+	</string>
+	<string id="red_forester_about_limansk_0">
+		<text>J'ai besoin d'aller а Limansk.</text>
+	</string>
+	<string id="red_forester_about_limansk_1">
+		<text>Si Limansk est restйe intacte et inhabitйe pendant toutes ces annйes, c'est pas un hasard. Ce serait mieux pour tout le monde si elle le restait. Qu'est-ce que tu veux faire а Limansk ?</text>
+	</string>
+	<string id="red_forester_about_limansk_11">
+		<text>Зa fait clichй, mais c'est une question de vie ou de mort.</text>
+	</string>
+	<string id="red_forester_about_limansk_111">
+		<text>T'as rien d'un homme ordinaire, toi. T'as йtй marquй par la Zone et je sais pas encore si c'est un bien ou un mal. L'ordre des choses a йtй chamboulй. La Zone devient de plus en plus instable et tu joues un rфle dans ce bouleversement. Je vais t'aider... mкme si c'est peut-кtre pas la chose а faire...</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>Qu'est-ce que tu peux me dire sur la Zone ?</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>La Zone, hй hй... La Zone a sa propre vie et on est en travers de son chemin. Elle neutralise tout ce qui la menace de la mкme faзon que nos corps combattent les infections. Nous, on a la fiиvre, la Zone, elle a ses йmissions. Plus les humains provoquent la dйmangent, plus les йmissions sont fortes et frйquentes !</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>Comment tu as survйcu toutes ces annйes ?</text>
+	</string>
+	<string id="red_forester_about_zone_111">
+		<text>Une seule action inconsidйrйe peut dйtruire la Zone... et tout ce qu'elle contient. Pas seulement les mutants et les anomalies, mais aussi les artefacts, vous les stalkers... et moi. Je sens bien que la Zone est trиs instable... Quelque chose la perturbe profondйment. Une tempкte se prйpare... et je ne sais pas si le statu quo sera prйservй.</text>
+	</string>
+	<string id="red_forester_cheet_0">
+		<text>What do I do next?</text>
+	</string>
+	<string id="red_forester_cheet_1">
+		<text>Apporte-moi l'artefact Boussole ! Regarde dans ton PDA les endroits oщ il peut se trouver.</text>
+	</string>
+	<string id="red_forester_has_compas_0">
+		<text>J'ai l'artefact.</text>
+	</string>
+	<string id="red_forester_has_compas_11">
+		<text>Qu'est-ce qui se passera quand je l'aurai trouvй ?</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>Qu'est-ce qu'un dйbutant comme toi cherche sur les terres du Forestier ?</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>Est-ce que c'est la Providence qui t'envoie ?</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>Bonne chance, fiston !</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>Ne m'oublie pas !</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>Pense а moi !</text>
+	</string>
+	<string id="red_forester_limansk_0">
+		<text>Parle-moi de Limansk !</text>
+	</string>
+	<string id="red_forester_limansk_1">
+		<text>Personne n'a entendu parler de cette ville pendant trиs longtemps. Beaucoup pensaient qu'elle n'existait mкme pas. Mais elle existe bel et bien ! Je l'ai vue de mes propres yeux avant la premiиre catastrophe. Tu vois, il y avait un institut lа-bas, un йnorme truc, avec des maisons construites spйcialement pour les scientifiques et leurs familles. Il avait un nom ronflant, Radio quelque chose. Ils ont construit une grande antenne, haute de prиs de cinq йtages. De vrais intellos, tous ces mecs. Mais il y avait pas une bonne ambiance dans la ville. Les habitants йtaient toujours suspicieux, а marmonner dans leurs barbes et а chanter les louanges du rйgime, mкme quand il y avait des pйnuries. Nous autres, les gens de la campagne, on allait pas trop dans la ville : les gens йtaient pas chaleureux et il y avait un truc qui donnait mal au crвne... зa devait кtre l'antenne. Puis il y a eu Tchernobyl, mais Limansk a pas йtй йvacuйe. Y avait peut-кtre eu une merde administrative ou alors il se passait un truc pas net. Je sais pas vraiment. Mais c'est la derniиre fois que j'ai entendu parler de Limansk. J'ai rien а faire lа-bas, moi...</text>
+	</string>
+	<string id="red_forester_limansk_11">
+		<text>Mais j'ai vu une route qui y mиne et un pont sur le fleuve.</text>
+	</string>
+	<string id="red_forester_limansk_111">
+		<text>Cet endroit grouillait d'anomalies, mais, depuis l'йmission, c'est presque sыr. Il a pas fallu longtemps aux stalkers pour se rendre compte qu'ils pouvaient accйder au centre de la Zone par Limansk sans passer par le Lobotomisateur. La Libertй et le Devoir se sont dйclarйs la guerre dиs qu'ils sont entrйs dans la ville et зa pourrait bien dйtruire chacune des factions. Et je suis sыr que зa dйrangerait pas grand monde dans la Zone si зa arrivait.</text>
+	</string>
+	<string id="red_forester_limansk_12">
+		<text>Cet endroit grouillait d'anomalies, mais, depuis l'йmission, c'est presque sыr. Il a pas fallu longtemps aux stalkers pour se rendre compte qu'ils pouvaient accйder au centre de la Zone par Limansk sans passer par le Lobotomisateur. La Libertй et le Devoir se sont dйclarйs la guerre dиs qu'ils sont entrйs dans la ville et зa pourrait bien dйtruire chacune des factions. Et je suis sыr que зa dйrangerait pas grand monde dans la Zone si зa arrivait.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_0">
+		<text>J'ai reзu un message des mercenaires des entrepфts militaires. On dirait qu'ils se sont retrouvйs coincйs dans une йtrange anomalie pendant la derniиre йmission. Ils disent qu'ils ne trouvent pas de sortie, qu'ils reviennent toujours а leur point de dйpart. Ils m'ont donnй leurs coordonnйes.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11">
+		<text>Un peu comme un anneau de Mцbius ?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111">
+		<text>Donc, comment je sors ces mercenaires de leur bulle ?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111111">
+		<text>Tu sais oщ les bandits se sont installйs ?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111112">
+		<text>Tiens, j'ai trouvй ton artefact si prйcieux.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111121">
+		<text>J'avais perdu tout espoir de revoir la Boussole ! Merci ! Donne-moi un instant et je trouverai un moyen de sortir de cette bulle. Pendant ce temps, tвche de contacter les mercenaires. Il va te falloir un sacrй transmetteur pour зa... Paraоt que les militaires en ont un, dans leurs entrepфts...</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11111211">
+		<text>Et qu'est-ce qui va se passer quand j'aurai trouvй le transmetteur ?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111112111">
+		<text>Je te donnerai les coordonnйes а envoyer aux mercenaires.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_0">
+		<text>Il faut que j'aille а Limansk.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_2">
+		<text>Зa fait clichй, mais c'est une question de vie ou de mort.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_4">
+		<text>Est-ce que tu sais comment les bandits ont rйussi а passer de l'autre cфtй ?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_6">
+		<text>Qu'est-ce qui est arrivй aux stalkers ?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_8">
+		<text>Qu'est-ce que je dois faire ?</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>Qu'est-ce que tu peux me dire sur toi ?</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>Qu'est-ce que je peux te dire sur moi ? Je suis le Forestier. J'habite ici depuis trиs longtemps. J'ai passй la plus grande partie de ma vie а cфtй de cette forкt. Je suis vieux. А mon вge, on aime pas trop le changement, alors j'ai refusй d'кtre йvacuй aprиs l'accident а la centrale. J'ai aussi vu la Zone apparaоtre... Je me rappelle d'un йnorme flash а l'horizon. Beaucoup de gens sont morts, mais la Zone m'a йpargnй... Et elle a pas fait que зa, elle m'a donnй un don ! Je connaissais la forкt comme ma poche avant, mais maintenant, je peux sentir le chemin а travers les pires champs d'anomalies ! Les stalkers en crиvent de jalousie. Moi, je me dis que tout a un prix et qu'un jour ou l'autre, la Zone va me demander de payer l'addition. C'est зa qui m'inquiиte.</text>
+	</string>
+	<string id="red_forester_who_are_you_111">
+		<text>C'йtait une forкt de sapins typique. Bon, c'йtait aussi une rйserve naturelle, mais зa avait rien de spйcial а l'йpoque. Elle est devenue rouge aprиs l'accident de Tchernobyl en 86. Je vais me coucher un soir, c'est vert, je me lиve le lendemain, c'est tout rouge, comme tu la vois maintenant ! Et ensuite, la Zone est apparue et les animaux et les oiseaux sont partis. Je suis le seul кtre vivant а кtre restй ici. Il ne reste plus que moi, la forкt et la brume йpaisse qui ne se lиve jamais.</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>Oui, de nombreux stalkers sont morts par ici. J'ai mкme entendu dire qu'il y avait un mauvais esprit qui rфdait dans le coin. А mon avis, la forкt est comme le reste de la Zone. Si tu la traites bien, elle te laisse tranquille. Le problиme, c'est que les stalkers sont des vandales. Quand tu veux t'emparer de ce qui t'appartient pas, faut pas s'йtonner d'avoir а payer le prix fort !</text>
+	</string>
+	<string id="red_leshiy_reward_11">
+		<text>Hй... J'ai plus aucun soldat. Imagine, tu sors de la bulle pour tomber sur des bandits !</text>
+	</string>
+	<string id="red_leshiy_reward_12">
+		<text>Merci, mercenaire. On s'en serait pas sortis sans toi ! Prends зa, tu l'as bien mйritй.</text>
+	</string>
+	<string id="red_leshiy_reward_13">
+		<text>Merci, mercenaire. On s'en serait pas sortis sans toi ! Prends зa, tu l'as bien mйritй.</text>
+	</string>
+	<string id="red_leshiy_reward_14">
+		<text>Merci, mercenaire, tu nous as vraiment aidйs. On aurait jamais pu abaisser ce pont ou sortir de cette saletй de bulle sans toi. Prends зa en rйcompense !</text>
+	</string>
+	<string id="red_leshiy_reward_15">
+		<text>Merci, mercenaire, tu nous as vraiment aidйs. On aurait jamais pu abaisser ce pont ou sortir de cette saletй de bulle sans toi. Prends зa en rйcompense !</text>
+	</string>
+	<string id="red_leshiy_reward_16">
+		<text>Salut, le Balafrй !</text>
+	</string>
+	<string id="red_leshiy_story_1_0">
+		<text>Parle-moi de la bulle !</text>
+	</string>
+	<string id="red_leshiy_story_1_1">
+		<text>Une bulle spatiale, mon pote, c'est la pire saletй de la Zone ! C'est un phйnomиne rйcent. Si tu tombes dans une bulle, t'es dans la merde jusqu'au cou ! Oщ que t'ailles, quel que soit le chemin que t'empruntes, tu reviens а ton point de dйpart ! J'en avais jamais entendu parler avant de tomber dedans. L'йmission nous a frappйs et tout le groupe s'est retrouvй coincй. On a passй des jours а marcher en rond. Certains des mecs йtaient prкts а se tirer une balle ! Ils disaient que c'йtait le moyen le plus sыr de sortir de lа... D'autres voyaient des trucs horribles partout. Il a fallu que je les pousse mйchamment au cul pour qu'ils continuent а marcher. J'ai du mal а me souvenir de tout... J'ai encore du mal а croire que je m'en sois sorti ! Merci mille fois de nous avoir aidйs !</text>
+	</string>
+	<string id="red_leshiy_story_2_0">
+		<text>Quelle йtait ta mission ?</text>
+	</string>
+	<string id="red_leshiy_story_2_1">
+		<text>Hй, mon pote ! C'est quoi cette question ? Le secret du contrat, c'est comme le secret de la confession chez nous ! Je peux rien t'en dire ! D'un autre cфtй... Ah, et merde, tu nous as sauvйs la vie ! Bon, йcoute : on s'йtait mis d'accord pour trouver un artefact trиs rare, un truc d'une valeur inestimable, pour une grosse entreprise. Et me demande pas laquelle, ok ? On a trouvй ce qu'on cherchait. Ce qu'il a fallu faire pour зa, c'est une autre histoire, mais laisse-moi te dire que je recommencerais pas зa pour tout le fric du monde. Ma vie a plus de valeur que ces bouts de papier. J'avais un mauvais pressentiment sur ce boulot dиs le dйbut, mais c'йtait une somme que je pouvais pas refuser. Enfin, bref, comme je le craignais, зa a йtй un vrai cauchemar. Et on avait а peine commencй le voyage de retour quand l'йmission a йclatй. Зa et cette putain de bulle. Non, plus jamais, crois-moi !</text>
+	</string>
+	<string id="red_artefact_hunters_reward_dialog_11">
+		<text>Merci pour ton aide ! Voilа ta rйcompense !</text>
+	</string>
+</string_table>

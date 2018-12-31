@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hello_mil_freedom_11">
+		<text>Tu as rйussi а traverser la Forкt rouge ? T'as une sacrйe veine ! Et t'en auras encore plus besoin ici, mercenaire ! La Barriиre est tombйe depuis que les militaires ne peuvent plus la tenir.</text>
+	</string>
+	<string id="hello_mil_freedom_111">
+		<text>Qu'est-ce qui est arrivй aux militaires ?</text>
+	</string>
+	<string id="hello_mil_freedom_2">
+		<text>Ils sont morts... enfin, la plupart d'entre eux. Ceux qui ont survйcu aux hordes de zombies et de mutants se sont retranchйs dans leur base, prиs de l'hйliport. Et on a perdu plein de monde а cause de la derniиre йmission.</text>
+	</string>
+	<string id="hello_mil_freedom_22">
+		<text>Comment зa "perdu" ? Qu'est-ce qui s'est passй ?</text>
+	</string>
+	<string id="hello_mil_freedom_222">
+		<text>Personne ne sait vraiment, mais plein de gens ont disparu. Des stalkers solitaires, des groupes entiers. Des fois, on capte des bribes d'appels au secours sur la radio. Un groupe de mercenaires a passй toute la semaine derniиre а la recherche des leurs.</text>
+	</string>
+	<string id="hello_mil_freedom_3">
+		<text>Je vais aller voir ce qui se passe.</text>
+	</string>
+	<string id="hello_mil_freedom_333">
+		<text>Tiens-moi au courant si tu apprends quoi que ce soit !</text>
+	</string>
+	<string id="hello_mil_freedom_44">
+		<text>Зa marche !</text>
+	</string>
+	<string id="hello_mil_freedom_55">
+		<text>Quoi encore ?</text>
+	</string>
+	<string id="hello_mil_freedom_555">
+		<text>Laisse tomber !</text>
+	</string>
+	<string id="hello_mil_freedom_66">
+		<text>Tu as rйussi а traverser la Forкt rouge ? On dirait que t'as une sacrйe veine ! Et t'en auras encore plus besoin ici, mercenaire.</text>
+	</string>
+	<string id="hello_mil_freedom_666">
+		<text>Qu'est-ce qui se passe ? J'ai besoin d'infos.</text>
+	</string>
+	<string id="hello_mil_freedom_6666">
+		<text>Va voir le Forestier, il te mettra au courant.</text>
+	</string>
+	<string id="hello_mil_freedom_77">
+		<text>Quoi encore ?</text>
+	</string>
+	<string id="hello_mil_freedom_777">
+		<text>Laisse tomber !</text>
+	</string>
+	<string id="hello_mil_killer_11">
+		<text>Qu'est-ce que tu cherches par ici, mercenaire ?</text>
+	</string>
+	<string id="hello_mil_killer_111">
+		<text>Les gars de l'avant-poste de la Libertй m'ont dit qu'un groupe de vos hommes a disparu par ici. Qu'est-ce qui s'est passй ?</text>
+	</string>
+	<string id="hello_mil_killer_1111">
+		<text>Il y a quelques semaines, on a reзu une commande importante pour un artefact unique, d'un client trиs haut placй. Tout se passait bien : notre unitй a trouvй l'artefact quelque part prиs de la Barriиre et йtait sur le chemin du retour quand l'йmission a frappй. On pensait qu'ils y йtaient restйs, mais non, ils ont survйcu... Le problиme, c'est qu'ils ont disparu. On a ordre de les retrouver parce qu'il faut absolument qu'on livre la marchandise. Sinon, aucun client voudra plus bosser avec nous.</text>
+	</string>
+	<string id="hello_mil_killer_11111">
+		<text>Ils sont peut-кtre morts, non ? C'est pas йvident de survivre а une йmission.</text>
+	</string>
+	<string id="hello_mil_killer_111111">
+		<text>On capte des bribes de conversation radio, mais impossible d'en tirer quoi que ce soit ! La seule chose qu'on sache, c'est qu'ils se sont perdus en plein jour et qu'ils sont pris dans une espиce de piиge. C'est peut-кtre une anomalie ou un autre tour de la Zone... On sait pas trop quoi faire. Il y a un vieux chвteau d'eau prиs de la ferme, peut-кtre qu'on aura une meilleure rйception de lа-haut ? On a dйjа essayй d'y monter, mais un putain de monstre est sorti de nulle part, a chopй un de mes hommes et l'a emportй on ne sait oщ ! On s'en est sorti de justesse !</text>
+	</string>
+	<string id="hello_mil_killer_1111111">
+		<text>C'est un sacrй boulot que tu me proposes ! Mais bon, une mission est une mission ! Moi aussi, je dois trouver comment faire pour sauver ce groupe.</text>
+	</string>
+	<string id="hello_mil_killer_11111112">
+		<text>Je me suis occupй du monstre. Maintenant, je dois transmettre les coordonnйes depuis le chвteau d'eau.</text>
+	</string>
+	<string id="hello_mil_killer_11111113">
+		<text>Pas de quoi s'inquiйter ! J'ai dйjа transmis les coordonnйes depuis le chвteau d'eau.</text>
+	</string>
+	<string id="hello_mil_killer_22">
+		<text>Content de te voir. Alors, tu as trouvй oщ йtaient nos gars ?</text>
+	</string>
+	<string id="hello_mil_killer_222">
+		<text>pas encore.</text>
+	</string>
+	<string id="hello_mil_killer_44">
+		<text>Quoi de neuf, mercenaire ?</text>
+	</string>
+	<string id="hello_mil_killer_444">
+		<text>Que du vieux.</text>
+	</string>
+	<string id="hello_mil_killer_55">
+		<text>Зa fait un bout de temps qu'on t'avait pas vu ! Nos gars sont bloquйs dans cette anomalie depuis trop longtemps. Tu as trouvй comment les faire sortir ?</text>
+	</string>
+	<string id="hello_mil_killer_555">
+		<text>Oui. Le Forestier m'a donnй les coordonnйes de la sortie qui leur permettra de sortir de la bulle. J'ai seulement besoin d'un transmetteur assez puissant pour entrer en contact avec eux.</text>
+	</string>
+	<string id="hello_mil_killer_5555">
+		<text>La base militaire devrait avoir ce qu'il te faut. Les soldats ont йtй frappйs de plein fouet par l'йmission et il en reste а peine une douzaine. Ils arrкtent pas d'envoyer des SOS, а croire qu'ils espиrent encore qu'il y a aura une opйration de sauvetage... Sauf que personne viendra : ils ont йtй abandonnйs, comme toujours.</text>
+	</string>
+	<string id="hello_mil_killer_55555">
+		<text>Une douzaine de militaires, c'est toujours trop, mкme aprиs une йmission. Vous ne pourriez pas m'aider ? Aprиs tout, on a le mкme objectif, non ?</text>
+	</string>
+	<string id="hello_mil_killer_555555">
+		<text>Nйgatif, on peut absolument pas s'attaquer aux militaires. Dйsolй, mercenaire ! Par contre, je sais que la Libertй a des vues sur la base, elle leur faciliterait le contrфle de la Barriиre. Ils pourront t'aider, d'autant plus que leur commandant me doit un service. Je vais les contacter pour toi !</text>
+	</string>
+	<string id="hello_mil_killer_5555555">
+		<text>Merci !</text>
+	</string>
+	<string id="hello_mil_killer_55555555">
+		<text>Bonne chance, mercenaire !</text>
+	</string>
+	<string id="hello_mil_killer_5555556">
+		<text>Je vais m'en occuper tout seul. J'ai pas vraiment d'atomes crochus avec la Libertй.</text>
+	</string>
+	<string id="hello_mil_killer_66">
+		<text>Alors, comment зa se prйsente ?</text>
+	</string>
+	<string id="hello_mil_killer_666">
+		<text>Rien pour l'instant.</text>
+	</string>
+	<string id="hello_mil_killer_667">
+		<text>Nos combattants sont sortis de la bulle. Ils sont en route pour Limansk et devraient y arriver dans quelques heures.</text>
+	</string>
+	<string id="hello_mil_killer_6676">
+		<text>En voilа une bonne nouvelle ! Merci beaucoup ! Je t'en dois une !</text>
+	</string>
+	<string id="hello_mil_killer_77">
+		<text>On rйglera зa un de ces jours dans la Zone. Au revoir !</text>
+	</string>
+	<string id="mil_killer_about_around_0">
+		<text>Tu es au courant ce qui se passe dans le coin ?</text>
+	</string>
+	<string id="mil_killer_about_around_1">
+		<text>Oui, on est lа depuis un moment. La faction du Monolithe est ressortie de nulle part. Il y a quelque temps, on avait choppй des contrats sur la tкte de plusieurs gars de chez eux. C'est des sacrйs numйros, ces mecs-lа, toujours а parler de leur Monolithe, un module gйnйtique ou je ne sais quoi ! Toujours est-il qu'un beau jour, ils ont dйcidй de tous partir en pиlerinage au-delа du Radar. On a tous pensй que c'йtait fini : ciao les psychos ! Mais voilа que les pиlerins reviennent, encore plus tarйs qu'avant ! Du coup, je me demande ce qu'ils ont bien pu trouver lа oщ ils sont allйs. Leur Monolithe ? Ou rien du tout, ce qui les a encore plus enragйs ? On peut jamais savoir avec les dingues...</text>
+	</string>
+	<string id="mil_killer_about_last_time_0">
+		<text>Rien d'autre ?</text>
+	</string>
+	<string id="mil_killer_about_last_time_1">
+		<text>Oh si, il se passe toujours quelque chose dans la Zone. Je t'ai dйjа parlй des gars de Monolithe... Mais t'as entendu parler d'une expйdition scientifique majeure dans la Zone ? Officiellement, ce sont des chercheurs des Nations Unies et oui, ils ont quelques grosses tкtes avec eux, mais le reste, suffit de les regarder pour savoir que ce sont des vйtйrans. Personne sait pourquoi ils sont lа. Oh, et attends, ils utilisent pas de guides ! Soit ils se dirigent par satellite, soit leur mission est tellement secrиte que personne peut кtre mis au courant. Ils ont l'air de se diriger vers le Radar. Je sais pas comment зa va se terminer, mais j'ai comme un mauvais pressentiment.</text>
+	</string>
+	<string id="mil_killer_about_what_is_you_doing_0">
+		<text>Comment vous faites votre beurre par ici ?</text>
+	</string>
+	<string id="mil_killer_about_what_is_you_doing_1">
+		<text>Ben, pour l'instant, on cherche toujours nos gars ! On s'occupe pas trop des boulots de stalker, tu sais. On est un peu des travailleurs indйpendants, mais on avait jamais mis les pieds aussi loin dans la Zone avant. Je pensais en savoir pas mal, mais, lа, je suis larguй. On en a tellement chiй que les gars ont failli repartir direct pour le Cordon. En plus, t'as entendu parler de ces mutants qui te contrфlent le cerveau, les manipulateurs ? Eh bien, ils peuvent aussi te filer des hallucinations. Genre, tu marches avec tes potes et, tout d'un coup, tu crois que t'es entourй de zombies et t'ouvres le feu... Ou, tiens, tu crois que tu marches sur une route alors que tu vas droit vers un prйcipice.</text>
+	</string>
+</string_table>

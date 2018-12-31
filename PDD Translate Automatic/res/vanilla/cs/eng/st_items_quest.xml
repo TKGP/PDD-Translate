@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agr_duty_bar_secret_1_descr">
+		<text>Secret 1 description</text>
+	</string>
+	<string id="agr_duty_bar_secret_1_name">
+		<text>Secret 1</text>
+	</string>
+	<string id="agr_duty_bar_secret_2_descr">
+		<text>Secret 2 description</text>
+	</string>
+	<string id="agr_duty_bar_secret_2_name">
+		<text>Secret 2</text>
+	</string>
+	<string id="agr_duty_bar_secret_3_descr">
+		<text>Secret 3 description</text>
+	</string>
+	<string id="agr_duty_bar_secret_3_name">
+		<text>Secret 3</text>
+	</string>
+	<string id="agr_duty_bar_secret_4_descr">
+		<text>Secret 4 description</text>
+	</string>
+	<string id="agr_duty_bar_secret_4_name">
+		<text>Secret 4</text>
+	</string>
+	<string id="agr_duty_bar_secret_5_descr">
+		<text>Secret 4 description</text>
+	</string>
+	<string id="agr_duty_bar_secret_5_name">
+		<text>Secret 5</text>
+	</string>
+	<string id="agr_duty_trader_secret_1_descr">
+		<text>Secret 6 description</text>
+	</string>
+	<string id="agr_duty_trader_secret_1_name">
+		<text>Secret 6</text>
+	</string>
+	<string id="device_pda_old">
+		<text>Freshy's old PDA</text>
+	</string>
+	<string id="esc_treasure_novice_stalker_descr">
+		<text>These are the things I saved for a rainy day. If it ever comes, I'll definitely come here for my supplies.</text>
+	</string>
+	<string id="esc_treasure_novice_stalker_name">
+		<text>Rookie's stash</text>
+	</string>
+	<string id="esc_treasure_weapon_box_descr">
+		<text>Weapons and ammo will be useful when fighting the military and bandits.</text>
+	</string>
+	<string id="esc_treasure_weapon_box_name">
+		<text>Safe with weapons and ammo</text>
+	</string>
+	<string id="st_agr_map_animals">
+		<text>PDA with migration map</text>
+	</string>
+	<string id="st_agr_map_animals_descr">
+		<text>The migration map helps locate rare species of monsters and use them for scientific research.</text>
+	</string>
+	<string id="st_agr_mechanic_pda">
+		<text>PDA with data on weapons upgrades</text>
+	</string>
+	<string id="st_agr_mechanic_pda_descr">
+		<text>Electronic diagrams will help with weapons upgrades.</text>
+	</string>
+	<string id="st_agr_pda_for_secret_trader">
+		<text>PDA with valuable information</text>
+	</string>
+	<string id="st_agr_pda_for_secret_trader_descr">
+		<text>No data.</text>
+	</string>
+	<string id="st_device_pda_fang">
+		<text>Fang's PDA</text>
+	</string>
+	<string id="st_device_pda_fang_descr">
+		<text>Fang's PDA</text>
+	</string>
+	<string id="st_device_pda_lost_squard_descr">
+		<text>Secret information about military activity at the warehouses</text>
+	</string>
+	<string id="st_device_pda_lost_squard_fang">
+		<text>Stalker group commander's PDA </text>
+	</string>
+	<string id="st_device_pda_military">
+		<text>General's PDA</text>
+	</string>
+	<string id="st_device_pda_military_descr">
+		<text>The PDA contains secret information about the immediate plans of the military at the Cordon.</text>
+	</string>
+	<string id="st_esc_device_pda_driver">
+		<text>Driver's friend's PDA</text>
+	</string>
+	<string id="st_esc_device_pda_driver_descr">
+		<text>Driver's friend's PDA.</text>
+	</string>
+	<string id="st_esc_mechanic_flash_card">
+		<text>Information about weapons upgrades</text>
+	</string>
+	<string id="st_esc_mechanic_flash_card_descr">
+		<text>Information about weapons upgrades.</text>
+	</string>
+	<string id="st_esc_military_documentation">
+		<text>Secret military data</text>
+	</string>
+	<string id="st_esc_military_documentation_descr">
+		<text>Secret data.</text>
+	</string>
+	<string id="st_mil_device_pda_lost_squard">
+		<text>Commander's PDA</text>
+	</string>
+	<string id="st_mil_device_pda_lost_squard_descr">
+		<text>PDA belonging to the commander of the stalker group. Contains valuable information about bandits' plans to seize army warehouse territories.</text>
+	</string>
+	<string id="st_red_forest_pda_map">
+		<text>PDA with a map of the Red Forest</text>
+	</string>
+	<string id="st_red_forest_pda_map_descr">
+		<text>This PDA has a map of the Red Forest, which shows the anomalous area and the space anomaly on it. It seems that the anomaly can transfer you to where Forester lives.</text>
+	</string>
+	<string id="device_pda_digger_descr">
+		<text>This PDA contains technical documentation which may help scientists figure out what caused such a powerful psy-field to appear at Yantar.</text>
+	</string>
+	<string id="device_pda_digger_name">
+		<text>Lost party's PDA.</text>
+	</string>
+	<string id="device_pda_garbage_traitor">
+		<text>Smuggler's PDA</text>
+	</string>
+	<string id="device_pda_garbage_traitor_descr">
+		<text>Smuggler's PDA, found among Stringov's possessions.</text>
+	</string>
+	<string id="device_pda_old_descr">
+		<text>Old PDA, found under the false bottom of the toolbox at Freshy's camp.</text>
+	</string>
+	<string id="flesh_up_a_novice_outfit_name">
+		<text>Flash drive with data on superlight kevlar body armor</text>
+	</string>
+	<string id="flesh_up_ab_pkm_name">
+		<text>Flash drive with data on balancing the automated parts of a machine gun</text>
+	</string>
+	<string id="flesh_up_ab_svu_name">
+		<text>Flash drive with data on sniper rifle barrels</text>
+	</string>
+	<string id="flesh_up_abcd_pkm_name">
+		<text>Flash drive with data on modifying the gas exhaust of a machine gun</text>
+	</string>
+	<string id="flesh_up_abcd_svu_name">
+		<text>Flash drive with data on an electronic stabilizer for sniper rifles</text>
+	</string>
+	<string id="flesh_up_ac_ak74u_name">
+		<text>Flash drive with data on balancing automated parts</text>
+	</string>
+	<string id="flesh_up_ac_desert_eagle_name">
+		<text>Flash drive with data on a pistol muzzle break</text>
+	</string>
+	<string id="flesh_up_ac_mp5_name">
+		<text>Flash drive with data on a submachine gun muzzle break</text>
+	</string>
+	<string id="flesh_up_ac_spas12_name">
+		<text>Flash drive with data on pump mechanisms for combat shotguns</text>
+	</string>
+	<string id="flesh_up_ac_wincheaster1300_name">
+		<text>Flash drive with data on pump mechanisms for shotguns</text>
+	</string>
+	<string id="flesh_up_aceg_scientific_outfit_name">
+		<text>Flash drive with data on reinforced army body armor</text>
+	</string>
+	<string id="flesh_up_bd_desert_eagle_name">
+		<text>Flash drive with data on pistol barrel modification</text>
+	</string>
+	<string id="flesh_up_bd_mp5_name">
+		<text>Flash drive with data on submachine gun barrel modification</text>
+	</string>
+	<string id="flesh_up_bd_wincheaster1300_name">
+		<text>Flash drive with data on an electronic stabilization system for shotguns</text>
+	</string>
+	<string id="flesh_up_bdfh_scientific_outfit_name">
+		<text>Flash drive with data on a psy-protection system</text>
+	</string>
+	<string id="flesh_up_cd_pkm_name">
+		<text>Flash drive with data on a machine gun muzzle break</text>
+	</string>
+	<string id="flesh_up_cd_svu_name">
+		<text>Flash drive with data on a sniper rifle muzzle break</text>
+	</string>
+	<string id="flesh_up_fh_scientific_outfit_name">
+		<text>Flash drive with data on a closed-cycle breathing module</text>
+	</string>
+	<string id="st_device_pda_bloodsucker_desc">
+		<text>PDA with drawings only a genius can understand.</text>
+	</string>
+	<string id="st_device_pda_bloodsucker_name">
+		<text>Uncle Yar's buddy's PDA.</text>
+	</string>
+	<string id="st_device_pda_comendant_desc">
+		<text>Commandant Lingov's personal PDA. Contains information about collaboration with mercenaries, among other things.</text>
+	</string>
+	<string id="st_device_pda_comendant_name">
+		<text>Lingov's PDA</text>
+	</string>
+	<string id="st_device_pda_freedom">
+		<text>Freedom stalker's PDA</text>
+	</string>
+	<string id="st_device_pda_freedom_desc">
+		<text>The PDA of a Freedom fighter, containing a recording of the conversation between the attackers.</text>
+	</string>
+	<string id="st_esc_trader_habar_desc">
+		<text>Code-locked suitcase. Exceptionally valuable to Sidorovich.</text>
+	</string>
+	<string id="st_esc_trader_habar_name">
+		<text>Loot</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>No data.</text>
+	</string>
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+</string_table>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bandit_outfit_description">
+		<text>Ropa tradicional de bandido: chaqueta de cuero con piezas de blindaje cosidas. La protecciуn que proporciona es inadecuada para las duras condiciones de la Zona. La chaqueta puede llevar hasta dos artefactos.</text>
+	</string>
+	<string id="bandit_outfit_name">
+		<text>Chaqueta de bandido</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>Una versiуn moderna del traje de protecciуn de Deber, que proporciona una buena protecciуn contra anomalнas, a diferencia de los trajes de la serie PSZ. El blindaje incorporado es capaz de detener el disparo de una pistola. No puede modificarse para incluir un contenedor de artefactos.</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>PS5-M "Protecciуn universal"</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>Un ejemplo experimental de un exoesqueleto militar. Nunca lo produjeron en masa debido a su elevado precio y a algunos fallos de diseсo. De todos modos, se fabricaron pequeсas cantidades en las instalaciones a las afueras de Ucrania. Es un exoesqueleto de tercera generaciуn que corrige el fallo de movilidad de las versiones anteriores y tiene mayor blindaje.</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>Exoesqueleto</text>
+	</string>
+	<string id="military_outfit_description">
+		<text>El traje militar blindado Bulat ha sido diseсado para operaciones de asalto en бreas de alta actividad anуmala. Estб compuesto por un traje fuertemente blindado, un sistema de compensaciуn integrado y el casco Sphere-12M. Su blindaje es capaz de detener un disparo de fusil de asalto. No puede modificarse con un contenedor de artefactos.</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>Traje blindado "Bulat"</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>Este exoesqueleto proporciona una excelente protecciуn contra las balas y la metralla a expensas de la movilidad. Es vulnerable a la municiуn antiblindaje.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>Exoesqueleto</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>Este traje militar blindado estб diseсado para operaciones de asalto. Proporciona una excelente protecciуn contra las balas y la metralla sin comprometer la movilidad. Es vulnerable a la municiуn antiblindaje.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>Traje militar blindado</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>Este traje estб diseсado para las operaciones de investigaciуn en la Zona. Viene con un mуdulo respiratorio de ciclo cerrado y un sistema de supresiуn de campos anуmalos integrado que proporcionan una protecciуn sobresaliente contra las anomalнas. Es extremadamente vulnerable debido a su dйbil blindaje. Incluye un contenedor integrado para transportar artefactos.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>Traje de cientнfico</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>Este traje fue producido por uno de los institutos de investigaciуn de Kiev. Proporciona una estupenda alternativa a otros trajes de stalker de factura casera. Es una buena combinaciуn de traje blindado, mуdulo respiratorio de ciclo cerrado y sistema de supresiуn de campos anуmalos. Sumando a esto sus bien escogidos materiales, este traje es una estupenda elecciуn y su ъnica desventaja es el precio.</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>Traje SEVA</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>El Berill-5M es un traje Spetsnaz modificado para la Zona. Cuenta con un blindaje de la serie PSZ-9a, un expulsor de berilio y un casco Sphere-08. Estб diseсado para las operaciones de asalto en regiones extremadamente radiactivas. Es ineficaz en zonas de gran actividad anуmala.</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>Traje blindado Berill-5M</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>De diseсo y fabricaciуn casera, este traje stalker combina un blindaje militar ligero y un traje de goma. Pese al hecho de que el blindaje no es capaz ni de detener el disparo de una bala, es un traje popular debido a su bajo coste y a su gran potencial de modificaciуn. Incluye un contenedor para llevar hasta dos artefactos.</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>Traje "Sunrise"</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>Un traje de stalker reforzado hecho por artesanos de Libertad. Su combinaciуn de blindaje estбndar y elementos de circonio acorazados proporciona una buena protecciуn contra subfusiles, fusiles de asalto y metralla a todas las distancias. El material de doble capa del traje combina cuero especialmente tratado con un tejido que contiene fibra de amianto. El traje ofrece una protecciуn limitada contra diversas anomalнas y radiaciуn.</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>Traje "Guardiбn de Libertad"</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>Este traje stalker de peso ligero fue creado por artesanos de Libertad. Su blindaje militar ligero estб reforzado con una coraza de Kevlar que ofrece protecciуn contra armas de fuego pequeсas. El tejido del traje estб tratado con una soluciуn especial que aumenta su resistencia contra las anomalнas.</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>Traje "Viento de Libertad"</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>Equipo estбndar utilizado por los pelotones de asalto de Cielo Despejado. Este blindaje personal puede detener la bala de una pistola, tiene una mбscara de gas integrada que proporciona una buena protecciуn contra la exposiciуn a las anomalнas. Incluye un contenedor para llevar un artefacto.</text>
+	</string>
+	<string id="csky_heavy_outfit_name">
+		<text>Blindaje personal CS-1</text>
+	</string>
+	<string id="csky_light_outfit_description">
+		<text>Este blindaje personal fue diseсado para realizar operaciones de bъsqueda en бreas de baja actividad anуmala. La calidad de sus materiales aumentan su durabilidad. Incluye un contenedor para llevar un artefacto.</text>
+	</string>
+	<string id="csky_light_outfit_name">
+		<text>Blindaje personal CS-3a</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>Uno de los primeros modelos de Deber. Se hizo conocido por su blindaje personal integrado y falta de protecciуn contra las exposiciones anуmalas. No puede modificarse para incluir un contenedor para artefactos.</text>
+	</string>
+	<string id="dolg_heavy_outfit_name">
+		<text>BPSZ-9d "Blindaje de Deber"</text>
+	</string>
+	<string id="exo_freedom_outfit_description">
+		<text>Una versiуn mejorada de un exoesqueleto estбndar. El uso de materiales mбs ligeros permitiу a los diseсadores reducir el peso del traje y mejorar su durabilidad.</text>
+	</string>
+	<string id="exo_freedom_outfit_name">
+		<text>Exoesqueleto "Libertad"</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>Ropa clбsica para los stalkers novatos. No protege ni de las balas ni de las anomalнas, pero es mejor que nada. Incluye un contenedor capaz de llevar hasta dos artefactos.</text>
+	</string>
+	<string id="novice_outfit_name">
+		<text>Chaqueta de cuero</text>
+	</string>
+</string_table>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mil_actor_attack_house">
+		<text>Йliminer les mercenaires dans le quartier-gйnйral</text>
+	</string>
+	<string id="mil_actor_attack_house_text">
+		<text>Une unitй militaire s'est retranchйe dans le QG. Йliminez les soldats dans le bвtiment.</text>
+	</string>
+	<string id="mil_additional_quest_1_name">
+		<text>Rйcupйrer le chargement de l'hйlicoptиre</text>
+	</string>
+	<string id="mil_additional_quest_1_text">
+		<text>Un hйlicoptиre militaire s'est йcrasй lors d'une patrouille. Il transportait des armes et des munitions qui seraient trиs utiles pour renforcer la Barriиre. Malheureusement, nos hommes ne peuvent pas accйder а la zone car elle est sous le contrфle des membres du Monolithe, qui contrairement а nous, bйnйficient de combinaisons antiradiations.</text>
+	</string>
+	<string id="mil_additional_quest_2_name">
+		<text>Trouver le PDA</text>
+	</string>
+	<string id="mil_additional_quest_2_text">
+		<text>Il y a quelques nuits, un groupe de stalkers s'est fait attaquer par une meute de chiens affamйs. Il n'y a eu aucun survivant, mais le PDA du chef de l'unitй contenait des informations cruciales. Trouvez son cadavre et rapportez son PDA.</text>
+	</string>
+	<string id="mil_additional_quest_3_name">
+		<text>Trouver le butin du stalker disparu</text>
+	</string>
+	<string id="mil_additional_quest_3_text">
+		<text>Un de nos snipers est mort dans une anomalie, avec ses prйcieuses munitions. Vous aurez une rйcompense si vous les rapportez.</text>
+	</string>
+	<string id="mil_additional_quest_4_name">
+		<text>Prendre l'artefact du stalker mort</text>
+	</string>
+	<string id="mil_additional_quest_4_text">
+		<text>Un de nos stalkers a rйussi а traverser un champ d'anomalies, mais n'a pas pu en sortir l'artefact qu'il cherchait. Rapportez l'artefact et vous serez rйcompensй.</text>
+	</string>
+	<string id="mil_additional_quest_5_name">
+		<text>Prendre l'artefact du village</text>
+	</string>
+	<string id="mil_additional_quest_5_text">
+		<text>Le village est maudit. Les sangsues y surgissent de nulle part et personne n'a le courage d'y entrer. Cela n'empкche pas quelques tкtes brыlйes d'y aller de temps en temps, mкme si on y trouve les pires sangsues de la Zone ! Cependant, si tu parviens а survivre а la rencontre, la maison dйserte contient un incroyable artefact.</text>
+	</string>
+	<string id="mil_contact_with_clear_sky_commander_descr">
+		<text>Rencontrer Lebedev</text>
+	</string>
+	<string id="mil_contact_with_clear_sky_commander_name">
+		<text>L'йquipe de mercenaires a rйussi а sortir de la bulle et est maintenant en route vers Limansk. L'unitй avancйe de Firmament est dйjа au pont. Avancez dans la Forкt rouge et retrouvez Lebedev.</text>
+	</string>
+	<string id="mil_defend_barrier_name">
+		<text>Dйfendre la Barriиre</text>
+	</string>
+	<string id="mil_defend_barrier_text">
+		<text>La Barriиre est encore attaquйe. Aidez les stalkers а la dйfendre.</text>
+	</string>
+	<string id="mil_elim_military">
+		<text>Йliminer les militaires</text>
+	</string>
+	<string id="mil_elim_military_text">
+		<text>Йliminez les militaires de la base.</text>
+	</string>
+	<string id="mil_hires">
+		<text>Rejoindre les mercenaires dans le village</text>
+	</string>
+	<string id="mil_hires_text">
+		<text>Un groupe de mercenaires est а la recherche de l'unitй qui s'est perdue dans l'anomalie spatiale prиs de Limansk. Ils vous diront d'oщ on peut obtenir le signal radio le plus fort. Retrouvez-les au village.</text>
+	</string>
+	<string id="mil_hog_about_signal_1">
+		<text>Merde ! Dйsolй, mec, mais c'est pas vraiment mon domaine. Je vois que le Forestier pour t'aider. Il sait tout ce qu'il y a а savoir sur la Zone.</text>
+	</string>
+	<string id="mil_hog_hello_dialog_11">
+		<text>Salut, mercenaire !</text>
+	</string>
+	<string id="mil_hog_hello_dialog_12">
+		<text>Content de te voir ! Alors, tu as trouvй le moyen de sortir nos gars du pйtrin ?</text>
+	</string>
+	<string id="mil_hog_hello_dialog_1221">
+		<text>Ouais, les bandits ont une sacrйe base а la Dйcharge. T'y arriveras pas tout seul...</text>
+	</string>
+	<string id="mil_hog_hello_dialog_1231">
+		<text>Hum... Il va te falloir un sacrй transmetteur pour зa. Du genre de celui des militaires... Laisse-nous y rйflйchir, on va trouver une solution.</text>
+	</string>
+	<string id="mil_hog_hello_dialog_13">
+		<text>Mercenaire, va voir Kostyan !</text>
+	</string>
+	<string id="mil_hog_talk_about_1">
+		<text>Il y a quelques semaines, on a reзu une commande importante pour un artefact unique, d'un client trиs haut placй. Tout se passait bien : notre unitй a trouvй l'artefact quelque part prиs de la Barriиre et йtait sur le chemin du retour quand l'йmission a frappй. On pensait qu'ils y йtaient restйs, mais non, ils ont survйcu... Le problиme, c'est qu'ils ont disparu. On a ordre de les retrouver parce qu'il faut absolument qu'on livre la marchandise. Sinon, aucun client voudra plus bosser avec nous.</text>
+	</string>
+	<string id="mil_hog_talk_about_111">
+		<text>On capte des bribes de conversation radio, mais impossible d'en tirer quoi que ce soit ! La seule chose qu'on sache, c'est qu'ils se sont perdus en plein jour et qu'ils sont pris dans une espиce de piиge. C'est peut-кtre une anomalie ou un autre tour de la Zone... On sait pas trop quoi faire. Il y a un vieux chвteau d'eau prиs de la ferme, peut-кtre qu'on aura une meilleure rйception de lа-haut ? On a dйjа essayй d'y monter, mais un putain de monstre est sorti de nulle part, a chopй un de mes hommes et l'a emportй on ne sait oщ ! On s'en est sorti de justesse !</text>
+	</string>
+	<string id="mil_hog_talk_about_11111">
+		<text>T'es dingue ou quoi ? Je me fais dessus rien qu'en repensant а la derniиre fois et les gars refuseront de s'approcher de cette tour. Mais, toi, t'as l'air d'en savoir long sur la Zone. Tu pourrais pas tuer ce monstre et intercepter le signal de nos gars ?</text>
+	</string>
+	<string id="mil_kill_bs">
+		<text>Tuer la sangsue</text>
+	</string>
+	<string id="mil_kill_bs_text">
+		<text>Une sangsue a йtй signalйe prиs du chвteau d'eau. C'est de lа que vous pourrez obtenir le meilleur signal. Tuez la sangsue.</text>
+	</string>
+	<string id="mil_reach_battle">
+		<text>Rejoindre l'unitй de la Libertй</text>
+	</string>
+	<string id="mil_reach_battle_text">
+		<text>Allez rejoindre l'unitй de la Libertй.</text>
+	</string>
+	<string id="mil_reach_tower_task">
+		<text>Intercepter la transmission</text>
+	</string>
+	<string id="mil_reach_tower_task_text">
+		<text>Le chвteau d'eau des entrepфts militaires est le point le plus йlevй de la rйgion. Grimpez jusqu'au sommet pour interceptez le signal des mercenaires йgarйs.</text>
+	</string>
+	<string id="mil_talk_2_forester2">
+		<text>Parler au Forestier</text>
+	</string>
+	<string id="mil_talk_2_forester2_text">
+		<text>Le Forestier a reзu sur son PDA un message des mercenaires qui se sont йgarйs. Retournez le voir.</text>
+	</string>
+	<string id="mil_talk_2_fr_com">
+		<text>Rejoindre l'unitй de la Libertй</text>
+	</string>
+	<string id="mil_talk_2_fr_com_text">
+		<text>La Libertй se prйpare а attaquer la base de l'armйe pour pouvoir s'installer dans les entrepфts militaires. Aidez la Libertй а s'emparer de la base.</text>
+	</string>
+	<string id="mil_talk_2_merc_2_task">
+		<text>Parler aux mercenaires</text>
+	</string>
+	<string id="mil_talk_2_merc_2_task_text">
+		<text>La base est remplie de soldats qui gardent farouchement le transmetteur. Sans aide, il ne sera pas facile de les faire sortir et de transmettre les coordonnйes aux mercenaires йgarйs. Retournez au village et parlez а nouveau aux mercenaires.</text>
+	</string>
+	<string id="mil_test">
+		<text>Aider</text>
+	</string>
+	<string id="mil_transfer_coo">
+		<text>Transmettre les coordonnйes</text>
+	</string>
+	<string id="mil_transfer_coo_text">
+		<text>L'accиs au transmetteur est libre. Grimpez au sommet de la tour et transmettez les coordonnйes du Forestier aux mercenaires perdus dans l'anomalie spatiale.</text>
+	</string>
+	<string id="mil_treasure_weapon_box_descr">
+		<text>Caisse de munitions</text>
+	</string>
+	<string id="mil_treasure_weapon_box_name">
+		<text>Caisse de munitions</text>
+	</string>
+	<string id="mil_blockpost_task">
+		<text>Parler au commandant de l'avant-poste</text>
+	</string>
+	<string id="mil_blockpost_text">
+		<text>Parlez au commandant de l'avant-poste de la situation dans les entrepфts militaires.</text>
+	</string>
+</string_table>

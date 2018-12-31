@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dm_intro_1">
+		<text>Hй ! C'est agrйable de voir quelqu'un commencer une conversation avec des mots plutфt qu'avec des balles !</text>
+	</string>
+	<string id="dm_intro_2">
+		<text>Bienvenue ! C'est sympa de croiser un autre кtre humain ! Зa me change des roseaux et des mutants.</text>
+	</string>
+	<string id="dm_intro_3">
+		<text>Salut ! Tu viens d'arriver dans le Marais ? Moi, je me suis aventurй par ici aprиs l'Йmission et maintenant, pas moyen de trouver la sortie !</text>
+	</string>
+	<string id="dm_intro_4">
+		<text>Bienvenue dans ce trou paumй !</text>
+	</string>
+	<string id="dm_intro_5">
+		<text>Hй, t'as une minute ? Je m'ennuie а mourir !</text>
+	</string>
+	<string id="dm_intro_6">
+		<text>Salut, mon pote ! Tu m'as l'air d'un gars honnкte !</text>
+	</string>
+	<string id="dm_intro_7">
+		<text>T'aimes le paysage ? Ben tant mieux, parce qu'il change pas а cinq kilomиtres а la ronde ! Y a juste des ruines et des monstres pour йgayer le coin !</text>
+	</string>
+	<string id="dm_intro_8">
+		<text>Alors, toi aussi, t'as йchouй dans ce trou paumй ? Tu ferais bien de te trouver un bon guide si tu veux te tirer d'ici !</text>
+	</string>
+	<string id="dm_intro_9">
+		<text>Alors, comme зa, tu viens de dйbarquer ici ? Un petit conseil : fais gaffe oщ tu mets les pieds, le Marais est plein de sables mouvants qui t'avaleront tout entier ! Et je te dйconseille aussi les chemins, а moins que tu veuilles prendre une balle !</text>
+	</string>
+	<string id="dm_intro_10">
+		<text>Зa fait pas longtemps que je suis lа, mais j'en ai dйjа marre ! Malheureusement, c'est plus difficile de se tirer d'ici que d'y entrer !</text>
+	</string>
+	<string id="dm_intro_11">
+		<text>Bonjour ! Alors, toi aussi, tu te planques ? Tout le monde ici se cache d'un truc ou d'un autre dans le coin... Certains essaient d'йchapper а leur passй, d'autres а eux-mкmes...</text>
+	</string>
+	<string id="dm_intro_12">
+		<text>C'est la premiиre fois que tu viens dans le Marais ? Alors, йcoute bien : mйfie-toi avant tout des humains ! Les monstres, les sables mouvants, c'est que dalle а cфtй ! Reste dans les roseaux et tu survivras plus longtemps !</text>
+	</string>
+	<string id="dm_about_0">
+		<text>Saloperie de moustiques ! Alors, зa, c'est une vraie anomalie, ou je m'y connais pas ! Ils arrivent mкme а piquer а travers une combinaison en caoutchouc ! Et le reste de la faune locale, c'est pas mieux ! Y a une des ces bestioles dans le Marais, c'est pas un cadeau !</text>
+	</string>
+	<string id="dm_about_1">
+		<text>C'est dйjа pas facile de survivre dans la Zone quand t'es tout seul, mais ici, c'est encore pire ! J'en ai marre de faire dans mon froc toutes les cinq minutes ! Je rejoindrais bien une faction, mais y a pas tellement le choix : soit les bandits, soit ces stalkers habillйs en bleu. Je suis pas trop fan des bandits... Ils sont pas des bandits pour rien, pas vrai ? Ils finissent toujours par te poignarder dans le dos ! Je prйfиrerais m'allier avec ces stalkers. Tu crois qu'ils me prendraient ? Mais qu'est-ce que t'en sais, toi, aprиs tout...</text>
+	</string>
+	<string id="dm_about_2">
+		<text>Ce trou est avant tout un refuge pour les traоtres en tout genre, des mecs dont mкme les bandits veulent pas ! J'ai croisй des patrouilles de stalkers en uniformes bleus une ou deux fois. Ils se font appeler Tire-maman, Firmament ou un truc dans le genre... En tout cas, ils ont pas l'air d'кtre des marrants. Ils veulent dire а personne oщ se trouve leur base... Rien que pour зa, je voudrais aller voir ce qu'ils trafiquent lа-bas.</text>
+	</string>
+	<string id="dm_about_3">
+		<text>Oh merde ! Mes chaussettes sont trempйes, mes pieds sont couverts de sangsues et mon pull part en lambeaux а cause de toute cette humiditй ! Je donnerais n'importe quoi pour un bon bain chaud, des habits secs, un verre de cognac au coin du feu et une petite bien gironde pour me rйchauffer ! Sauf que tout ce qui m'attend ici, c'est un verre de vodka, un feu de camp et les gйmissements d'autres ratйs comme moi. Et encore... seulement si je rejoins un gang.</text>
+	</string>
+	<string id="dm_about_4">
+		<text>T'as entendu parler de Firmament ? Ces mecs sont tellement paranos et discrets que c'est а croire qu'ils sont tous des agents secrets ou un truc dans le genre. Et encore, tout ce que j'en sais, moi, je le tiens de bribes de conversations radio et des histoires d'autres stalkers...</text>
+	</string>
+	<string id="dm_about_5">
+		<text>Le Marais, c'est le pire endroit oщ un stalker peut finir... Les seuls mecs qu'on trouve ici, c'est ceux qui fuient des problиmes encore plus graves que le Marais, les mutants ou la chaude-pisse ! De l'autre cфtй du Cordon, ils seraient tous en prison ou six pieds sous terre. Moi, je m'entendais pas trop avec les militaires, alors je me suis planquй un peu partout dans la Zone jusqu'а ce que l'Йmission ouvre un passage vers le Marais. Franchement, y a pire comme planque...</text>
+	</string>
+	<string id="dm_about_6">
+		<text>Je vais te dire, mon pote, s'il y a un endroit sur Terre oщ tu peux vraiment "disparaоtre", c'est bien ici ! Tu peux passer des semaines а tourner en rond sans voir personne. Et si les monstres te font pas la peau, c'est les sables mouvants qui s'en chargeront. C'est pas зa qui manque, crois-moi ! Je traоne dans le coin depuis qu'on a dйcouvert un passage et je peux t'assurer que c'est la meilleure planque qui soit... tant que tu survis !</text>
+	</string>
+	<string id="dm_about_7">
+		<text>Ces marais grouillent de vie et je parle pas que des mutants ! Y'a des tas de stalkers par ici, certains qui fuient les forces de l'ordre, d'autres qui veulent йchapper а leurs anciens potes. Et ils sont venus au bon endroit ! On vient а peine de dйcouvrir des passages а travers les champs d'anomalies et y'a encore plein de coins qu'ont jamais йtй visitйs ! Mais зa nous facilite pas la vie pour autant... Зa fait beaucoup de monde et pas que du beau linge, si tu vois ce que je veux dire. Certains de ces types te mettraient une balle dans la tкte pour te piquer tes bottes !</text>
+	</string>
+	<string id="dm_about_8">
+		<text>Les monstres, le Marais, toute la putain de Zone ! J'en ai marre de ce trou puant ! Je suis pas venu ici pour chier dans mon froc chaque fois qu'un roseau bouge, qu'une goutte tombe dans l'eau ou qu'un hйlico passe au-dessus de moi ! Je ferais mieux de rassembler un petit groupe de mecs et qu'on aille se trouver un coin plus sec ! C'est vrai, quoi ! C'est quand mкme mieux d'avoir des potes pour surveiller ses arriиres, non ? Un bon feu de camp, quelques conserves, une guitare et c'est le paradis sur Terre !</text>
+	</string>
+	<string id="dm_about_9">
+		<text>Ici, c'est tous les jours pareil : des bandits qui se planquent dans les roseaux, des mecs qui se noient dans les sables mouvants, des hйlicos qui tirent sur les stalkers... oh, et y'a aussi ces gars en tenue de camouflage bleu, les mecs de Firmament. C'est marrant quand on y pense. Зa fait un sacrй moment qu'ils sont lа, mais on en a entendu parler que trиs rйcemment...</text>
+	</string>
+	<string id="dm_about_10">
+		<text>Avant l'Йmission, les stalkers y rйflйchissaient а deux fois avant de venir ici. Y a trop d'anomalies, trop de gadoue, trop d'humiditй, sans oublier que зa pue ! Et puis, il y a aussi les monstres, les moustiques qui sont pires que tout et ces saloperies de roseaux а perte de vue... Alors, pourquoi se faire chier а venir ici, hein ? Mais tout зa a changй aprиs l'Йmission : les anomalies se sont dйplacйes et chaque faction a voulu sa part du gвteau. Du coup, maintenant, aussi йtrange que зa paraisse, on vit bien mieux dans le coin. Et y a plus de passage, aussi, surtout des paumйs comme moi et mкme des tarйs qui pensent pouvoir faire leur trou par ici.</text>
+	</string>
+	<string id="dm_about_11">
+		<text>Oh, j'en ai vraiment ma claque de ce Marais ! Ah зa, je retournerais bien sur la terre ferme... Mais bon j'ai eu quelques... histoires, on va dire... Je rejoindrais bien un clan, mais il y en a pas vraiment dans le coin, а part ces bandits.</text>
+	</string>
+	<string id="dm_about_12">
+		<text>Ce Marais, c'est pas une sinйcure ! Ca, c'est clair ! C'est plutфt le trou du cul du monde, mкme pire que le reste de la Zone ! Mais c'est bien pour зa que je suis venu ici, en fait. Y avait des gars qui pensaient que je leur devais un truc et ils voulaient pas attendre pour les intйrкts. Alors je me suis planquй ici, oщ j'ai de bien meilleures chances de survivre... Ils me trouveront jamais dans tous ces roseaux !</text>
+	</string>
+	<string id="dm_about_13">
+		<text>Y'a une nouvelle faction qui est apparue rйcemment, ils se font appeler Firmament. Je sais pas du tout ce qu'ils trafiquent, mais crois-en un mec qu'a pas mal bourlinguй dans sa vie : ces gars-lа, ce sont des intellos finis ! Comment зa, tu piges pas ? Des scientifiques, des binoclards, des intellos, quoi ! Mais зa les empкche pas de savoir se dйmerder avec une arme. Et moi, un mec avec un cerveau qui fonctionne et un flingue, je le laisse tranquille !</text>
+	</string>
+	<string id="dm_action_info_0">
+		<text>Hй, va pas trop poser de questions par ici, tu survivras plus longtemps ! Crois-en mon expйrience : j'ai йtй un peu trop curieux а mon йpoque et maintenant, faut que je me planque dans ce trou puant. Mais bon, au final, c'est pas si mal... Grвce а l'Йmission, j'ai eu la chance de finir ici. Tu peux te balader dans le Marais pendant des semaines sans croiser personne, а part des sangliers ou des barbaks !</text>
+	</string>
+	<string id="dm_action_info_1">
+		<text>Bordel ! T'appelles зa de la chance ? Mais bon, la roue tourne et tout finit par se payer... Tu crois que j'ai choisi de finir dans ce trou ? Non, monsieur ! Je me dйbrouillais comme un chef dans la Zone, tout marchait comme sur des roulettes, je me faisais des couilles en or... jusqu'а ce que mes potes aient la bonne idйe d'essayer de me planter un couteau dans le dos... Pourquoi ? C'est pas tes oignons !</text>
+	</string>
+	<string id="dm_action_info_2">
+		<text>Je me suis laissй embarquer dans une partie de cartes. J'ai fait 'tapis', j'ai mкme pariй ma tкte. Mais comme j'avais pas vraiment envie de rйgler mes dettes, je me suis tirй pour venir ici. En plus, je me suis coltinй les militaires en cours de route. Et maintenant, je suis coincй lа avec des mecs encore plus louches que moi...</text>
+	</string>
+	<string id="dm_action_info_3">
+		<text>Avant d'arriver ici, j'йtais en taule а cause d'un connard qui m'a fait porter le chapeau pour un truc qu'il avait fait. Comme зa rentrait pas vraiment dans mon plan de carriиre, on s'est fait la malle, avec quelques autres gars. On a butй un garde, on a piquй son flingue et on a mis le cap direct vers la Zone. Une fois arrivйs, j'ai quittй le groupe et je me suis venu ici. Ces mecs йtaient plus pourris que ce Marais...</text>
+	</string>
+	<string id="dm_action_info_4">
+		<text>C'est quoi, toutes tes questions, hein ? Comment je sais que t'es pas un mouchard ? Ouais, ouais, pas la peine de s'exciter ! Je sais que personne me retrouvera ici... Ok, je vais tout te raconter. J'ai йtй assez con pour voler des voleurs... Quand j'ai compris qu'ils feraient n'importe quoi, et je dis bien n'importe quoi, pour rйcupйrer leur fric, j'ai filй tout droit vers la Zone. Mais ces mecs m'ont retrouvй et ils ont mкme envoyй des tueurs а mes trousses. J'ai rйussi а m'en dйbarrasser, enfin, pour l'instant. Du coup, je me demande si зa vaudrait pas mieux de monter mon gang. Y a du fric а se faire ici, je le sens...</text>
+	</string>
+	<string id="dm_action_info_5">
+		<text>Alors, voilа, j'йtais fan de films d'actions. C'est pour зa que je suis venu dans la Zone, je voulais кtre un hйros d'Hollywood. Йvidemment, je me suis vite attirй des emmerdes... а la pelle. J'avais que des ennemis, alors je suis venu me planquer ici. C'est pas tellement plus sыr qu'ailleurs, mais au moins, il faut pas longtemps pour disparaоtre dans les roseaux. Mais bon, c'est pas vraiment comme dans les films...</text>
+	</string>
+	<string id="dm_action_info_6">
+		<text>C'est tout simple : j'avais йnervй un mec qu'avait des relations et qui, du coup, avait mis ma tкte а prix. Alors, quand j'ai appris qu'on pouvait facilement devenir chasseur de prime dans la Zone... je me suis fait tout petit et je suis venu ici... Quand зa se sera calmй, j'irai retrouver ce connard et on discutera d'homme а homme !</text>
+	</string>
+	<string id="dm_intro_13">
+		<text>Content de te voir !</text>
+	</string>
+	<string id="dm_intro_14">
+		<text>Bonjour !</text>
+	</string>
+	<string id="dm_intro_15">
+		<text>Salut !</text>
+	</string>
+	<string id="dm_intro_16">
+		<text>Ouais ?</text>
+	</string>
+	<string id="dm_intro_17">
+		<text>Besoin d'aide ?</text>
+	</string>
+	<string id="dm_intro_18">
+		<text>Je peux faire quelque chose pour toi ?</text>
+	</string>
+	<string id="dm_intro_19">
+		<text>Bienvenue dans le Marais !</text>
+	</string>
+	<string id="dm_intro_20">
+		<text>Un petit conseil : fais gaffe aux sables mouvants et aux monstres !</text>
+	</string>
+	<string id="dm_intro_21">
+		<text>Tiens, une nouvelle tкte !</text>
+	</string>
+	<string id="dm_intro_22">
+		<text>Crois-moi, mec, t'as tout intйrкt а rester dans les roseaux !</text>
+	</string>
+	<string id="dm_intro_23">
+		<text>Si tu veux sortir du marais, va falloir que tu te trouves un guide.</text>
+	</string>
+	<string id="dm_about_14">
+		<text>Pendant longtemps, le Marais est restй inaccessible а la plupart des stalkers. On vivait tranquilles ici, а explorer les environs et а repousser les mutants. Mais l'Йmission a tout changй. Les anomalies se sont dйplacйes et on a commencй а croiser plein de nouvelles tкtes, principalement en provenance du Cordon. J'ai du mal а imaginer а quoi ils veulent йchapper pour avoir envie de venir s'installer ici...</text>
+	</string>
+	<string id="dm_about_15">
+		<text>Le Marais est un refuge pour les fugitifs de tout poil. Solitaires, traоtres de toutes les factions, malchanceux au jeu ou criminels, ils sont tous les bienvenus ici et ils ont tous droit а un accueil, plus ou moins chargй en plomb en fonction de leurs antйcйdents.</text>
+	</string>
+	<string id="dm_about_16">
+		<text>Il faut intervenir, et vite ! On dirait que la Zone est en train de se rйveiller d'un long sommeil. La derniиre йmission йtait si forte qu'on aurait cru que c'йtait la fin du monde ! On ne peut pas se contenter de s'enterrer ici et d'attendre qu'un vrai dйsastre se produise ! Je ne veux mкme pas imaginer les consйquences ! La premiиre catastrophe de Tchernobyl ressemblera а un pйtard mouillй en comparaison !</text>
+	</string>
+	<string id="dm_about_17">
+		<text>Nous йtudions les activitйs anormales du secteur. Le Marais est idйal pour ce genre de recherches. Nous avons dйjа identifiй diffйrents endroits prometteurs et nous en dйcouvrons de nouveaux chaque jour. Si seulement nous avions plus de fonds...</text>
+	</string>
+	<string id="dm_about_18">
+		<text>Cet endroit ne ressemble en rien а la Zone. Bien sыr, il grouille de monstres, mais il contient trиs peu d'anomalies. En dehors de cela, c'est un marais tout ce qu'il y a de plus classique...</text>
+	</string>
+	<string id="dm_about_19">
+		<text>Les marais йtaient plutфt tranquilles avant. Personne ne nous dйrangeait, personne ne cherchait d'artefacts. On risque tout autant de se faire tuer ici qu'ailleurs dans la Zone, mais cette jungle de roseaux et d'eau croupie n'attirait pas grand monde. Mais les temps changent. Je ne sais pas ce qui se passe en dehors du marais, mais il y a toutes sortes de tкtes brыlйes qui dйbarquent ici maintenant.</text>
+	</string>
+	<string id="dm_about_20">
+		<text>Il n'y a pas grand chose а en dire : des marйcages, des roseaux, des monstres... sans oublier les moustiques gйants, йvidemment. Le Cordon est au nord-ouest et l'Agroprom plein nord. Au sud et а l'ouest, au-delа des limites de la Zone, tout est normal.</text>
+	</string>
+	<string id="dm_about_21">
+		<text>C'йtait trиs calme jusqu'а tout rйcemment. Il n'y avait que nous, le Marais, les sangliers et les barbaks. Mais maintenant, il y a foule et les nouveaux-venus ne sont pas trиs recommandables. Les honnкtes gens n'ont rien а faire ici. Mais il ne faut pas prendre la mouche ! Il y a toujours des exceptions.</text>
+	</string>
+	<string id="dm_about_22">
+		<text>C'est а cause de nos chefs, Lebedev et Beanpolev, qu'on a fini ici. On a installй notre base dans un village qui avait йtй inondй а l'йpoque des Soviйtiques, lors de la construction du rйservoir. Il n'est sur aucune carte, alors c'est impossible de nous trouver sans guide.</text>
+	</string>
+	<string id="dm_about_23">
+		<text>On est venu ici pour йviter d'attirer l'attention. Pourquoi ? Pour de nombreuses raisons que Lebedev et Beanpolev t'expliqueront, si tu as la patience de les йcouter. Ici, on est а l'abri des visiteurs. Si tu veux aller а la base, ne pars pas tout seul, prends un guide ! Pas la peine de prendre des risques inutiles !</text>
+	</string>
+	<string id="dm_about_24">
+		<text>Cet endroit est un trou paumй, froid, humide et puant а souhait. Qu'est-ce que tu veux que je te dise d'autre ? Ce que зa fait de se faire entraоner au fond du marais par une bestiole affamйe qui veut casser la croыte ? Ce que зa fait de s'enfoncer dans les sables mouvants en moins d'une minute chrono ?</text>
+	</string>
+	<string id="dm_about_25">
+		<text>C'est l'endroit parfait pour se cacher de tout le monde : des bandits, militaires, qui que ce soit qui te cherche. Il suffit de sauter dans les roseaux et hop, t'as disparu ! Bien sыr, faut pas trop s'endormir par ici, il y a bien trop de piиges et pas mal de bestioles aussi. Il vaut mieux regarder oщ tu marches, crois-moi !</text>
+	</string>
+	<string id="dm_about_26">
+		<text>Tu pourrais marcher dans le marais pendant des jours et pas en voir la sortie pour autant. Tout se ressemble par ici : il n'y a que de l'eau, des roseaux et de temps en temps, un endroit un peu plus sec. J'imagine que c'est pour зa que Lebedev et Beanpolev ont choisi de s'installer ici. Mкme les hйlicos de l'armйe ne peuvent pas nous repйrer. Du coup, on pouvait s'occuper tranquillement de nos affaires, sans que personne ne nous dйrange.</text>
+	</string>
+	<string id="dm_about_27">
+		<text>On se cache ici depuis si longtemps que j'ai l'impression que le monde n'est qu'un gigantesque marais. Il paraоt qu'il y avait des terres normales dans le coin, avec des villages et des champs... jusqu'au jour oщ ils ont commencй а construire un barrage pour la station hydroйlectrique et inondй le secteur. Je ne sais pas s'ils se sont trompйs dans les calculs ou s'ils n'йtaient tout simplement pas douйs, toujours est-il qu'il y a eu beaucoup trop d'eau et que pas mal de monde n'a pas pu кtre йvacuй. Du coup, maintenant, il ne reste plus qu'un йnorme marais...</text>
+	</string>
+	<string id="dm_about_28">
+		<text>Regarde autour de toi ! Oщ que tu tournes le regard, c'est la mкme chose : des roseaux а perte de vue, des ruines а moitiй englouties et quelques оlots de terre ferme. Et n'essaye mкme pas de trouver notre base, tu ne saurais pas par oщ commencer ! Il n'y a pas grand monde qui soit au courant de l'existence de Firmament, alors on ne se fait pas trop de soucis, on ne risque pas d'кtre dйcouverts.</text>
+	</string>
+	<string id="dm_about_29">
+		<text>On s'est installй ici pour une bonne raison. Avant l'Йmission, c'йtait la partie la plus inaccessible et la plus isolйe de la Zone. Bien entendu, on aurait pu s'aventurer plus loin vers le centre, mais personne ne revient de ce genre de ballade. Le Cordon est а l'est, l'Agroprom au nord et au sud et а l'ouest... c'est lа que la Zone se termine.</text>
+	</string>
+	<string id="dm_about_30">
+		<text>Tu t'adresses а la bonne personne ! Personne ne connaоt mieux le marais que les gars de Firmament. On est lа depuis... Franchement, j'en ai plus aucune idйe. C'est comme si le temps s'йcoulait aussi lentement que les eaux du marais, ici. Tu verras, bientфt, toi aussi, tu ne compteras plus les jours... Enfin bref, si tu veux partir, trouve un guide parmi les gars de Firmament. Зa servirait а rien que je te dise par oщ passer.</text>
+	</string>
+	<string id="dm_action_info_7">
+		<text>C'est notre boulot. L'Йmission nous a bien occupй. Pour tout te dire, on n'est pas vraiment des combattants, mais si on veut survivre de nos jours, il vaut mieux savoir se servir d'un fusil. Et j'ai comme l'impression qu'il va bientфt y avoir de l'action dans le coin.</text>
+	</string>
+	<string id="dm_action_info_8">
+		<text>Je suis en mission pour Lebedev. Dйsolй, mais je ne peux rien dire.</text>
+	</string>
+	<string id="dm_action_info_9">
+		<text>Je me prйpare pour ma prochaine mission. Il y a trop de mauvais coucheurs dans le marais ces derniers temps. Tout le monde pense que la force fait loi. Ils semblent oublier qu'а toute force peut s'en opposer une plus grande encore...</text>
+	</string>
+	<string id="dm_action_info_10">
+		<text>Je me tourne les pouces, mais зa va pas durer. Firmament a toujours du boulot pour nous autres et on va bientфt avoir du pain sur la planche.</text>
+	</string>
+	<string id="dm_action_info_11">
+		<text>Je me prйpare pour une mission au plus profond du marais. La Zone est agitйe, alors il faut qu'on se bouge, et vite ! Crois-moi sur parole, stalker ! Il va y avoir du changement.</text>
+	</string>
+	<string id="dm_action_info_12">
+		<text>Comme tout le monde, j'explore la Zone. C'est le phйnomиne le plus incroyable que l'homme ait jamais vu. On ne devrait pas la combattre. On devrait l'йtudier, essayer de la comprendre et de coexister en paix. La Zone ne disparaоtra pas de sitфt, alors autant apprendre а vivre avec elle !</text>
+	</string>
+	<string id="dm_action_info_13">
+		<text>On fait tous plus ou moins la mкme chose : on йtudie la Zone. Elle trouve un nouveau moyen de me surprendre chaque jour. Elle recиle autant de merveilles que d'horreurs, des artefacts que je ne peux mкme pas dйcrire. Les stalkers vйtйrans parlent d'un monolithe au coeur de la Zone qui serait capable d'exaucer les voeux. J'aurai le fin mot de cette histoire un jour.</text>
+	</string>
+	<string id="dm_action_info_14">
+		<text>Mes instruments ont captй une forte concentration d'йnergie, ce qui signifie qu'il y a sыrement de nombreux artefacts ou anomalies par lа. J'ai pris les relevйs et je les ai envoyйs а Beanpolev. Maintenant, j'attends les ordres suivants.</text>
+	</string>
+	<string id="dm_action_info_15">
+		<text>Rien pour l'instant, mais j'ai pas mal de responsabilitйs. Les hommes de Firmament sont tous scientifiques, soldats et techniciens. Un jour, on se bat. Le lendemain, on part en expйdition scientifique. C'est notre lot quotidien.</text>
+	</string>
+	<string id="dm_action_info_16">
+		<text>J'ai rejoint Firmament par accident en fait. J'йtais en train de me noyer dans le marais quand ces gars sont sortis de nulle part, m'ont repкchй et m'ont emmenй а leur base. J'ai discutй avec Lebedev et j'ai trouvй qu'il йtait plein de bon sens. Il en sait plus sur la Zone que n'importe qui. Le clan semblait avoir un objectif sain, alors je les ai rejoints et depuis, je fais tout ce que je peux pour les aider.</text>
+	</string>
+	<string id="dm_action_info_17">
+		<text>Je suis un vieux de la vieille, un des premiers membres du clan. J'йtudie les effets de la Zone sur le Marais depuis le dйbut. Je prends des relevйs et des mesures, je mets les cartes а jour, j'entretiens l'йquipement... Et puis, je descends quelques mutants de temps en temps, а des fins scientifiques, bien sыr. C'est triste а dire, mais je me sers de plus en plus de mon arme ces derniers temps...</text>
+	</string>
+	<string id="dm_action_info_18">
+		<text>Comme tous les autres membres de Firmament, on observe et on rassemble donnйes. Je pense que Lebedev et Beanpolev en savent plus que nous tous. Mais ils nous en parlent rarement, а nous, les simples troufions. On s'occupe des prioritйs du moment et on les laisse rйflйchir а la stratйgie а plus long terme.</text>
+	</string>
+	<string id="dm_action_info_19">
+		<text>J'attends des nouvelles de nos gars. Ils sont partis en mission au fin fond du marais. Ils pourraient avoir besoin d'aide.</text>
+	</string>
+	<string id="dm_cool_info_0">
+		<text>Je sais pas par oщ commencer ! D'abord, il y a l'Йmission... Elle a changй bien plus que la Zone. Elle nous a tous changйs. On dirait que notre colиre s'est exacerbйe. C'est vrai, maintenant, tu peux кtre ami avec quelqu'un et, dans la minute qui suit, te retrouver avec son arme pointйe sur ta tempe... Oh, m'йcoute pas, je sais plus ce que je raconte. Tu ferais mieux de demander а Lebedev.</text>
+	</string>
+	<string id="dm_cool_info_1">
+		<text>Les йmissions se font de plus en plus nombreuses. Je n'ai jamais rien vu de pareil. La Zone se convulse et tout change autour de nous. Les chemins familiers sont parsemйs d'anomalies mortelles, alors que de nouveaux territoires s'ouvrent а nous. Le Marais lui-mкme est devenu plus accessible. Зa ne m'йtonnerait pas que les factions des environs essayent d'йtendre leur territoire.</text>
+	</string>
+	<string id="dm_cool_info_2">
+		<text>Comment je saurais ce qu'il y a de neuf ? Vivre dans ce marais, c'est comme vivre sur une autre planиte ! Tu ferais mieux de demander aux nouveaux arrivants.</text>
+	</string>
+	<string id="dm_cool_info_3">
+		<text>Il paraоt que l'Йmission a ouvert des voies d'accиs vers de nombreux endroits, pas seulement le Marais. Les coins oщ s'йtaient installйs les stalkers sont devenus des piиges а anomalie et des secteurs inaccessibles avant sont dйsormais ouverts а l'exploration.</text>
+	</string>
+	<string id="dm_cool_info_4">
+		<text>D'aprиs nos recherches, la frйquence croissante des йmissions n'est pas une bonne chose. La Zone devient instable. Tous ces changements vont mener а des guerres de territoire : toutes les factions vont vouloir s'approprier les secteurs maintenant dйpourvus d'anomalies. Зa ne va pas tarder а tourner au vinaigre, а mon avis...</text>
+	</string>
+	<string id="dm_cool_info_5">
+		<text>Il paraоt que les stalkers du Cordon ont donnй une bonne raclйe aux militaires. Je ne vois pas comment ils ont pu y arriver, mais bon, ce ne sont que des rumeurs... Quoi d'autre... Ils ont dйcouvert une cache de vйhicules, d'йquipement et d'autres trucs dans la Dйcharge, du matйriel qui date de 1986, de l'йpoque de la premiиre catastrophe. Les soviйtiques les croyaient contaminйs et les ont abandonnйs, mais maintenant, ils ont pris une valeur inestimable pour les stalkers des environs. Зa a provoquй une vйritable ruйe vers l'or, avec son lot de bandits а l'affыt du moindre profit. La Dйcharge est maintenant sous leur contrфle et les stalkers y laissent leur chemise.</text>
+	</string>
+	<string id="dm_cool_info_6">
+		<text>Cette йmission ne nous a rien apportй de bon. Elle a йtй suivie de quelques jours de calme, mais ce n'йtait que le calme avant la tempкte... De nombreuses factions se prйparent au combat, la nфtre y compris. Les autres se battront pour gagner de nouveaux territoires, mais notre objectif sera trиs, trиs diffйrent...</text>
+	</string>
+	<string id="dm_intro_24">
+		<text>Hй !</text>
+	</string>
+	<string id="dm_intro_25">
+		<text>T'as des questions ? Je suis lа pour t'aider !</text>
+	</string>
+	<string id="dm_intro_26">
+		<text>Vas-y, pose tes questions tant que je suis d'humeur а y rйpondre !</text>
+	</string>
+	<string id="dm_intro_27">
+		<text>Salut, stalker ! Bienvenue au Cordon !</text>
+	</string>
+	<string id="dm_intro_28">
+		<text>Зa fait un bail que j'avais pas vu un vrai mercenaire au Cordon. T'es bien un mercenaire, non ?</text>
+	</string>
+	<string id="dm_intro_29">
+		<text>Salut, frиre stalker ! Bienvenue sur notre territoire !</text>
+	</string>
+	<string id="dm_intro_30">
+		<text>Je suis content de rencontrer un frиre d'armes !</text>
+	</string>
+	<string id="dm_intro_31">
+		<text>Salut ! T'йloigne pas de nous, les bandits et les militaires ont la gвchette facile ces derniers temps !</text>
+	</string>
+	<string id="dm_about_31">
+		<text>Le Cordon, c'est un peu l'antichambre de la Zone : on y trouve peu d'anomalies, quasiment pas d'artefacts et а peine quelques mutants inoffensifs. Il y a des routes qui mиnent а la Dйcharge et а la Vallйe obscure. Tu peux mкme aller dans Marais, mais je vois vraiment pas pourquoi tu voudrais te perdre dans cet enfer...</text>
+	</string>
+	<string id="dm_about_32">
+		<text>C'йtait plutфt tranquille par ici avant. Les nouveaux faisaient leurs premiиres armes en toute sйcuritй, les stalkers un peu plus expйrimentйs revendaient leurs artefacts а Sidorovich et les militaires les "protйgeaient" des bandits. La routine, quoi. En gйnйral, les bidasses йtaient plutфt rйglos et utiles. Mais tout a changй maintenant... Des bandits sont venus de la Dйcharge et ont commencй а faire affaire avec le commandant. Depuis, c'est le chaos et on peut plus faire confiance aux militaires. Mais bon, зa a pas eu que des effets nйgatifs : les stalkers se sont regroupйs, alors les militaires peuvent plus rien contre nous.</text>
+	</string>
+	<string id="dm_about_33">
+		<text>Tu te fous de ma gueule ? J'arrive pas а croire qu'un vieux de la vieille comme toi ait jamais entendu parler du Cordon ! C'est le point de dйpart de la plupart des bleus. Il mиne а des endroits plus dangereux, comme la Dйcharge, la Vallйe obscure ou le Marais. Y a pas grand-chose а craindre ici, а part les bandits et les bidasses, qui commencent а se la pйter. Mais on va s'occuper de leur cas... Y a pas mal de stalkers du coin qui se sont regroupйs.</text>
+	</string>
+	<string id="dm_about_34">
+		<text>Bon, au-delа de l'avant-poste, c'est le limite de la Zone, le monde d'oщ on vient tous, oщ y a pas d'anomalies, pas de monstres, mais зa, tu le sais dйjа. А l'ouest, c'est le Marais. Par lа, c'est la route vers le village des nouveaux et le vieil entrepфt oщ sont basйs les militaires. Il y a un camp de stalkers juste aprиs le pont et au-delа, c'est le territoire des bandits et de la Libertй : la Dйcharge et la Vallйe obscure. Voilа, c'est а peu prиs tout.</text>
+	</string>
+	<string id="dm_about_35">
+		<text>Ces militaires sont qu'une bande d'escrocs ! Leur boulot, c'est de verrouiller la Zone et d'empкcher toute entrйe et sortie. Mais tu t'es jamais demandй comment on arrivait а faire entrer tellement de matos de l'extйrieur et comment tellement d'artefacts ou d'autres objets illйgaux de la Zone se retrouvaient dans le monde entier ? Йvidemment, tout passe par les bidasses, et tu peux кtre sыr qu'ils prennent une commission au passage ! Avant, ils se contentaient de pas grand-chose et ils fermaient l'oeil, mais maintenant, c'est fini ! Bakchich ou pas bakchich, t'es plus en sыretй avec eux ! Le truc, c'est qu'au lieu de se laisser racketter bien gentiment, des stalkers se sont regroupйs et tiennent tкte aux militaires. Il paraоt mкme qu'ils ont capturй le commandant de l'avant-poste.</text>
+	</string>
+	<string id="dm_about_36">
+		<text>C'est partout pareil, en fait. Certains stalkers cherchent des artefacts, d'autres cherchent а les en dйpouiller. On risque nos vies а la recherche d'anomalies et а combattre des mutants, et pour quoi, au final ? Pour se faire piquer notre butin ! Tu vois pas de qui je parle ? Des bidasses, bien sыr ! Mais bon, ils se tiennent а carreau, depuis qu'on a pris leur commandant en otage ! Ils peuvent pas le signaler а l'йtat-major, les huiles demanderaient une inspection et les gars du Cordon ont pas vraiment envie qu'on dйcouvre leurs petites combines. Du coup, ils se font tout petits.</text>
+	</string>
+	<string id="dm_about_37">
+		<text>Les stalkers s'unissent ! Dans certaines situations, y a que l'union qui peut faire la force. On a les militaires qui montrent les dents d'un cфtй, et les bandits qui nous йgorgent de l'autre. Alors, а force d'кtre entre le marteau et l'enclume, on a dйcidй de plus se laisser faire. Qu'ils y viennent, on les attend de pied ferme !</text>
+	</string>
+	<string id="dm_about_38">
+		<text>Ok, on va faire l'impasse sur les merdes habituelles des stalkers, les anomalies, les mutants, les radiations, tout зa... Je vais te donner des nouvelles toutes fraоches : les stalkers et l'armйe sont en bisbille au sujet d'un certain butin. Les stalkers ont pris le commandant en otage. Du coup, les soldats ont plus franchement le moral. Mais le commandant a йtй assez futй pour planquer la marchandise et lа, c'est l'impasse : les bidasses peuvent pas demander de l'aide а l'extйrieur, mais ils peuvent pas non plus attaquer les stalkers et risquer de perdre leur commandant et la marchandise. En dehors de зa, on voit de plus en plus de bandits en provenance de la Dйcharge. Ouais, c'est а peu prиs tout ce qu'il y a de neuf. Fais gaffe а toi !</text>
+	</string>
+	<string id="dm_about_39">
+		<text>Зa bouge pas mal en ce moment ! Les stalkers contrфlent le Cordon pour la premiиre fois. Ils ont mкme converti la vieille ferme en une base fortifiйe. C'est dingue, tu trouves pas ? Si зa continue, la Zone toute entiиre va tomber aux mains des stalkers... Et ce serait dans l'ordre des choses, si tu veux mon avis !</text>
+	</string>
+	<string id="dm_about_40">
+		<text>La vie au Cordon, c'est pas facile tous les jours ! On se bat contre les militaires et les bandits, et on commence а en avoir vraiment ras-le-cul ! Les bidasses nous cassent vraiment les couilles et les autres pillards aimeraient bien choper notre territoire. Mais bon, зa reste quand mкme l'un des coins les moins dangereux de la Zone.</text>
+	</string>
+	<string id="dm_about_41">
+		<text>Les factions de la Zone sont en guerre а et cherchent а s'approprier de nouveaux territoires et champs d'artefacts. C'est pareil au Cordon. Entre l'armйe, les bandits et nous, les stalkers, зa bastonne sec. Pour l'instant, on s'en sort pas trop mal...</text>
+	</string>
+	<string id="dm_about_42">
+		<text>La Zone commence au Cordon. Tous les nouveaux y passent un mois ou deux pour apprendre les ficelles du mйtier. А moins qu'ils se fassent jeter avant.... Mais bon, tu sais dйjа tout зa, toi, t'as pas l'air d'un dйbutant...</text>
+	</string>
+	<string id="dm_about_43">
+		<text>Avant, on coopйrait avec les militaires. En йchange d'une commission, ils laissaient passer notre marchandise. Mais, d'un coup, ils sont devenus gourmands et se sont mis а plus se sentir. Ils ont commencй а confisquer notre matos et ils ont mкme lancй des bandits а nos trousses. Alors, depuis, on a comme un petit "dйsaccord"... et on se bat а la fois contre les militaires et contre les bandits !</text>
+	</string>
+	<string id="dm_about_44">
+		<text>Nos gars ont dйterrй un artefact de grande valeur rйcemment. Cinq d'entre eux ont passй l'arme а gauche en le ramenant ici et ceux qui s'en sont sortis йtaient pas beaux а voir... Cйtait pour un client de Sidorovich. Зa devait кtre quelqu'un de trиs important, parce que le marchand, il voulait pas en causer... Enfin bref... le commandant de l'avant-poste a dйcidй que sa commission habituelle ne suffisait plus. Il a filй le tuyau а des bandits qui nous ont tendu une embuscade. Tous nos gars y sont passйs et la marchandise a disparu. Au dйbut, on voulait rйgler son compte direct au commandant, mais on a dйcidй de le garder en otage, finalement... On veut rйcupйrer ce qui nous appartient, et il finira par cracher le morceau, crois-moi !</text>
+	</string>
+	<string id="dm_action_info_20">
+		<text>Je suis comme tout le monde, je cherche juste а m'en sortir et а me faire un peu de fric. J'ai vraiment hвte de voir les stalkers prendre le contrфle du Cordon ! J'ai toujours su que les bandits et les bidasses allaient s'en prendre plein la gueule ! Et puis, mine de rien, ce sera vachement plus facile de faire passer des artefacts.</text>
+	</string>
+	<string id="dm_action_info_21">
+		<text>Pour l'instant, je m'habitue au dйcor et je me fais un peu d'argent de poche. Dиs que j'aurai assez, j'achиterai une bonne combinaison et une arme efficace, et j'irai direct au centre de la Zone. Paraоt qu'y a des gars qui y sont allйs et qu'ils ont trouvй l'Exauceur de voeux. Moi aussi, je compte bien y aller, et quand je l'aurai trouvй, je me planterai pas de voeu, зa, tu peux me croire !</text>
+	</string>
+	<string id="dm_action_info_22">
+		<text>J'avais entendu des tas d'histoires sur la Zone et j'avais йtй assez dйbile pour y croire... Mais une fois sur place, je me suis vite rendu compte que c'йtait que des conneries, tout ce qu'on m'avait racontй. Faut croire que je suis pas aussi coriace que je le pensais... C'est plus facile de crever que de trouver des artefacts ici... Mais ce qui me tue vraiment, c'est que t'es en sйcuritй nulle part. Faut toujours garder au moins un oeil ouvert, mкme quand tu dors !</text>
+	</string>
+	<string id="dm_action_info_23">
+		<text>Je suis tombй sous le charme de la Zone. Je faisais que passer par lа, un peu comme un touriste, et paf ! Le truc, c'est que tous les mecs du coin qu'ils soient tes potes ou tes ennemis, ils vivent vraiment а fond ! Le danger, le fait de savoir que tu risques de creuver а chaque instant... Зa te donne l'impression d'кtre vraiment en vie !</text>
+	</string>
+	<string id="dm_action_info_24">
+		<text>J'attends un pote а moi. Il transporte du butin qu'on a trouvй ensemble, mais on a pris des chemins diffйrents pour rentrer et je suis arrivй en avance. Nan, il a pas pu se perdre, c'est un vieux de la vieille, ce gars. Il a dы faire un dйtour ou alors, il s'est arrкtй pour roupiller. Je suis pas inquiet, il va plus tarder maintenant...</text>
+	</string>
+	<string id="dm_action_info_25">
+		<text>Un mec m'a vendu la carte d'une planque, mais je commence а me dire que je me suis fait arnaquer... J'ai passй tout le secteur au peigne fin et rien, pas un seul putain d'artefact ! Je vais aller me le faire, cet enfoirй !</text>
+	</string>
+	<string id="dm_action_info_26">
+		<text>Je me la coule douce pendant quelques jours... On est allйs jusqu'а la Barriиre et on y a installй des dйfenses contre les mutants qui sortent du centre de la Zone. On avait une bonne йquipe : Alex le pouilleux, Lesha, le Moisi, que des gars qui assurent ! On a trouvй du bon matos et on l'a vendu pour un joli paquet, alors lа, je suis en vacances ! </text>
+	</string>
+	<string id="dm_cool_info_7">
+		<text>Paraоt qu'un groupe de stalkers est allй jusqu'au centre de la Zone. Juste avant l'йmission qu'a tout chamboulй... Je me demande s'ils ont rйussi а atteindre l'Exauceur а temps...</text>
+	</string>
+	<string id="dm_cool_info_8">
+		<text>Зa a jamais йtй aussi dur de trouver du butin. Mкme si t'йchappes aux monstres et si t'arrives а traverser les champs d'anomalies, faut que t'йvites d'abord les bandits et aprиs les militaires. De nos jours, c'est plus vraiment rare de voir des gars revenir avec les poches encore plus vides qu'а leur dйpart. Quelqu'un devrait donner une bonne leзon а ces sangsues. Peut-кtre que les stalkers vont plus se laisser faire longtemps...</text>
+	</string>
+	<string id="dm_cool_info_9">
+		<text>T'as entendu parler de ce qui s'est passй а la Dйcharge ? Dиs que les stalkers ont commencй а dйterrer du matos de premiиre, ces charognards de bandits ont rappliquй aussi sec. Ils ont mкme йtabli une base dans le coin, histoire de pouvoir encore mieux dйpouiller les stalkers. C'est vraiment la merde lа-bas en ce moment. Les mineurs se font buter et le premier qui moufte finit dans un camp de travail, ce qui est pire que la mort, vu qu'ils obligent les prisonniers а fouiller dans les zones les plus contaminйes de la Dйcharge. Ils y crиvent tous des radiations et des anomalies, et les bandits s'engraissent sur leur dos. Un petit conseil, mon pote, fais bien gaffe а toi dans la Dйcharge.</text>
+	</string>
+	<string id="dm_cool_info_10">
+		<text>Paraоt qu'y a un genre de Lobotomisateur juste aprиs la Barriиre. Dиs que tu t'en approches, bam, il te crame le cerveau et tu finis comme les autres zombies ! Apparemment, personne a rйussi а aller plus loin. Paraоt qu'il y aurait un Exauceur de voeux par lа-bas, mais c'est que des racontars, si tu veux mon avis...</text>
+	</string>
+	<string id="dm_intro_32">
+		<text>Oublie les bonnes maniиres, on est pas chez la comtesse, ici ! Qu'est-ce que tu veux ?</text>
+	</string>
+	<string id="dm_intro_33">
+		<text>Tire-toi de lа, connard !</text>
+	</string>
+	<string id="dm_intro_34">
+		<text>Admettons que je veuille te causer... Qu'est-ce tu veux ?</text>
+	</string>
+	<string id="dm_intro_35">
+		<text>Quoi de neuf, mec ?</text>
+	</string>
+	<string id="dm_intro_36">
+		<text>Hй, t'as une clope ?</text>
+	</string>
+	<string id="dm_intro_37">
+		<text>Comment зa va ?</text>
+	</string>
+	<string id="dm_intro_38">
+		<text>Te fais pas chier avec les poignйes de main. Qu'est-ce que tu cherches ?</text>
+	</string>
+	<string id="dm_intro_39">
+		<text>Bordel, tu sors d'oщ, toi ? Allez, crache le morceau !</text>
+	</string>
+	<string id="dm_intro_40">
+		<text>Ben зa alors, une nouvelle tкte ! Comment зa va, mec ?</text>
+	</string>
+	<string id="dm_intro_41">
+		<text>Salut, mon pote ! Tu viens t'entraоner au tir aux pigeons ? Viens par ici, on a de quoi t'occuper !</text>
+	</string>
+	<string id="dm_intro_42">
+		<text>Ouais, salut. Qu'est-ce que tu veux ?</text>
+	</string>
+	<string id="dm_intro_43">
+		<text>Salut. Fais-moi plaisir, pas de mouvements brusques, ok ?</text>
+	</string>
+	<string id="dm_intro_44">
+		<text>Je me cache de la police, et toi ?</text>
+	</string>
+	<string id="dm_intro_45">
+		<text>La prison, c'йtait pas mon truc... Toi, t'es lа pour quoi ?</text>
+	</string>
+	<string id="dm_intro_46">
+		<text>Hй ! C'est sympa de voir quelqu'un qui a personne au cul !</text>
+	</string>
+	<string id="dm_intro_47">
+		<text>Hй mec, tu dois кtre dans une sacrйe merde pour avoir fini ici !</text>
+	</string>
+	<string id="dm_intro_48">
+		<text>Mais regardez qui s'amиne ! La Dйcharge accepte pas n'importe qui, juste les ordures, compris ?</text>
+	</string>
+	<string id="dm_intro_49">
+		<text>Tu viens d'oщ, toi ? Allez, assieds-toi, qu'on cause un peu !</text>
+	</string>
+	<string id="dm_intro_50">
+		<text>Hй mec, t'aurais pas une clope ou deux ?</text>
+	</string>
+	<string id="dm_intro_51">
+		<text>Bordel, t'as de la chance que je t'aie pas pris pour un mutant ! J'ai failli t'en coller une en pleine tкte !</text>
+	</string>
+	<string id="dm_intro_52">
+		<text>Ben toi alors, t'en as dans le futal pour oser te balader tout seul...</text>
+	</string>
+	<string id="dm_intro_53">
+		<text>Hй, Timmy, зa faisait un bail ! Je pensais justement а toi !</text>
+	</string>
+	<string id="dm_intro_54">
+		<text>Hй, mais regardez qui v'lа ! Allez, vas-y, raconte-moi tout !</text>
+	</string>
+	<string id="dm_intro_55">
+		<text>Hй, toi ! Tu voudrais pas venir par ici pour discuter deux secondes ?</text>
+	</string>
+	<string id="dm_intro_56">
+		<text>Oh putain, j'en crois pas mes yeux ! Une nouvelle tкte ! Fais comme chez toi, mec !</text>
+	</string>
+	<string id="dm_intro_57">
+		<text>Hй, du calme, tu veux ! On va causer, mais quand je dis que c'est fini, c'est fini, ok ?</text>
+	</string>
+	<string id="dm_intro_58">
+		<text>Comment va, mon pote ? Qu'est-ce que tu fais par ici ? Vas-y, dis-moi tout, sois pas timide !</text>
+	</string>
+	<string id="dm_intro_59">
+		<text>Bon, connard, soit tu causes, soit tu te casses !</text>
+	</string>
+	<string id="dm_intro_60">
+		<text>Tu serais pas flic, des fois ? T'as l'air sacrйment coincй...</text>
+	</string>
+	<string id="dm_intro_61">
+		<text>De quoi tu veux causer, tкte de noeud ?</text>
+	</string>
+	<string id="dm_about_45">
+		<text>Ces stalkers sont tous des lopettes des bois. C'est presque trop facile... Il suffit d'en choper un et de le secouer un peu pour qu'il te file tout ce qu'il a !</text>
+	</string>
+	<string id="dm_about_46">
+		<text>Non, mais tu me prends pour qui ? T'es pas а l'office du tourisme ici, alors dйgage !</text>
+	</string>
+	<string id="dm_about_47">
+		<text>Va te faire voir ailleurs, tu veux ! J'ai rien а te dire, mais mon flingue aimerait bien faire ta connaissance...</text>
+	</string>
+	<string id="dm_about_48">
+		<text>Va plutфt faire causette а un barbak ou а un clйbard... Je parle pas aux йtrangers, surtout s'ils ont ta tronche.</text>
+	</string>
+	<string id="dm_about_49">
+		<text>Oh, et puis merde ! Je vais tout te raconter. Le boss ici, c'est Yoga. Il s'est fait un petit coin douillet dans la base et il y planque un tas de matos de valeur. Et pis, y a Borov, le barman. Il se prend pour un aristo, celui-lа. Un peu plus loin, c'est l'Agroprom. C'est lа que les stalkers et ces coincйs du Devoir nous dйfendent contre les mutants, hй hй... Si tu vas dans l'autre sens, tu tomberas sur le marchй aux puces. Il y a plus de choix pendant la nuit, mais c'est plus dangereux aussi, notamment а cause des frиres Asubers. Et si tu continues par lа, t'arrives sur le territoire de la Libertй, la Vallйe obscure.</text>
+	</string>
+	<string id="dm_about_50">
+		<text>C'est dans la Dйcharge que les cocos balanзaient tout leur matos contaminй : transistors, moteurs... Bref, tout un tas de bordel... Йvidemment, si on йtait pas dans la Zone, зa servirait а personne, mais t'as sыrement remarquй qu'y a pas beaucoup de magasins de piиces dйtachйes dans le coin et faut quand mкme qu'on rйpare notre йquipement. Du coup, cette Dйcharge, c'est une vraie mine d'or ! Et puis, tout le monde se contrefout des radiations maintenant, alors y un tas de mecs qui se pointent pour se faire de la thune. Y en a qui creusent, d'autres qui revendent et d'autres qui prennent un petit pourcentage au passage... comme nous !</text>
+	</string>
+	<string id="dm_about_51">
+		<text>Franchement, c'est pas mon truc de faire l'йducation des petits nouveaux dans ton genre, alors je vais la faire courte. Le dйpфt, c'est notre base. L'Agroprom, а l'ouest, c'est le territoire du Devoir et des stalkers. Et а l'est, y a la faction de la Libertй... ces mecs-lа sont rйglos, mais on a quand mкme deux trois comptes а rйgler avec eux. Le nord, tu veux pas y aller... Depuis la derniиre йmission, c'est blindй d'anomalies. Et au sud, t'as le Cordon, oщ les troufions et des stalkers se tirent la bourre comme en quarante !</text>
+	</string>
+	<string id="dm_about_52">
+		<text>Y a pas mieux que la Dйcharge dans la Zone, crois-moi ! Si t'es pas une lopette, tu peux te faire des couilles en or ici. Dиs qu'ils trouvent un nouveau gisement de matos, les stalkers dйbarquent а toute blinde, comme des mouches а merde attirйes par une grosse bouse de vache. Et c'est lа que nous, on intervient. Les stalkers se pointent, ils creusent dans le pire des merdiers et ils nous filent gentiment le matos sans qu'on ait besoin de lever le petit doigt. On se contente de prendre une petit com' aux mecs qui font pas chier, mais ceux qui cherchent les emmerdes, on les envoie au camp de travail vite fait.</text>
+	</string>
+	<string id="dm_about_53">
+		<text>Notre groupe est rйservй aux meilleurs ! La crиme de la crиme des criminels endurcis ! Bon, on a aussi nos boulets, mais faut bien avoir des grouillots pour faire le sale boulot. Le seul truc qui manque, c'est des gonzesses...</text>
+	</string>
+	<string id="dm_about_54">
+		<text>C'est nous qui faisons la loi dans la Dйcharge et tout le monde doit suivre nos rиgles. Et la rиgle numйro un, c'est "tu partages le butin". Si t'es pas d'accord, on te fait changer d'avis. Et, crois-moi, ceux qui jouent au con le regrettent trиs vite.</text>
+	</string>
+	<string id="dm_about_55">
+		<text>C'est lа qu'on envoie les stalkers qui veulent creuser. Y a toujours des mecs qui essayent de nous arnaquer... Tu veux fouiller dans le coin, pas de problиme, mais faut pas oublier que la Dйcharge est а nous. Tout ce qu'on demande, c'est que tu sois rйglo, alors le prends pas mal si on te fouille а l'entrйe. C'est comme зa que зa marche ici.</text>
+	</string>
+	<string id="dm_about_56">
+		<text>Hй ! Tire-toi de lа, enfoirй ! Va donc causer aux mineurs, plutфt !</text>
+	</string>
+	<string id="dm_about_57">
+		<text>Notre boulot, c'est de choper les mecs qu'essaient de nous arnaquer. Ils pillent notre territoire, alors on les pille en retour. La Dйcharge reste sous contrфle et tout le monde reste calme, c'est compris ?</text>
+	</string>
+	<string id="dm_about_58">
+		<text>C'est lа que les vrais mecs se font des couilles en or et tout зa, grвce а des pauvres ratйs comme toi ! Suffit qu'un pauvre type se pointe, il a pas de thune et nulle part oщ crйcher... Mais nous, on est sympa et on le fait trimer pour nous. Il fouille la merde а la recherche de butin et nos marchands revendent le tout. C'est comme зa que зa marche par ici.</text>
+	</string>
+	<string id="dm_about_59">
+		<text>T'es journaliste, ou quoi ? Tu veux йcrire un papier sur nous pour le journal de la commune ? Ha ha ha ! Bon, je vais t'expliquer comme зa se passe, mon gars. On contrфle les routes et la Dйcharge. Alors si tu lвches un peu de fric, on te laisse tranquille. Mais si tu raques pas, tu finis dans la merde. C'est un peu comme pendant la ruйe vers l'or... Ouais, le matos que les Soviets ont enterrй ici vaut carrйment son pesant d'or ! Alors surtout, t'endette pas auprиs de nous et joue pas les hйros, sinon on t'enverra direct au camp de travail. Entre les anomalies et les radiations, c'est а peu prиs aussi marrant que de bosser dans une mine d'uranium. Mais bon, le truc bien, c'est que t'en baveras pas longtemps...</text>
+	</string>
+	<string id="dm_about_60">
+		<text>C'est nous qui maintenons l'ordre par ici... Y a beaucoup trop de mecs qui veulent une part du gвteau dans la Dйcharge... On leur permet d'avoir des bonnes conditions de travail et on garantit la sйcuritй, mais, que veux-tu, tout a un prix en ce bas monde. On fait que prendre une petite commission ! Le camp de travail ? Ben, c'est lа que finissent les fortes tкtes. Ce sont que des bons а rien et des fauteurs de trouble de toute faзon... Au final, on fait que favoriser la sйlection naturelle !</text>
+	</string>
+	<string id="dm_about_61">
+		<text>Ici, c'est nous qui faisons la loi, pigй ? Aprиs tout, on йtait les premiers ici, donc on est un peu les propriйtaires des lieux et les stalkers, ce sont les locataires... ils ont le droit de rester, mais faut pas oublier de payer le loyer !</text>
+	</string>
+	<string id="dm_action_info_27">
+		<text>Qui t'es, toi, mon avocat ? Va pas poser trop de questions si tu tiens а rester en vie...</text>
+	</string>
+	<string id="dm_action_info_28">
+		<text>Moins t'en sais, mieux tu dormiras la nuit.</text>
+	</string>
+	<string id="dm_action_info_29">
+		<text>Qu'est-ce que зa peut te faire ? А chacun sa merde, aprиs tout !</text>
+	</string>
+	<string id="dm_action_info_30">
+		<text>Tu veux une balle dans la tкte tout de suite ou tu prйfиres que je t'explique d'abord ce qui va pas avec ta question ?</text>
+	</string>
+	<string id="dm_action_info_31">
+		<text>Je me suis organisй une sacrйe petite affaire dans le coin. Je repиre les tocards, je les fais cracher au bassinet, je partage avec mes gars, j'oublie pas le pourcentage de Yoga - c'est une question de respect - et le tour est jouй ! De temps en temps, зa s'envenime, mais on se dйbrouille... Et puis, c'est pas tes oignons aprиs tout !</text>
+	</string>
+	<string id="dm_action_info_32">
+		<text>Tu veux dire, ce que je fais dans la Zone ? Je me planque d'anciens potes un peu trop envahissants. А l'extйrieur, ils arrкtaient pas de poser des questions, de me faire des leзons de morale, etc... donc on a eu un lйger... dйsaccord. Alors, va pas essayer de me faire la leзon, ok ? Bon, allez, casse-toi maintenant !</text>
+	</string>
+	<string id="dm_action_info_33">
+		<text>C'est pourtant pas difficile а comprendre ! C'est le paradis pour les mecs qui savent ce qu'ils font. Les gardes et les tocards posent pas vraiment de problиmes. C'est presque trop facile. Y suffit de faire ton boulot sans te poser de questions et tu ressors d'ici plus riche qu'а ton arrivйe !</text>
+	</string>
+	<string id="dm_action_info_34">
+		<text>J'йtais un stalker comme les autres, avant. Moi et mon pote, on parcourait la Zone dans tous les sens et c'est а peine si on arrivait а survivre. Un jour, on est tombй sur un manipulateur et y a que moi qui m'en suis sorti. J'ai fais en sorte que mon pote reste pas un zombie ad vitam aeternam et je me suis jurй de plus jamais remettre les pieds lа-bas. C'est comme зa que j'ai fini ici. Y a moyen de se faire un joli paquet, tant qu'on fait gaffe а ce qu'on fait. Ils sont pas du genre а pardonner facilement dans le coin.</text>
+	</string>
+	<string id="dm_action_info_35">
+		<text>Qu'est-ce que зa peut te faire, hein ? Suffit de te regarder pour voir que t'as tes propres problиmes. Dans le coin, en savoir trop, зa apporte que des ennuis de santй et ensuite, ton matos ne profite plus qu'aux vers de terre. En parlant de matos, t'es pas mal йquipй, lа, tu veux pas faire un йchange а l'amiable ? Te bile pas, je rigole. </text>
+	</string>
+	<string id="dm_action_info_36">
+		<text>Ici, а la Dйcharge, on fait tous la mкme chose, moi y compris : on se prйpare une bonne petite retraite. Les mineurs creusent, les stalkers explorent et nous, on les ponctionne et on essaie de maintenir l'ordre. C'est un boulot facile.</text>
+	</string>
+	<string id="dm_action_info_37">
+		<text>Pour qui tu te prends а poser ce genre de questions ? Ce que je fais et ce dont je parle, c'est deux trucs complиtement diffйrents.</text>
+	</string>
+	<string id="dm_action_info_38">
+		<text>Je plume les stalkers et les mineurs du coin. Ils squattent notre territoire, alors je les fais raquer.</text>
+	</string>
+	<string id="dm_action_info_39">
+		<text>Mes potes et moi, on pense partir pour la Vallйe obscure, histoire de se friter avec ces emmerdeurs de la Libertй. Mais on peut rien faire sans l'accord de Yoga, c'est lui le boss par ici. J'ai pas vraiment envie de faire des trucs dans son dos, alors pour l'instant, on se contente d'y rйflйchir.</text>
+	</string>
+	<string id="dm_action_info_40">
+		<text>J'ai rejoint les bandits par accident, en fait. Je voulais кtre stalker, mais зa a pas marchй. Je m'en sors pas mal au final. Je vais mettre un peu de fric de cфtй, me faire quelques relations et prendre ma part du butin de la Dйcharge.</text>
+	</string>
+	<string id="dm_action_info_41">
+		<text>C'est а moi que tu causes ? Non, mais pour qui tu te prends ? Attends un peu, je vais appeler mes potes... On va te montrer ce qu'on fait aux mecs qui posent trop de questions !</text>
+	</string>
+	<string id="dm_cool_info_11">
+		<text>Elle est pas mal, celle-lа, tiens ! La Dйcharge, c'est le coeur de la Zone ! Ici, c'est nous qui faisons la loi. Si tu veux vivre, faut raquer. Si tu veux pas ou que t'as pas les moyens, tu finis dans le camp de travail ou avec une balle dans la tкte. C'est aussi simple que зa !</text>
+	</string>
+	<string id="dm_cool_info_12">
+		<text>De quelle Zone tu parles ? Celle-lа ? C'est un vrai jardin d'enfant comparй aux autres endroits que j'ai vus. Un vrai paradis pour les voleurs. Les barbelйs et les soldats ? C'est rien, зa ! On a notre propre armйe ! Ici, on va oщ on veut, on reзoit tous les paquets qu'on veut de l'extйrieur, on peut picoler jusqu'а plus soif ! Le seul truc qui manque, c'est les gonzesses ! Des fois, зa me dйmange tellement que je commence а trouver les mutants sexy, c'est dire !</text>
+	</string>
+	<string id="dm_cool_info_13">
+		<text>T'es gonflй de poser ce genre de questions ! Barre-toi !</text>
+	</string>
+	<string id="dm_intro_62">
+		<text>T'as vraiment mal choisi ton moment pour te pointer dans la Dйcharge, mec.</text>
+	</string>
+	<string id="dm_intro_63">
+		<text>Mon pote, si tu savais а quel point j'en ai marre de ces bandits...</text>
+	</string>
+	<string id="dm_intro_64">
+		<text>Content de te voir, mec !</text>
+	</string>
+	<string id="dm_intro_65">
+		<text>Salut !</text>
+	</string>
+	<string id="dm_intro_66">
+		<text>Fais gaffe а ton cul, mon pote ! Reste а l'йcart des balles et des anomalies !</text>
+	</string>
+	<string id="dm_intro_67">
+		<text>Зa fait plaisir de voir un frиre d'armes !</text>
+	</string>
+	<string id="dm_about_62">
+		<text>Paraоt qu'avant la premiиre catastrophe, y avait qu'une йnorme fosse ici. Mais aprиs l'explosion de la centrale, ils ont commencй а y balancer tout le matos qu'avait йtй contaminй, les vйhicules, l'йquipement, tout quoi ! Y en avait tellement qu'ils ont complиtement rempli la fosse ! Et maintenant, nous, on se retrouve ici, а dйterrer tous ces trйsors.</text>
+	</string>
+	<string id="dm_about_63">
+		<text>Y a un camp, pas loin d'ici, oщ les bandits gardent les stalkers prisonniers. Je prйfйrerais crever que finir lа-bas : ils les font bosser seize heures par jour dans les coins les plus dangereux et les plus radioactifs de la Zone, sans йquipement ou protection. Ils leur donnent rien а bouffer, ils les bastonnent... Enfin, je vais pas te faire un dessin. Pour eux, on est pires que du bйtail.</text>
+	</string>
+	<string id="dm_about_64">
+		<text>C'est pas facile ici pour les nouveaux. Les bestioles pensent qu'а te bouffer, quand c'est pas les marchands qu'essaient de t'arnaquer ou les bandits qui te mиnent la vie dure. Du coup, mкme les autres stalkers du coin ont tendance а se mйfier de toi.</text>
+	</string>
+	<string id="dm_about_65">
+		<text>Si les stalkers comme nous se serrent pas les coudes dans la Dйcharge, les bandits nous prendront tout ce qu'on a et mкme plus encore ! Une fois que tu leur dois quelque chose, c'est qu'une question de temps avant qu'ils t'envoient dans leur camp de travail, pour te faire trimer comme un esclave. Et personne tient le coup longtemps lа-bas. Un ou deux jours а creuser au milieu des radiations et c'est fini pour toi.</text>
+	</string>
+	<string id="dm_about_66">
+		<text>Ouais, les bandits contrфlent la Dйcharge. Y a pas moyen d'aller pisser sans leur demander la permission et laisser un pourboire... Tu veux entrer, passe а la caisse. Tu veux sortir, rebelote ! Et mкme si tu trouves des trucs de valeur, c'est pas pour autant que t'as ton billet de sortie... Si tu tombes sur un groupe de bandits, t'as deux options : soit ils te prennent tout, soit tu te prends une balle... Et si t'as vraiment pas de bol, ils t'envoient au camp de travail pour que tu creuses au milieu des radiations jusqu'а ce que t'en crиves !</text>
+	</string>
+	<string id="dm_about_67">
+		<text>C'йtait une dйcharge pour le matos contaminй par les radiations. Tout ce qui brillait dans le noir, ils le balanзaient ici et personne en avait rien а foutre jusqu'а l'apparition de la Zone. Maintenant, les conserves, les lampes а transistors, tous ces vieux trucs valent leur pesant d'or. C'est pour зa que les stalkers viennent creuser ici. Mais les bandits, eux aussi, ils se sont ramenйs vite fait et ils ont pris le contrфle de cette petite mine. Au final, ils se font des couilles en or et nous, on se tue а creuser pour pas grand-chose en retour.</text>
+	</string>
+	<string id="dm_about_68">
+		<text>Ce sont les bandits qui mиnent la danse par ici. Ils fixent les rиgles, ils prennent leur pourcentage et ils profitent du travail des autres. Les stalkers fouillent au milieu des vieilleries radioactives de l'иre soviйtique, mais c'est les bandits qu'encaissent les bйnйfices. Tu dois bien кtre au courant, non ? T'as dы payer pour entrer, pas vrai ? Ben, ils t'en demanderont encore plus quand tu voudras ressortir, crois-moi...</text>
+	</string>
+	<string id="dm_about_69">
+		<text>La meilleure chose а faire quand t'es dans la Dйcharge, c'est te tirer le plus vite possible. Il y a rien de bon ici pour un stalker honnкte ! Mкme si t'as de la chance et que tu trouves un truc intйressant, les bandits te le piqueront ou tu crиveras d'une overdose de radiations. Il vaut mieux aller а l'est, dans le territoire de la Libertй, dans la Vallйe obscure, ou alors а l'ouest, а l'Agroprom, oщ tu trouveras les mecs du Devoir et les stalkers normaux. Lа-bas, c'est la vraie Zone, celle des stalkers. Ici, c'est un piиge, un coin qui grouille de criminels.</text>
+	</string>
+	<string id="dm_about_70">
+		<text>Y a moyen de devenir riche ici, зa, c'est clair ! L'autre jour, j'ai entendu parler d'un stalker qu'avait dйcouvert une cache remplie de super matos dans la Dйcharge. Je sais pas exactement ce qu'il a trouvй, tout le monde raconte un truc diffйrent... mais il s'est fait des couilles en or, зa, y a pas de doutes. Moi aussi, je vais toucher le jackpot et ensuite, je m'achиterai de l'йquipement de premiиre pour aller plus loin dans la Zone... C'est lа qu'on peut choper les meilleurs artefacts.</text>
+	</string>
+	<string id="dm_about_71">
+		<text>Saletй de ruйe vers l'or ! Je dйteste cette Dйcharge ! Qu'un couillon ait trouvй un truc de valeur ici йtait le pire qui pouvait arriver. Les bandits ont rappliquй illico et ont mis tous les stalkers а leur botte. C'est une honte qu'on permette а ces ordures de tout contrфler ! Ils ont mкme crйй un camp de travail oщ ils envoient ceux qui se rebellent ! Les mecs qui se retrouvent lа-bas doivent creuser dans des zones radioactives а longueur de journйe en йchange de nourriture... Crois-moi, voudrait mieux qu'on se tire d'ici...</text>
+	</string>
+	<string id="dm_about_72">
+		<text>Йcoute, mon pote, plus vite tu te tires d'ici, mieux tu t'en porteras ! Si tu restes ici, tu te feras saigner а blanc et humilier par les bandits, et tu finiras avec un poignard dans le dos ou а trimer comme un esclave dans le camp de travail. А ta place, je me casserais vite fait !</text>
+	</string>
+	<string id="dm_about_73">
+		<text>Cet endroit, c'est un peu notre Klondike ! Rйflйchis, mon pote : tout ce qu'il y a de valeur dans la Zone est mis sous clef et les militaires ont pas l'intention de nous laisser nous en approcher. Des fois, t'en chies rien que pour trouver une conserve de bouffe, alors je te parle mкme pas des piиces dйtachйes ou de l'йquipement... Et mкme si les marchand ont du matos, il est pas gratuit... Alors qu'ici, c'est diffйrent ! Dans tout ce merdier, on peut trouver de vraies perles ! C'est lа que tout le matйriel contaminй a fini enfoui aprиs l'accident de la centrale de Tchernobyl. Йvidemment, c'est un peu radioactif et il faut partager avec les bandits... mais y a vraiment moyen de s'en mettre plein les poches ! T'as qu'а attraper une pioche et а te mettre au boulot !</text>
+	</string>
+	<string id="dm_about_74">
+		<text>Si tu sais toujours pas ce qu'est la Dйcharge, je peux te mettre au parfum. Les stalkers dйterrent des trucs avant de se faire saigner а blanc par les bandits. Ces enfoirйs se sont mкme construit une base dans le vieux dйpфt. Ils ont la belle vie depuis qu'ils ont pris le contrфle du secteur : ils passent leur journйe а glander et dйpouillent les mineurs, ces salauds ! Sinon, y a aussi un genre de marchй aux puces pas loin. Les marchands achиtent aux mineurs et revendent le matos, y a mкme des trucs uniques, des fois. Y a plus d'йchanges pendant la nuit, mais fais gaffe, les marchands adorent essayer de te refourguer de la camelote en douce.</text>
+	</string>
+	<string id="dm_about_75">
+		<text>Ici, c'est la loi du plus fort qui l'emporte... tout le monde cherche а faire fortune, mais les plus forts vivent aux dйpens des plus faibles. Il se trouve que, parmi toute la merde radioactive du coin, y a quelques trucs de valeur. Йvidemment, зa attire des couillons avec des rкves de chвteaux en Espagne. Mais y a que les plus forts qui s'enrichissent ici. J'ai йtй trop con pour le comprendre et maintenant, je paye le prix...</text>
+	</string>
+	<string id="dm_action_info_42">
+		<text>Je passe mon temps а creuser, en fait. Mais dans ce coin, faut surveiller ses arriиres, parce que tout le monde veut une part du gвteau du voisin. Avant, y avait que les bandits pour nous emmerder, mais derniиrement, mкme les stalkers s'y sont mis. C'est pas comme au bon vieux temps oщ les stalkers s'entraidaient, oщ tu pouvais refiler ta derniиre conserve а un mec en sachant qu'il serait lа plus tard pour te filer un coup de main. Mais maintenant, pff...</text>
+	</string>
+	<string id="dm_action_info_43">
+		<text>Comme les autres mineurs, je fais de mon mieux pour rester en vie et rйcupйrer assez de matos pour m'acheter а bouffer et des munitions. Si j'ai du bol, je tomberai sur un bon filon et je me casserai d'ici en vitesse, mais je veux d'abord aller voir l'Exauceur de voeux. Зa fait un bail que j'en rкve...</text>
+	</string>
+	<string id="dm_action_info_44">
+		<text>Je suis nouveau dans le coin... J'ai pas encore dйcidй exactement ce que je veux faire. Mais faut que je reste sur mes gardes, ces mecs aiment pas trop les nouvelles tкtes. Ils parlent tous de montagnes d'or, mais j'ai encore rien vu, moi. Je ferais peut-кtre mieux d'oublier tout зa et d'aller rejoindre la faction du Devoir...</text>
+	</string>
+	<string id="dm_action_info_45">
+		<text>Je suis comme tout le monde, moi : j'attends un miracle. Peut-кtre que je dйterrerai un truc si incroyable que je pourrai racheter ma libertй aux bandits et qu'il me restera assez pour finir riche ! Quoi ? Tu penses que je dйlire ? Ben, c'est dйjа arrivй, alors j'ai mes chances ! J'ai entendu parler d'un stalker qui avait dйterrй tout un stock de vieilles radios militaires. Maintenant, tout le monde le respecte, il est riche et il a un matos d'enfer. Je l'ai jamais rencontrй, tu me diras, c'йtait avant que j'arrive ici.</text>
+	</string>
+	<string id="dm_action_info_46">
+		<text>Je cherche des trucs de valeur dans toute cette merde. Y a un paquet de matos de l'йpoque des Soviets, зa peut aller d'une vielle conserve cabossйe а un moteur diesel. Ce genre de marchandise se revend bien dans la Zone. Alors, il suffit d'кtre patient et d'avoir plein de sйrum antiradiations pour se faire un joli paquet.</text>
+	</string>
+	<string id="dm_action_info_47">
+		<text>J'ai une dette а payer. Si je trouve pas du matos pour les bandits, ils feront de moi leur esclave et m'enverront creuser dans les endroits les plus dangereux... Franchement, j'y tiens pas vraiment...</text>
+	</string>
+	<string id="dm_action_info_48">
+		<text>J'allais а la Vallйe obscure quand ces bвtards m'ont piquй tout mon fric а l'entrйe. Et comme il faut aussi payer pour sortir... Je veux pas avoir l'air d'un mendiant auprиs de mes collиgues stalkers, alors j'essaye de me faire un peu de fric avant de partir. Le problиme, c'est que plus je bosse, plus je leur dois d'argent, on dirait... Mais bon, je me casse dans pas longtemps, j'y crois...</text>
+	</string>
+	<string id="dm_action_info_49">
+		<text>Je voulais rejoindre le Devoir а l'Agroprom. Un mec m'avait proposй de me servir de guide, mais quand on est arrivйs а la Dйcharge, il s'est barrй avec tout mon fric. Du coup, je reste dans le coin, а chercher du matos de valeur pour essayer de me payer un йquipement potable et des armes dйcentes. C'est pas une sinйcure, crois-moi ! Les bandits savent que зa serait pas une bonne idйe si les mineurs avaient des armes, alors ils se les gardent toutes. C'est une vraie galиre de trouver un flingue et des munitions ici.</text>
+	</string>
+	<string id="dm_action_info_50">
+		<text>Mon pote et moi, on se dirigeait vers la Barriиre pour y rejoindre un groupe de stalkers qu'on connait, mais les bandits nous ont arrкtйs а la Dйcharge. Mon pote a йtй assez con pour ouvrir sa grande gueule. Ils ont pas chercher а discuter, ils l'ont chopй et ils l'ont envoyй au camp de travail... Du coup, moi, je me retrouve ici а me casser le cul pour le faire sortir pour qu'on puisse se casser. J'ai dйjа l'itinйraire, je sais comment on va s'y prendre, mais il me faut de la thune. C'est franchement pas йvident de faire des йconomies avec les bandits qui exigent leur com'. Et je te parle mкme pas des armes... C'est pratiquement impossible d'en trouver, vu que les bandits les confisquent а l'entrйe.</text>
+	</string>
+	<string id="dm_action_info_51">
+		<text>Un jour, mon frиre a disparu dans la Zone. Du coup, je suis parti а sa recherche, mais je me suis fait choper par les bandits. J'ai discutй avec quelques stalkers du coin. Ils m'ont dit que mon frangin йtait restй ici quelque temps, alors j'essaye d'apprendre tout ce que je peux... Avec un peu de chance, je le retrouverai. Qui sait, il est peut-кtre encore en vie...</text>
+	</string>
+	<string id="dm_action_info_52">
+		<text>Зa fait des plombes que je suis ici а essayer de trouver un truc qu'ait plus de valeur qu'une vieille conserve pйrimйe, mais que dalle ! Pourtant, l'autre jour, Mitya a trouvй un moteur complet et des roulements а bille, juste а cфtй de lа oщ je bossais. Зa, c'est une trouvaille, mais ce serait encore mieux s'il trouvait un acheteur, ha ha ! Enfin bref... Moi aussi, je trouverai un truc bien un des ces jours.</text>
+	</string>
+	<string id="dm_action_info_53">
+		<text>J'йtais en route pour l'Agroprom quand je me suis laissй tenter par la ruйe vers l'or. J'ai trouvй quelques trucs qui se sont bien vendus et franchement, c'est tellement plus facile que de chercher des artefacts au coeur des anomalies ! Faut juste penser а garder un oeil sur ton compteur Geiger, si tu veux pas finir aussi illuminй qu'un sapin de Noлl pendant les quelques jours qu'il te reste а vivre !</text>
+	</string>
+	<string id="dm_action_info_54">
+		<text>Je cherche du butin. On est venu ici avec un groupe de nouveaux quand on a entendu dire qu'ils avaient trouvй du matos dans la Dйcharge. On s'est dit que le temps qu'on apprenne а trouver des artefacts, il y aurait plus rien de valeur а dйterrer. Avec le recul, c'йtait peut-кtre pas la meilleure chose а faire... Deux d'entre nous ont passй l'arme а gauche dиs notre arrivйe et un troisiиme a йtй envoyй au camp de travail... Qui sait, il est peut-кtre mort des radiations а l'heure qu'il est. Si seulement je pouvais choper un flingue, je leur montrerais, а ces bandits ! Ils ont vraiment pas l'air malins, mais ils contrфlent tout ici. Ils font en sorte de nous maintenir sйparйs et c'est pratiquement impossible de trouver des armes. 'Creuse autant que tu veux, surtout te ballade pas en groupe de plus de 3', qu'ils nous disent... Crois-moi, mon pote, faut que les stalkers se serrent les coudes et qu'ils chassent ses enfoirйs d'ici !</text>
+	</string>
+	<string id="dm_cool_info_14">
+		<text>Des stalkers que je connais et qu'ont passй du temps а l'Agroprom m'ont racontй que le Devoir avait pas mal de soucis avec les mutants. Paraоt que des cavernes se sont ouvertes ou un truc dans le genre, et qu'y a des tas de saloperies qu'en sortent !</text>
+	</string>
+	<string id="dm_cool_info_15">
+		<text>Je suis allй aux entrepфts militaires avec un pote... Зa craint lа-bas, depuis la derniиre йmission. Les militaires sont dans un sale pйtrin, entre la Libertй qu'essaye d'envahir leur base et le Monolithe et les mutants qui dйbarquent du centre de la Zone pour tuer tout ce qui bouge. Tu peux entendre des bribes de conversation radio, mais sinon, y a pas вme qui vive lа-bas. Moralitй de l'histoire : plus tu t'approches du centre de la Zone, plus c'est la merde !</text>
+	</string>
+	<string id="dm_cool_info_16">
+		<text>Paraоt que, depuis l'Йmission, on peut de nouveau se rendre dans des zones qu'йtaient inaccessibles avant, comme le Marais ou la Forкt rouge. Et en mкme temps, des coins tranquilles seraient maintenant infestйs d'anomalies... Y a plus moyen d'atteindre Rostock et y avait pas mal de stalkers par lа-bas... Personne sait ce qui leur est arrivй.</text>
+	</string>
+	<string id="dm_intro_68">
+		<text>Hй !</text>
+	</string>
+	<string id="dm_intro_69">
+		<text>Hй, mercenaire ! Si t'es ici pour descendre les saloperies de la Zone, le Devoir est ton alliй !</text>
+	</string>
+	<string id="dm_intro_70">
+		<text>Hй ! Rejoins le Devoir, la faction des vrais mecs !</text>
+	</string>
+	<string id="dm_intro_71">
+		<text>Sois prudent et reste sur les routes principales ! Un seul faux pas et tu finiras dans le bide d'une saloperie mutante !</text>
+	</string>
+	<string id="dm_intro_72">
+		<text>Hй !</text>
+	</string>
+	<string id="dm_intro_73">
+		<text>Salut, mon pote ! Je te conseille de faire gaffe а toi par ici... Se faire attaquer trois ou quatre fois par nuit, c'est pas aussi marrant que зa en a l'air.</text>
+	</string>
+	<string id="dm_intro_74">
+		<text>C'est pas le meilleur moment pour faire du tourisme dans le coin, stalker. On a une guerre sur les bras.</text>
+	</string>
+	<string id="dm_intro_75">
+		<text>Hй ! Surtout reste sur tes gardes ! Les bestioles du coin sont vraiment futйes. Suffit que tu baisses ta garde un instant pour te faire bouffer tout cru...</text>
+	</string>
+	<string id="dm_intro_76">
+		<text>Salut, mon pote ! Зa fait toujours plaisir de croiser un autre stalker.</text>
+	</string>
+	<string id="dm_intro_77">
+		<text>Quoi de neuf ? Viens par lа que je te salue а l'ukrainienne !</text>
+	</string>
+	<string id="dm_intro_78">
+		<text>Salut, mon pote ! Si t'as des questions, surtout hйsite pas !</text>
+	</string>
+	<string id="dm_about_76">
+		<text>Qu'est-ce que je peux te dire ? Regarde autour de toi et t'auras ta rйponse !</text>
+	</string>
+	<string id="dm_about_77">
+		<text>Ces saloperies de mutants arrivent de toutes les directions. Plus on en tue, plus il en vient. Mais bon, on s'en sortira а la longue. Il nous faudrait juste quelques bons combattants et des armes potables. Зa nous permettrait de rйsoudre le problиme en un rien de temps et de venger nos camarades !</text>
+	</string>
+	<string id="dm_about_78">
+		<text>Cet endroit est maudit ! Pas seulement l'Agroprom, mais toute la Zone ! On arrкte pas de se battre, et contre quoi ? Des monstres normaux peuvent pas se reproduire aussi vite ! On en tue cent par jour et il y en a encore plus qui reviennent le lendemain !</text>
+	</string>
+	<string id="dm_about_79">
+		<text>Tu choperas rien ici а part une balle perdue ! Les mutants nous tombent dessus la nuit et on fait de notre mieux pour les repousser. Mais dans notre base, l'ancien institut de recherches, c'est une autre histoire ! Y'a un bar, un marchand, un atelier de rйparation et un tas d'autres trucs, tu verras bien par toi-mкme. Зa te permettra aussi de te dйtendre un peu et de faire rйparer ton matos en territoire neutre... enfin, tant que tu cherches pas des poux aux gars du coin  ! Leur boss s'appelle Orest, je crois. Et si tu veux te tirer d'ici, tu trouveras la Dйcharge а l'est, le Marais au sud et le lac de Yantar et la base des scientifiques au nord.</text>
+	</string>
+	<string id="dm_about_80">
+		<text>Il y avait un institut de recherche ici avant... L'institut de Recherche Agroprom. Enfin, quoi qu'il en soit, c'est notre base maintenant. Notre commandant est le gйnйral Krylov, mais on l'appelle tous le Vieux. Pas devant lui, йvidemment... Y a aussi une base neutre pas loin, dans l'usine dйsaffectйe. Si tu pars vers le sud, t'arrives dans le Marais. Les bandits contrфlent la Dйcharge а l'est, ces enfoirйs profitent du fait qu'on soit trop occupйs pour faire leurs sales magouilles. Au nord, tu trouveras le lac de Yantar, mais attention, paraоt qu'il y a des йmissions psi qui te crament le cerveau et te transforment en zombie. Franchement, vu le nombre de saloperies qui nous arrivent de lа-bas, je veux bien le croire !</text>
+	</string>
+	<string id="dm_about_81">
+		<text>Si t'es venu pour entendre des contes de fйe, t'es pas au bon endroit. C'est pas franchement le paradis, ici. La nuit, y a tellement de mutants qui nous tombent dessus qu'on a pas le temps de nettoyer nos frocs. Tu vois ces trous juste lа, dans le sol ? Eh ben, dиs qu'il fait noir, la vermine en sort et crois-moi, c'est pas joli а voir ! Ils sortent pas un par un, ou mкme а la douzaine ! Quand ils se pointent, c'est par centaines ! On en tue autant qu'on peut, mais c'est а croire qu'ils passent leurs journйes а se reproduire tellement on voit pas la diffйrence d'un jour sur l'autre... Ce serait peut-кtre pas une mauvaise idйe de larguer une bombe atomique dans ce terrier...</text>
+	</string>
+	<string id="dm_about_82">
+		<text>Crois-moi sur parole, зa peut dйgйnйrer vite fait dans le coin ! La semaine derniиre, on est retournй а la base aprиs avoir laissй quelques mecs par ici. La nuit, ils se sont faits attaquer, ce qui a vraiment rien d'exceptionnel, mais, quand on est revenu le lendemain, y avait plus rien. Pas un signe de vie, pas un cadavre, rien... Il restait que des traces de lutte et des combinaisons sanglantes...</text>
+	</string>
+	<string id="dm_about_83">
+		<text>J'en ai ma claque de cet endroit ! Зa fait des semaines qu'on est ici, а se faire attaquer toutes les cinq minutes, et зa s'amйliore pas... J'ai plus assez d'йnergie pour me battre et encore moins de munitions. Des fois, j'ai envie de laisser tomber mon flingue et d'aller йtrangler ces mutants а mains nues ! Mais c'est peut-кtre ces monstres qui me mettent ces idйes dans la tкte... Enfin, on finira bien par tous se les faire !</text>
+	</string>
+	<string id="dm_about_84">
+		<text>Il y a eu cette fois oщ, aprиs un raid, on a reзu un message de nos gars а l'Agroprom. "А l'aide, on se fait dйborder !", puis des cris, des tirs, des rugissements... En moins d'une minute, on avait vingt mecs prкts а aller les aider, mais le temps qu'on arrive, c'йtait fini, y restait plus rien, juste une lampe-torche allumйe sur le sol. Le lendemain matin, on a suivi les traces jusqu'aux souterrains de l'Agroprom. Mais depuis le raid pendant lequel le tunnel s'est effondrй, on ose plus trop s'aventurer y entrer. Inutile de te dire qu'on a jamais revu nos gars...</text>
+	</string>
+	<string id="dm_about_85">
+		<text>Va te faire voir avec tes questions ! Je me sens dйjа assez mal comme зa. Je perds des potes toutes les nuits, certains au combat, d'autres qui disparaissent sans laisser de traces. Des fois, quand je vais prendre la relиve dans un avant-poste le matin, je trouve plus personne, juste un feu de camp en train de s'йteindre et un silence assourdissant. Зa fout les foies, crois-moi sur parole ! Alors, va faire chier quelqu'un d'autre avec tes questions, tu veux ? Nous, les mecs du Devoir, on a pas besoin de toi pour pйter les plombs.</text>
+	</string>
+	<string id="dm_about_86">
+		<text>On a des avant-postes partout dans le coin. Et chaque nuit, les bestioles sortent pour nous faire la peau. Y a mкme pas besoin de viser tellement y en a ! Il suffit de pointer ton flingue dans la bonne direction et d'arroser ! Ces saloperies sortent de ces trous dans le sol et nous, on fait de notre mieux pour les repousser. Je sais pas d'oщ elles viennent au dйpart !</text>
+	</string>
+	<string id="dm_about_87">
+		<text>Зa grouille de mutants dans les souterrains de l'Agroprom. А mon avis, quand nos gars ont essayй de dйtruire les tunnels, ils ont seulement rйussi а dйbloquer un accиs а une sorte de nid de ces saloperies. On a arrкtй de compter combien on en a tuй, зa sert а rien... Hй, tu ferais pas partie de la faction de la Libertй, par hasard ? Ta tкte me dit vaguement quelque chose... En tout cas, fais gaffe а toi, ok ?</text>
+	</string>
+	<string id="dm_about_88">
+		<text>Tu viens de dйbarquer а l'Agroprom, c'est зa ? Alors, йcoute bien. Notre base est dans l'ancien institut de recherche et les stalkers neutres se sont installйs dans l'usine dйsaffectйe. Il peut arriver que des zombies de Yantar nous attaquent du nord et des monstres sortent des souterrains la nuit. Plus loin а l'est, y a la Dйcharge et au sud, le Marais.</text>
+	</string>
+	<string id="dm_about_89">
+		<text>On a une base plutфt sympa, ici. Un stand de tir, un zoo, l'Atome tranquille, le bar local... Alors, que demander de plus ? Mais va pas chercher les emmerdes, on plaisante pas avec la discipline !</text>
+	</string>
+	<string id="dm_about_90">
+		<text>L'Agroprom est un ancien institut de recherches. Йvidemment, depuis l'apparition de la Zone, y a plus des masses de recherches qui y sont menйes. Ha ha ! On s'en sert de base pour combattre les horreurs de la Zone. On fait de notre mieux pour retenir les saloperies qui sortent des souterrains. On se bat pour sauver la vie des stalkers, souvent au prix de la nфtre.</text>
+	</string>
+	<string id="dm_about_91">
+		<text>C'йtait plus facile avant, tu sais... Bon, c'est sыr, y avait dйjа des monstres, mais on s'en dйbarrassait sans problиme. Mais maintenant, c'est vraiment la merde. Toutes les nuits, on tue des centaines de mutants et ils reviennent toujours le lendemain, avec des renforts en plus. On tombe comme des mouches, nous autres.</text>
+	</string>
+	<string id="dm_about_92">
+		<text>Le Devoir combat les monstres qui essayent de se frayer un chemin vers la surface, alors j'ai pas trop le temps de discuter, je suis sыr que tu comprends. Tu peux aller а la base des stalkers neutres, dans l'usine dйsaffectйe, si tu cherches а te la couler douce. Sinon, tu peux rester avec nous. On est toujours а la recherche de stalkers expйrimentйs. Notre commandant te paiera bien pour ton aide.</text>
+	</string>
+	<string id="dm_action_info_55">
+		<text>Alors, t'es du genre curieux, toi, hein ? Tu veux savoir pourquoi on se bat contre la Zone ? Parce que ! C'est une guerre sainte, une croisade, rien de moins ! Soit on gagne, soit on perd, mais c'est pas possible d'arriver а un compromis avec la Zone. Au final, t'es avec nous ou contre nous !</text>
+	</string>
+	<string id="dm_action_info_56">
+		<text>А ton avis ? J'ai rien de mieux а faire, alors, je me suis mis а la peinture ! Attends seulement que le soleil se couche et tu verras la peinture rouge arriver. On est en guerre contre les mutants ici, mon gars... on fait gicler le sang et les tripes. Il faut qu'on en mette un dernier coup et qu'on leur rиgle leur compte une bonne fois pour toutes. Je veux dire, ces monstres peuvent pas se reproduire indйfiniment, si ?</text>
+	</string>
+	<string id="dm_action_info_57">
+		<text>Je combats la Zone. Tu veux savoir pourquoi ? Ben, imagine que des emmerdeurs dйbarquent chez toi, qu'ils squattent ta baraque et qu'ils t'obligent petit а petit а vivre sous l'escalier. Qu'est-ce que tu ferais, hein ? Tu choperais ces connards par la peau du cul et tu les foutrais dehors, non ? C'est ce que la faction du Devoir essaie de faire. Nous, ce qu'on veut, c'est se dйbarrasser de la Zone et le moyen le plus simple d'y arriver, c'est la guerre ouverte. Quoi, t'as une meilleure idйe peut-кtre ?</text>
+	</string>
+	<string id="dm_action_info_58">
+		<text>Je combats les saloperies qui nous empкchent de dormir la nuit. Tous les stalkers devraient faire ce qu'ils peuvent pour anйantir les rejetons de la Zone. Je comprends pas ceux qui pensent pas comme moi... Si tu soignes pas rapidement une plaie infectйe, tout le reste du corps risque d'y passer, non ? Pense un peu au monde que tu veux laisser а tes gosses : а droite, une anomalie ; а gauche, un mutant. Rйflйchis, mec, rйflйchis...</text>
+	</string>
+	<string id="dm_action_info_59">
+		<text>La Zone, c'est le mal incarnй ! Un mal qui menace notre planиte comme la hache du bourreau le cou du condamnй ! Mais tout le monde voit pas les choses comme зa. Ceux qui ont compris se sont regroupйs et ont fondй le Devoir pour essayer d'йradiquer ce mal. Tu as vu combien de mutants on йlimine chaque jour ? Imagine ce qui arriverait s'ils sortaient de la Zone ! On est la derniиre ligne de dйfense de la planиte et, honnкtement, je comprends pas comment il peut encore y avoir des mecs qui s'opposent а nous et а notre mission sacrйe.</text>
+	</string>
+	<string id="dm_action_info_60">
+		<text>Je remplis mon devoir envers l'humanitй et je dis pas зa pour frimer, c'est la vйritй ! Je sauve l'humanitй de la Zone et de ses horribles rejetons ! Il faut anйantir la source de la contagion avant qu'elle ne s'йtende et qu'elle nous dйtruise tous !</text>
+	</string>
+	<string id="dm_action_info_61">
+		<text>Je me bats aux cфtйs de mes camarades pour йradiquer les mutants. Autant dire qu'on a du pain sur la planche ces jours-ci... Et c'est sans compter les meutes de zombies qui descendent de temps en temps du lac de Yantar. Donc, si tu veux rejoindre le meilleur clan de combattants de la Zone, c'est le Devoir qu'il te faut.</text>
+	</string>
+	<string id="dm_action_info_62">
+		<text>J'essaye de dйcider quelle crйature amener а l'Inquisiteur. Il tient un zoo dans notre base, oщ il garde des spйcimens de la faune locale. J'adorerais lui amener un manipulateur, mais il nous transformerait sыrement tous en zombie avant qu'on puisse le choper.</text>
+	</string>
+	<string id="dm_action_info_63">
+		<text>J'ai rejoint le Devoir rйcemment et c'est la meilleure dйcision que j'ai prise de toute ma vie ! Les mecs ici sont de vrais pros et le clan est aussi disciplinй qu'organisй !</text>
+	</string>
+	<string id="dm_action_info_64">
+		<text>Je viens а peine de dйbarquer et j'essaie encore comprendre comment зa se passe ici. Avant, je me baladais tout seul dans la Zone, mais maintenant, j'apprends а couvrir les gars qui se battent а mes cфtйs pour dйfendre une cause juste.</text>
+	</string>
+	<string id="dm_action_info_65">
+		<text>Moi, je suis les ordres. C'est comme dans l'armйe. On a un commandant, des officiers et des troufions. C'est on ne peut plus simple. Tu suis les ordres et tu restes en vie.</text>
+	</string>
+	<string id="dm_action_info_66">
+		<text>Je me bats contre ces putains de monstres, c'est tout ! J'en ai marre d'кtre attaquй toutes les nuits, mais on finira bien par s'en sortir. Un jour ou l'autre, on fera un raid au centre de la Zone et on mettra fin а ce bordel une bonne fois pour toutes.</text>
+	</string>
+	<string id="dm_action_info_67">
+		<text>La plupart de mes potes faisaient dйjа parti du Devoir, alors je les ai rejoints, mкme si j'ai pris quelques mois avant de me dйcider. J'йtais pas sыr que ce soit la chose а faire, mais maintenant, quand j'y repense, mes doutes me font rigoler. C'est gйnial d'кtre membre du Devoir et bien plus sыr que de parcourir la Zone en solo !</text>
+	</string>
+	<string id="dm_cool_info_17">
+		<text>C'est pire de jour en jour, surtout depuis la derniиre йmission. On dirait qu'elle a remuй toute la Zone et зa nous facilite pas vraiment la vie. Les mutants sont plus rapides, plus dangereux et plus affamйs... Sans oublier que toutes les factions sont en guerre maintenant... Зa craint vraiment. Plusieurs de nos groupes se sont aventurйs vers le centre... Paraоt qu'ils ont trouvй de nouveaux passages par lа-bas.</text>
+	</string>
+	<string id="dm_cool_info_18">
+		<text>La Zone change tout le temps. C'est un chaos perpйtuel, on a du mal а s'y retrouver ! Heureusement que le Devoir est lа pour assurer un semblant d'ordre dans tout зa. Les combats pour les nouveaux territoires ont commencй juste aprиs la derniиre йmission. Si on en avait le contrфle, on donnerait libre accиs а tout le monde, а part peut-кtre а ces clowns de la Libertй. Quoi qu'il en soit, prиs de la moitiй de nos gars sont partis vers le centre de la zone.</text>
+	</string>
+	<string id="dm_cool_info_19">
+		<text>Paraоt qu'un nouveau type de mutants a fait son apparition dans le Marais. Il ressemblerait а une sangsue, mais en encore plus dangereux. Il se dйplace silencieusement dans les buissons et bam ! T'es mort. Le pire, c'est qu'avant, ils sortaient pas du Marais, mais on en a vu plusieurs dans le coin il y a pas longtemps !</text>
+	</string>
+	<string id="dm_cool_info_20">
+		<text>А mon avis, les йmissions permettent а la Zone de refaire le plein d'йnergie et de produire de nouvelles anomalies et des artefacts qu'on avait jamais vus avant. Je ferais gaffe а ta place. On peut plus vraiment se balader tranquilement dans la Zone maintenant. Un bon dйtecteur fait la diffйrence entre la vie et la mort. Tu ferais mieux de t'en trouver un bon, et vite !</text>
+	</string>
+	<string id="dm_intro_79">
+		<text>Hй, mec !</text>
+	</string>
+	<string id="dm_intro_80">
+		<text>Comment va ?</text>
+	</string>
+	<string id="dm_intro_81">
+		<text>Guten tag ! Nicht schiessen... On est tous frиres ici.</text>
+	</string>
+	<string id="dm_intro_82">
+		<text>T'as une question а me poser, stalker ?</text>
+	</string>
+	<string id="dm_intro_83">
+		<text>T'as besoin d'un tuyau ?</text>
+	</string>
+	<string id="dm_intro_84">
+		<text>Bonjour.</text>
+	</string>
+	<string id="dm_intro_85">
+		<text>Qu'est-ce que je peux faire pour toi ?</text>
+	</string>
+	<string id="dm_intro_86">
+		<text>Si c'est ta premiиre visite dans la Vallйe obscure, va faire un tour а la base de la Libertй. Tu t'ennuieras pas lа-bas, t'as qu'а regarder Ashot et le mйcano s'engueuler ! C'est а mourir de rire !</text>
+	</string>
+	<string id="dm_intro_87">
+		<text>Yo, mec !</text>
+	</string>
+	<string id="dm_intro_88">
+		<text>Salut, mon frиre !</text>
+	</string>
+	<string id="dm_intro_89">
+		<text>Bienvenue dans le territoire des stalkers libres !</text>
+	</string>
+	<string id="dm_about_93">
+		<text>C'est le coin le plus sympa de la Zone, la base de la Libertй ! On s'en fout des mutants et des anomalies ! Aprиs un verre ou deux, y a plus de vortex qui tienne ! Alors si t'es venu pour boire un coup, t'es au bon endroit !</text>
+	</string>
+	<string id="dm_about_94">
+		<text>La Vallйe obscure est un havre de paix pour les stalkers indйpendants. Personne vient nous faire de leзons de morale sur notre 'devoir' et toutes ces conneries. Tu trouveras le meilleur clan de la Zone dans а l'usine dйsaffectйe, ils seront ravis de t'accueillir ! А l'ouest, c'est la Dйcharge, le Cordon est au sud et les entrepфts militaires sont au nord.</text>
+	</string>
+	<string id="dm_about_95">
+		<text>Le point central de la Vallйe obscure, c'est la base de la Libertй. Impossible de la rater, t'as qu'а chercher la grosse usine dйsaffectйe. Tu trouveras personne de plus compйtent pour rйparer ton arme ou ton armure que l'oncle Yar. Et si tu cherches du bon matos pas trop cher, va voir Ashot ! Mais si tu veux simplement te dйtendre un peu, va а la Bouffйe d'air frais. Ce bar est rйputй dans toute la Zone et ils essaient pas de t'arnaquer sur la gnфle. En plus, c'est l'endroit idйal pour trouver du boulot.</text>
+	</string>
+	<string id="dm_about_96">
+		<text>On a pas mal d'emmerdes en ce moment. Quelqu'un bute nos gars а la pelle. Tous les membres dispos de la Libertй ont йtй convoquйs а la base de la Vallйe pour aider а identifier l'ennemi. On a aussi commencй а mettre des gardes un peu partout... On est jamais trop prudent de nos jours.</text>
+	</string>
+	<string id="dm_about_97">
+		<text>La Vallйe est remplie d'usines dйsaffectйes et j'ai mкme entendu dire qu'il y avait un rйseau de laboratoires souterrains, tout aussi dйsaffectйs йvidemment. Je sais pas trop ce qui se passe lа-dessous, mais en surface, on s'est installй une chouette petite base dans l'une des usines. Si tu cherches du bon temps, passe au bar !</text>
+	</string>
+	<string id="dm_about_98">
+		<text>La Vallйe obscure ? Qu'est-ce que je peux t'en dire ? Je suis pas trиs fort pour raconter des histoires... Pourquoi tu demandes pas plutфt а Ashot ou а Ganja ? Ashot, c'est le marchand de la base, et Ganja le barman, au cas oщ tu le savais pas.</text>
+	</string>
+	<string id="dm_about_99">
+		<text>La Vallйe elle-mкme a rien de spйcial. On y trouve un peu de tout : des monstres, des anomalies et mкme quelques artefacts, quand on sait oщ chercher. En dehors de зa, y a rien de plus qu'ailleurs, mais les bвtiments dйsaffectйs sont plutфt utiles... Ils sont mкme parfaits pour notre base.</text>
+	</string>
+	<string id="dm_about_100">
+		<text>C'est un bon endroit pour les stalkers dйbutants. On est pas loin du Cordon et les anomalies sont plutфt rares. Mкme les mutants sont pas trиs nombreux ! En plus, si t'as la chance de trouver du bon matos, tu peux le vendre а un bon prix dans notre base, en toute sйcuritй. Le plus dur, au final, c'est de passer les avant-postes militaires et la Dйcharge sans te prendre une balle ou une bonne dose de radiations ! Une fois que t'es ici, c'est tranquille !</text>
+	</string>
+	<string id="dm_about_101">
+		<text>La Vallйe obscure, c'est l'endroit idйal pour les bleus qui veulent se faire un peu d'expйrience et trouver leurs premiers artefacts. Elle permet aussi aux vйtйrans de souffler et de reprendre des forces avant de retourner dans la "vraie" Zone. C'est facile de se la couler douce а la Bouffйe d'air frais, de faire rйparer son matйriel ou de tailler une bavette avec Ashot, tout зa dans la sйcuritй de notre base.</text>
+	</string>
+	<string id="dm_about_102">
+		<text>Mon endroit prйfйrй dans le coin, c'est le bar, la Bouffйe d'air frais. L'endroit est plutфt sympa et le barman s'appelle Ganja... C'est pas un hasard, si tu vois ce que je veux dire... Je sais pas trop quoi te dire sur le reste, parce que franchement, je m'en fous royalement !</text>
+	</string>
+	<string id="dm_about_103">
+		<text>Ils ont un technicien dans la base de la Libertй qui peut te faire un canon antiaйrien а partir d'une kalachnikov rouillйe. Ce mec est un vrai gйnie ! Et leur marchand est pas un arnaqueur comme tous les autres mecs qui essaient de te fourguer de la merde.</text>
+	</string>
+	<string id="dm_about_104">
+		<text>Il se passe des trucs bizarres ces derniers temps. А croire que nos gars se font descendre par un fantфme... On a placй des avant-postes sur toutes les voies d'accиs а la Vallйe, mais зa change rien. De temps а autre, un de nos groupes se fait mйchamment plomber et tout est dйjа fini avant qu'on se pointe. Vu qu'on a pas la moindre idйe de qui est derriиre tout зa, on commence а devenir paranos.</text>
+	</string>
+	<string id="dm_about_105">
+		<text>Tout le monde est а cran dans la Vallйe ces jours-ci et les nouvelles tкtes, зa nous plaоt pas trop. Nos avant-postes se font dйcimer sans qu'on puisse rien faire et on n'a pas la moindre idйe de qui peut кtre derriиre tout зa. Du coup, on a un peu de mal а accueillir les йtrangers а bras ouverts... On commence mкme а se soupзonner les uns les autres. Tout le monde fait la gueule, parce qu'on a tous perdu des potes.</text>
+	</string>
+	<string id="dm_about_106">
+		<text>Et pourquoi tu veux savoir зa ? Le prends pas mal, mais des connards nous cherchent des poux depuis un moment : nos avant-postes sont attaquйs et, le temps que les renforts arrivent, il reste plus que des cadavres. Pas d'indices, rien... on en est mкme а se dire qu'il pourrait y avoir des traоtres parmi nous.</text>
+	</string>
+	<string id="dm_about_174">
+		<text>Зa craint grave ici en ce moment. Quelqu'un tue les combattants de la Libertй, mais personne sait qui c'est. En plus, ces mecs s'attaquent toujours а nos points faibles, comme s'ils savaient exactement oщ frapper. J'ose mкme plus compter le nombre de potes qu'on a perdu sans pouvoir y faire quoi que ce soit ! On a pas d'autre choix que de rester lа а attendre qu'on reзoive un SOS de l'un de nos avant-postes. Mais chaque fois qu'on arrive sur place, y a plus que des corps... les cadavres de nos gars.</text>
+	</string>
+	<string id="dm_about_175">
+		<text>Je suis sыr qu'il y a une taupe ici. Quelqu'un envoie des infos а l'ennemi et зa leur donne un putain d'avantage. Ils nous attaquent en fourbes, ils massacrent nos gars et ils disparaissent sans laisser de traces. On a subi de sacrйes pertes, ce qui nous empкche de nous emparer des entrepфts militaires... Enfin, c'est plus vraiment la prioritй... Je te jure, si je mets la main sur cet enfoirй, je vais lui faire payer la mort de tous nos potes, avec les intйrкts !</text>
+	</string>
+	<string id="dm_about_176">
+		<text>Si tu demandes en gйnйral, y a rien de spйcial ici par rapport au reste de la Zone. On cherche du butin, on se bat, on meurt et on essaie de prйparer l'avenir. Si tu demandes en particulier, alors faut que je te dise que c'est pas vraiment la joie en ce moment. C'est pour зa qu'on est un peu moins accueillants que d'habitude.</text>
+	</string>
+	<string id="dm_action_info_68">
+		<text>On fait ce que font les stalkers normaux : on cherche du butin, on massacre du mutant et on paie une tournйe gйnйrale au bar du coin quand on touche le jackpot ! Des fois, on enterre des copains... Enfin, quand il reste quelque chose а enterrer...</text>
+	</string>
+	<string id="dm_action_info_69">
+		<text>J'attends mon enfoirй d'ex-meilleur pote ! On a trouvй du bon matos ensemble, avant d'кtre attaquйs par une meute de pseudo-chiens sur le chemin du retour. J'ai ouvert le feu et je me suis mкme pas rendu compte que ce bвtard en profitait pour mettre les voiles avec mon sac ! Il m'a plantй lа, l'enfoirй. Je m'en suis sorti de justesse ! Du coup, maintenant, j'attends qu'il montre sa sale gueule pour lui faire sa fкte !</text>
+	</string>
+	<string id="dm_action_info_70">
+		<text>Зa faisait un moment que je pensais а rejoindre la Libertй, mais j'avais du mal а sauter le pas. Et maintenant, me voilа un membre а part entiиre du groupe ! Finies ces conneries de "junior", "bizuth" ou "bleu-bite" ! Faut avouer que y'a des fois, on se serait cru dans un dortoir de collиge, hй hй !</text>
+	</string>
+	<string id="dm_action_info_71">
+		<text>Ben, je suis en train de te parler, lа, non ? Plus sйrieusement, je suis un stalker. Si tu sais ce que c'est un stalker, tu sais ce que je fais de mes journйes !</text>
+	</string>
+	<string id="dm_action_info_72">
+		<text>Зa va peut-кtre кtre difficile а comprendre pour toi, mais je vis ici ! Je bosse ici, moi ! Je suis un stalker ! Et on a une base aussi. T'as entendu parler de la faction de la Libertй ? Eh bien, la Vallйe obscure, c'est notre territoire. Qu'est-ce que qu'un membre de la Libertй fait sur le territoire de la Libertй, а ton avis ?</text>
+	</string>
+	<string id="dm_action_info_73">
+		<text>J'essaye de trouver des artefacts et de rester en vie, c'est tout.</text>
+	</string>
+	<string id="dm_action_info_74">
+		<text>J'essaye de buter un clйbard ! Rigole pas ! Tu sais pas а quel point il est malin ! Ce sac-а-puce s'introduit dans la base toutes les nuits et hurle а la lune. Si tu lui tires dessus, il se barre, il fait le tour et il recommence son raffut ! Зa fait trois jours que je dors pas а cause de lui ! Si j'arrive а trouver sa planque, je l'йtrangle de mes mains nues, ce corniaud !</text>
+	</string>
+	<string id="dm_action_info_75">
+		<text>Mes gars et moi, on surveille le secteur, histoire d'йviter les attaques surprises. T'es sыrement au courant que nos patrouilles et nos avant-postes se font attaquer, non ? Зa craint vraiment... Tous ces gars йtaient de bonnes recrues.</text>
+	</string>
+	<string id="dm_action_info_76">
+		<text>Ben, y a pas grand chose а faire dans la Zone, а part chercher des artefacts, se battre et dйcouvrir tous ses secrets. Ouais, et aussi s'assurer que tout le monde y a accиs, aux secrets en question... C'est зa, la philosophie de la Libertй !</text>
+	</string>
+	<string id="dm_action_info_77">
+		<text>T'as entendu parler de l'artefact Mйduse ? Je dois trouver une de ces merveilles pour la revendre а Ashot contre un joli paquet de fric. Alors, laisse-moi tranquille, tu veux ? Faut que je rйflйchisse а la faзon dont je vais m'y prendre.</text>
+	</string>
+	<string id="dm_action_info_78">
+		<text>Tu savais que la Libertй йtudie aussi la Zone ? On est pas des scientifiques, c'est vrai, mais on veut aussi savoir ce qui a bien pu crйer ce miracle de la nature. La Zone est un vrai cadeau pour l'humanitй : toutes ces anomalies, ces artefacts, ces йmissions... De quoi on parlait dйjа ? Oh, ouais, tu voulais savoir ce que je fais ici. Eh bien, je rйcupиre des donnйes, je fais de relevйs de radiations, de tempйrature, d'humiditй, je note la prйsence de mutants ou d'anomalies, tout зa... Bon, tu m'excuseras, mais j'ai du boulot, lа !</text>
+	</string>
+	<string id="dm_action_info_79">
+		<text>En fait, au cas oщ t'aies pas remarquй, t'es dans notre base et tout ce que je fais est liй а ce fait. Je veux dire, mкme si je fais rien de spйcial, j'accomplis deux tвches essentielles : je donne l'impression qu'on est plus nombreux qu'on l'est vraiment et je permets а d'autres combattants de se dйtendre un peu.</text>
+	</string>
+	<string id="dm_action_info_80">
+		<text>Je suis а la recherche d'aventure dans la Zone et j'en ai trouvй plus qu'assez dans la Vallйe obscure ! Et tout зa grвce а la Libertй, aussi dйmago que зa puisse paraоtre !</text>
+	</string>
+	<string id="dm_about_107">
+		<text>La Libertй est la faction la plus puissante de la Vallйe. Ceci dit, ils ont pris un sacrй coup rйcemment. Leurs avant-postes se font attaquer : tout le monde y passe et personne voit rien. Personne sait comment les attaquants arrivent а йchapper aux patrouilles ou qui ils sont. Je voulais rejoindre la faction de la Libertй, mais, lа, je me dis que mourir pour rien, c'est peut-кtre pas une urgence...</text>
+	</string>
+	<string id="dm_about_108">
+		<text>C'est pareil que partout ailleurs, ni pire ni mieux. Y a des anomalies, des mutants, des radiations et des bвtiments soviйtiques en ruines. Des fermes, des usines, des trucs comme зa. La seule diffйrence, c'est la base de la Libertй. Ces mecs sont plutфt cools, mкme s'ils sont а cran ces derniers temps. Mais on peut pas leur en vouloir vu ce qui leur arrive...</text>
+	</string>
+	<string id="dm_about_109">
+		<text>Jusqu'а rйcemment, la Vallйe obscure йtait l'un des coins les plus agrйables de la Zone, pour autant qu'une partie de cet endroit puisse кtre "agrйable"... Disons que c'йtait pas plus dangereux qu'ailleurs, plutфt moins mкme, avec des artefacts potables, aucun bandit, aucun militaire, pas de Lobotomisateur ou d'autres merdes dans le genre. Mais depuis quelque temps, quelqu'un cherche des noises а la Libertй et c'est plus aussi relax qu'avant. Il est dйjа arrivй qu'un type qui passait par lа sans rien demander а personne se prenne une balle destinйe а un membre de la faction.</text>
+	</string>
+	<string id="dm_about_110">
+		<text>La Vallйe obscure se trouve а l'йcart des principales voies d'accиs au centre de la Zone. Tout ce que tu peux atteindre d'ici, c'est la Dйcharge et le Cordon. C'est sыrement pour зa qu'on voit pas moins de nouvelles tкtes qu'ailleurs ici et c'est pour зa que la Libertй y a installй sa base. Je suis pas sыr de pouvoir t'apprendre quoi que ce soit sur cette faction que tu saches pas dйjа.</text>
+	</string>
+	<string id="dm_about_111">
+		<text>C'est un des endroits les plus sympas de la Zone pour les stalkers neutres. Y a pas de militaires, pas de bandits et les monstres du coin se tiennent plus ou moins а carreau. Tout ce que t'as а faire, c'est te pencher pour ramasser le butin et йviter les anomalies. Pas mal, non ?</text>
+	</string>
+	<string id="dm_about_112">
+		<text>J'ai vu des endroits qui feraient passer la Vallйe obscure pour un jardin d'enfants. Des pseudo-chiens et des anomalies ! Ha, laissez-moi rire ! Passe autant de temps que moi а parcourir la Zone et tu comprendras ce que je veux dire ! Attends seulement qu'un manipulateur essayer de te faire une trйpanation artisanale ou qu'une sangsue te saute dessus sans prйvenir... Ca, c'est des cas oщ tu peux faire dans ton froc sans en avoir honte ! Et encore, c'est pas le pire... T'as entendu parler du Lobotomisateur ? Alors, зa, c'est du sйrieux. Tu peux pas le voir, tu peux ni le sentir, ni l'entendre ni le toucher et tu peux certainement pas le tuer, mais зa l'empкche pas de jouer avec toi !</text>
+	</string>
+	<string id="dm_about_113">
+		<text>La Libertй contrфle peut-кtre le coin, mais ils se prennent pas pour autant pour les rois du monde comme les bandits dans la Dйcharge. Tu peux aller oщ tu veux, tu peux prendre tous les artefacts que tu veux et t'as pas de taxes а payer а qui que ce soit ! C'est le meilleur endroit de la Zone et de loin !</text>
+	</string>
+	<string id="dm_about_114">
+		<text>Les mecs de la libertй t'en parleront mieux que moi. Pourquoi tu vas pas leur demander dans leur base ? Je suis pas lа depuis trиs longtemps et j'ai tendance а prendre toujours les mкmes chemins. Tout ce que je sais, c'est comment aller de la Dйcharge а la base de la Libertй et, de lа, а la ferme au sud.</text>
+	</string>
+	<string id="dm_about_115">
+		<text>Les premiиres semaines, tu penses que c'est le paradis dans la Zone. C'est plutфt peinard, les mecs de la Libertй sont cools et ils essaient pas de t'arnaquer. Mais au bout d'un moment, tu commences а te faire chier, parce que la Vallйe est а l'йcart des routes principales et qu'il se passe jamais grand-chose ici. Disons que c'est un bon endroit pour rйcupйrer avant de retourner dans le chaos de la Zone, mais vivre ici tout le temps, alors зa, non merci ! C'est un coup а devenir fainйant et а perdre ses rйflexes ! Pour moi, la Dйcharge а l'ouest est une meilleure option ou sinon, tu peux aller dans le Cordon pour faire chier les militaires !</text>
+	</string>
+	<string id="dm_about_116">
+		<text>Si t'es pas trop con, tu peux te faire pas mal de fric en menant а bien des missions pour la Libertй ou en rйcupйrant des artefacts. La Libertй met pas de fonds en commun comme les bandits et propose pas de fonds d'assistance comme le Devoir. Tout ce que tu trouves, tu le gardes. Rien t'empкche de faire des dons... pour les vacances ou l'anniversaire du commandant... Mais s'il y a quoi que ce soit qui te plaоt pas, tu peux partir pour le Cordon quand tu veux... Ou pour la Dйcharge, а l'ouest, si t'as vraiment envie de contribuer aux bйnefs des bandits.</text>
+	</string>
+	<string id="dm_about_117">
+		<text>Si t'as pas envie de te frotter aux manipulateurs et aux sangsues, la Vallйe obscure est faite pour toi ! Les seuls mutants qui y vivent sont des pseudo-chiens, des sangliers et des barbaks. Quant aux anomalies, il suffit de garder les yeux grand ouverts et de les contourner.</text>
+	</string>
+	<string id="dm_action_info_81">
+		<text>J'йtais venu dans la Vallйe pour trouver des artefacts quand j'ai appris que la Libertй y avait sa base. Зa faisait un bail que je pensais  les rejoindre, alors j'ai tentй le coup. Mais ils prennent plus de nouveaux en ce moment а cause des attaques sur leurs avant-postes. Ils sont devenus complиtement parano... S'ils avaient une machine а rayon X, je suis sыr qu'ils l'utiliseraient sur tous les nouveaux arrivants. Je plaisante, mais bon, c'est vrai qu'ils sont а cran et du coup, ma candidature est en attente !</text>
+	</string>
+	<string id="dm_action_info_82">
+		<text>Je suis venu ici pour rejoindre la Libertй. Ils ont besoin de sang neuf en ce moment ! Mais faut qu'ils fassent gaffe а qui ils prennent... Paraоt qu'ils ont une taupe chez eux...</text>
+	</string>
+	<string id="dm_action_info_83">
+		<text>Je suis а la recherche de butin et on est dans l'un des coins les plus tranquilles de la Zone ici. Pas besoin d'avoir peur de se faire presser comme un citron comme а la Dйcharge, y a pas des hordes de mutants comme а l'Agroprom et pas de militaires corrompus non plus ! Sans oublier que les anomalies et les mutants du coin sont pas bien dangereux comparйs au reste de la Zone.</text>
+	</string>
+	<string id="dm_action_info_84">
+		<text>Je chasse les mutants. Les marchands et les scientifiques sont prкts а mettre le prix pour les piиces dйtachйes, hй hй ! Tu me crois pas ? Ben, t'as qu'а aller leur demander !</text>
+	</string>
+	<string id="dm_action_info_85">
+		<text>Je suis ici chez moi. Les mecs et moi, on s'est installй un petit camp bien sympa. Зa nous permet de nous reposer entre deux voyages dans la Zone. C'est plutфt tranquille par ici.</text>
+	</string>
+	<string id="dm_action_info_86">
+		<text>Je suis venu ici pour йchapper aux dangers et au stress des autres secteurs de la Zone. Les militaires des entrepфts et du Cordon traitent les stalkers comme de la merde, les bandits nous prennent pour des vaches а lait et le Devoir а l'Agroprom essaye de nous endoctriner pour qu'on combatte tous ceux qui pensent pas comme eux. Ici, au moins, on est tous йgaux, et souvent bourrйs, ce qui me va trиs bien !</text>
+	</string>
+	<string id="dm_action_info_87">
+		<text>J'ai йtй sйparй de mon groupe а la Dйcharge. On a eu un petit dйsaccord avec les bandits parce qu'on voulait pas payer le droit de passage et ils aiment pas trop зa. On leur a mis une belle branlйe, mais on a dы mettre les voiles vite fait quand leurs renforts sont arrivйs ! Je suis parti vers l'est et je suis arrivй ici, dans la Vallйe obscure. Je peux pas prendre le risque de retourner dans la Dйcharge, alors j'espиre que les autres me retrouveront ici. On verra bien ce qu'on fera ensuite !</text>
+	</string>
+	<string id="dm_action_info_88">
+		<text>Je suis pas dans la zone depuis trиs longtemps, j'ai juste vu le Cordon et la Dйcharge. J'essaye de comprendre comment зa marche ici et de me faire un peu de fric en mкme temps.</text>
+	</string>
+	<string id="dm_action_info_89">
+		<text>On m'a dit qu'il y avait plein de matos а rйcupйrer dans la Vallйe et qu'on pouvait le revendre immйdiatement au marchand de la Libertй. En fait, зa fait un moment que je suis dans le coin et il y a pas grand-chose а se mettre sous la dent... Je sais pas si c'est de la malchance ou si je regarde juste aux mauvais endroits...</text>
+	</string>
+	<string id="dm_action_info_90">
+		<text>Ashot a des bonnes combinaisons de protection а vendre, mais je suis un peu juste niveau pognon. Alors, j'ai dйcidй de voir ce que je pouvais trouver comme matos dans le coin, y a toujours des trucs qui traоnent pour qui sait ouvrir les mirettes. Le problиme, c'est que j'arrive pas а йconomiser mon fric : soit j'utilise trop de munitions ou de mйdocs pour me faire un bйnef, soit je claque tout au troquet du coin...</text>
+	</string>
+	<string id="dm_cool_info_21">
+		<text>On a plus l'impression d'кtre au mкme endroit depuis l'йmission. Les chemins sыrs ont disparu et y en a de nouveaux qui se sont ouverts vers le Marais. Mais bon, l'avantage, c'est qu'on peut explorer de nouveaux coins de la Zone, et qui sait ce qu'on va y trouver ? Paraоt qu'il y a mкme une petite ville qu'est restйe intacte depuis l'йpoque des Soviets. Dиs que le chef en a entendu parler, il a envoyй des gars en reconnaissance pour aller vйrifier зa. Et depuis qu'il a appris que le Devoir avait fait pareil, il a dit а nos gars d'accйlйrer le pas. On devrait avoir du nouveau dans pas trиs longtemps.</text>
+	</string>
+	<string id="dm_cool_info_22">
+		<text>Il paraоt que les йmissions qui ont secouй le coin ces derniers temps, ont йtй provoquйs par un groupe de stalkers qui a rйussi а passer le Lobotomisateur et а atteindre le centre de la Zone. Imagine un peu ! Ils ont rйussi а passer le Lobotomisateur ! Paraоt mкme qu'ils sont revenus en un seul morceau. А croire que la Zone essaye de prendre sa revanche avec ces йmissions !</text>
+	</string>
+	<string id="dm_cool_info_23">
+		<text>Les anomalies sont devenues encore plus dangereuses. C'est plus des petites poches d'activitй anormale, c'est des champs entiers maintenant ! Entre les radiations et les vapeurs toxiques, зa suffit plus de jeter un truc devant toi... Faut une combinaison de premiиre pour survivre et y rйflйchir а deux fois avant de faire un pas de plus !</text>
+	</string>
+	<string id="dm_intro_90">
+		<text>Attention а la chiйe de zombies qui sortent de l'usine !</text>
+	</string>
+	<string id="dm_intro_91">
+		<text>La vache ! Tu ressembles tellement а un zombie que j'ai failli te descendre !</text>
+	</string>
+	<string id="dm_intro_92">
+		<text>Bienvenue au lac de Yantar, lieu de villйgiature paisibles et de pкche au gros, ha ha ! Sauf que les poissons du coin sont pas trиs frais !</text>
+	</string>
+	<string id="dm_intro_93">
+		<text>Bienvenue а Yantar, mec !</text>
+	</string>
+	<string id="dm_intro_94">
+		<text>T'arrives pile au bon moment, stalker. On aurait bien besoin d'un coup de main !</text>
+	</string>
+	<string id="dm_intro_95">
+		<text>Hй, mec !</text>
+	</string>
+	<string id="dm_about_118">
+		<text>Surtout reste bien а l'йcart de l'usine ! Personne en revient, tu sais ! Crois-moi, tu deviens dingue avant mкme d'y entrer et y a que la Zone elle-mкme qui sache qu'il y a а l'intйrieur !</text>
+	</string>
+	<string id="dm_about_119">
+		<text>Laisse-moi te dire que cet endroit me fout sйrieusement les jetons ! Les zombies sortent par paquets de l'usine et on arrкte pas de les buter... Aucun de ceux qui sont allйs voir ce qu'il y a а l'intйrieur en est revenu vivant ! Mкme moi, j'ai essayй d'arriver jusqu'а l'entrйe, mais, au fur et а mesure que j'approchais, je pouvais sentir ma cervelle en train de fondre ! Je pouvais plus bouger, j'avais des vertiges, j'entendais des trucs bizarres ! Je te jure, j'ai fait dans mon froc et je me suis tirй vite fait ! Mais les bruits dans ma tкte sont pas partis de la journйe. J'ose mкme pas imaginer les tas de cadavres des mecs qui sont allйs un peu plus loin que moi !</text>
+	</string>
+	<string id="dm_about_120">
+		<text>Cette vieille flaque d'eau putride, c'йtait le lac de Yantar avant. Les scientifiques ont une base sur la rive. Ils font leurs recherches dans leurs bunkers et ils partent en expйdition de temps en temps. Des fois, ils nous filent mкme du boulot ! Si t'as de la chance, tu peux trouver quelques artefacts dans le coin ou mкme un flingue sur le corps d'un zombie. C'est le seul truc dont on risque pas de manquer ici, les zombies ! Ils sortent de l'usine dйsaffectйe, mais impossible pour nous d'aller voir ce qui s'y passe. Dиs que t'approches, y a un truc qui te fout les neurones en mйlasse... Tous les mecs un peu tйmйraires ont disparu depuis longtemps de la rйgion, il reste plus que ceux qui sont prudents ou trop trouillards...</text>
+	</string>
+	<string id="dm_about_121">
+		<text>Je comprends pas cet endroit ! Un pote et moi, on a essayй d'entrer dans l'usine, parce que c'est un des rares endroits de la Zone oщ personne est jamais allй. On s'est dit qu'il devait y avoir des trucs intйressants а l'intйrieur. Ha ! Dиs qu'on est arrivй au portail, j'ai commencй а avoir des vertiges, а entendre des bruits bizarres, а voir des trucs pas nets ! Heureusement que mon pote йtait derriиre moi : dиs qu'il a vu que je dйraillais, il m'a attrapй et nous a sortis de lа. Et pour couronner le tout, on s'est presque fait buter par nos potes stalkers qui nous ont pris pour des zombies en nous voyant revenir !</text>
+	</string>
+	<string id="dm_about_122">
+		<text>Les scientifiques ont une base prиs du lac assйchй, oщ les stalkers combattent des vagues de zombies depuis des positions fortifiйes. Personne sait ce qui se passe dans la vieille usine, mais dиs que t'en approches, tu commences а avoir des visions, tu te sens faible et tu perds la boule. Mкme les grosses tкtes du labo comprennent pas vraiment ce qui se passe !</text>
+	</string>
+	<string id="dm_about_123">
+		<text>C'est endroit s'appelle Yantar. Avant, il y avait un vrai lac, mais c'est plus vraiment une station balnйaire depuis longtemps. Y a plus qu'une immense flaque de boue, des radiations et des zombies а la pelle... et si зa te suffit pas, t'as qu'а faire un tour dans l'usine dйsaffectйe. T'iras pas trиs loin de toute faзon... T'auras perdu la boule avant d'avoir dйpassй l'entrйe.</text>
+	</string>
+	<string id="dm_about_124">
+		<text>L'usine est l'endroit le plus dangereux de la rйgion. Tout ce qui l'entoure est affectй par une espиce d'йmission psi inconnue et tous ceux qui essayent d'y entrer parlent d'йtranges bruits et de voix rйsonnant dans leur tкte. Les rares gars qui se sont approchйs sont devenus dingues et les mecs qu'avaient assez de couilles pour y rentrer, en sont jamais ressortis !</text>
+	</string>
+	<string id="dm_about_125">
+		<text>On collabore avec les scientifiques. On les dйfend contre les vagues de zombies qui sortent de l'usine dйsaffectйe et en йchange, ils nous filent des mйdocs, de l'йquipement et mкme, parfois, du boulot. Y a pas grand monde qui essaye d'entrer dans l'usine, parce qu'y a une espиce de radiation qui te bouffe le cerveau en moins de deux. Mais bon, ceux qui ont rйussi а y entrer pendant une pйriode d'accalmie en sont revenus avec du butin de premiиre !</text>
+	</string>
+	<string id="dm_about_126">
+		<text>Je suis sыr qu'il y a des trucs de valeur dans l'usine. Je parie que Sakharov et ses intellos seraient prкts а y mettre le prix... Le problиme, c'est que c'est pas facile d'y entrer, personne a vraiment rйussi... Soit tu te coltines les zombies а l'intйrieur, soit... En fait, il se passe un truc bizarre quand tu t'approches : tu commences а entendre des voix, а avoir la tкte qui tourne. Et si tu reviens pas sur tes pas, adieu l'ami ! J'ai perdu pas mal de potes comme зa... Ils ont йtй un peu trop tйmйraires...</text>
+	</string>
+	<string id="dm_about_127">
+		<text>Avant la premiиre catastrophe, il y avait un lac ici, le lac de Yantar. Mais quand ils ont construit l'usine, ils ont merdй avec les йgouts et toute l'eau a йtй drainйe du lac, pour ne plus laisser qu'une flaque nausйabonde. Les scientifiques se sont installйs а cфtй de ce qui en reste et l'usine continue а causer des problиmes, mкme depuis qu'elle est abandonnйe. Dиs que t'en approches, tu pиtes un cвble et tu peux plus rйflйchir. Les seuls qui continuent d'avancer sont des mecs suicidaires... Tous les autres se contentent de buter les zombies qui sortent de l'usine et d'aider les scientifiques.</text>
+	</string>
+	<string id="dm_about_128">
+		<text>Les scientifiques de Yantar йtudient la Zone. La plus grosse attraction locale est l'usine et pas mal de gens y ont disparu а cause des йmissions psi. Personne n'en ressort vivant... ou en tout cas, on a pas la moindre idйe de ce qui peut bien leur arriver.</text>
+	</string>
+	<string id="dm_about_129">
+		<text>Les scientifiques ont installй une base par ici, avec des positions fortifiйes d'oщ les stalkers tirent sur les zombies. Au sud, t'as l'Agroprom oщ le Devoir combat les mutants et au nord, c'est la Forкt rouge. On sait pas ce qu'il y a lа-bas parce que personne en est encore revenu.</text>
+	</string>
+	<string id="dm_action_info_91">
+		<text>J'aide les scientifiques а mener leurs recherches. Bon, je manipule pas les йprouvettes, йvidemment. Les mecs et moi, on les dйfend contre les zombies, on protиge leurs expйditions et on rapporte des artefacts, des organes de mutants et toutes les merdes que veut Sakharov. En retour, ils йtudient les йmissions psi qui pourrissent la cervelle des gens prиs de l'usine. Quand ils auront trouvй une solution, зa va кtre une vraie ruйe vers l'or а l'intйrieur, зa, tu peux me croire !</text>
+	</string>
+	<string id="dm_action_info_92">
+		<text>J'attends que les binoclards trouvent un moyen de nous dйbarrasser des йmissions qui nous empкchent d'accйder а l'usine. Tu veux savoir pourquoi зa nous arrкte ? Ben, va voir par toi-mкme ! Y a un truc qui va te bousiller le cerveau si vite que tu sauras plus par quel bout tenir ton flingue ! Des tas de stalkers y sont allйs... et ils sont jamais revenus.</text>
+	</string>
+	<string id="dm_action_info_93">
+		<text>Je file un coup de main aux scientifiques. Зa consiste essentiellement а les dйfendre contre les zombies. C'est plutфt une bonne affaire quand tu penses qu'en йchange, ils nous filents des pansements, des mйdocs et des munitions. C'est pas trop mal ici, tant que tu fais profil bas.</text>
+	</string>
+	<string id="dm_action_info_94">
+		<text>Un vйtйran m'a vendu une carte de toutes les planques de la rйgion. Je l'ai mйmorisйe et je l'ai brыlйe, donc pas besoin d'essayer de me buter pour la piquer ! De toute faзon, j'ai dйjа nettoyй toutes les planques en dehors de l'usine et elles йtaient bien lа oщ la carte les indiquait, mais les meilleurs filons sont dans l'usine. Quand Sakharov et son йquipe auront trouvй le moyen de neutraliser les йmissions psi, а moi le pognon !</text>
+	</string>
+	<string id="dm_action_info_95">
+		<text>Je fais des relevйs pour Sakharov. Il lui manque des assistants, alors il paye des stalkers pour faire de petits boulots comme зa.</text>
+	</string>
+	<string id="dm_action_info_96">
+		<text>Un marchand m'a dit qu'un pote que je connaissais а l'йpoque oщ j'йtais dans l'armйe traоnait dans le coin. Je suis venu le trouver pour qu'on bosse ensemble dans la Zone.</text>
+	</string>
+	<string id="dm_action_info_97">
+		<text>Je suis claquй, mec, complиtement vidй ! J'en ai marre d'essayer de sortir du matos de la Zone, ras-le-bol de combattre ces saloperies de mutants, ras-le-cul de me coltiner ces enfoirйs de bandits ! J'ai dйcidй de faire un break. Ici, il suffit de buter quelques zombies pour que les scientifiques te paient. Je vais me la couler douce encore un peu et ensuite, j'irai vers des rйgions plus dangereuses. La rиgle dans la Zone, c'est que plus c'est dangereux, plus зa rapporte !</text>
+	</string>
+	<string id="dm_action_info_98">
+		<text>Aprиs la derniиre йmission, j'ai dйcidй de faire un petit tour de la Zone pour voir ce qu'il y avait de neuf. Je suis allй partout, du Marais jusqu'au Lobotomisateur et j'ai vu des trucs que t'imagines mкme pas ! Je suis revenu ici vendre mon butin et j'ai rencontrй des mecs sympas. On s'est bien entendu, alors on bosse ensemble, maintenant.</text>
+	</string>
+	<string id="dm_action_info_99">
+		<text>Je me remets du dernier combat. Y'avait tellement de zombies qu'on a failli se faire dйborder. Si зa avait йtй de vrais soldats, je serais plus lа pour t'en parler. Mais ces zombies sont cons comme la pluie, pas de tactique, rien ! Mais bon, зa a йtй quand mкme une sacrйe baston et j'ai pris une balle perdue. Rien de grave heureusement ! Зa ira mieux dans pas trиs longtemps.</text>
+	</string>
+	<string id="dm_action_info_100">
+		<text>Je veux entrer dans l'usine, mais j'hйsite. D'un cфtй, je fais dans mon froc, mais de l'autre, je veux vraiment savoir ce qu'il y a а l'intйrieur. Quelqu'un rйussira а y entrer un jour ou l'autre, alors pourquoi зa serait pas moi ?</text>
+	</string>
+	<string id="dm_action_info_101">
+		<text>J'essaye d'йconomiser assez de fric pour me payer un bon flingue. Du coup, je travaille pour les scientifiques, j'empкche les zombies d'approcher de leur camp. Une fois que j'aurai un bon pactole, je m'achиterai le fusil qui me fait tellement envie et j'irai parcourir la Zone.</text>
+	</string>
+	<string id="dm_action_info_102">
+		<text>Je suis venu ici de l'Agroprom aprиs avoir combattu dans le clan d'Orest pendant un moment. J'avais besoin de changement. Je crиve d'envie d'aller voir ce qui se passe dans la Forкt rouge, mais impossible d'y accйder а cause des йmissions psi de l'usine. Rien que s'en approcher, c'est dйjа un exploit en soi.</text>
+	</string>
+	<string id="dm_action_info_103">
+		<text>J'aidais le Devoir а descendre les mutants de l'Agroprom quand un paquet de zombies a dйbarquй de Yantar. Les mes du Devoir ont formй un groupe pour aller s'en dйbarrasser et je me suis portй volontaire. On est venu ici, on a tout nettoyй sur le chemin et les gars du Devoir sont repartis. Moi, j'ai repйrй une belle combinaison de protection en vente chez les scientifiques et j'ai dйcidй de rester pour essayer de me la payer.</text>
+	</string>
+	<string id="dm_action_info_104">
+		<text>FOUS-MOI LA PAIX ! Quoi ? Nan, je te parle pas а toi. Oh, je deviens dingue ! J'ai йtй assez con pour aller voir l'usine, je voulais savoir а quoi elle ressemblait... Et maintenant, j'ai la cervelle en compote ! Heureusement que les gars ont rйussi а me sortir de lа... c'est dingue, je suis en train de te parler et j'entends des voix dans ma tкte. Fermez-la, bordel ! Non, pas toi ! Pff... oublie...</text>
+	</string>
+	<string id="dm_cool_info_24">
+		<text>Paraоt qu'un groupe de stalkers a essayй d'accйder au centre de la Zone. Certains disent qu'ils y sont arrivйs, d'autre que non, mais tout le monde pense qu'il y a un lien entre leur expйdition et la derniиre йmission. Je me demande s'ils ont trouvй l'Exauceur de voeux et s'ils ont demandй quelque chose...</text>
+	</string>
+	<string id="dm_cool_info_25">
+		<text>Paraоt qu'une faction entiиre a disparu dans la Zone. T'as entendu parler du Monolithe ? Ils essayaient de protйger la Zone contre les pillards, mais ils sont allйs au centre juste avant la derniиre йmission. Personne les a revus depuis, mais depuis quelque temps, des stalkers hyper-agressifs venus du Lobotomisateur se sont mis а attaquer. Ils tuent sans discrimination et posent pas de questions. Je le sais parce que je les ai vus de mes propres yeux prиs des entrepфts militaires et а mon avis, ces types pourraient bien кtre les Monolithes disparus. Зa m'йtonnerait pas, on dirait presque qu'ils ont les mкmes uniformes.</text>
+	</string>
+	<string id="dm_cool_info_26">
+		<text>Tout a changй depuis l'Йmission. On croirait presque qu'on est plus dans la mкme Zone. Les factions sont en guerre, les mutants sortent de partout, de nouveaux territoires sont dйcouverts tandis que d'autres plus anciens sont bloquйs par des anomalies. On a mкme trouvй de nouveaux types d'artefacts... C'est dingue ! J'ai l'impression d'кtre redevenu un dйbutant !</text>
+	</string>
+	<string id="dm_cool_info_27">
+		<text>L'autre jour, j'ai entendu dire que les militaires en chiaient dans les entrepфts depuis la derniиre йmission. Apparemment, la Libertй a des vues sur leur territoire et tout ce qu'ils peuvent faire pour l'instant, c'est se retrancher dans leur base et prier. Ils sont affaiblis, mais ils savent que leur base est а un emplacement stratйgique. Sinon, il paraоt que les Monolithes sont de retour du centre. On pensait tous qu'ils y йtaient passйs, mais non. J'adorerais en croiser un pour lui demander а quoi зa ressemble, le centre...</text>
+	</string>
+	<string id="dm_cool_info_28">
+		<text>Il paraоt qu'un passage vers la Forкt rouge s'est ouvert derriиre le lac de Yantar. Y a pas mal de rumeurs qui circulent а ce sujet... comme quoi la forкt serait devenue rouge sang et se serait couverte de brume en une journйe. Depuis, on la considиre comme un secteur trиs dangereux... Des tas de gars y ont disparu et, au bout d'un moment, mкme les passages qui y menaient se sont envolйs. Je te conseille d'y rйflйchir а deux fois avant d'y aller.</text>
+	</string>
+	<string id="dm_cool_info_29">
+		<text>Mec, il se passe tellement de trucs par ici que c'est difficile de tenir le compte ! Je croyais que Yantar йtait а la limite de la partie explorйe de la Zone, mais la derniиre йmission a йtй si puissante que des passages vers la Forкt rouge et Limansk, la ville fantфme, ont йtй ouverts. Plusieurs de nos gars y sont allйs en passant par l'usine, mais je sais mкme pas s'ils sont arrivйs а destination. Paraоt aussi que le Devoir et la Libertй, les deux factions les plus puissantes de la Zone, se battent pour le contrфle de Limansk.</text>
+	</string>
+	<string id="dm_intro_96">
+		<text>Encore toi ? Quoi de neuf cette fois ?</text>
+	</string>
+	<string id="dm_intro_97">
+		<text>Bien le bonjour, stalker !</text>
+	</string>
+	<string id="dm_intro_98">
+		<text>Bonjour, jeune home !</text>
+	</string>
+	<string id="dm_intro_99">
+		<text>Salut ! Qu'est-ce que tu veux ?</text>
+	</string>
+	<string id="dm_intro_100">
+		<text>Tu cherches du travail ou tu veux faire des йchanges ?</text>
+	</string>
+	<string id="dm_intro_101">
+		<text>Je suis sыr que tu cherches des infos. Je ferais de mon mieux pour rйpondre а tes questions.</text>
+	</string>
+	<string id="dm_intro_102">
+		<text>Comment зa va, mon pote ?</text>
+	</string>
+	<string id="dm_intro_103">
+		<text>Et un bonjour vraiment libйrateur а un stalker vraiment libйrй !</text>
+	</string>
+	<string id="dm_intro_104">
+		<text>Salut, stalker.</text>
+	</string>
+	<string id="dm_intro_105">
+		<text>Je vois bien que t'as envie de poser des milliers de questions, alors parle !</text>
+	</string>
+	<string id="dm_about_130">
+		<text>C'est vraiment la plaque tournant de la Zone. D'ici, tu peux atteindre le Lobotomisateur, la Forкt rouge, Limansk et tout ce qu'il y a au-delа... mкme si personne sait vraiment ce qu'on trouve lа-bas... Il y a une vieille base militaire dans le coin, installйe avant la derniиre йmission. Ces jours-ci, y a plus qu'une vingtaine de gars qui la tiennent... Cette base nous donnerait le contrфle des territoires adjacents. Suffit qu'on file un coup de main aux militaires pour accйlйrer le dйmйnagement, si tu vois ce que je veux dire...</text>
+	</string>
+	<string id="dm_about_131">
+		<text>Au nord, on peut pas passer а cause du Lobotomisateur... Mais зa empкche pas les Monolithes de se pointer ici et ils sont pas trиs amicaux ces derniers temps. Ils tirent d'abord et se font mкme pas chier а poser des questions ensuite. Si tu pars vers le sud, tu trouveras la Vallйe obscure, alors qu'а l'ouest, c'est la Forкt rouge. C'est pas vraiment l'endroit le plus tranquille de la Zone, mais y a moins de balles perdues dans l'air. On a aussi trouvй une route vers Limansk au-delа de la forкt. C'est une petite ville, mais elle a une grande importance stratйgique... C'est pour зa que nos gars essayent d'expliquer au Devoir que leur prйsence est pas vraiment nйcessaire.</text>
+	</string>
+	<string id="dm_about_132">
+		<text>Il y avait une grande base militaire ici avant, avec des entrepфts et tout, mais l'йmission les a frappйs de plein fouet. Les survivants font plus les fiers, ils sortent pas de leur base et ils arrкtent pas de demander l'autorisation d'йvacuer а leur QG, mais personne vient les aider. Зa a pas l'air d'кtre la fкte ches les militaires, mкme en dehors de la Zone. Ou alors le signal passe pas, tout simplement. J'ai presque pitiй pour ces pauvres types... Mкme des rats feraient preuve de plus de solidaritй envers les leurs.</text>
+	</string>
+	<string id="dm_about_133">
+		<text>Les militaires contrфlaient les entrepфts depuis un bout de temps, mais la derniиre йmission a tout changй. Seule une poignйe d'entre eux ont survйcu... ceux qui s'йtaient planquйs dans la base. Tous les mecs а l'extйrieur y sont passйs. Comment je sais tout зa ? Hй, qu'est-ce que tu crois ? La Libertй aussi a son service de renseignements ! Maintenant qu'on est aux commandes, tous les stalkers se sont regroupйs pour repousser les monstres qui sortent du Lobotomisateur.</text>
+	</string>
+	<string id="dm_about_134">
+		<text>Quand on est arrivйs, c'йtait le chaos. Les militaires avaient arrкtй de dйfendre la Barriиre et s'йtaient retranchйs dans leur base. Le problиme, c'est que la Barriиre a besoin d'кtre protйgйe 24h sur 24, sinon les mutants dйbarquent en trombe et tuent tout ce qui bouge ! C'est pour зa qu'on essaye de la dйfendre nous-mкmes et qu'on a besoin de toutes les bonnes volontйs ! Si la Barriиre tombe, tout le monde paiera les pots cassйs !</text>
+	</string>
+	<string id="dm_about_135">
+		<text>Il y a une vieille base militaire sur la colline et on espиre bien s'en emparer vite fait ! Un peu plus loin, il y a un petit village, juste quelques fermettes et une cabane en rondins dans le marais. En dehors de зa, y a guиre que quelques villages abandonnйs et nos avant-postes dans le coin. On les a surtout placйs sur les routes qui mиnent а la Forкt rouge et а la Vallйe obscure. Les stalkers dйfendent la Barriиre contre les vagues de mutants et de Monolithes. C'est dingue, quand on y pense... C'est la premiиre fois que je vois des stalkers bosser ensemble pour autre chose que du fric !</text>
+	</string>
+	<string id="dm_about_136">
+		<text>Si tu vas vers le nord, tu tomberas sur la Barriиre oщ les stalkers essayent de repousser les mutants qui sortent du Lobotomisateur. А droite de la Barriиre, y a une cabane sur pilotis au milieu du marais. Je te conseille de pas t'en approcher... les radiations sont corsйes par lа-bas. Encore plus loin dans le marais se trouve la base militaire. Notre avant-poste occidental garde la route qui mиne а la Forкt rouge et Limansk, la ville vers laquelle se dirigent la plupart des nos gars. Et l'avant-poste au sud protиge l'accиs а la Vallйe obscure.</text>
+	</string>
+	<string id="dm_about_137">
+		<text>Tout change trиs vite par ici ! Les entrepфts militaires seront bientфt les entrepфts de la Libertй ! Nos avant-postes et les positions fortifiйes tenues par les stalkers protиgent les points d'entrйe dans la rйgion. La Barriиre, au nord, empкche les mutants de sortir du centre de la Zone. Heureusement que les stalkers la dйfendent, sinon, on serait dans une sacrйe merde. Notre avant-poste de l'ouest couvre la route de Limansk qui traverse la Forкt rouge et celui au sud protиge l'accиs а la Vallйe obscure, oщ se trouve notre base principale. La zone grouille de stalkers en ce moment... Ils profitent du fait qu'on ait bloquй les militaires dans leur base. Il doit y avoir de bons artefacts ou du matos de premiиre а prendre dans les fermes et les villages abandonnйs.</text>
+	</string>
+	<string id="dm_about_138">
+		<text>Dиs que les militaires ont perdu le contrфle de la rйgion, les stalkers se sont pointйs en masse pour essayer de passer le Lobotomisateur, ces idiots ! Laisse-moi te dire que c'est pas possible, un point, c'est tout ! Personne en est revenu ! La Libertй est lа pour se dйbarrasser des militaires et piquer leur base. Aprиs tout, si on doit dйfendre la Barriиre, faut bien qu'on ait une base pas loin !</text>
+	</string>
+	<string id="dm_about_139">
+		<text>Les meilleurs stalkers de la Zone se sont regroupйs ici, dans les entrepфts militaires, et cherchent un moyen de passer le Lobotomisateur. Le moral est au beau fixe et ils ont tous au moins quarante voeux tout prкts qu'ils comptent utiliser dиs l'instant oщ ils atteindront l'Exauceur de voeux. Bande d'abrutis ! Ils sont assez intelligents pour atteindre les entrepфts, mais trop cons pour se rendre compte de ce qui les attend plus loin... Ils feraient mieux de nous aider а dйfendre la Barriиre... Si elle tombe, y aura plus que l'Exauceur de voeux pour nous sauver !</text>
+	</string>
+	<string id="dm_about_140">
+		<text>Зa bouge rapidement dans le coin. Les Monolithes et les mutants attaquent par vagues, en provenance du Lobotomisateur. Et puis, il y a ces bribes de transmissions radio qui me fichent une trouille bleue. Je crois que pas mal de mecs ont disparu pendant l'йmission, mais au lieu de crever, ils se sont perdus, on dirait. Paraоt qu'ils sont pris au piиge ou un truc dans le genre. C'est peut-кtre un nouveau type d'anomalie, qui sait ? Ils me font pitiй, ces mecs, mais je vois pas du tout comment je pourrais les aider !</text>
+	</string>
+	<string id="dm_action_info_105">
+		<text>Tout ce qu'on a а faire ici, c'est tenir la Barriиre et virer les militaires de leur base. Notre chef est vraiment malin... Зa me serait jamais venu а l'idйe que ce serait vachement plus facile de dйfendre la Barriиre si on avait une base. Aprиs tout, c'est pour зa que c'est lui le chef et que moi, je suis qu'un grouillot ! D'un autre cфtй, j'ai pas а me prendre la tкte avec des questions de stratйgie et je peux me bourrer la gueule quand je veux, tout le monde s'en fout, hй hй !</text>
+	</string>
+	<string id="dm_action_info_106">
+		<text>On dйfend la Barriиre du mieux qu'on peut. Les militaires l'ont lвchйe aprиs la derniиre йmission et il y a tellement de mutants qui ont rйussi а passer que mкme la Vallйe obscure est en danger. C'est pour зa que notre chef a organisй cette expйdition. Sinon, les Monolithes qu'avaient disparu ont aussi fait leur grand retour depuis l'autre cфtй de la Barriиre. Faut croire qu'ils avaient pas vraiment "disparu" en fin de compte !</text>
+	</string>
+	<string id="dm_action_info_107">
+		<text>Je cherche notre unitй de reconnaissance. Ils sont partis par lа avant l'йmission et personne les a revus depuis. On intercepte des bribes de conversation radio de temps en temps... Ils demandent de l'aide et disent qu'ils sont а court de provisions. C'est vraiment flippant ! Ils sont pas loin du tout, ils peuvent mкme voir la tour de la base militaire, mais ils arrivent pas revenir. C'est comme s'ils йtaient pris dans un anneau de Mцbius ou un truc du style... Alors, je suis lа а me creuser la cervelle pour essayer de trouver une solution.</text>
+	</string>
+	<string id="dm_action_info_108">
+		<text>On a passй un accord avec les militaires. Ils prennent nos balles et nous, on prend leur base. Franchement, c'est plutфt honnкte, comme deal. Les gars et moi, on "nйgocie" а plein rйgime...</text>
+	</string>
+	<string id="dm_action_info_109">
+		<text>Quand on se bat pas, ce qui arrive pas trиs souvent, on se repose et on raconte des blagues salaces au coin du feu, on picole, tout зa... Quand on en aura fini ici et а Limansk, deux rйgions de la Zone encore intactes, on trouvera peut-кtre un moyen d'accйder au centre. C'est de lа que dйbarquent les Monolithes...</text>
+	</string>
+	<string id="dm_action_info_110">
+		<text>Je m'йclate avec mes potes ! On se pinte, on fait la fкte, on se raconte des blagues, tout зa. Qui sait ce qui m'arrivera demain, ou mкme dans une heure ? Je passerai peut-кtre dans une anomalie ou je me prendrai une bastos ! Faut s'amuser tant qu'on est en vie !</text>
+	</string>
+	<string id="dm_action_info_111">
+		<text>J'ai dйcidй d'кtre un hйros ! Vu comment зa se passe dans la faction de la Libertй en ce moment, c'est pas compliquй de monter en grade et de se faire un nom. Mais faut pas se la jouer trop tйmйraire non plus, а moins de vouloir des dйcorations posthumes. En gros, faut pas se cacher derriиre les copains, mais faut pas non plus courir au-devant des balles !</text>
+	</string>
+	<string id="dm_action_info_112">
+		<text>Je me suis portй volontaire pour filer une raclйe aux militaires. Je voulais de l'action et du changement. J'en avais marre de rester а glander dans la Vallйe obscure.</text>
+	</string>
+	<string id="dm_action_info_113">
+		<text>Je fais ce que m'ordonne le chef. Quoi, tu crois qu'y a que le Devoir qui sait suivre les ordres ? On est tout aussi disciplinйs quand le besoin s'en fait sentir ! Faut vraiment кtre un con pour croire que la Libertй, c'est qu'un ramassis de droguйs et de pochetrons. Rйflйchis un peu, quoi ! Si c'йtait le cas, on serait pas lа oщ on en est aujourd'hui !</text>
+	</string>
+	<string id="dm_action_info_114">
+		<text>Tout le monde partait se battre, alors j'avais pas vraiment le choix ! Je suis pas trиs courageux, mais je suis pas un traоtre non plus ! On se bat pour une bonne cause ici ! Il y a un temps pour le dйlire et un temps pour кtre sйrieux, c'est tout. Et ces jours-ci, c'est pas vraiment le moment de glander !</text>
+	</string>
+	<string id="dm_action_info_115">
+		<text>On se bat contre tous ceux qui nous attaquent ! On est pas qu'un groupe d'anarchistes ! On a l'air moins disciplinй que les militaires ou le Devoir, parce qu'on a rejoint la faction pour profiter de notre libertй, mais зa veut pas dire qu'on est des bons а riens ! Quand on se dйcide а faire un truc ensemble, on le fait tout aussi sйrieusement. Alors prйpare-toi а voir les forces de la Libertй en action ! Зa va dйpoter !</text>
+	</string>
+	<string id="dm_cool_info_30">
+		<text>La Libertй est dans un sale pйtrin. On commenзait а peine а se remettre des attaques de bandits et de la dйcouverte de la taupe dans nos rangs... Tout d'un coup, Limansk est apparue derriиre la Forкt rouge et les militaires ont perdu le contrфle des entrepфts. Alors, on s'est mis а se bastonner avec diffйrentes factions et maintenant, on se retrouve avec des ennemis diffйrents sur tous les fronts. C'est chaud !</text>
+	</string>
+	<string id="dm_cool_info_31">
+		<text>La Zone semble s'кtre divisйe en plusieurs "poches" depuis l'йmission. Plein de gars ont disparu par ici... On dirait qu'ils sont bloquйs dans des espиces de bulles spatio-temporelles : oщ qu'ils aillent, ils font que revenir sur leurs pas. Des mecs vraiment biens se sont fait prendre au piиge. Si tu vas en hauteur, tu peux entendre des bribes d'appels а l'aide. Alors, fais gaffe oщ tu marches, si tu veux pas les rejoindre !</text>
+	</string>
+	<string id="dm_cool_info_32">
+		<text>Depuis la derniиre йmission, de nombreux passages vers le centre de la Zone traversent les entrepфts. L'autre jour, notre unitй de reconnaissance a atteint Limansk, une ville dont personne avait jamais entendu parler. Peut-кtre que de lа-bas, on peut atteindre d'autres endroits inconnus ! Moi, ce que j'espиre, c'est que quelqu'un nous dйbarrasse de ce Lobotomisateur et ouvre enfin un passage vers le nord !</text>
+	</string>
+	<string id="dm_cool_info_33">
+		<text>On a chopй l'enflure qui renseignait les bandits. Ces enfoirйs nous massacraient ! Tu vas jamais le croire, mais la taupe, c'йtait notre commandant ! C'est dingue, non ? T'as pas l'air trиs surpris... T'йtais dйjа au courant ? Bon, quoi qu'il en soit, ce salopard a trahi son propre clan ! Je regrette de l'avoir pas descendu moi-mкme !</text>
+	</string>
+	<string id="dm_cool_info_34">
+		<text>La Zone va bientфt кtre libйrйe et tout le monde chantera les louanges de la Libertй ! On va s'occuper du Devoir а Limansk et capturer cette base. Ensuite, il restera plus qu'а passer le Lobotomisateur et а foncer vers le nord ! Aprиs tout, les Monolithes ont rйussi, alors pourquoi pas nous ? Je sais pas ce qu'ils ont trouvй lа-bas, mais ils ont l'air de vouloir sacrйment le dйfendre !</text>
+	</string>
+	<string id="dm_cool_info_35">
+		<text>Les temps changent, mon pote ! Les entrepфts militaires et toute la rйgion seront bientфt а nous ! Les avant-postes de la Libertй protиgent dйjа les points d'accиs et c'est qu'une question de temps avant qu'on capture la base ! Il y a une route qui mиne au nord, droit vers le centre de la Zone... Dиs qu'on aura rйsolu le problиme du Lobotomisateur, on sera les premiers а aller voir si cet Exauceur de voeux existe vraiment !</text>
+	</string>
+	<string id="dm_intro_106">
+		<text>Bonjour, йtranger !</text>
+	</string>
+	<string id="dm_intro_107">
+		<text>Bienvenue, stalker !</text>
+	</string>
+	<string id="dm_intro_108">
+		<text>Salut !</text>
+	</string>
+	<string id="dm_about_141">
+		<text>C'est le dernier endroit inhabitй de la Zone avant le Lobotomisateur. Y a que les fous qui vont plus loin et aucun d'entre eux n'en revient. Mкme le secteur autour des entrepфts grouille de mutants assoiffйs de sang et de dangers dont t'as mкme pas idйe... Et personne sait ce qu'il y a au-delа. On a trouvй un nouveau chemin а travers la Forкt rouge rйcemment. Paraоt qu'il y a une ville abandonnйe au bout, mais je suis pas allй voir par moi-mкme.</text>
+	</string>
+	<string id="dm_about_142">
+		<text>Le truc le plus important du coin, c'est la base des militaires. La Libertй essaie de s'en emparer parce que les troufions ont йtй salement amochйs par la derniиre йmission. Y a aussi quelques villages qui ont rien de spйcial dans le coin, mais y a moyen de trouver un peu de matйriel dans les ruines. La Barriиre qui se trouve au nord a йtй construite par les stalkers pour retenir les monstres qui sortent du Lobotomisateur. Si tu veux partir d'ici, tu trouveras la Vallйe obscure au sud. Et si tu veux voir les mecs du Devoir et de la Libertй se battre pour de nouveaux territoires, va а l'ouest vers la Forкt rouge.</text>
+	</string>
+	<string id="dm_about_143">
+		<text>Ici, y a surtout des petits groupes de stalkers qu'essayent de repousser les mutants et les zombies qui sortent du Lobotomisateur. Le gros des forces de la Libertй et du Devoir s'affrontent quelque part, au-delа de la Forкt rouge. Paraоt qu'un chemin vers Limansk, une petite ville fantфme, a йtй dйcouvert par lа-bas.</text>
+	</string>
+	<string id="dm_about_144">
+		<text>Зa chauffe par ici, mec ! Aprиs la derniиre йmission, des stalkers ont dйcouvert un passage vers Limansk а travers la Forкt rouge. Elle passe par les entrepфts militaires... Le Devoir et la Libertй se sont pointйs dиs que зa s'est su. C'est plutфt agitй а la Barriиre aussi, parce que les mutants sont plus le seul problиme : crois-le si tu veux, mais des Monolithes se sont aussi mis а nous attaquer... Je croyais qu'ils йtaient tous morts, ceux-lа...</text>
+	</string>
+	<string id="dm_about_145">
+		<text>La Zone change tellement vite que j'en ai la tкte qui tourne ! En plus, зa fait pas si longtemps que je suis lа, alors je sais plus trop oщ j'en suis. Certains racontent qu'il y a un truc appelй le Lobotomisateur au nord d'ici et j'ai entendu dire que la Forкt rouge et Limansk se trouvaient а l'ouest. C'est lа que la Libertй et le Devoir se mettent sur la gueule, il paraоt.</text>
+	</string>
+	<string id="dm_about_146">
+		<text>Quand on est arrivйs ici, la Libertй s'йtait dйjа attaquй а la base des militaires et ils s'en sortaient pas mal. Alors, on reste а l'йcart pour l'instant... Зa serait pas une bonne idйe de prendre parti, y a rien de bon pour nous, d'un cфtй comme de l'autre. De toute faзon, c'est pas pour зa qu'on est lа.</text>
+	</string>
+	<string id="dm_about_147">
+		<text>C'est а cause de la base des militaires qu'on en est lа. C'est un emplacement stratйgique surper important, vu qu'elle permet de contrфler les territoires adjacents. А cфtй de зa, les fermes et les autres bвtiments du coin, c'est de la gnognotte ! C'est pour зa que la Libertй se casse le cul а essayer de la capturer... Ils ont dйjа installй des avant-postes sur tous les points d'accиs qui mиnent а la Vallйe obscure et la Forкt rouge. Ils savent ce qu'ils font, c'est clair ! L'avant-poste du nord est tenu par des stalkers indйpendants qui essayent de repousser les mutants, mais j'ai l'impression que les gars de la Libertй prendront le relais dиs qu'ils en auront fini avec les militaires.</text>
+	</string>
+	<string id="dm_about_148">
+		<text>On dirait que la rйgion sera bientфt sous le contrфle de la Libertй. Ils ont mis un sacrй coup d'accйlйrateur depuis qu'ils ont rйglй leur petit problиme interne. Ils sont ici, а Limansk et ils tiennent toujours la Vallйe obscure pour le moment. Je dis "pour le moment" parce que, du coup, ils se sont vachement йtirйs : ils se battent dans Limansk, dans la base militaire et ils ont leur QG dans la Vallйe obscure. Quelque chose me dit que les bandits vont essayer d'en profiter. Rйflйchis un peu : t'as juste besoin d'un chef bandit un peu moins con que les autres pour profiter de la situation. C'est ce que je ferais а leur place...</text>
+	</string>
+	<string id="dm_about_149">
+		<text>C'est а croire que ce coin est maudit ! Tout ce qu'on fait, c'est tourner en rond а la recherche de nos potes, mais on trouve que dalle, juste des mutants ! Si tu vas en hauteur, t'entends des bribes de conversation radio, mais зa n'a ni queue ni tкte. Et si y avait que зa ! Comment t'expliques que le Monolithe attaque depuis l'autre cфtй de la Barriиre ? J'en ai vu un une fois. Il йtait blessй, il avait un regard de fou et il arrкtait pas de rйpйter : "protйger le Monolithe, protйger le Monolithe". Il avait mкme pas l'air d'avoir mal parce qu'il a arrкtй d'essayer de choper mon partenaire par la gorge que quand je lui ai vidй un chargeur dans le buffet. Qu'est-ce qu'ils peuvent bien vouloir ? Et pourquoi ils sont revenus aprиs l'йmission ? On a plus de questions que de rйponses, mon pote !</text>
+	</string>
+	<string id="dm_action_info_116">
+		<text>On cherche nos gars qui ont disparu aprиs la derniиre йmission. On arrive а intercepter des bribes de communication radio quand on est en haut des collines, mais, а part зa, y a aucun signe de vie. J'ai pas la moindre idйe d'oщ chercher...</text>
+	</string>
+	<string id="dm_action_info_117">
+		<text>On est en mission de sauvetage... On essaie de rйcupйrer l'une de nos unitйs, qui a disparu pendant la derniиre йmission. On a plus aucun contact, alors on essaye de retrouver nos gars, ou ce qu'il en reste....</text>
+	</string>
+	<string id="dm_action_info_118">
+		<text>Depuis quelque temps, tout le monde va vers le centre pour essayer de dйcouvrir les secrets de la Zone. J'aurais rien contre quelques rйponses moi aussi, parce que j'essaye de trouver un moyen de passer le Lobotomisateur. Mais bon, on trouve de nouveaux passages tous les jours, alors peut-кtre qu'il y en aura un qui mиnera droit au coeur de la Zone. Mais je serai pas le premier а sauter sur l'occasion, je suis pas si con ! N'empкche que j'aurais rien contre le fait de savoir ce qui se passe dans le coin. Peut-кtre que quelqu'un rйussira а avoir le fin mot de l'histoire.</text>
+	</string>
+	<string id="dm_action_info_119">
+		<text>J'essaie de me tenir au courant de tout ce qui se passe, mкme si ma mission principale, c'est retrouver nos gars. Ils se sont faits surprendre par l'йmission et on les a pas vu depuis. Ils ont essayй de nous contacter par radio а plusieurs reprises, mais en vain... Alors, on passe le secteur au peigne fin. Зa me fait flipper de rien trouver !</text>
+	</string>
+	<string id="dm_action_info_120">
+		<text>On est comme tous les autres, mon pote. On attend qu'un pigeon trouve le moyen de passer le Lobotomisateur ! Ensuite, on le suivra pour atteindre le centre de la Zone et on rйcupйrera les meilleurs artefacts, les doigts dans le nez ! Зa changera pas grand-chose qu'on soit pas les premiers sur place, mais au moins, on aura moins de chances d'y rester ! Je suis pas un lвche, mais je tiens pas non plus а faire n'importe quoi ! Tu comprendras en vieillissant.</text>
+	</string>
+	<string id="dm_action_info_121">
+		<text>Je chasse des fantфmes. Tu me crois pas ? Ben, pour tout te dire, j'y crois а peine moi-mкme ! En fait, on a interceptй des bribes de communications radio transmises par une unitй perdue... On reconnaоt mкme les voix, mais impossible de les retrouver, de leur parler ou mкme de savoir d'oщ vient le signal ! C'est pour зa que je dis que je chasse des fantфmes... Saletй d'Йmission !</text>
+	</string>
+	<string id="dm_action_info_122">
+		<text>J'attends les ordres du chef. Tu sais, la discipline, tout зa... On est venu pour sauver le groupe de Leshiy, mais c'est pas йvident vu qu'on a pas la moindre idйe d'oщ ils sont, ces pauvres gars ! Et pour couronner le tout, on a perdu notre opйrateur radio dans le village а cфtй du chвteau d'eau. On йtait allйs lа-bas pour capter un meilleur signal, mais une saloperie invisible est sorti de nulle part et a taillй un de nos gars en piиces. On a pas eu le temps d'intervenir... Faut dire qu'on est plus habituй а affronter des ennemis humains que des mutants de nos jours...</text>
+	</string>
+	<string id="dm_action_info_123">
+		<text>Le groupe de Leshiy avait rempli une mission trиs importante avant de se faire piйger par l'Йmission : il avait trouvй un artefact trиs rare. On avait mкme contactй le client pour lui annoncer la bonne nouvelle ! On est des mercenaires, on a un code de conduite. Sans lui, on n'est rien. Un contrat doit кtre honorй, point final ! Si on plante un boulot, c'est toute notre rйputation qui part en eau de boudin et plus aucun client sйrieux nous contactera. On finirait par errer dans la Zone comme des stalkers... Tu parles d'une galиre !</text>
+	</string>
+	<string id="dm_cool_info_36">
+		<text>Je sais pas grand-chose de neuf. Je suis qu'un mercenaire, mon pote. Nous autres, on va dans la Zone pour accomplir une mission et on s'appuie sur une bonne prйparation et une coordination impeccable pour s'en sortir.</text>
+	</string>
+	<string id="dm_cool_info_37">
+		<text>Il paraоt qu'un clan de stalkers appelй le Monolithe a refait son apparition aprиs avoir йtй portй disparu. Un beau jour, ils ont dйcidй d'aller vers le centre de la Zone а la recherche de l'Exauceur de voeux. On en a plus entendu parler pendant trиs longtemps et maintenant, ils sont de retour ! Mais personne est content de les revoir, vu qu'ils attaquent tout ce qui bouge en criant des trucs sans queue ni tкte !</text>
+	</string>
+	<string id="dm_cool_info_38">
+		<text>On a dйcouvert un passage vers Limansk а travers la Forкt rouge y a pas longtemps et la Libertй s'y est dйjа installй. Le Devoir essaye de faire pareil... А mon avis, зa peut  que mener а un bain de sang, vu que les deux factions veulent le contrфle exclusif de la ville. La Libertй joue des coudes pour s'йtendre en ce moment, elle essaye aussi de capturer les entrepфts militaires. J'ai pas vraiment d'atomes crochus avec les troufions, mais j'ai pitiй d'eux. Ils ont mйchamment morflй а cause de l'Йmission et maintenant, les stalkers en rajoutent une couche. Les pauvres...</text>
+	</string>
+	<string id="dm_cool_info_39">
+		<text>Paraоt que le Devoir en chie avec les mutants а l'Agroprom. Ils ont fait une connerie dans les souterrains et maintenant, ils ont du mal а contenir les saloperies qui en sortent. C'йtait un endroit gйnial pour faire du business, vu la demande de munitions... Mais bon, apparemment, un stalker a rйussi а les aider en inondant les souterrains. Je sais pas si c'est vrai, mais si c'est le cas, ce mec a des couilles en acier trempй ! Y a pas beaucoup de gens qui iraient mettre le nez dans un nid de mutants, faire un bras d'honneur а la Zone et s'en sortir vivant ! Si je rencontre ce type, je m'achиte un chapeau rien que pour le manger devant lui.</text>
+	</string>
+	<string id="dm_intro_109">
+		<text>C'est un honneur de te rencontrer !</text>
+	</string>
+	<string id="dm_intro_110">
+		<text>Allez, serre-moi la paluche, stalker !</text>
+	</string>
+	<string id="dm_intro_111">
+		<text>Bienvenue dans les entrepфts !</text>
+	</string>
+	<string id="dm_about_150">
+		<text>C'est la derniиre rйgion de la Zone explorйe par les stalkers. Les entrepфts militaires sont par lа, mais, si tu continues, tu tomberas sur le Lobotomisateur. On dit que ceux qui s'en approchent perdent la tкte et qu'ils s'en remettent jamais ! Mais bon, c'est qu'une rumeur, vu que personne en est revenu. L'accиs au Lobotomisateur par les entrepфts est bloquй par la Barriиre. Elle nous sert а retenir les mutants qui dйbarquent en nombre du centre de la Zone. Depuis la derniиre йmission, des Monolithes ont aussi fait leur grand retour et tout le monde se demande ce qu'ils peuvent bien chercher... Peut-кtre qu'ils viennent tuer ceux qui menacent leur Monolithe chйri ?</text>
+	</string>
+	<string id="dm_about_151">
+		<text>Les militaires ont montrй leur vraie nature aprиs l'Йmission : ils ont abandonnй leurs avant-postes et se sont retranchйs dans leur base. Mais зa se comprend, vu qu'ils йtaient les plus proches de l'йpicentre, ils sont plus qu'une vingtaine maintenant. Dиs que les troufions ont perdu le contrфle des entrepфts,  y a un tas de monde qui s'est pointй : des stalkers, des mercenaires et mкme le Devoir et la Libertй. C'est une bonne chose que les stalkers aient eu la prйsence d'esprit de dйfendre la Barriиre, parce que les mutants et les Monolithes font de cadeau а personne... Mкme les bidasses du Cordon vont en baver.</text>
+	</string>
+	<string id="dm_about_152">
+		<text>T'as sыrement entendu parler de la base militaire et de la Barriиre, non ? Ben y a pas grand chose d'autre dans le coin, а part quelques villages et une ferme dйsaffectйe. Mais bon, un bвtiment abandonnй, зa peut toujours servir de planque ou mкme de base d'opйrations... enfin, tant que les mutants occupent pas dйjа la place, ce qui n'est pas gagnй vu la tronche de la population locale !</text>
+	</string>
+	<string id="dm_about_153">
+		<text>Il aura fallu que quelques minutes d'йmission pour que les entrepфts militaires passent sous le contrфle des stalkers. Les bidasses se sont retranchйs dans leur base pour rйsister aux forces de la Libertй et ils mettent plus le nez dehors. Les Monolithe, en revanche, ils ont peur de personne ! On pensait qu'ils йtaient tous morts et enterrйs depuis longtemps, mais ils sont revenus du Lobotomisateur avec la rage au ventre !</text>
+	</string>
+	<string id="dm_about_154">
+		<text>Il se passe des trucs vraiment bizarres par ici. Une horde de stalkers a dйbarquй depuis que les militaires ont йtй affaiblis par l'Йmission. Tout le monde espиre atteindre le centre de la Zone : certains veulent mettre la main sur les artefacts les plus rares en premier, d'autre veulent accйder а l'Exauceur de voeux et y en a mкme qui cherchent une espиce de monolithe extraterrestre... Ils ont tous pйtй les plombs, si tu veux mon avis... Peut-кtre que le Lobotomisateur a une portйe plus grande que ce qu'on croyait...</text>
+	</string>
+	<string id="dm_about_155">
+		<text>Je peux tout te dire, et en dйtails, vu que зa fait des mois que je passe la rйgion au peigne fin а la recherche d'artefacts ! Le noyau central ici, c'est la base militaire sur la colline, tu peux la voir de loin. Au nord, il y a la Barriиre et la Vallйe obscure se trouve au sud. Si tu pars vers l'ouest а travers le village, t'atteindras la Forкt rouge. Il y a bien quelques fermettes et une cabane dans le Marais, mais j'йviterais d'y aller а ta place. Y a pas mal de radiations par lа-bas.</text>
+	</string>
+	<string id="dm_about_156">
+		<text>Il y a pas mal de matos de valeur abandonnй par les militaires. Le problиme, c'est que la Libertй va tout rafler parce qu'ils comptent bien s'emparer de la base des bidasses. Il nous reste plus que les barricades sur la route qui mиne au Lobotomisateur et les rares artefacts qui traоnent encore dans le coin. Oh, et il y a quelques bвtiments abandonnйs dans lesquels tu peux t'installer. Si t'as de la chance, tu y gagneras mкme un colocataire invisible, tentacules incluses...</text>
+	</string>
+	<string id="dm_about_157">
+		<text>La Libertй va rйsoudre le problиme des militaires une bonne fois pour toute et ensuite, cette rйgion sera aussi tranquille que la Vallйe obscure ! Mais bon, en attendant, nous, on a du pain sur la planche : faut qu'on dйfende la Barriиre ! Depuis que j'ai vu les saloperies qu'essayaient de passer, j'ai perdu mon goыt pour l'aventure. Je prйfиre laisser d'autres pigeons se faire tuer en essayant de passer le Lobotomisateur.</text>
+	</string>
+	<string id="dm_about_158">
+		<text>On a entendu parler de la Barriиre а la base de la Libertй, dans la Vallйe obscure. Selon la rumeur, les militaires s'йtaient fait jeter de lа et des stalkers s'йtaient regroupйs pour dйfendre la rйgion contre le Monolithe. Du coup, on est partis pour leur filer un coup de main, mais je suis le seul а кtre arrivй jusqu'ici. Certains se sont perdus, d'autres se sont fait tuer et y en a mкme qui se sont pas arrкtйs et qui ont continuй tout droit...</text>
+	</string>
+	<string id="dm_about_159">
+		<text>Les militaires ne contrфleront plus le secteur trиs longtemps. Des stalkers ont pris les entrepфts et ils tiennent la plupart des points d'accиs avec l'aide de la Libertй. On s'est regroupйs pour dйfendre la Barriиre et repousser les attaques de ces tarйs du Monolithe et des mutants qui dйbarquent du Lobotomisateur. La Libertй contrфle le sud et l'ouest de la rйgion et ne va pas tarder а choper la base des militaires. Oh, et on a aussi vu passer des mercenaires dans le coin. Apparemment, ils sont а la recherche d'une unitй perdue, ou un truc dans le genre.</text>
+	</string>
+	<string id="dm_action_info_124">
+		<text>Devine ! Je cherche du matos, bien sыr ! Quand les militaires sont pas lа, les stalkers dansent, hй hй ! Je me prйpare aussi а avancer vers le centre de la Zone. De temps en temps, je file un coup de main а la Barriиre, mais c'est plus pour ma propre sйcuritй qu'autre chose... et puis bon, зa me permet aussi de rйcupйrer de bonnes armes et des munitions dиs que les combats se calment un peu.</text>
+	</string>
+	<string id="dm_action_info_125">
+		<text>Je suis venu me battre а la Barriиre. Un de mes potes au bar du Devoir m'a dit que des gars s'йtaient organisйs ici pour essayer de repousser les mutants. Il m'a dit qu'il y avait toujours des ennemis а descendre dans le coin, alors je suis parti au beau milieu de la nuit pour me joindre а la fкte !</text>
+	</string>
+	<string id="dm_action_info_126">
+		<text>J'ai toujours йtй attirй par les nouveaux territoires. Je veux dire, je suis venu dans la Zone parce que j'en avais marre de la routine de l'extйrieur et ici, c'est pas l'aventure qui manque. Mais bon, je suis aussi venu pour le fric. Faut pouvoir se payer de la bouffe et des munitions et y a qu'en revendant du matйriel que tu peux te faire de la thune. J'espиre aussi que quelqu'un va trouver un moyen de passer le Lobotomisateur... Dиs que ce sera le cas, je serai le premier а atteindre le centre de la Zone ! J'ai qu'un seul voeu а faire : je veux que la Zone disparaisse !</text>
+	</string>
+	<string id="dm_action_info_127">
+		<text>J'essaye de rattraper les gars de la Libertй. Je voulais partir а Limansk avec eux, mais je suis arrivй trop tard dans la Vallйe obscure, ils йtaient dйjа partis. Ashot m'a dit qu'ils prendraient cette route, mais quand je suis arrivй, ils йtaient dйjа dans la Forкt rouge. Je sens que je les rattraperai jamais ! Y a pas moyen que je prenne cette route tout seul et je connais personne qui ait l'intention de s'y aventurer dans les prochains temps.</text>
+	</string>
+	<string id="dm_action_info_128">
+		<text>Je souffle un peu ici avant de partir pour la Forкt rouge. Je veux savoir ce qu'il y a lа-bas, de l'autre cфtй de Limansk. Qu'est-ce que зa peut faire que personne en soit revenu ? Peut-кtre qu'ils sont trиs bien lа oщ ils sont... Peut-кtre qu'ils ont trouvй quelque chose... Je veux dire, regarde les gars du Monolithe : personne entend parler d'eux pendant des mois et, tout d'un coup, ils se pointent ! Qui sait ce qu'ils ont pu trouver lа-bas ?</text>
+	</string>
+	<string id="dm_action_info_129">
+		<text>Je reviens les mains vides de la Forкt rouge. On a essayй de traverser avec quelques potes, mais on a trop eu les foies. Je te jure, on a eu tellement les jetons qu'on a couru direct jusqu'а la Barriиre ! C'est un vrai miracle qu'aucun d'entre nous ait foncй dans une anomalie ! Le pire, c'est qu'on sait mкme pas ce qui nous a tellement fait peur ! En tout cas, c'est vraiment un endroit bizarre, cette forкt...</text>
+	</string>
+	<string id="dm_action_info_130">
+		<text>Je veux visiter toute la Zone. J'ai enfin atteint les entrepфts et je suis dйjа passй au Cordon, dans le Marais, а l'Agroprom et dans la Vallйe obscure. J'ai mкme йtй esclave des bandits pendant un moment а la Dйcharge. Une fois que j'aurai explorй ce coin, j'irai voir ailleurs.</text>
+	</string>
+	<string id="dm_action_info_131">
+		<text>Il reste plus tellement de territoires qui soient pas dйjа contrфlйs par des factions ou des clans et un stalker solitaire peut pas faire grand-chose а l'Agroprom ou а la Dйcharge. Mкme а Limansk... La ville vient а peine d'кtre dйcouverte et y a dйjа des tas de mecs qui y vont. C'est diffйrent dans les entrepфts parce que la situation est toujours pas claire. C'est plus le territoire militaire, mais c'est pas encore celui de la Libertй. En plus, on est pas loin d'autres territoires inexplorйs. C'est lа qu'on trouve les artefacts les plus prйcieux ! Suffit de pas crever et finis les problиmes d'argent ! </text>
+	</string>
+	<string id="dm_action_info_132">
+		<text>Je cherche un artefact spйcifique. Sidorovich m'a demandй de le lui rapporter et j'ai pu le trouver ni Cordon ni dans la Vallйe obscure. Зa vaudrait pas le coup de se faire chier dans la Dйcharge et l'Agroprom est dйjа nettoyй rйguliиrement par deux clans de stalkers, surtout depuis qu'un guignol a inondй les souterrains... Grвce а lui, le Devoir est plus obligй de passer son temps а chasser du mutant. Donc, vu que c'est un peu le souk ici, j'ai plus de chance qu'ailleurs de trouver ce que je cherche.</text>
+	</string>
+	<string id="dm_action_info_133">
+		<text>Je suis venu de la Vallйe obscure pour apporter un message au commandant d'une unitй de la Libertй. Une fois ma rйcompense empochйe, j'ai dйcidй de rester. Les mecs du coin sont plutфt cools et y a encore personne qu'a essayй d'imposer ses rиgles а tout le monde. Bien sыr, y a encore pas mal de balles perdues et d'anomalies, sans compter les Monolithes qui attaquent tout le temps, mais bon, c'est la Zone, зa !</text>
+	</string>
+	<string id="dm_action_info_134">
+		<text>J'ai l'intention de passer le Lobotomisateur et d'aller vers le nord. On dit que les Monolithes y sont arrivйs et qu'un groupe de stalkers a mкme rйussi а approcher l'Exauceur de voeux et а revenir en un seul morceau. Personne sait pourquoi ils sont revenus. Peut-кtre qu'ils sont tombйs а court de munitions ou qu'ils ont pris une dose de radiations. Quoiqu'il en soit, s'ils ont rйussi, je peux y arriver aussi !</text>
+	</string>
+	<string id="dm_action_info_135">
+		<text>On dirait que tu traоnes dans la Zone depuis un bout de temps, stalker. T'as donc largement eu le temps d'apprendre que poser des questions, c'est pas le meilleur moyen de se faire des potes. C'est pas tes oignons... Je suis pas vraiment d'humeur а te faire des confidences. Alors, questions suivante !</text>
+	</string>
+	<string id="dm_cool_info_40">
+		<text>Quand les Monolithes ont commencй а revenir du Lobotomisateur, on a dйcidй d'en capturer un vivant pour comprendre comment il avait rйusi а passer le Lobotomisateur et а atteindre le centre de la Zone sans mourir. Зa nous a coыtй cher, en vies et en munitions, mais on y est arrivй ! Le mec a pris un demi-chargeur dans la poitrine, mais il йtait encore en vie, а grogner et а essayer d'йtrangler tout ceux qui s'approchaient. On a essayй de lui faire cracher le morceau, mais il a fait que rйpйter "Protйger le Monolithe" encore et encore. Il a dы leur arriver un truc de l'autre cфtй. On sait toujours pas comment ils ont passй le Lobotomisateur, mais s'ils reviennent depuis l'autre cфtй de la Barriиre, c'est qu'il doit bien y avoir un chemin, non ? Qu'est-ce que t'en penses ?</text>
+	</string>
+	<string id="dm_cool_info_41">
+		<text>Paraоt qu'on a dйcouvert un passage vers Limansk а travers la Forкt rouge. Du coup, le Devoir et la Libertй s'йtripent pour en prendre le contrфle. Зa doit кtre une jolie petite ville pour dйclencher un bain de sang pareil...</text>
+	</string>
+	<string id="dm_cool_info_42">
+		<text>Paraоt qu'un mercenaire a filй un sacrй coup de main aux stalkers du Cordon en rйglant un petit problиme avec les militaires. Depuis, les bidasses les laissent tranquilles, ils ont peur des reprйsailles. А en croire les descriptions de ce mec, c'est.... hй, mais c'est toi ! Allez, sois pas timide ! Laisse-moi te serrer la main !</text>
+	</string>
+	<string id="dm_cool_info_43">
+		<text>Les йmissions sont si frйquentes que c'est devenu un vrai problиme. Зa faisait longtemps que c'йtait pas arrivй. Elles se dйclenchent les unes aprиs les autres et la Zone arrкte pas de changer. Des fois, tu trouves des nouvelles anomalies et des fois, tu trouves un passage а travers un champ d'anomalies qui existait auparavant. C'est comme зa qu'ils ont trouvй la route vers Limansk, mкme si la plupart des stalkers en avaient jamais entendu parler. Et y'a pas que les йmissions qui font des morts. C'est une vraie guerre de conquкte lа-dehors, et c'est pas joli а voir !</text>
+	</string>
+	<string id="dm_cool_info_44">
+		<text>Qu'est-ce que tu veux qu'il y ait de neuf dans le coin ? Ici, c'est un peu comme un jardin d'enfants ou une maternelle. Mais bon, faut quand mкme y passer pour apprendre les ficelles du mйtier, sinon tu tiendras pas deux secondes dans la Zone. Les plus malins restent lа un petit bout de temps et aprиs, ils vont Dieu sait oщ. En plus ici, y a moyen de rйcupйrer des munitions et des armes plutфt potables.</text>
+	</string>
+	<string id="dm_action_info_136">
+		<text>Rien... J'essaie juste de m'en sortir.</text>
+	</string>
+	<string id="dm_about_160">
+		<text>J'arrive pas а le croire ! J'ai failli crever y a pas une heure ! Je traоnais dans le coin y a six mois, c'йtait peinard, mais maintenant ces crйtins en uniformes sont partout ! C'est dingue, mec...</text>
+	</string>
+	<string id="dm_cool_info_45">
+		<text>Et alors ? Qu'est-ce que tu veux que je te dise ? Les mecs du Devoir, ils se comportent comme des flics, c'est clair, mais au moins, ils savent faire respecter l'ordre. Mais bon, je les aime pas trop... Ils font comme si la Zone leur appartenait : "Prends pas зa, fais pas sortir зa de la Zone"... Et c'est pas tout : ils dйcident de ce que tu dois dire et ne pas dire а l'extйrieur ! Paraоt mкme qu'ils ont l'intention de dйtruire la Zone, petit а petit. Зa m'йtonne pas de la part d'anciens soldats... tous des idйalistes а la con ! Le pire, c'est qu'ils prйtendent que les huiles les soutiennent.</text>
+	</string>
+	<string id="dm_about_161">
+		<text>C'est le Devoir qui mиne la danse ici maintenant. On contrфle les frontiиres de la Zone et on se charge de calmer les tкtes brыlйes : y a un paquet de crйtins qui dйbarquent en groupe, des amateurs, des romantiques... Et ils crиvent par dizaines dиs le premier jour.</text>
+	</string>
+	<string id="dm_about_162">
+		<text>Va au camp, t'y entendras toutes les rumeurs. Les dйbutants y font souvent un tour pour avoir des conseils ou se reposer un peu. Y a aussi des soldats qui traоnent dans le coin, mais faut pas en avoir peur... Йvite simplement de te mettre en travers de leur route, ils sont du genre а tirer en premier et а rйflйchir aprиs... Et si tu veux te poser dans un coin tranquille, t'as qu'а aller prиs du marchand.</text>
+	</string>
+	<string id="dm_cool_info_46">
+		<text>Tu savais que le Devoir recrutait de nouveaux membres ? J'ai hйsitй а les rejoindre et puis, je me suis dit que зa en valait pas la peine ! Ils sont pas prиs de me recruter... j'ai pas besoin de ce genre de discipline. J'ai fait mes deux ans, зa m'a suffi...</text>
+	</string>
+	<string id="dm_action_info_137">
+		<text>Ben, je pensais aller а Yantar, mais je me suis ravisй. Les intellos sont en train d'y installer une vйritable base scientifique au beau milieu de la Zone. Ils йtudient je ne sais trop quoi pendant que des zombies se baladent tout autour du complexe. Un vrai petit paradis...</text>
+	</string>
+	<string id="dm_cool_info_47">
+		<text>On a dы nettoyer le secteur du lac de Yantar y a pas longtemps... Ouais, on a fait du sacrй bon boulot ! Il y a des labos de recherche lа-bas, mais aussi beaucoup de zombies. On y fait souvent des descentes pour aider les scientifiques.</text>
+	</string>
+	<string id="dm_cool_info_48">
+		<text>Tu sais quoi ? On va laisser les mecs du Devoir, les gars de la Libertй et les maraudeurs dйcider а qui appartient ce terrain. J'en ai rien а foutre, moi...</text>
+	</string>
+	<string id="dm_action_info_138">
+		<text>On a du pain sur la planche ici, Stalker. Non seulement y a un paquet de mutants dans le coin, mais en plus, ces crйtins de mercenaires et ces attardйs de la Libertй nous font des misиres... </text>
+	</string>
+	<string id="dm_cool_info_49">
+		<text>Rien. Je suis au courant de rien. Je chope des infos par-ci par-lа, j'essaie de gagner de quoi survivre. C'est beaucoup trop risquй d'aller au coeur de la Zone... Y a pas moyen que j'y aille ! Mais bon, y a pas de boulot chez moi et j'ai une femme, alors faut bien que j'essaie de gagner ma vie... Ici, dans la Dйcharge, en cherchant bien toute la journйe, on peut trouver des artefacts. Зa suffit pour se payer de quoi manger et un bon coup а boire.</text>
+	</string>
+	<string id="dm_cool_info_50">
+		<text>Ben, en fait... Certains gagnent leur vie dans la Dйcharge, en ramassant des conneries et d'autres s'aventurent plus loin dans la Zone. Bien sыr, c'est lа qu'on trouve les meilleurs artefacts, mais tout le monde ose pas y aller. C'est pas un endroit pour les dйbutants et si t'as pas un minimum d'йquipement, c'est mкme pas la peine d'y penser...</text>
+	</string>
+	<string id="dm_action_info_141">
+		<text>C'est pas tes oignons... Leur pose pas de questions dйbiles et ils te laisseront tranquille !</text>
+	</string>
+	<string id="dm_cool_info_51">
+		<text>J'adore tous ces scientifiques ! Sйrieux, ils m'йclatent ! La plupart du temps, ils mettent pas le nez dehors, mais quand c'est le cas... Bon sang, faut le voir pour le croire ! Des troupes partout, des hйlicos, des blindйs ! Ils devraient carrйment faire venir un porte-avion ou plutфt un train blindй...</text>
+	</string>
+	<string id="dm_cool_info_52">
+		<text>Ce qu'il y a de neuf ? Que dalle, c'est toujours la mкme merde ! Les bandits sont devenus fous, les salauds ! On se faufile entre les anomalies pour trouver des artefacts et aprиs, ils viennent nous plumer comme des pigeons ! Bande d'enfoirйs ! Un bon conseil, t'aventure pas dans la Dйcharge si tu veux pas te faire presser comme un citron !</text>
+	</string>
+	<string id="dm_action_info_139">
+		<text>Je suis coincй ici, en fait. J'aimerais bien rentrer chez moi, mais je peux pas. Y a rien de neuf а part зa ! Les gars qui s'enfoncent dans la Zone, les vrais pros, ils racontent tout un tas d'histoires. Parfois, ils rapportent des trucs pas croyables... Ils parlent de montagnes de trйsors qui demandent qu'а кtre ramassйes. Mais bon, y a pas grand monde qui arrive jusque lа-bas et encore moins qui en reviennent.</text>
+	</string>
+	<string id="dm_cool_info_53">
+		<text>En fait, je suis pas vraiment au courant de ce qui se passe en ce moment.</text>
+	</string>
+	<string id="dm_cool_info_54">
+		<text>T'as entendu la rumeur ? Paraоt que la Zone est en train de grandir ! А mon avis, c'est vrai : j'ai aperзu des mutants vraiment flippants dans le coin, des saloperies qu'on voit que prиs du centre de la Zone d'habitude... Зa craint, cette affaire...</text>
+	</string>
+	<string id="dm_cool_info_55">
+		<text>Peut-кtre que ces histoires de sangsues prиs de la frontiиre de la Zone sont vraies... Mais qu'est-ce que зa a а voir avec l'expansion de la Zone ? Une meute de ces saletйs a rйussi а traverser la frontiиre, et alors ? On a dы les rater, c'est tout. C'est pas йtonnant quand on bosse 24 heures sur 24 ! Mais bon, on s'en sort pas si mal... C'est vrai quoi, t'entends personne crier : "А l'aide ! On est encerclйs par des mutants !" а l'extйrieur du pйrimиtre, si ?</text>
+	</string>
+	<string id="dm_about_167">
+		<text>Un petit conseil : reste sur tes gardes... Ces cadavres ambulants ont envahi tout le secteur et ils sont aussi dйbiles qu'agressifs. On est assiйgйs jour et nuit. T'as pas choisi le coin le plus tranquille de la Zone.</text>
+	</string>
+	<string id="dm_about_168">
+		<text>Je sais mкme pas quoi te dire... Il se passe toujours quelque chose par ici, mais bon, on est dans la Zone, aprиs tout, c'est normal. Et зa, c'est un truc que les gens de l'extйrieur n'arrivent pas а comprendre.</text>
+	</string>
+	<string id="dm_cool_info_56">
+		<text>Tu veux que je te parle des rumeurs ? Ben, je vais te dire un bon truc, et c'est pas une rumeur : on va bientфt rйtablir l'ordre dans ce bordel ! On va dйbarrasser la Zone de toutes ces saloperies de mutants et mкme de certains de ces blaireaux...</text>
+	</string>
+	<string id="dm_cool_info_57">
+		<text>T'as entendu parler de ce que les gars du Devoir veulent nous faire ? Paraоt qu'ils veulent nous "rйduire en bouillie" et encore, ils comptent pas s'arrкter lа ! Зa m'inquiиte, tout зa... Surtout depuis que j'ai appris qu'ils avaient reзu du matйriel de premiиre...</text>
+	</string>
+	<string id="dm_cool_info_58">
+		<text>Du nouveau ? Qu'est-ce que зa peut te faire ? Faut pas croire tout ce qui se dit, sinon tu risques de pйter les plombs. Par exemple, on dit qu'un stalker expйrimentй est revenu du centre de la Zone, qu'il a rapportй un truc que personne avait vu avant et qu'il a impressionnй des tonnes de gonzesses... ben voyons... moi aussi, je peux inventer des centaines d'histoires comme зa !</text>
+	</string>
+	<string id="dm_help_12">
+		<text>Merci beaucoup.</text>
+	</string>
+	<string id="dm_about_169">
+		<text>Pourquoi tu te promиnes sans aucune protection ? T'es suicidaire, ou quoi ? Il y a une anomalie derriиre chaque buisson dans le coin. Un seul faux pas et clac, t'es foutu ! Ici, ils vont mкme pas pisser sans protection !</text>
+	</string>
+	<string id="dm_about_170">
+		<text>On dirait que tu sais pas trop oщ tu vas, alors je vais te donner un bon conseil : te mкle pas des affaires des militaires. Si t'en vois un, dйgage vite fait... Plus con que ces mecs-lа, tu meurs ! Ils sont du genre а te coller une balle dans le bide et а vйrifier tes papiers aprиs.</text>
+	</string>
+	<string id="dm_intro_112">
+		<text>Bonne journйe.</text>
+	</string>
+	<string id="dm_intro_113">
+		<text>Bonjour !</text>
+	</string>
+	<string id="dm_intro_114">
+		<text>Comment va ?</text>
+	</string>
+	<string id="dm_intro_115">
+		<text>Salut, mon pote !</text>
+	</string>
+	<string id="dm_intro_116">
+		<text>Salut !</text>
+	</string>
+	<string id="dm_intro_117">
+		<text>Hй ! Salut !</text>
+	</string>
+	<string id="dm_intro_118">
+		<text>Bonjour !</text>
+	</string>
+	<string id="dm_intro_119">
+		<text>Salut !</text>
+	</string>
+	<string id="dm_intro_120">
+		<text>Bonjour, stalker !</text>
+	</string>
+	<string id="dm_intro_121">
+		<text>Salut, stalker !</text>
+	</string>
+	<string id="dm_intro_122">
+		<text>Hй toi, lа ! Le stalker !</text>
+	</string>
+	<string id="dm_intro_123">
+		<text>Зa gaze ?</text>
+	</string>
+	<string id="dm_intro_124">
+		<text>Mais regardez qui v'la !</text>
+	</string>
+	<string id="dm_intro_125">
+		<text>Visez un peu qui voilа !</text>
+	</string>
+	<string id="dm_intro_126">
+		<text>Salut, mec !</text>
+	</string>
+	<string id="dm_about_165">
+		<text>C'est comme traverser un champ de mines, en pire. Il se passe souvent des trucs pas nets par ici... On peut mкme pas se reposer cinq minutes.</text>
+	</string>
+	<string id="dm_about_171">
+		<text>Je te conseille de rester sur tes gardes. Fais gaffe, parce que, dиs que tu baisses ta garde deux secondes, t'es foutu !</text>
+	</string>
+	<string id="dm_about_172">
+		<text>Vaut mieux rester vigilant et dormir que d'un oeil dans le coin... On sait jamais ce qui peut nous tomber sur le coin de la gueule...</text>
+	</string>
+	<string id="dm_about_173">
+		<text>Surtout йvite ces enfoirйs ! Il y en a plein dans les parages !</text>
+	</string>
+	<string id="dm_help_0">
+		<text>А l'aide !</text>
+	</string>
+	<string id="dm_help_1">
+		<text>Au secours !</text>
+	</string>
+	<string id="dm_help_2">
+		<text>Gardes ! Je suis blessй ! Par ici !</text>
+	</string>
+	<string id="dm_help_3">
+		<text>А l'aide ! Je meurs !</text>
+	</string>
+	<string id="dm_help_4">
+		<text>Filez-moi un mйdikit, les gars !</text>
+	</string>
+	<string id="dm_help_5">
+		<text>J'ai besoin d'un mйdikit !</text>
+	</string>
+	<string id="dm_help_6">
+		<text>Filez-moi un mйdikit ! Grouillez-vous !</text>
+	</string>
+	<string id="dm_help_7">
+		<text>Il me faut un mйdikit, les gars !</text>
+	</string>
+	<string id="dm_help_8">
+		<text>Allez, quoi ! Donnez-moi un mйdikit !</text>
+	</string>
+	<string id="dm_help_9">
+		<text>Faut que tu me files un mйdikit...</text>
+	</string>
+	<string id="dm_help_10">
+		<text>Faut que tu m'aides !</text>
+	</string>
+	<string id="dm_help_11">
+		<text>T'aurais pas un mйdikit pour moi ?</text>
+	</string>
+	<string id="dm_cool_info_59">
+		<text>Il paraоt que ces poules mouillйes du Cordon ont enfin foutu une branlйe aux bidasses et mis leur chef au frais. Je devrais aller jeter un coup d'oeil !</text>
+	</string>
+	<string id="dm_cool_info_60">
+		<text>Ces йmissions, c'est pas de la rigolade, je te le dis ! Si elles te crament pas dans la seconde, elles ont un million d'autres faзons de te tuer ! Tous les coins sympas qu'on avait grouillent d'anomalies maintenant ! Partout oщ tu vas, tu te prends des dйcharges dans le cul !</text>
+	</string>
+	<string id="dm_cool_info_61">
+		<text>Y a cette buйe vers l'or... Non, attends, ruйe vers l'or... Les stalkers creusent dans des tonnes de merde radioactive, ils trouvent des trucs intйressants ici et lа et nous, on essaie de maintenir un semblant d'ordre.</text>
+	</string>
+	<string id="dm_cool_info_62">
+		<text>Kolyan et ses gars se sont fait choper par une йmission il y a quelques jours et maintenant, il y en a qui doivent porter leurs paires de bottes, si tu vois ce que je veux dire. Mais bon, c'est ce qu'on obtient quand on s'aventure loin de la base. Moralitй, vaut mieux rester au camp.</text>
+	</string>
+	<string id="dm_cool_info_63">
+		<text>Ces vermines de stalkers de l'Agroprom ont formй une sorte de clan. Ils ont mкme capturй quelques-uns de nos gars, mais ils ont pas les couilles de les buter. Ils savent qu'on viendrait venger nos potes !</text>
+	</string>
+	<string id="dm_sim_action_attack_point_enemy">
+		<text>Quoi ? L'ennemi est tout proche ! J'ai pas besoin qu'on me serve ces salades !</text>
+	</string>
+	<string id="dm_sim_action_attack_point_friend">
+		<text>Qu'est-ce qu'il y a ? On va rejoindre les gars, ils ont installй leur camp lа-bas.</text>
+	</string>
+	<string id="dm_sim_action_attack_point_none">
+		<text>Il y a un coin tranquille lа-bas, c'est lа qu'on va.</text>
+	</string>
+	<string id="dm_sim_action_stay_point_enemy_near">
+		<text>C'est quoi ton problиme ? On reste ici а protйger le camp contre toutes sortes d'ennemis et tu viens nous faire chier avec des questions ?</text>
+	</string>
+	<string id="dm_sim_action_stay_point_none_near">
+		<text>C'est quoi ton problиme ? On fait juste une pause. La nuit est tranquille, y a personne aux alentours...</text>
+	</string>
+	<string id="dm_actor_news_1">
+		<text>Des nouvelles ?</text>
+	</string>
+	<string id="dm_actor_news_2">
+		<text>Quoi de neuf ?</text>
+	</string>
+	<string id="dm_actor_news_3">
+		<text>Du neuf ?</text>
+	</string>
+	<string id="dm_army_no_news_1">
+		<text>Si tu veux des nouvelles, allume la tйlй ! Ici, c'est toujours la mкme chose... C'est chiant au possible...</text>
+	</string>
+	<string id="dm_army_no_news_2">
+		<text>Je vais t'en foutre du neuf, moi ! T'as qu'а acheter le journal si tu veux des nouvelles !</text>
+	</string>
+	<string id="dm_army_no_news_3">
+		<text>On en a du neuf, а la pelle... De quoi occuper un nouveau pendant un mois. Aprиs, c'est plus que de la routine...</text>
+	</string>
+	<string id="dm_army_no_news_4">
+		<text>Йcoute, si tu vois quelque chose de neuf, envoie-le-moi, ok ? Ha ! Bon, et si on faisait affaire plutфt ? T'as des trucs intйressants ?</text>
+	</string>
+	<string id="dm_bandit_no_news_1">
+		<text>Qu'est-ce qu'il pourrait y avoir de neuf ici ? Chaque jour, c'est la mкme merde !</text>
+	</string>
+	<string id="dm_bandit_no_news_2">
+		<text>Elle est bonne, celle-lа ! Tu crois vraiment qu'on a beaucoup de nouvelles dans ce merdier ?</text>
+	</string>
+	<string id="dm_bandit_no_news_3">
+		<text>Ma vie, c'est de la merde... Et зa, c'est pas un scoop...</text>
+	</string>
+	<string id="dm_bandit_no_news_4">
+		<text>Du neuf, mon cul ! Hй, t'aurais rien а йchanger ?</text>
+	</string>
+	<string id="dm_csky_no_news_1">
+		<text>Du neuf, tu dis ? Bah, on se casse le cul а bosser. Avec un peu de chance, on pourra bientфt ressortir de la Zone et reprendre une vie de citoyens raisonnables et honnкtes...</text>
+	</string>
+	<string id="dm_csky_no_news_2">
+		<text>J'ai rien de neuf, moi. C'est la mкme chose tous les jours : va lа, surveille зa... On espиre juste que зa vaille le coup...</text>
+	</string>
+	<string id="dm_csky_no_news_3">
+		<text>Tu veux le scoop du coin : la Zone a pas le sens de l'humour ! On l'йtudie, mais elle risque de nous dйvorer а chaque instant... Tu n'aurais pas des artefacts utiles, par hasard ?</text>
+	</string>
+	<string id="dm_csky_no_news_4">
+		<text>Hum... Non, je vois pas... T'as des trucs а йchanger ?</text>
+	</string>
+	<string id="dm_default_no_news_1">
+		<text>J'ai pas le temps de colporter des ragots ! Les ragots, зa finit toujours par te retomber sur le coin de la gueule, de toute faзon...</text>
+	</string>
+	<string id="dm_default_no_news_2">
+		<text>Je suis au courant de rien et j'en suis trиs content ! Pas de nouvelles... pas de nouvelles, comme on dit. Les bonnes nouvelles sont rares, alors je touche du bois.</text>
+	</string>
+	<string id="dm_default_no_news_3">
+		<text>Qu'est-ce que зa peut te faire, de toute faзon ? Surveille tes arriиres et essaye de rester en vie, c'est tout ce qui devrait t'intйresser. Tu veux faire affaire ?</text>
+	</string>
+	<string id="dm_default_no_news_4">
+		<text>Comment je saurais ? Allez, je suis sыr que t'as des trucs а йchanger. On met tout ensemble et chacun prend ce qui l'intйresse, ok ?</text>
+	</string>
+	<string id="dm_dolg_no_news_1">
+		<text>Quand on aura nettoyй le coin, y en aura а la pelle des nouvelles ! D'ici lа, c'est boulot boulot !</text>
+	</string>
+	<string id="dm_dolg_no_news_2">
+		<text>T'es dans la Zone, voilа du neuf pour toi ! Tu sais, je comprends pas les stalkers. C'est vraiment si marrant d'кtre obligй de prendre ton flingue et ton armure juste pour aller pisser ?</text>
+	</string>
+	<string id="dm_dolg_no_news_3">
+		<text>Il se passe pas grand-chose par ici. Faudra que t'ailles а l'extйrieur pour avoir des nouvelles. Mais on est toujours partant pour faire des йchanges, en revanche... T'as des trucs intйressants ?</text>
+	</string>
+	<string id="dm_dolg_no_news_4">
+		<text>Du neuf ? Un autre groupe d'idiots a marchй droit dans une anomalie, un autre tocard s'est fait bouffer par un mutant, la routine, quoi... T'aurais pas plutфt du butin а йchanger ? Ou des trucs а vendre ?</text>
+	</string>
+	<string id="dm_freedom_no_news_1">
+		<text>А quoi зa te servirait du neuf ou des nouvelles ? Relax ! Prends les choses comme elles viennent, а la coule...</text>
+	</string>
+	<string id="dm_freedom_no_news_2">
+		<text>On a du soleil, de l'air frais et de l'herbe... de la bonne, en plus ! Alors, arrкte de te prendre la tкte et profite !</text>
+	</string>
+	<string id="dm_freedom_no_news_3">
+		<text>Je suis pas trop l'actualitй pour tout te dire. Mais toi, dis-moi... T'aurais des trucs а йchanger ? Je suis plus branchй business !</text>
+	</string>
+	<string id="dm_freedom_no_news_4">
+		<text>Йcoute, mec, je sais pas... On reзoit pas beaucoup d'infos par ici... Mais si t'as quelque chose а vendre, je peux кtre intйressй.</text>
+	</string>
+</string_table>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="red_forester_hello_dialog_0">
+		<text>A cosa devo questo piacere?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1">
+		<text>I mercenari ti hanno dato informazioni molto interessanti. A quanto pare avevo ragione. La grande emissione che ha scosso la Zona и stata talmente potente da mutare lo spazio stesso, piegandolo in un cerchio.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111">
+		<text>Non tirare fuori i tecnicismi con me, professore: и diventato un cerchio e basta. Ovunque si vada si torna sempre al punto di partenza. Pertanto, dopo l'emissione gli stalker sono rimasti bloccati dentro a bolle di spazio intorno a Limansk e non possono uscirvi. Ora abbiamo abbastanza informazioni: le coordinate dei mercenari, la frequenza dei palmari e ora so anche piщ cose riguardo queste bolle. </text>
+	</string>
+	<string id="red_forester_has_compas_1">
+		<text>Avevo perso ogni speranza di rivedere la Bussola! Grazie! Dammi un po' di tempo e troverт il modo di uscire dalla bolla. Intanto, devi trovare un modo per ottenere le informazioni dai mercenari. Ti servirа un trasmettitore molto potente. Ho sentito dire che ce n'и uno nei magazzini dell'esercito - и cosм che comunicano con il mondo esterno. Dovrebbe essere abbastanza potente per contattare i mercenari.</text>
+	</string>
+	<string id="red_forester_has_compas_111">
+		<text>Quando avrai trovato la trasmittente, ti manderт le coordinate necessarie. Se tutto andrа per il verso giusto usciranno dalla bolla e si ritroveranno nei pressi del ponte che porta a Limansk. Forse riusciranno persino a fare visita ai banditi del ponte.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11111">
+		<text>A dire il vero, un paio di giorni fa anche io sono rimasto bloccato in una bolla. Allora non sapevo che fosse un'anomalia, cosм pensai che stavo dando i numeri: la radura della foresta sembrava familiare, ma ovunque andassi non riuscivo a trovare l'uscita! Poi la Zona stessa mi ha fatto dono di un manufatto, che mi ha indicato la via d'uscita. L'ho chiamato la Bussola. Mentre tornavo a casa sono stato rapinato dai banditi... hanno risparmiato la vita di questo povero vecchio, ma si sono presi la Bussola. Riportami quel manufatto e io penserт a un modo per tirare fuori i mercenari.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111111">
+		<text>La feccia si и accampata ai margini della Foresta rossa. Ho caricato le coordinate sul tuo PDA.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_1">
+		<text>Limansk и stata perduta per molti anni e per molte buone ragioni. Sarebbe meglio per tutti noi se rimanesse cosм. Perchй Limansk ti interessa tanto?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_3">
+		<text>Tu non sei un uomo qualunque. La Zona ha lasciato uno strano segno su di te: non so se sia una benedizione o una maledizione. La normale catena degli eventi si и spezzata. La Zona sta diventando sempre piщ instabile e tu fai parte del processo. Ti aiuterт... anche se non sono sicuro che sia la cosa piщ giusta da fare. Entrare a Limansk non и facile. La strada piщ breve per raggiungere la cittа и il ponte, ma и stato sollevato. Comunque, e nemmeno io lo sapevo, quella non и l'unica strada che conduce lм. La Freedom e la Duty hanno sollevato il ponte subito dopo la grande emissione, eppure i banditi sono comparsi sull'altra sponda un paio di giorni fa e ne hanno preso il controllo. Il che significa che c'и almeno un'altra strada per passare. </text>
+	</string>
+	<string id="red_forester_need_to_limansk_5">
+		<text>La grande emissione ha mutato parecchio la Zona. I sentieri noti e sicuri ora pullulano di anomalie letali, mentre ne sono apparsi di nuovi, per anni irraggiungibili. E dubito che siano stati scoperti tutti... Che tu ci creda o no, di tanto in tanto ricevo sul PDA delle trasmissioni provenienti dai dintorni di Limansk. Questo puт significare soltanto una cosa: gli stalker hanno trovato nuovi sentieri per accedere a Limansk e hanno bisogno di aiuto. </text>
+	</string>
+	<string id="red_forester_need_to_limansk_7">
+		<text>Purtroppo il segnale и debole e non riesco a capire un granchй. Suppongo che gli stalker siano rimasti intrappolati in un cerchio: ovunque vadano tornano sempre al punto di partenza. Se riuscissimo a tirarli fuori potremmo scoprire come entrare a Limansk.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_9">
+		<text>Dirigiti ai magazzini militari. Il segnale dovrebbe essere migliore sulle colline. Quando scopri qualcosa fammelo sapere, intesi?</text>
+	</string>
+	<string id="red_artefact_hunters_11">
+		<text>Salve, mercenario! Meno male che la Zona ti ha portato da noi!</text>
+	</string>
+	<string id="red_artefact_hunters_111">
+		<text>Ciao.</text>
+	</string>
+	<string id="red_artefact_hunters_1111">
+		<text>Abbiamo un lavoretto per te. Non siamo venuti in questa foresta a raccogliere funghi. Qui vicino c'и un'area anomala piena zeppa di manufatti. So come raggiungerla, ma la strada attraversa la foresta, che come saprai bene и una maledettissima trappola mortale. Quindi ti chiediamo di scortarci fin lм e fare la guardia per un po'. In cambio ti daremo un bel manufatto per il disturbo. Accetti?</text>
+	</string>
+	<string id="red_artefact_hunters_11111">
+		<text>D'accordo. Andiamo.</text>
+	</string>
+	<string id="red_artefact_hunters_11112">
+		<text>Questa foresta non piace neanche a me. Devo andare.</text>
+	</string>
+	<string id="red_artefact_hunters_111121">
+		<text>Come vuoi. Torna da noi, in caso cambiassi idea.</text>
+	</string>
+	<string id="red_artefact_hunters_21">
+		<text>Sм?</text>
+	</string>
+	<string id="red_artefact_hunters_211">
+		<text>Cosa dicevi riguardo a quel posto pieno di manufatti?</text>
+	</string>
+	<string id="red_artefact_hunters_22">
+		<text>Ciao.</text>
+	</string>
+	<string id="red_artefact_hunters_31">
+		<text>Parleremo dopo.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11">
+		<text>Non sparare!</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_111">
+		<text>Chi siete?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1111">
+		<text>Semplici stalker. Ci ha ingaggiati Strelok.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11111">
+		<text>Perchй mi avete attaccato?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_111111">
+		<text>Strelok pensa che qualcuno voglia ucciderlo, quindi ha bisogno di protezione. Pensavamo fossi un assassino.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1111111">
+		<text>Capisco.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_112">
+		<text>Dov'и andato Strelok?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1121">
+		<text>Non lo so. Non ha detto dov'era diretto.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11211">
+		<text>Non ha detto niente, eh? Un buco nella testa potrebbe rinfrescarti la memoria?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_112111">
+		<text>No, non farlo! Ti giuro che non ha detto nulla. So solo dove ha nascosto la sua roba. Ecco, queste sono le coordinate.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1121111">
+		<text>OK...</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11212">
+		<text>Va bene...</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_113">
+		<text>Sai come trovare Forester?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1131">
+		<text>Sм. Forester и vicino alla vecchia miniera, dalla parte opposta della foresta. Ha venduto a Strelok una mappa per attraversare la foresta, che altrimenti sarebbe un labirinto inestricabile.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_11311">
+		<text>Puoi condurmi laggiщ?</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_113111">
+		<text>Sм, ho memorizzato la mappa. Ma non sarа facile: la foresta и piena di mutanti.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_1131111">
+		<text>Ci penserт io. Andiamo.</text>
+	</string>
+	<string id="red_bounty_hunter_dialog_114">
+		<text>Sto partendo. Tieniti forte.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_0">
+		<text>Non sparare!</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_1">
+		<text>Chi siete?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_11">
+		<text>Semplici stalker. Ci ha ingaggiati Strelok.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_111">
+		<text>Perchй mi avete attaccato?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_1111">
+		<text>Strelok pensa che qualcuno voglia ucciderlo, quindi ha bisogno di protezione. Pensavamo fossi un assassino.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_11111">
+		<text>Capisco.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_3">
+		<text>Dov'и andato Strelok?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_31">
+		<text>Non lo so. Non ha detto dov'era diretto.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_311">
+		<text>Non ha detto niente, eh? Un buco nella testa potrebbe rinfrescarti la memoria?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_3111">
+		<text>No, non farlo! Ti giuro che non ha detto nulla. So solo dove ha nascosto la sua roba. Ecco, queste sono le coordinate.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_31111">
+		<text>OK...</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_312">
+		<text>Va bene...</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_4">
+		<text>Sai come trovare Forester?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_41">
+		<text>Sм. Forester и vicino alla vecchia miniera, dalla parte opposta della foresta. Ha venduto a Strelok una mappa per attraversare la foresta, che altrimenti sarebbe un labirinto inestricabile.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_411">
+		<text>Puoi condurmi laggiщ?</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_4111">
+		<text>Sм, ho memorizzato la mappa. Ma non sarа facile: la foresta и piena di mutanti.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_41111">
+		<text>Ci penserт io. Andiamo.</text>
+	</string>
+	<string id="red_bounty_hunter_surrender_5">
+		<text>Sto partendo. Tieniti forte.</text>
+	</string>
+	<string id="red_bounty_hunter_way_11">
+		<text>Acceleriamo, qui и molto pericoloso.</text>
+	</string>
+	<string id="red_bounty_hunter_way_111">
+		<text>Qual и il pericolo?</text>
+	</string>
+	<string id="red_bounty_hunter_way_1111">
+		<text>Questa и la Foresta rossa, un luogo in cui sono spariti moltissimi stalker. E qui ci siamo solo noi due. Sbrighiamoci, prima che sia troppo tardi.</text>
+	</string>
+	<string id="red_bounty_hunter_way_12">
+		<text>Ci siamo quasi. C'и un campo di stalker qui vicino.</text>
+	</string>
+	<string id="red_bounty_hunter_way_13">
+		<text>Siamo arrivati. Forester vive nel magazzino.</text>
+	</string>
+	<string id="red_bounty_hunter_way_14">
+		<text>Acceleriamo.</text>
+	</string>
+	<string id="red_bounty_hunter_way_15">
+		<text>Salve!</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11">
+		<text>Non avvicinarti ai cancelli! Ci sono delle trappole.</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_111">
+		<text>Come sarebbe a dire?!? Io devo passare!</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_1111">
+		<text>Finchй siamo qui, mercenario, questi cancelli non si apriranno. I mostri potrebbero sbucare dalla foresta da un momento all'altro e mangiarci a colazione. Li apriremo solo se accetterai di aiutarci. Vogliamo entrare nella vecchia miniera, che pare contenga un sacco di manufatti. И anche un ottimo riparo, nel caso ci fosse un'emissione, ma da soli non riusciremo mai a occuparla. Avevamo altri stalker che viaggiavano con noi, ma alcuni hanno deciso di passare per la Discarica o per Yantar. Se qualcuno di loro и riuscito a passare, dovrai condurli verso la miniera. Solo a quel punto ti apriremo i cancelli.</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11111">
+		<text>D'accordo. Io vi aiuto e voi aprite i cancelli.</text>
+	</string>
+	<string id="red_forest_gate_keepesr_dialog_11112">
+		<text>Col cavolo.</text>
+	</string>
+	<string id="red_forest_stalkers_task_11">
+		<text>Salve, mercenario!</text>
+	</string>
+	<string id="red_forest_stalkers_task_111">
+		<text>Ciao!</text>
+	</string>
+	<string id="red_forest_stalkers_task_1111">
+		<text>Abbiamo un lavoro per te.</text>
+	</string>
+	<string id="red_forest_stalkers_task_11111">
+		<text>Continua.</text>
+	</string>
+	<string id="red_forest_stalkers_task_111111">
+		<text>Portaci la mappa della Foresta rossa.</text>
+	</string>
+	<string id="red_forest_stalkers_task_11111111">
+		<text>OK.</text>
+	</string>
+	<string id="red_forest_stalkers_task_2">
+		<text>Ecco la mappa.</text>
+	</string>
+	<string id="red_forest_stalkers_task_21">
+		<text>Grazie per l'aiuto.</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>Parlami della Foresta rossa.</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>Un tempo questa era una riserva naturale, e io ero la guardia forestale. Proteggevo la foresta e i suoi animali dai bracconieri. Ora ci pensa la Zona a proteggere questo posto, e lo fa cosм bene che la gente allunga volentieri la strada per evitare la foresta. Uno straniero che osa metterci piede и praticamente un morto che cammina. Neanch'io so cosa succede lа dentro. La gente entra nella nebbia e scompare misteriosamente. Anche se cammini alle loro spalle, all'improvviso ti spariscono davanti e svaniscono nel nulla. Ecco come stanno le cose, amico.</text>
+	</string>
+	<string id="red_forester_about_limansk_0">
+		<text>Devo andare a Limansk.</text>
+	</string>
+	<string id="red_forester_about_limansk_1">
+		<text>Limansk и andata perduta per molti anni, e per tante buone ragioni. E sarebbe meglio per tutti se restasse cosм. Perchй ti interessa Limansk?</text>
+	</string>
+	<string id="red_forester_about_limansk_11">
+		<text>Puт sembrare banale, ma и una questione di vita o di morte.</text>
+	</string>
+	<string id="red_forester_about_limansk_111">
+		<text>Tu non sei un uomo qualunque. La Zona ha avuto uno strano effetto su di te, ma non saprei dire se positivo o negativo. Inoltre diventa sempre piщ instabile. Il normale ordine degli eventi и stato stravolto, e scommetto che c'и una spiegazione valida. Ti aiuterт, anche se non sono totalmente convinto della mia decisione.</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>Cosa sai dirmi sulla Zona?</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>La Zona...? Beh, и come se avesse una vita propria, e noi le siamo di ostacolo, chi piщ e chi meno. La Zona cerca di neutralizzare qualsiasi rischio per la sua esistenza, come il nostro corpo combatte le malattie. Siamo una specie di virus, per cosм dire, e le emissioni sono lo strumento che usa per eliminarci. Piщ disturbi le creiamo, piщ forti saranno le emissioni.</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>Come sei sopravvissuto qui tutti questi anni, da solo e circondato da pericoli?</text>
+	</string>
+	<string id="red_forester_about_zone_111">
+		<text>Un'unica azione irrazionale e la Zona puт essere distrutta... insieme a tutto ciт che contiene. Non solo i mutanti e le anomalie, ma anche i manufatti, voi stalker... e il sottoscritto. Riesco ad avvertire la tensione della Zona: c'и qualcosa che la turba, che minaccia il suo equilibrio. C'и una tempesta all'orizzonte... e non possiamo prevederne le conseguenze.</text>
+	</string>
+	<string id="red_forester_cheet_0">
+		<text>testo predefinito</text>
+	</string>
+	<string id="red_forester_cheet_1">
+		<text>Portami il manufatto Bussola. Il tuo PDA ti fornirа delle possibili ubicazioni.</text>
+	</string>
+	<string id="red_forester_has_compas_0">
+		<text>Ho il manufatto.</text>
+	</string>
+	<string id="red_forester_has_compas_11">
+		<text>E se lo trovo cosa succederа?</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>Cosa ci fa un dilettante come te nella proprietа di Forester?</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>И stato il destino a portarti qui da me?</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>Buona fortuna, amico!</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>Non dimenticarmi!</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>Non scordarmi mai!</text>
+	</string>
+	<string id="red_forester_limansk_0">
+		<text>Parlami di Limansk.</text>
+	</string>
+	<string id="red_forester_limansk_1">
+		<text>Non si hanno notizie di quella cittа da lungo tempo. Molti dubitano della sua stessa esistenza, ma si sbagliano: la cittа esiste davvero. L'ho vista con i miei occhi prima del disastro. In quella cittа sorgeva un enorme istituto recintato, con alloggi costruiti per gli scienziati e i loro inservienti. Era un istituto di ricerca con un nome piuttosto strano... Onda Radio, mi pare. Aveva anche un'antenna immensa, alta come un palazzo di cinque piani! Quelli erano dei veri intellettuali, ma Limansk era una cittа tutt'altro che tranquilla. Gli abitanti erano sospettosi e diffidenti nei confronti degli stranieri, sempre pronti a spargere maldicenze e a sostenere il regime sovietico, anche quando le provviste scarseggiavano. Noi provinciali ci andavamo meno possibile, visto che la cittа non era molto ospitale e ti faceva venire uno strano mal di testa... Forse era colpa dell'antenna. Dopo il disastro di Chernobyl, Limansk non и stata neanche evacuata. Credo ci sia stato un errore burocratico, oppure faceva parte di un piano segreto, chi lo sa. Ma quella и stata l'ultima volta che ho sentito parlare di Limansk. Ormai non mi interessa piщ...</text>
+	</string>
+	<string id="red_forester_limansk_11">
+		<text>Ma ho visto una strada per Limansk, e un ponte che attraversa il fiume.</text>
+	</string>
+	<string id="red_forester_limansk_111">
+		<text>Questo posto era pieno di anomalie, ma dopo l'emissione и diventato molto piщ sicuro. Gli stalker hanno capito subito che и possibile raggiungere il centro della Zona passando per Limansk, senza dover superare il Bruciacervella. Le fazioni Duty e Freedom hanno scatenato un'autentica guerra non appena sono arrivate nella cittа, una guerra che potrebbe distruggerle entrambe. Ma scommetto che al resto della Zona non dispiacerebbe granchй.</text>
+	</string>
+	<string id="red_forester_limansk_12">
+		<text>Questo posto era pieno di anomalie, ma dopo l'emissione и diventato molto piщ sicuro. Gli stalker hanno capito subito che и possibile raggiungere il centro della Zona passando per Limansk, senza dover superare il Bruciacervella. Le fazioni Duty e Freedom hanno scatenato un'autentica guerra non appena sono arrivate nella cittа, una guerra che potrebbe distruggerle entrambe. Ma scommetto che al resto della Zona non dispiacerebbe granchй.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_0">
+		<text>Ho ricevuto un messaggio dai mercenari ai depositi militari. Pare siano rimasti intrappolati in una strana anomalia durante la grande emissione. Non riescono a trovare una via d'uscita, e tornano ogni volta al punto di partenza. Hanno inviato le loro coordinate.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11">
+		<text>Una specie di anello di Mцbius?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111">
+		<text>Come faccio a liberare i mercenari dalla bolla?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111111">
+		<text>Sai dove si sono rifugiati i banditi?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111112">
+		<text>Ho trovato il tuo manufatto raro.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_1111121">
+		<text>Credevo di non rivedere mai piщ la Bussola! Grazie! Dammi un attimo di tempo e troverт un modo per uscire dalla bolla. Nel frattempo devi scoprire come trasmettere le coordinate alla squadra dispersa. Trova la trasmittente ai depositi militari.</text>
+	</string>
+	<string id="red_forester_lost_stalkers_11111211">
+		<text>E quando avrт trovato la trasmittente?</text>
+	</string>
+	<string id="red_forester_lost_stalkers_111112111">
+		<text>Quando avrai trovato la trasmittente, ti darт le coordinate che servono ai mercenari.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_0">
+		<text>Devo andare a Limansk.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_2">
+		<text>Puт sembrare banale, ma и una questione di vita o di morte.</text>
+	</string>
+	<string id="red_forester_need_to_limansk_4">
+		<text>Sai come i banditi sono riusciti ad arrivare dall'altra parte?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_6">
+		<text>Cosa и successo agli stalker?</text>
+	</string>
+	<string id="red_forester_need_to_limansk_8">
+		<text>Cosa devo fare?</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>Chi sei?</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>Cosa potrei dirti su di me? Mi chiamo Forester. Sono qui da molto tempo, e ho sempre vissuto vicino a questa foresta. Sono vecchio. Alla mia etа ci si affeziona alla propria casa, qualunque essa sia. Non ho voluto trasferirmi dopo l'incidente alla centrale, e sono sopravvissuto anche all'apparizione della Zona. Ricordo un bagliore all'orizzonte... Quel giorno и morta molta gente, ma la Zona mi ha risparmiato. Anzi, oltre a risparmiarmi mi ha fatto un dono! Un tempo riuscivo a trovare i sentieri nella foresta, ma ora riesco a percepire le vie piщ sicure per superare le anomalie piщ pericolose. Gli stalker mi invidiano, ma non sono molto felice del mio dono. Sai, a questo mondo tutto ha un prezzo. Un giorno la Zona mi chiederа di saldare il debito. И proprio di questo che ho paura, amico.</text>
+	</string>
+	<string id="red_forester_who_are_you_111">
+		<text>No, questa era una normale foresta di pini. Beh, era anche una riserva naturale, ma in realtа non era niente di speciale. И diventata rossa dopo l'incidente di Chernobyl, nel 1986. Mi sono addormentato che era ancora verde, e al mio risveglio l'ho trovata come la vedi adesso. Poi и comparsa la Zona, e gli animali e gli uccelli hanno abbandonato la foresta. Ero l'unico essere vivente a non essere fuggito via. Solo io, la Foresta rossa e questa fitta nebbia che non si dirada mai.</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>Sм, qui sono morti molti stalker. Secondo alcuni la Foresta rossa и abitata addirittura da uno spirito maligno. Per quanto mi riguarda, questa foresta и come tutto il resto della Zona: se la tratti bene, non ti verrа fatto del male. Il problema и che voi stalker non conoscete le buone maniere. Se continuate a maltrattare la Zona... poi non lamentatevi delle conseguenze.</text>
+	</string>
+	<string id="red_leshiy_reward_11">
+		<text>Eh... Ho perso tutti i miei soldati. Immagina di dover uscire dalla bolla e trovare dei banditi ad aspettarti.</text>
+	</string>
+	<string id="red_leshiy_reward_12">
+		<text>Grazie, mercenario. Senza di te non ce l'avremmo mai fatta. Prendi questo, ti tornerа utile.</text>
+	</string>
+	<string id="red_leshiy_reward_13">
+		<text>Grazie, mercenario. Senza di te non ce l'avremmo mai fatta. Prendi questo, ti tornerа utile.</text>
+	</string>
+	<string id="red_leshiy_reward_14">
+		<text>Grazie, mercenario. Ci hai aiutati molto. Senza di te non saremmo mai riusciti ad abbassare quel ponte, nй a uscire dalla bolla. Prendi questo, ti tornerа utile.</text>
+	</string>
+	<string id="red_leshiy_reward_15">
+		<text>Grazie, mercenario. Ci hai aiutati molto. Senza di te non saremmo mai riusciti ad abbassare quel ponte, nй a uscire dalla bolla. Prendi questo, ti tornerа utile.</text>
+	</string>
+	<string id="red_leshiy_reward_16">
+		<text>Ciao, Scar.</text>
+	</string>
+	<string id="red_leshiy_story_1_0">
+		<text>Parlami delle bolle di spazio.</text>
+	</string>
+	<string id="red_leshiy_story_1_1">
+		<text>Le bolle di spazio, fratello, sono la peggiore diavoleria mai partorita dalla Zona. Sono un fenomeno molto recente. Se ti ritrovi dentro una bolla, amico, sei nei guai fino al collo. Qualunque cosa tu cerchi di fare, ti ritrovi sempre al punto di partenza. Non ne avevo mai sentito parlare, finchй non l'ho provato sulla mia pelle. Il mio gruppo и stato colpito da un'emissione, e ci siamo ritrovati dentro una bolla di spazio. Abbiamo camminato in tondo per giorni interi! Alcuni di noi perdevano le staffe e volevano suicidarsi, credendosi ormai spacciati. Altri avevano delle visioni... visioni terribili. Io mi sono fatto in quattro per convincerli a proseguire. Ricordo ben poco di quel periodo... Non riesco ancora a credere di essere sopravvissuto. Grazie mille per averci aiutati.</text>
+	</string>
+	<string id="red_leshiy_story_2_0">
+		<text>Che tipo di missione avevate?</text>
+	</string>
+	<string id="red_leshiy_story_2_1">
+		<text>Ehi, fratello, che razza di domande sono? Non c'и niente di piщ segreto e confidenziale dei termini di un contratto, lo sai! Non posso parlartene. Perт... Oh, al diavolo! Ci hai salvato la vita. Bene, ascolta. Dovevamo trovare un manufatto molto raro e incredibilmente prezioso per una grande corporazione di cui non farт il nome. Ci eravamo riusciti, ma non sto qui a spiegarti come. Ti dico solo che non accetterei mai piщ un lavoro del genere, neanche per tutto l'oro del mondo. La mia vita vale piщ di un mucchio di pezzi di carta filigranati. Quel lavoro mi puzzava di fregatura fin da subito, ma la ricompensa era troppo allettante. Alla fine, come temevo, l'intera faccenda si и trasformata in un incubo. Proprio quando stavamo tornando indietro con il bottino... BAM! L'emissione ci ha quasi sepolti vivi, per non parlare di quella stupida bolla. Ah, basta lavori come quello... mi taglio fuori.</text>
+	</string>
+	<string id="red_artefact_hunters_reward_dialog_11">
+		<text>Grazie per il tuo aiuto. Ecco la ricompensa.</text>
+	</string>
+</string_table>

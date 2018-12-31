@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pda_end_tutorial">
+		<text>C'est а peu prиs tout...</text>
+	</string>
+	<string id="pda_start_tutorial">
+		<text>Initiation</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_1">
+		<text>Ok. Donc, tu sais que notre objectif est de prendre le contrфle du Marais, ce qui signifie qu'on est en guerre...</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_10">
+		<text>Ici, tu peux consulter la situation du moment, ainsi que les missions tactiques а remplir pour mener а bien l'objectif stratйgique.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_11">
+		<text>Les missions stratйgiques achevйes s'affichent en bas.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_2">
+		<text>Cette section te montre tous les dйtails tactiques relatifs aux combats en cours.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_3">
+		<text>Le cфtй gauche contient des informations sur ta faction. En ce moment, c'est nous, Firmament.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_4">
+		<text>Le cфtй droit affiche des informations sur l'ennemi.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_5">
+		<text>Ceci reprйsente notre puissance militaire actuelle.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_6">
+		<text>Ceci reprйsente notre effectif.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_7">
+		<text>Et ceci indique le niveau de notre soutien logistique.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_8">
+		<text>Les symboles tout en bas reprйsentent les caractйristiques uniques de notre йquipement de combat.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_9">
+		<text>Des indicateurs similaires sont utilisйs pour l'ennemi.</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_1">
+		<text>Le dernier onglet contient des informations sur tes relations avec chaque faction et leur puissance militaire.</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_2">
+		<text>Tes statistiques s'affichent йgalement ici.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_1">
+		<text>Regarde ! Voici la section Missions, ton principal guide pour la Zone.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_10">
+		<text>En plus de rйcapituler les tвches а accomplir, la carte indique les positions des unitйs alliйes, ainsi que les coordonnйes des ennemis repйrйs.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_2">
+		<text>Voici ta mission principale...</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_3">
+		<text>et la mission secondaire sйlectionnйe.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_4">
+		<text>Si tu as plusieurs missions secondaires, tu peux les faire dйfiler avec ces boutons.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_5">
+		<text>La plupart des missions s'affichent sur la carte, а moins que la cible ne puisse pas кtre localisйe.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_6">
+		<text>On aura besoin de ton aide non seulement pour йliminer l'ennemi, mais aussi pour capturer des positions stratйgiques.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_7">
+		<text>Dans une situation comme la nфtre, nos combattants te seront reconnaissants si tu les couvres lorsqu'ils attaquent une position ennemie.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_8">
+		<text>Au fait, essaye de rйpondre aux appels de dйtresse aussi souvent que possible. La vie de nos gars dйpend de tes actions !</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_9">
+		<text>Passe le curseur de la souris sur un point de la carte pour obtenir des informations plus dйtaillйes sur cet endroit.</text>
+	</string>
+</string_table>

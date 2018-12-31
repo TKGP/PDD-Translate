@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>Tutti all'attacco!</text>
+	</string>
+	<string id="speech_covermeartifact">
+		<text>Vado a prendere il manufatto! Copritemi.</text>
+	</string>
+	<string id="speech_followme">
+		<text>Seguitemi!</text>
+	</string>
+	<string id="speech_guardartifact">
+		<text>Difendo il manufatto. Non sparate!</text>
+	</string>
+	<string id="speech_holdingpos">
+		<text>Mantengo la posizione.</text>
+	</string>
+	<string id="speech_holdpos">
+		<text>Mantenete la posizione!</text>
+	</string>
+	<string id="speech_icoverartifact">
+		<text>Prendete il manufatto! Vi copro io.</text>
+	</string>
+	<string id="speech_needhelp">
+		<text>Ho bisogno d'aiuto.</text>
+	</string>
+	<string id="speech_needmoney">
+		<text>Non ho soldi. Comprate altro equipaggiamento.</text>
+	</string>
+	<string id="speech_no">
+		<text>No.</text>
+	</string>
+	<string id="speech_noenemy">
+		<text>Nessuno in vista.</text>
+	</string>
+	<string id="speech_report">
+		<text>A rapporto!</text>
+	</string>
+	<string id="speech_retreat">
+		<text>Ritirata!</text>
+	</string>
+	<string id="speech_returntheartefact">
+		<text>Riportiamo il manufatto!</text>
+	</string>
+	<string id="speech_roger">
+		<text>Ricevuto.</text>
+	</string>
+	<string id="speech_silence">
+		<text>Taci!!!</text>
+	</string>
+	<string id="speech_sticktogether">
+		<text>Restiamo uniti.</text>
+	</string>
+	<string id="speech_takeartifact">
+		<text>Prendiamo il manufatto!</text>
+	</string>
+</string_table>

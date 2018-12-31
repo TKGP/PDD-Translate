@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mar_csky_leader_intro_dialog_0">
+		<text>Bienvenue dans le monde des vivants, stalker ! Comment tu te sens ?</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_2">
+		<text>Tu te rappelles ce qui t'es arrivй ?</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_4">
+		<text>Tu es d'humeur moqueuse, hein ? C'est bon signe, tu seras vite sur pied. Je m'appelle Lebedev, c'est moi le chef ici, le responsable de tout ce qui se passe ici... faudra que tu m'obйisses, tant que tu seras ici... On s'appelle Firmament et tu es dans notre base. On t'a rйcupйrй dans le Marais aprиs l'йmission...</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_6">
+		<text>De la chance ? Hum... J'en doute. De fait, tu as survйcu а l'йmission. C'est la premiиre chose que je ne peux pas expliquer. La deuxiиme, c'est que notre patrouille t'a trouvй dans le Marais, ou plutфt dans les sables mouvants qui en constituent la plus grande partie. Et troisiиmement, tu t'es presque fait dйchiqueter par une meute de pseudo-chiens, mais nos gars t'ont rйcupйrй juste а temps. Une telle sйrie d'йvйnements me fait penser que c'est plus que de la chance... Mais bon, je dois terminer ce que j'ai commencй. On reprendra cette conversation plus tard.</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_0">
+		<text>Salut, mercenaire ! T'es devenu une vraie lйgende pendant que t'йtais dans le coltar ! Mкme toi, tu croirais pas certaines des rumeurs que j'ai entendues а ton sujet... Ha ! Tiens, bois un coup, зa t'aidera а te dйtendre et а me raconter tes aventures, parce que je meurs de curiositй !</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_2">
+		<text>Bon d'accord, c'est toi qui bois et c'est moi qui raconte comment зa se passe ici. C'йtait plutфt calme avant... Tous les chemins йtaient sйcurisйs, on connaissait tous les bons coins et les points d'accиs йtaient sous contrфle. C'est sыr, le Marais, c'est pas tous les jours la fкte, mais c'йtait pas si mal ! Ouais, c'йtait mкme plutфt sympa, jusqu'а la derniиre йmission, la plus grosse qu'on ait jamais vu ! Maintenant, les gars font une priиre avant de sortir de la base, parce que rentrer en un seul morceau, зa tient du miracle ! Mais on se dйbrouille et on se serre les coudes ! Ces gars sont pas lа pour l'argent, ils se battent pour une cause...</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_4">
+		<text>Je ramassais des bouteilles, une par une, et зa m'a conduit ici... Ha ha, non ! Je plaisante ! La vйritй, c'est que le monde extйrieur йtait pas fait pour moi. Alors, je suis venu ici... D'abord dans la Zone, et ensuite а Firmament. Ces mecs sont rйglos et je peux me rendre utile ici. Ils viennent me voir aprиs une mission, je leur sers un godet, je leurs raconte quelques blagues salaces et j'ai fait mon boulot. Simple et efficace ! Au fait, on m'appelle Kholod.</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_6">
+		<text>Dans notre base. Comme tu peux le constater, c'est une petite ferme dйcrйpie au milieu de magnifiques marais sans fin. Je suis bien incapable de te dire exactement oщ on est, mais je peux t'assurer que c'est le dernier endroit de la Zone oщ tu rencontreras des vrais gens : des mecs qui chercheront pas а te niquer, а te planter un couteau dans le dos ou а te laisser crever pour йconomiser un mйdikit !</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_8">
+		<text>Pourquoi t'en as jamais entendu parler ? Parce qu'y a beaucoup trop de gens qui cherchent а savoir, et qu'au final, moins y en a qui savent, mieux on se porte !\nLebedev, c'est notre chef, notre point d'ancrage. C'est lui qu'assure la cohйsion du groupe !\nEt puis y'a Beanpolev, le professeur. Ce mec-lа, c'est une encyclopйdie ambulante et une calculatrice gйante а lui tout seul. Il en sait plus sur la Zone que... ouais, enfin bon, t'as pigй.\nNotre technicien, c'est Gray. Il pourrait te fabriquer un fusil а partir d'une canette, avec les munitions en prime ! Il est toujours а la recherche de piиces dйtachйes, mais en dehors de зa...\nEt enfin, y a Suslov, le marchand. Mais il est pas comme ceux qu'essayent de t'arnaquer. Il sait que les stalkers en bavent pour trouver leur marchandise, alors il les respecte.</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_1">
+		<text>Vous savez dйjа certaines choses, mais d'autres nйcessitent des explications plus dйtaillйes. Ce que je ne m'explique pas, c'est que vous ayez survйcu par deux fois а une йmission. Il est йvident que vous n'avez pas subi le pire de ces йmissions, car vous ne seriez plus lа pour en parler. Cependant, il est clair que vous кtes capable de supporter des niveaux de radiation qui seraient mortels pour d'autres. Voilа, en trиs gros, ce qui s'est passй.</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_3">
+		<text>C'est exact, certaines de vos capacitйs, comme vos rйflexes moteurs, votre vitesse de rйaction et votre endurance, se sont nettement amйliorйs aprиs l'йmission. А croire qu'elle a donnй а votre corps l'йnergie dont il avait besoin... En revanche, cette brиve pйriode de surpuissance est suivie d'un abrupt dйclin gйnйral, dont vous кtes encore en train de vous remettre.\nEt bien sыr, vous n'ignorez pas que les йmissions dйtruisent votre systиme nerveux. Si cela continue, vous mourrez... ou, pire encore, perdrez la tкte, vous perdrez votre "moi".</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_5">
+		<text>Malheureusement, non. Le mieux que je puisse faire est de rйduire les effets nйgatifs des йmissions sur votre organisme. Je suis en train de terminer une sйrie de tests et, dиs que Lebedev aura confirmй les rйsultats, je pourrai prendre les mesures qui s'imposent. Cependant, je tiens а souligner une fois de plus que cela n'a rien d'une panacйe qui rйsoudra votre problиme ! Vous n'y gagnerez guиre qu'un peu plus de temps avant que votre systиme nerveux ne commence а s'effondrer.</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_7">
+		<text>Malheureusement, c'est tout. La seule chose que je puisse faire de plus, c'est rйpondre а vos questions.</text>
+	</string>
+	<string id="mar_csky_doctor_about_people_1">
+		<text>Les gens ont tort de croire qu'ils savent ce qu'est rйellement la Zone. Certains pensent que c'est le mal incarnй, d'autres un miracle envoyй а l'humanitй et d'autres encore une simple source de richesses sans fin... Ils ont tous tort ! La Zone ne peut кtre comprise а travers le prisme des perceptions humaines. De plus, il est bien trop tфt pour mкme essayer de la comprendre. Ergo, en ce qui concerne la Zone, les actions tant du gouvernement que des stalkers sont plus que risquйes et je crains que les consйquences ne risquent... ou plutфt, ne soient complиtement imprйvisibles. Nous courons tous un grand danger...</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_1">
+		<text>Si seulement j'avais la rйponse а cette question, jeune homme... Nous йtudions scrupuleusement la Zone dans l'espoir de la trouver.\nL'apparition de la Zone est le rйsultat d'actions... disons, d'actions humaines "malencontreuses", et il est dйsormais impossible de revenir au statu quo. La Zone ne peut кtre dйtruite et elle ne disparaоtra pas d'elle-mкme. Le groupe Firmament estime que l'homme n'a d'autre choix que de coexister avec la Zone.</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_3">
+		<text>Hum, laissez-moi rйflйchir... Eh bien, disons que tout systиme naturel un tant soit peu complexe, et cela inclut la Zone, tend toujours vers un point d'йquilibre en l'absence de facteurs dйstabilisateurs externes. C'йtait le cas ici ces derniиres annйes. La Zone йtait stable, sans dйviations notables de la norme... Mais а prйsent, nous venons de subir une gigantesque йmission qui a bouleversй la Zone. Elle est devenue instable, dйsordonnйe... comme а la suite d'une sorte de "hoquet". Et la Zone continue а dйverser йmission sur йmission, se gorgeant chaque fois d'йnergie, а tel point que les jauges de mes capteurs oscillent а une vitesse incroyable ! Et а moins que nous ne trouvions un moyen d'inverser la tendance, nous risquons de nous retrouver avec une catastrophe de bien plus grande ampleur que celle de 1986.\nCe qu'il faut impйrativement retenir de tout ceci, c'est que ce "hoquet" n'est pas dы а des causes naturelles, mais а l'intervention de l'homme...</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_5">
+		<text>C'est ce que nous essayons de savoir. Si nous comprenons ce qui a perturbй l'йquilibre de la Zone, nous aurons peut-кtre une chance d'empкcher le dйsastre.</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_7">
+		<text>Puisque l'homme est а l'origine du problиme, il est possible que seul l'homme soit capable de rйtablir l'йquilibre. En tout cas, c'est ce que j'espиre !</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_9">
+		<text>Je crains de ne pouvoir rйpondre а cette question. Je vous suggиre de vous adresser а Lebedev.</text>
+	</string>
+	<string id="mar_csky_doctor_hello_dialog_0">
+		<text>Je suis ravi de vous revoir, jeune homme ! Vous me semblez en bien meilleure forme !</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_1">
+		<text>Malheureusement, oui. Alors, tu vas nous aider ?</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_0">
+		<text>Alors, on prend l'air ? T'as meilleure mine, c'est sыr.\nLaisse-moi te mettre au parfum...\nTu es dans la base de Firmament. Inutile de te creuser les mйninges, tu n'as sыrement jamais entendu parler de nous, et il y a une bonne raison а зa. Notre mission consiste а йtudier la Zone pour mieux la comprendre.\nNous croyons qu'ainsi, les hommes sauront а quoi s'en tenir а son sujet. Il n'y a qu'en la comprenant que nous pourrons coexister avec elle. Aprиs tout, la Zone est tout de mкme le phйnomиne le plus extraordinaire auquel l'humanitй ait jamais йtй confrontйe !</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_10">
+		<text>Oui, la vie n'est pas facile ces derniers temps. Les йmissions ont rйduit le nombre d'anomalies dans le Marais, ce qui a rendu l'endroit plus accessible aux bandits et autres vermines. Il y en a tellement qu'ils vont finir par s'installer dans notre base si on ne fait rien ! Le problиme, c'est que nous ne sommes pas des combattants, donc nous perdons du terrain а chaque affrontement, mais toi... Il suffit de te regarder pour voir que c'est ta spйcialitй ! Ton expйrience pourrait sauver la vie de beaucoup de mes hommes.</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_2">
+		<text>Comme je te l'ai dit : nous sommes des scientifiques avant tout. Nous essayons de comprendre la Zone, de savoir pourquoi elle est apparue et de formuler les rиgles de son existence. Nous ne cherchons ni la fortune, ni les champs d'artefacts et nous ne tenons pas а nous lancer dans des guerres de territoire avec des factions rivales. C'est pour зa que nous nous terrons dans le Marais et que nous nous concentrons sur nos recherches.\nNotre spйcialitй n'est pas le combat, mais la connaissance : la connaissance de la zone, patiemment accumulйe au fil d'annйes de recherche. Nous en savons bien plus que le gouvernement et les stalkers combinйs, et nous commencions а voir йmerger un modиle cohйrent... jusqu'а l'йmission d'il y a quelques jours.</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_4">
+		<text>Non, elle йtait si puissante que nous l'avons classйe dans une catйgorie а part, comme un ouragan qui aurait dйvastй la Zone, qui l'aurait changйe... Plus rien n'est pareil : les endroits sыrs auparavant sont maintenant radioactifs et fourmillent d'anomalies. Il est dйsormais possible d'accйder а certaines parties de la Zone qui йtaient inaccessibles depuis des annйes. Mкme les stalkers les plus aguerris ne savent plus а quoi s'attendre sur leurs itinйraires prйfйrйs.\nEt ce n'est pas tout ! Les gens eux-mкmes ont changй ! L'йmission a rompu le fragile йquilibre entre les factions, qui s'affrontent dйsormais dans une guerre de territoire sans merci...\nEn d'autres termes, il se passe des choses йtranges et je ne saisis pas encore toutes les implications de ces changements... Cela ne fait que quelques jours... Le plus йtrange, а mon avis, c'est que toi, tu aies survйcu...</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_6">
+		<text>Je vois... Comment je peux t'aider ?</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_8">
+		<text>Ce ne sera pas facile de sortir d'ici, tu sais. Le Marais est un vйritable dйdale de roseaux et de sables mouvants toxiques qui pullule de monstres mutants ou humains... Et je ne sais pas lesquels sont les pires. Seul un guide te permettrait de traverser et je n'en ai que quelques-uns, de bons gars а qui je fais entiиrement confiance. Le hic, c'est que ce n'est pas si simple que зa, parce que, si nous te laissons partir, notre prйsence ici ne sera plus un secret.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_0">
+		<text>Tu as encore survйcu а une йmission ! Je ne suis mкme plus surpris ! Mes hommes t'ont rйcupйrй prиs de la tour quand зa s'est calmй.\nTu sais, Beanpolev avait raison : ton cas est impossible а expliquer. Il pense que tu as acquis une sorte de... disons, "capacitй peu commune" qui te permet de survivre а des anomalies qui rйduiraient en atomes n'importe qui d'autre. Apparemment, cela amйliore йgalement tes performances physiologiques, а un tel point qu'elles dйpassent les limites de nos capteurs ! Attends, attends, ne t'emporte pas ! Il y a quand mкme un problиme : а chaque йmission, ton systиme nerveux grille un peu plus et si зa continue, tu mourras.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_10">
+		<text>C'est vrai, mais nous savons comment empкcher un dйsastre et arrкter les йmissions. Et ce n'est pas rien...</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_12">
+		<text>Il faut que nous sachions qui est allй au centre de la Zone et l'arrкter а tout prix !</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_14">
+		<text>Il y a un lien йtrange entre la Zone et toi. D'un cфtй, chaque йmission rйduit ton espйrance de vie. De l'autre, tu survis а des situations dans lesquelles d'autres n'auraient aucune chance. Mon instinct me dit que tes capacitйs... ton don, ta malйdiction, appelle зa comme tu voudras... te permettent d'atteindre des endroits interdits а d'autres. Et aujourd'hui, nous devons agir trиs vite !</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_16">
+		<text>Je savais que tu me poserais la question. La rйponse est simple : si les йmissions ne cessent pas, ton systиme nerveux grillera et tu mourras. Aide-nous et tu te sauveras toi-mкme ! D'accord, on dirait que зa sort tout droit d'une sйrie B amйricaine mal doublйe, mais tu n'as pas vraiment de choix.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_2">
+		<text>Une йmission normale est une simple dйcharge de l'йnergie accumulйe dans la Zone, comme une sorte de trop-plein. Mais ce qui se passe maintenant n'a rien а voir !\nА mon avis, la frйquence croissante de ces йmissions est la rйponse de la Zone а une menace humaine, comme la rйponse immunitaire d'un organisme vivant. C'est difficile d'expliquer rationnellement la faзon dont les humains et la Zone coexistent. Elle nous tolиre а certains endroits et nous refuse l'accиs а d'autres. Quoi qu'il y ait au-delа du Lobotomisateur et du centre de la Zone, c'est tabou. Aucun stalker n'a le droit d'y accйder. А mon avis, c'est lа que se trouve la clй du mystиre : quelqu'un a brisй le tabou et a rйussi а aller au-delа du Lobotomisateur.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_4">
+		<text>Difficile а dire... Pour pouvoir te rйpondre, il faudrait que je sache ce qui se trouve au centre de la Zone. Certains parlent du Monolithe, d'autres de l'Exauceur de voeux... Les plus raisonnables rкvent d'une mine d'artefacts а ciel ouvert... J'йtais dans la centrale quand tout a commencй, je n'йtais qu'un jeune spйcialiste а l'йpoque, mais je ne sais pas ce qui s'y trouve maintenant. En revanche, je suis sыr que le Lobotomisateur n'est pas apparu par hasard. Il empкche l'accиs au centre de la Zone. Personne ne peut aller au-delа.</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_6">
+		<text>Enfin, je n'y croyais pas jusqu'а la derniиre йmission importante. Personne n'y croyait ! Mais bon, si l'on considиre les йmissions comme des rйactions dйfensives, la rйponse est йvidente : quelqu'un a passй le Lobotomisateur et la Zone a rйagi а cette intrusion par une йmission. Et comme les йmissions n'ont pas cessй, l'intrus est toujours en vie. La Zone essaye de le tuer et tue toutes les autres formes de vie dans la foulйe !</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_8">
+		<text>J'en sais beaucoup sur la Zone, mais je ne peux pas tout partager avec toi. Il faudra que tu me fasses confiance sur certaines choses.\nUn systиme, quel qu'il soit, doit кtre en йquilibre. А l'heure actuelle, la Zone est instable et cette instabilitй ne fait qu'empirer. Si les йmissions ne s'arrкtent pas, l'instabilitй deviendra si grande qu'un nouveau cataclysme se produira inйvitablement. Ce qui nous amиne а l'objectif de Firmament : empкcher un nouveau dйsastre.</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_0">
+		<text>Assez bavardй ! Notre avant-poste est attaquй... Aide-nous а le dйfendre !\nSi зa peut faire une diffйrence, plusieurs des hommes qui t'ont sauvй sont lа-bas en ce moment.\nTu te souviens comment survivre dans la Zone ?</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_21">
+		<text>Parfait ! Va voir le marchand ! Il te donnera l'йquipement de base. Ensuite, va directement а l'avant-poste ! Une fois dehors, suis bien mes conseils ! Je te guiderai а distance.</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_1">
+		<text>Regarde par toi-mкme ! Y a pas grand-chose par ici... Bienvenue dans la vie post nuclйaire ! Dиs qu'on rйcupиre un truc, faut s'attendre а ce qu'il tombe en panne et vas-y pour trouver des piиces de rechange ! C'est pour зa que je bricole avec tout ce que je trouve... Tiens, pas plus tard que la semaine derniиre, j'avais besoin d'un rйcepteur radio. Qu'est-ce que tu crois que j'ai utilisй ? Ben ouais, un vieux frigo ! Ha ! Je sais pas si je dois en rire ou en pleurer...</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_3">
+		<text>Ouais, y'a pas de quoi s'exciter par ici. C'est pas comme la Dйcharge... Paraоt qu'ils ont trouvй des vieilles planques de matos soviйtique lа-bas ! Aprиs l'accident de la centrale de Tchernobyl, les Russes ont enterrй tout le matos, les vйhicules et tous les trucs qu'ils avaient envoyйs par peur de la radioactivitй. C'йtait une bonne raison а l'йpoque ! De nos jours, plus personne appellerait зa de la radioactivitй, alors c'est une vraie ruйe vers l'or par lа-bas ! Les stalkers y viennent de tous les coins de la Zone pour creuser. C'est malheureux qu'il n'y ait pas grand-chose qui finisse ici, sauf si Lebedev envoie des gars а la recherche de composants spйciaux.</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_5">
+		<text>Rien de spйcial. Je rйpare et j'amйliore des armes et des armures... En fait, je m'occupe un peu de tout. Si t'as besoin de rйparer un truc, je suis ton homme !\nEh, si tu mets la main sur des piиces dйtachйes, je pourrai fabriquer des joujoux sympas pour les gars ! Armes, armures, gadgets... Зa serait autre chose, quand mкme !\nOublie pas, si tu tombes sur des trucs intйressants, rapporte-les-moi et on en fera quelque chose d'utile, promis !</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_0">
+		<text>Bienvenue, йtranger en provenance des terres lointaines ! Quels trйsors nous amenez-vous ? Une bourse pleine ou d'incroyables denrйes exotiques ?</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_10">
+		<text>Ouais, je sais. Йcoute, je t'en ai dйjа trop dit de toute faзon. Le temps, c'est de l'argent, alors si tu veux faire affaire, allons-y ! Sinon, а la prochaine !</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_2">
+		<text>Ouais, j'ai entendu ton histoire. Le principal, c'est que tu sois encore en vie, non ? Le matos, зa se remplace, au moins... Enfin, tant que la Zone t'a а la bonne... Alors, tu veux faire affaire ou causer ?</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_4">
+		<text>Ouais, on est comme зa, nous ! C'est pas possible d'acheter du temps, mais pour tout le reste, on est lа, nous autres marchands ! Mкme dans la Zone, dans le Marais ou sous terre !\nFaut pas croire que la Zone est bouclйe et que l'armйe contrфle tous les accиs. Rйflйchis un peu... De nos jours, on trouve des artefacts et des spйcimens rares de la Zone aux quatre coins du monde et tes copains stalkers manquent jamais de viande en conserve, de vodka, de munitions ou de matos... Faut bien que quelqu'un s'occupe de tout зa, non ? Ben, c'est а зa qu'on sert, nous, les marchands. Ici, c'est pas comme а l'extйrieur, oщ les mecs vendent des CD pirates avec les flics au cul toute la journйe.\nNon, ici, c'est simple : le monde extйrieur s'intйresse а la Zone et vice-versa, mais officiellement, c'est interdictions, prohibitions et tout le toutim. C'est а зa qu'on sert... On facilite les йchanges et on s'assure que tout le monde est content. On a une blague chez les marchands : si un mec pointe un flingue sur toi, ta meilleure chance, c'est d'essayer de l'acheter !</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_6">
+		<text>Je t'en parle mкme pas ! T'as pas idйe а quel point j'en ai marre de marchander ces babioles ! Il y a des tonnes d'artefacts ordinaires lа-dehors, mais les trucs uniques passent jamais par ici. Зa fait des annйes que j'ai rien vu de vraiment excitant !</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_8">
+		<text>Qui sait ? Peut-кtre que les stalkers ont complиtement ratissй la place... Oh, зa serait le pied de passer le Lobotomisateur. Paraоt qu'on peut trouver assez d'artefacts pour une vie entiиre lа-bas... а condition de pas crever tout de suite... Moi, je dis qu'il est temps que tous les marchands s'allient et fassent appel а leurs relations pour trouver un moyen de passer ce truc...</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_0">
+		<text>Enfin ! Tiens, prends зa ! C'est l'йquipement standard, conзu tout spйcialement pour les missions de patrouille.</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_2">
+		<text>On m'a dit de te donner du matos. Pas de temps pour les questions, les gars ont besoin de toi !</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_111">
+		<text>Alors, йcoute bien. Nous avons contactй nos relations et informateurs dans la Zone. Il paraоt qu'un stalker du Cordon a demandй des composants йlectroniques vraiment bizarres а Sidorovich. C'est tout ce qu'on sait pour le moment, mais c'est dйjа un dйbut, non ?</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_11111">
+		<text>А travers le Marais, bien entendu ! Mais rappelle-toi ce que j'ai dit : depuis l'йmission, une vйritable armйe de pillards en tout genre est apparue dans le coin. Ils contrфlent pratiquement tout le secteur. On est assiйgй et je pиse mes mots ! Donc, avant qu'on t'aide а atteindre le Cordon, il faut qu'on reprenne le contrфle du Marais. On devrait pouvoir y arriver avec ton aide.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_211">
+		<text>Eh bien, tu as encore du temps pour rйflйchir. Reviens me voir quand tu seras prкt, mais ne traоne pas trop !</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_11">
+		<text>Va rendre visite au barman. Bois un coup et reviens me voir aprиs. Зa ne sert а rien de te parler pour l'instant, а croire que tu as encore le cerveau en compote...</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_21">
+		<text>Qu'est-ce que tu fais encore ici ? Va chercher ton йquipement chez Suslov, vite !</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_31">
+		<text>Tu as ton йquipement ? Eh bien, arrкte de te tourner les pouces ! Va а l'avant-poste, et au trot !</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_41">
+		<text>C'est dans ton intйrкt de nous aider. А moins que tu ne comptes devenir un lйgume !</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_91">
+		<text>Je t'йcoute...</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_11">
+		<text>Je te conseille d'aller voir Lebedev. Il fait pas venir les gens pour rien, en gйnйral.</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_21">
+		<text>C'est pas le moment de bavarder, mon pote. T'as pas entendu ? Le deuxiиme avant-poste est attaquй ! Et si t'allais les aider, hein ?</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_31">
+		<text>Salut m'sieur Je-bouffe-des-йmissions-au-petit-dйj ! Je crois que Lebedev veut te parler. Pourquoi tu vas pas le voir avant la prochaine йmission ?</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_41">
+		<text>Quoi de neuf, mon pote ?</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_11">
+		<text>Ouh lа, t'as vraiment sale mine ! T'as besoin d'air frais ou un truc dans le genre. Tu sais, on a un bar а l'air libre dans le coin !</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_21">
+		<text>Paraоt que Lebedev te cherche. Tu devrais aller lui parler. Moi, j'ai quelques commandes а prйparer... avec les moyens du bord, comme d'habitude.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_31">
+		<text>T'as entendu le signal de dйtresse du deuxiиme avant-poste, non ? Alors va les aider !</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_41">
+		<text>Hй, l'enfant-miracle de la Zone ! Paraоt que Lebedev veut ton autographe, alors, а ta place, j'irais le voir vite fait.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_91">
+		<text>Quoi de neuf ?</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_11">
+		<text>La vache, t'es plus pвle qu'un vampire. Toi, t'as besoin d'aller faire un tour au bar !</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_21">
+		<text>T'as plutфt bonne mine... pour un mec qu'a survйcu а deux йmissions ! Tu ferais vraiment bien d'aller raconter tes malheurs а Lebedev...</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_31">
+		<text>On causera plus tard ! On a besoin de toi а l'avant-poste tout de suite !</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_41">
+		<text>Ouh lа... Faudrait vraiment que t'ailles voir Lebedev... C'est pas un verre qui va te remettre d'aplomb !</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_91">
+		<text>Tu veux faire affaire ?</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_111">
+		<text>Compris.</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_211">
+		<text>C'est exactement ce que je vais faire.</text>
+	</string>
+	<string id="mar_csky_barman_hello_dialog_311">
+		<text>Je suis mort de rire...</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_1">
+		<text>Il n'y a pas grand chose а dire. Je menais un groupe de scientifiques а travers le Marais quand l'йmission a frappй. Je ne me rappelle de rien depuis... J'ai repris conscience par ici, alors c'est а toi de me dire ce qui s'est passй !</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_3">
+		<text>Comment as-tu fini ici ?</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_5">
+		<text>Hum... cet endroit... Tu ne veux pas me donner un indice, au moins ?</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_7">
+		<text>Je connais plutфt bien la Zone, mais je n'ai jamais entendu parler de Firmament. Comment est-ce que зa marche par ici ?</text>
+	</string>
+	<string id="mar_csky_barman_intro_dialog_9">
+		<text>...</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_0">
+		<text>Qu'est-ce qui m'est arrivй ?</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_2">
+		<text>Ouais, c'est pas la grande forme...</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_4">
+		<text>Comment arrкter la destruction de mon systиme nerveux ?</text>
+	</string>
+	<string id="mar_csky_doctor_about_me_6">
+		<text>Qu'est-ce qu'il est possible de faire pour moi ?</text>
+	</string>
+	<string id="mar_csky_doctor_about_people_0">
+		<text>J'ai rencontrй toutes sortes de gens dans la Zone. Certains viennent y chasser des rкves, d'autres des merveilles et d'autres encore du butin. Pourquoi est-ce que Firmament йtudie la Zone ?</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_0">
+		<text>Donc, qu'est-ce que c'est, la Zone ?</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_2">
+		<text>Pourquoi est-ce que la Zone tremble comme зa ?</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_4">
+		<text>J'aimerais vraiment le savoir...</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_6">
+		<text>Est-ce que c'est а la portйe d'un кtre humain ?</text>
+	</string>
+	<string id="mar_csky_doctor_about_zone_8">
+		<text>Comment зa ? Quel est l'objectif de ce "plan de sauvetage" ?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_11">
+		<text>Faut pas traоner, mec. T'as des affaires а rйgler avec Lebedev ? Alors fais comme il dit, point final.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_111">
+		<text>Je me dйbrouillerai tout seul, merci.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21">
+		<text>Alors, prкt а aller а l'avant-poste ?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_211">
+		<text>Je suis prкt.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_2111">
+		<text>Parfait ! Je vais te mettre un bandeau jusqu'а ce qu'on arrive. Je suis sыr que tu comprends qu'il faut qu'on protиge nos chemins d'accиs.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21111">
+		<text>Bien sыr.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_212">
+		<text>Pas encore.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_2121">
+		<text>Alors dйpкche-toi !</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_21211">
+		<text>Reзu 5 sur 5.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_31">
+		<text>Je peux pas te guider а travers le Marais. Ordres de Lebedev.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_311">
+		<text>Je vois.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_41">
+		<text>Alors, tu veux que je t'emmиne au Grand Marais ?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_411">
+		<text>Oui.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_4111">
+		<text>Tu connais les rиgles : tu mets le bandeau sur tes yeux, tu lвches pas mon йpaule et tout se passera bien.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_41111">
+		<text>Ok.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_412">
+		<text>Pas encore.</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_11">
+		<text>Bon, tu veux que je te guide jusqu'а notre base ?</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_111">
+		<text>Oui.</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_1111">
+		<text>Alors mets ce bandeau sur tes yeux et lвche pas mon йpaule, а moins que je te dise le contraire !</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_11111">
+		<text>Allons-y !</text>
+	</string>
+	<string id="mar_csky_guide_at_marsh_dialog_112">
+		<text>Pas encore.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_0">
+		<text>On dirait que j'ai pas trop le choix.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_11">
+		<text>Oui.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_1111">
+		<text>Зa serait parfait. Comment je peux atteindre le Cordon ?</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_111111">
+		<text>Compris.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_21">
+		<text>Non, j'ai besoin d'y rйflйchir un peu.</text>
+	</string>
+	<string id="mar_csky_leader_choose_dialog_2111">
+		<text>Зa marche.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_111">
+		<text>Je vois ce que tu veux dire...</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_211">
+		<text>Ok.</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_311">
+		<text>Ouaip !</text>
+	</string>
+	<string id="mar_csky_leader_hello_dialog_911">
+		<text>Je faisais que passer. Je vais repartir.</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_1">
+		<text>Pourquoi est-ce que vous vous cachez ?</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_11">
+		<text>...</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_3">
+		<text>Qu'est-ce qu'il y a de si inhabituel ? On a dйjа eu des йmissions avant.</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_5">
+		<text>Si je savais comment j'ai survйcu, je te le dirais. Mais je ne me souviens de rien.</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_7">
+		<text>Je ferais mieux de m'en aller. Je suis crevй, mais je peux encore marcher et tenir une arme. Comment je sors d'ici ?</text>
+	</string>
+	<string id="mar_csky_leader_intro2_dialog_9">
+		<text>Qu'est-ce que tu insinues ?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_1">
+		<text>Pourquoi est-ce que les йmissions sont si frйquentes ?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_11">
+		<text>Quelle confiance... Alors, quel est le plan ?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_13">
+		<text>Et pourquoi tu me dis зa, а moi ?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_15">
+		<text>Hum... Je ne suis pas sыr de vouloir m'immiscer dans ces histoires. Pourquoi je devrais prendre parti ?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_3">
+		<text>Quelqu'un a rйussi а passer le Lobotomisateur ? Quels sont les risques pour la Zone ?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_5">
+		<text>Est-ce qu'il y a vraiment un moyen de passer le Lobotomisateur ? Mкme thйorique ?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_7">
+		<text>En quoi les йmissions sont-elles si dangereuses ?</text>
+	</string>
+	<string id="mar_csky_leader_intro3_dialog_9">
+		<text>Empкcher une catastrophe ? Vous n'кtes mкme pas assez forts pour repousser des bandits !</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_1">
+		<text>J'ai la tкte qui tourne et un mal de crвne pas possible... En bref, je suis en pleine forme.</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_3">
+		<text>Ok... Je me souviens que j'йtais en train de mener une expйdition dans le Marais. Des scientifiques. Et puis... Y a eu l'йmission... Et c'est tout ! Oщ est-ce que je suis ? Au Paradis ? Dans ce cas, pourquoi зa ressemble tellement а la Zone ?</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_5">
+		<text>Oh, j'ai eu de la chance, alors...</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_111">
+		<text>Ok.</text>
+	</string>
+	<string id="mar_csky_leader_tutorial_dialog_2">
+		<text>Je me rappelle de petits bouts.</text>
+	</string>
+	<string id="mar_csky_tactic_about_me_dialog_0">
+		<text>Qu'est-ce que tu fais ici ?</text>
+	</string>
+	<string id="mar_csky_tactic_about_me_dialog_1">
+		<text>J'essaye de me reposer. D'assembler en un tout cohйrent les morceaux d'informations que les gars me rapportent. Tu vois, nous autres, les guides, on est а la fois les yeux et les oreilles de Firmament dans le Marais.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_11">
+		<text>Зa fait trois jours que j'ai pas dormi... ou quatre ? Laisse-moi pioncer, ok ?</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_111">
+		<text>Ok.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_21">
+		<text>S'il te plaоt...</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_211">
+		<text>OK, ok, repose-toi !</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_31">
+		<text>Attends un peu ! Atteindre le Grand Marais, c'est facile. Nos guides te fileront un coup de main. Mais si tu veux survivre ici, tu dois apprendre а te servir des fonctions tactiques et des nouvelles options de ton PDA. Alors, si tu as des questions, surtout n'hйsite pas !</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_41">
+		<text>Le Marais grouille de bandits et de mutants. On est assiйgйs, en fait.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_51">
+		<text>Oui, on a une sorte de tкte de pont dans le Grand Maris, mais ce n'est pas plus que зa, une tкte de pont. Ce n'est pas la plus confortable des positions, crois-moi...</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_61">
+		<text>Le Marais est tranquille... Enfin, autant qu'un marais puisse l'кtre. On ne peut pas dire la mкme chose des chemins qui y mиnent.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_71">
+		<text>Tu ne laisses jamais tomber, hein ? Mкme les guides sont impressionnйs. Si tu veux partir pour le Cordon, l'un d'entre nous t'attendra dans le village, au sud-est du Marais.</text>
+	</string>
+	<string id="mar_csky_tactic_hello_dialog_81">
+		<text>Tout va bien ? Bon, je retourne а ma sieste, alors.</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_0">
+		<text>Comment se prйsente la situation ?</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_1">
+		<text>En un mot, merdique. En deux mots, trиs merdique. Nos combattants ont du mal а tenir le Grand Marais, ils sont constamment repoussйs par les bandits et les mutants. Ils sont pas assez nombreux pour faire front !</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_2">
+		<text>On a rйussi а imposer notre prйsence dans le Marais, mais les bandits nous mиnent la vie dure. Ils font constamment des raids depuis leur base, dans la ferme au nord-est...</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_3">
+		<text>Le Marais est en grande partie sous notre contrфle. Malheureusement, l'ennemi tient toujours les chemins qui mиnent vers le monde extйrieur.</text>
+	</string>
+	<string id="mar_csky_tactic_situation_dialog_4">
+		<text>Super bien ! Les bandits et les monstres se montrent encore de temps en temps, mais comparй а ce que c'йtait avant, ce Marais est devenu un petit paradis !</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_0">
+		<text>Que faut-il faire pour reprendre le contrфle du Marais ?</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_1">
+		<text>Rйduire les effectifs de l'ennemi. Ou, pour parler simplement, en descendre le plus possible. Sinon, nos combattants ne sйcuriseront jamais le Marais.</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_2">
+		<text>Capturer la ferme au nord-est. Les bandits y ont la vie trop facile.</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_3">
+		<text>Prendre le contrфle du point qui surplombe les chemins qui mиnent au Cordon et а l'Agroprom. Sans eux, on est quasiment coupйs du monde.</text>
+	</string>
+	<string id="mar_csky_tactic_task_dialog_4">
+		<text>Tu t'es endormi ou quoi ? Le Marais est а nous !</text>
+	</string>
+	<string id="mar_csky_tactic_tutorial_dialog_0">
+		<text>Parle-moi des nouvelles fonctions de mon PDA.</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_0">
+		<text>Hй ! Comment зa va Monsieur Je-rйpare-tout ?</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_2">
+		<text>Ben, c'est pas une promenade de santй !</text>
+	</string>
+	<string id="mar_csky_tehnik_about_dialog_4">
+		<text>Ah, et comment зa va pour toi ?</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_111">
+		<text>Je vois oщ tu veux en venir.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_211">
+		<text>Je vois.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_311">
+		<text>Ouais.</text>
+	</string>
+	<string id="mar_csky_tehnik_hello_dialog_411">
+		<text>Bien.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_111">
+		<text>Bien pensй.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_211">
+		<text>Bonne idйe.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_311">
+		<text>Je vois.</text>
+	</string>
+	<string id="mar_csky_trader_hello_dialog_411">
+		<text>Ok, merci pour le conseil.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_1">
+		<text>J'ai йtй pris par une йmission et je m'en suis tirй de justesse. Je n'ai plus rien, l'йmission a dispersй ma marchandise aux quatre coins du Marais.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_101">
+		<text>Au revoir.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_3">
+		<text>Ouais, ouais... Mкme dans un coin aussi reculй et isolй que celui-ci, il y a un marchand. C'est dingue, non ?</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_5">
+		<text>Je vois. Sauf que ton affaire n'a pas l'air de marcher si bien que зa.</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_7">
+		<text>Pourquoi tu as aussi peu de choix ?</text>
+	</string>
+	<string id="mar_csky_trader_intro2_dialog_9">
+		<text>Vous кtes pas les seuls а regarder dans cette direction.</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_1">
+		<text>Merci. Hй, c'est toujours aussi stressant par ici ?</text>
+	</string>
+	<string id="mar_csky_trader_intro_dialog_3">
+		<text>Ouais. Je me casse.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51">
+		<text>Hй ! Oщ est-ce que tu veux que je t'emmиne ?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_511">
+		<text>Au Cordon.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5111">
+		<text>Merci d'avoir aidй nos gars ! J'avais oubliй ce que c'йtait d'кtre en sйcuritй dans le Marais... Enfin... autant qu'on puisse l'кtre dans des marйcages au bord de la Zone. Bon, revenons а nos moutons. On y va ?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51111">
+		<text>Ok.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_511111">
+		<text>On va se passer du bandeau, cette fois. C'est tellement plus sympa de savoir ce qui te dйvore, pas vrai ? Je rigole ! Garde les yeux ouverts et mйmorise le chemin, tu devras le faire tout seul la prochaine fois.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5111111">
+		<text>Compris.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51112">
+		<text>Non, je dois finir quelques trucs ici.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5112">
+		<text>Hum... On est pas а cфtй... Enfin bon, on a le temps de casser la croыte ?</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_512">
+		<text>А ta base.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_5121">
+		<text>OK. Mets le bandeau et garde ta main sur mon йpaule !</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_51211">
+		<text>Allons-y !</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_513">
+		<text>Au village de pкcheurs.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_514">
+		<text>Dans les ruines du village.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_515">
+		<text>А la ferme brыlйe.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_516">
+		<text>А la ferme du sud-est.</text>
+	</string>
+	<string id="mar_csky_guide_at_base_dialog_517">
+		<text>Nulle part. А plus tard !</text>
+	</string>
+	<string id="mar_csky_leader_intro_dialog_7">
+		<text>...</text>
+	</string>
+</string_table>

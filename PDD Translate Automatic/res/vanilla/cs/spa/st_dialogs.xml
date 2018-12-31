@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="actor_break_dialog_0">
+		<text>ЎHasta la prуxima!</text>
+	</string>
+	<string id="actor_help_wounded_0">
+		<text>їEstбs bien?</text>
+	</string>
+	<string id="actor_help_wounded_1">
+		<text>їA ti quй te parece? Necesito un botiquнn o unas vendas.</text>
+	</string>
+	<string id="actor_help_wounded_11">
+		<text>Toma este botiquнn.</text>
+	</string>
+	<string id="actor_help_wounded_111">
+		<text>Gracias, no lo olvidarй.</text>
+	</string>
+	<string id="actor_help_wounded_12">
+		<text>Toma esta venda.</text>
+	</string>
+	<string id="actor_help_wounded_13">
+		<text>Lo siento, no tengo nada. </text>
+	</string>
+	<string id="actor_help_wounded_131">
+		<text>їCуmo sobrevives en la Zona? їY si te haces daсo? ЎNo podrбs ni curarte a ti mismo!</text>
+	</string>
+	<string id="actor_help_wounded_14">
+		<text>Mmm, bueno, es una pena. Lo siento pero no puedo darte nada. Si lo hiciera, lo echarнa en falta.</text>
+	</string>
+	<string id="actor_help_wounded_141">
+		<text>Eso es asunto tuyo, tнo, pero confнa en mн: no te harб popular.</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_all_targets_phrase_part_3">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_on_time_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_on_time_phrase_part_3">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_3">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_count_phrase_part_4">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_p_or_c_answer_bad">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_p_or_c_answer_good">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_points_phrase_part_3">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_bad_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_bad_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_good_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_answer_good_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_phrase_part_1">
+		<text>text in default</text>
+	</string>
+	<string id="agr_duty_tir_dialog_training_phrase_part_2">
+		<text>text in default</text>
+	</string>
+	<string id="bring_item_task_0">
+		<text>Toma, te he traнdo lo que me pediste.</text>
+	</string>
+	<string id="bring_item_task_1">
+		<text>Gracias.</text>
+	</string>
+	<string id="crowkiller_dialog_100">
+		<text>Eh, їcуmo van las cosas? їTe gusta disparar a los cuervos? ЎSeguro que no bates mi rйcord!</text>
+	</string>
+	<string id="crowkiller_dialog_200">
+		<text>Oh, Ўeres tъ otra vez!</text>
+	</string>
+	<string id="crowkiller_dialog_210">
+		<text>їTe apetece intentar batir mi rйcord otra vez?</text>
+	</string>
+	<string id="crowkiller_dialog_211">
+		<text>Explнcame primero las reglas.</text>
+	</string>
+	<string id="crowkiller_dialog_2110">
+		<text>Las reglas son simples: tienes que matar a tantos cuervos como puedas en un minuto con tu propia arma. No te alejes demasiado o no contarбn.</text>
+	</string>
+	<string id="crowkiller_dialog_212">
+		<text>їCuбl es el rйcord actual?</text>
+	</string>
+	<string id="crowkiller_dialog_2120">
+		<text>El rйcord actual es 0.</text>
+	</string>
+	<string id="crowkiller_dialog_213">
+		<text>Empecemos a disparar.</text>
+	</string>
+	<string id="crowkiller_dialog_214">
+		<text>No, gracias. Me voy.</text>
+	</string>
+	<string id="crowkiller_dialog_220">
+		<text>Te he dicho que no te alejes. Йse no cuenta.</text>
+	</string>
+	<string id="crowkiller_dialog_230">
+		<text>Fin del tiempo.</text>
+	</string>
+	<string id="crowkiller_dialog_231">
+		<text>Enhorabuena. Has batido el rйcord.</text>
+	</string>
+	<string id="crowkiller_dialog_232">
+		<text>Has fallado, por desgracia.</text>
+	</string>
+	<string id="crowkiller_dialog_300">
+		<text>No pierdas el tiempo.</text>
+	</string>
+	<string id="crowkiller_dialog_crows_per_minute">
+		<text>Estoy pensando</text>
+	</string>
+	<string id="crowkiller_dialog_money_stake">
+		<text>Bien, entonces la apuesta es:</text>
+	</string>
+	<string id="crowkiller_dialog_record_crows">
+		<text>Ah, йsa es la elecciуn de un hombre de verdad. Tendrбs que eliminar a tantos cuervos como puedas en un minuto. El rйcord actual es:</text>
+	</string>
+	<string id="crowkiller_dialog_record_stake">
+		<text>Bueno, dado ese rйcord, la apuesta es:</text>
+	</string>
+	<string id="crowkiller_game_get_ready">
+		<text>ЎPrepбrate!</text>
+	</string>
+	<string id="crowkiller_game_runned_out">
+		<text>ЎHas dejado el бrea!</text>
+	</string>
+	<string id="crowkiller_game_time_is_out">
+		<text>ЎFin del tiempo!</text>
+	</string>
+	<string id="crowkiller_game_crows_killed">
+		<text>Cuervos matados:</text>
+	</string>
+	<string id="default_robbery_dialog_0">
+		<text>Tнo, suelta la pasta o lбrgate.</text>
+	</string>
+	<string id="default_robbery_dialog_1">
+		<text>No hay problema, aquн tienes el dinero.</text>
+	</string>
+	<string id="default_robbery_dialog_11">
+		<text>Bien, puedes pasar, Ўpero no te vayas de la lengua o te volaremos los sesos!</text>
+	</string>
+	<string id="default_robbery_dialog_111">
+		<text>Vale.</text>
+	</string>
+	<string id="dm_hello_general">
+		<text>ЎEh!</text>
+	</string>
+	<string id="dm_information_general">
+		<text>їQuй hay de nuevo en la Zona?</text>
+	</string>
+	<string id="dm_information_no_more">
+		<text>No sй nada mбs.</text>
+	</string>
+	<string id="dm_occupation_general">
+		<text>їQuй estбis haciendo aquн? </text>
+	</string>
+	<string id="dm_occupation_no_more">
+		<text>No tengo nada mбs que decir.</text>
+	</string>
+	<string id="dm_place_general">
+		<text>Hбblame de este lugar.</text>
+	</string>
+	<string id="dm_place_no_more">
+		<text>No sй nada mбs.</text>
+	</string>
+	<string id="dm_wounded_bandage">
+		<text>Toma esta venda.</text>
+	</string>
+	<string id="dm_wounded_general">
+		<text>ЎSocorro!</text>
+	</string>
+	<string id="dm_wounded_medkit">
+		<text>Toma este botiquнn.</text>
+	</string>
+	<string id="dm_wounded_sorry">
+		<text>Lo siento, no tengo nada. </text>
+	</string>
+	<string id="dm_wounded_thanks">
+		<text>Muchas gracias.</text>
+	</string>
+	<string id="exchange_flash_card_0">
+		<text>Tengo informaciуn sobre actualizaciones. їTe interesa?</text>
+	</string>
+	<string id="exchange_flash_card_1">
+		<text>Claro. Mira los precios que ofrezco por informaciуn:</text>
+	</string>
+	<string id="exchange_flash_card_11">
+		<text>Unidad 1</text>
+	</string>
+	<string id="exchange_flash_card_12">
+		<text>Unidad 2</text>
+	</string>
+	<string id="exchange_flash_card_13">
+		<text>Unidad 3</text>
+	</string>
+	<string id="exchange_flash_card_14">
+		<text>Unidad 4</text>
+	</string>
+	<string id="exchange_flash_card_15">
+		<text>Adiуs.</text>
+	</string>
+	<string id="exchange_flash_card_21">
+		<text>Genial. Aquн tienes tu dinero. Ahora puedo hacer nuevas actualizaciones.</text>
+	</string>
+	<string id="exchange_flash_card_22">
+		<text>Genial. Aquн tienes tu dinero. Ahora puedo hacer nuevas actualizaciones.</text>
+	</string>
+	<string id="exchange_flash_card_23">
+		<text>Genial. Aquн tienes tu dinero. Ahora puedo hacer nuevas actualizaciones.</text>
+	</string>
+	<string id="exchange_flash_card_24">
+		<text>Genial. Aquн tienes tu dinero. Ahora puedo hacer nuevas actualizaciones.</text>
+	</string>
+	<string id="find_upgrade_task_0">
+		<text>He encontrado informaciуn sobre las actualizaciones que estabas buscando.</text>
+	</string>
+	<string id="find_upgrade_task_1">
+		<text>Gracias por tu ayuda. Ahora puedo hacer nuevas actualizaciones.</text>
+	</string>
+	<string id="hello_dialog_2">
+		<text>ЎEh!</text>
+	</string>
+	<string id="hello_dialog_3">
+		<text>ЎOye, ayъdame, colega!</text>
+	</string>
+	<string id="recover_item_task_0">
+		<text>Te he traнdo lo que me has pedido.</text>
+	</string>
+	<string id="recover_item_task_1">
+		<text>Gracias.</text>
+	</string>
+	<string id="shooting_dialog_0">
+		<text>їQuй es lo que quieres?</text>
+	</string>
+	<string id="shooting_dialog_1">
+		<text>ЎQuiero entrenar!</text>
+	</string>
+	<string id="shooting_dialog_2">
+		<text>ЎDispara!</text>
+	</string>
+	<string id="shooting_dialog_3">
+		<text>ЎQuiero jugar por puntos!</text>
+	</string>
+	<string id="shooting_dialog_31">
+		<text>їCuбntos puntos?</text>
+	</string>
+	<string id="shooting_dialog_311">
+		<text>50.</text>
+	</string>
+	<string id="shooting_dialog_312">
+		<text>75.</text>
+	</string>
+	<string id="shooting_dialog_313">
+		<text>100.</text>
+	</string>
+	<string id="shooting_dialog_4">
+		<text>ЎQuiero jugar por objetivos!</text>
+	</string>
+	<string id="shooting_dialog_41">
+		<text>їCuбntos objetivos?</text>
+	</string>
+	<string id="shooting_dialog_411">
+		<text>Hasta 5.</text>
+	</string>
+	<string id="shooting_dialog_4111">
+		<text>їA quй distancia?</text>
+	</string>
+	<string id="shooting_dialog_41111">
+		<text>5 metros.</text>
+	</string>
+	<string id="shooting_dialog_411111">
+		<text>Elige tu arma: їpistola o fusil de asalto?</text>
+	</string>
+	<string id="shooting_dialog_4111111">
+		<text>Pistola.</text>
+	</string>
+	<string id="shooting_dialog_4111112">
+		<text>Fusil de asalto.</text>
+	</string>
+	<string id="shooting_dialog_41112">
+		<text>7 metros.</text>
+	</string>
+	<string id="shooting_dialog_41113">
+		<text>10 metros.</text>
+	</string>
+	<string id="shooting_dialog_412">
+		<text>Hasta 7.</text>
+	</string>
+	<string id="shooting_dialog_413">
+		<text>Hasta 10.</text>
+	</string>
+	<string id="shooting_dialog_5">
+		<text>їY bien?</text>
+	</string>
+	<string id="shooting_dialog_51">
+		<text>cero</text>
+	</string>
+	<string id="shooting_dialog_5111">
+		<text>cero</text>
+	</string>
+	<string id="shooting_dialog_511111">
+		<text>їOtra vez?</text>
+	</string>
+	<string id="shooting_dialog_52">
+		<text>cero</text>
+	</string>
+	<string id="shooting_dialog_5211">
+		<text>cero</text>
+	</string>
+	<string id="shooting_dialog_53">
+		<text>cero</text>
+	</string>
+	<string id="shooting_dialog_5311">
+		<text>cero</text>
+	</string>
+	<string id="shooting_dialog_6">
+		<text>Adiуs.</text>
+	</string>
+	<string id="shooting_dialog_71">
+		<text>їY?</text>
+	</string>
+	<string id="test_dialog_0">
+		<text>Eh.</text>
+	</string>
+	<string id="test_dialog_1">
+		<text>Sн.</text>
+	</string>
+	<string id="test_dialog_3">
+		<text>No sй.</text>
+	</string>
+	<string id="tm_mechanic_task_0">
+		<text>їQuй armas puedes actualizar?</text>
+	</string>
+	<string id="tm_random_task_0">
+		<text>їCуmo puedo ayudarte?</text>
+	</string>
+	<string id="tm_random_task_1">
+		<text>Tengo algo:</text>
+	</string>
+	<string id="tm_random_task_11">
+		<text>Capturar objeto:</text>
+	</string>
+	<string id="tm_random_task_12">
+		<text>Captura 2</text>
+	</string>
+	<string id="tm_random_task_13">
+		<text>Devolver objeto.</text>
+	</string>
+	<string id="tm_random_task_14">
+		<text>Entregar objetos.</text>
+	</string>
+	<string id="tm_random_task_15">
+		<text>Gracias, he cambiado de idea.</text>
+	</string>
+	<string id="tm_random_task_2">
+		<text>No puedes.</text>
+	</string>
+	<string id="tm_random_task_21">
+		<text>Ok</text>
+	</string>
+	<string id="tm_random_task_22">
+		<text>Ok</text>
+	</string>
+	<string id="tm_random_task_23">
+		<text>їSeguro que puedes hacer esto?</text>
+	</string>
+	<string id="tm_random_task_24">
+		<text>Ok</text>
+	</string>
+	<string id="tm_random_task_33">
+		<text>Sн.</text>
+	</string>
+	<string id="tm_random_task_34">
+		<text>No.</text>
+	</string>
+	<string id="tm_random_task_43">
+		<text>Ok</text>
+	</string>
+	<string id="tm_reward_task_0">
+		<text>їTienes algo para mн?</text>
+	</string>
+	<string id="tm_reward_task_1">
+		<text>Sн, nos has ayudado, colega. Aquн tienes tu recompensa.</text>
+	</string>
+	<string id="tm_reward_task_2">
+		<text>Lo siento, pero todavнa no hay nada con lo que recompensarte.</text>
+	</string>
+	<string id="tm_upgr_task_0">
+		<text>їTienes trabajo para mн?</text>
+	</string>
+	<string id="tm_upgr_task_1">
+		<text>Necesito informaciуn sobre las actualizaciones.</text>
+	</string>
+	<string id="tm_upgr_task_11">
+		<text>Armas y blindaje.</text>
+	</string>
+	<string id="tm_upgr_task_21">
+		<text>Una cosa. Llevo buscando diagramas de algunas actualizaciones hace tiempo. Si encuentras alguno, trбemelo. Aquн tienes una lista de lo que estoy buscando:</text>
+	</string>
+	<string id="tm_upgr_task_31">
+		<text>Misiуn 1</text>
+	</string>
+	<string id="tm_upgr_task_32">
+		<text>Misiуn 2</text>
+	</string>
+	<string id="tm_upgr_task_33">
+		<text>Misiуn 3</text>
+	</string>
+	<string id="tm_upgr_task_34">
+		<text>Misiуn 4</text>
+	</string>
+	<string id="tm_upgr_task_35">
+		<text>Misiуn 5</text>
+	</string>
+	<string id="tm_upgr_task_41">
+		<text>їTrato hecho?</text>
+	</string>
+	<string id="tm_upgr_task_42">
+		<text>їTrato hecho?</text>
+	</string>
+	<string id="tm_upgr_task_43">
+		<text>їTrato hecho?</text>
+	</string>
+	<string id="tm_upgr_task_44">
+		<text>їTrato hecho?</text>
+	</string>
+	<string id="tm_upgr_task_45">
+		<text>їTrato hecho?</text>
+	</string>
+	<string id="tm_upgr_task_51">
+		<text>Vale, te traerй lo que encuentre.</text>
+	</string>
+	<string id="tm_upgr_task_52">
+		<text>Sн.</text>
+	</string>
+	<string id="tm_upgr_task_53">
+		<text>Sн.</text>
+	</string>
+	<string id="tm_upgr_task_54">
+		<text>Sн.</text>
+	</string>
+	<string id="tm_upgr_task_55">
+		<text>Sн.</text>
+	</string>
+	<string id="tm_upgr_task_56">
+		<text>Quizб en otra ocasiуn.</text>
+	</string>
+	<string id="tm_upgr_task_61">
+		<text>Que tengas suerte.</text>
+	</string>
+	<string id="tm_upgr_task_62">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_63">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_64">
+		<text>text in default</text>
+	</string>
+	<string id="tm_upgr_task_65">
+		<text>text in default</text>
+	</string>
+	<string id="tm_weapon_up_task_0">
+		<text>їTienes algъn trabajo especial?</text>
+	</string>
+	<string id="tm_weapon_up_task_1">
+		<text>Tengo algo:</text>
+	</string>
+	<string id="tm_weapon_up_task_11">
+		<text>Pistolas.</text>
+	</string>
+	<string id="tm_weapon_up_task_111">
+		<text>Ok</text>
+	</string>
+	<string id="tm_weapon_up_task_12">
+		<text>Fusiles de asalto.</text>
+	</string>
+	<string id="tm_weapon_up_task_121">
+		<text>Ok.</text>
+	</string>
+	<string id="tm_weapon_up_task_13">
+		<text>Fusiles.</text>
+	</string>
+	<string id="tm_weapon_up_task_131">
+		<text>Ok.</text>
+	</string>
+	<string id="tm_weapon_up_task_14">
+		<text>Escopetas.</text>
+	</string>
+	<string id="tm_weapon_up_task_141">
+		<text>Ok</text>
+	</string>
+	<string id="tm_weapon_up_task_2">
+		<text>No.</text>
+	</string>
+	<string id="treasure_dialog_0">
+		<text>їQuй puedes ofrecerme?</text>
+	</string>
+	<string id="treasure_dialog_11">
+		<text>їCuбnto me va a costar?</text>
+	</string>
+	<string id="treasure_dialog_1111">
+		<text>їQuй hay ahн?</text>
+	</string>
+	<string id="treasure_dialog_11111">
+		<text>Vale, йstas son las coordenadas.</text>
+	</string>
+	<string id="treasure_dialog_1112">
+		<text>De acuerdo.</text>
+	</string>
+	<string id="treasure_dialog_11121">
+		<text>Bien, vuelve cuando tengas suficiente.</text>
+	</string>
+	<string id="treasure_dialog_1113">
+		<text>їEstбs loco? No tengo tanto dinero.</text>
+	</string>
+	<string id="treasure_dialog_11131">
+		<text>Ni idea.</text>
+	</string>
+	<string id="treasure_dialog_1114">
+		<text>No, no me interesa.</text>
+	</string>
+	<string id="treasure_dialog_12">
+		<text>No, gracias.</text>
+	</string>
+	<string id="treasure_dialog_121">
+		<text>Allб tъ.</text>
+	</string>
+	<string id="treasure_dialog_131">
+		<text>text in default</text>
+	</string>
+	<string id="treasure_dialog_2">
+		<text>No, nada interesante.</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>Vale, nos vemos.</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>Hasta luego.</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>De acuerdo, adiуs.</text>
+	</string>
+	<string id="st_tm_guide_0">
+		<text>їAdуnde puedes llevarme?</text>
+	</string>
+	<string id="st_tm_guide_1">
+		<text>A ninguna parte, por ahora.</text>
+	</string>
+	<string id="st_tm_guide_2">
+		<text>A un par de sitios. Pero recuerda: solo puedo llevarte a un sitio si conozco un camino seguro. Y cobro por la distancia. Dime, їadуnde necesitas ir?</text>
+	</string>
+	<string id="st_tm_guide_21">
+		<text>їListo para irnos?</text>
+	</string>
+	<string id="st_tm_guide_211">
+		<text>Sн, vamos.</text>
+	</string>
+	<string id="st_tm_guide_212">
+		<text>Mбs tarde</text>
+	</string>
+	<string id="st_tm_guide_3">
+		<text>Vacнos</text>
+	</string>
+</string_table>

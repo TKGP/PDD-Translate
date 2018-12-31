@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="dm_intro_1">
+		<text>Wie geht's? Hier in dieser Gegend grьЯt man sich nicht mehr wirklich. Heutzutage kriegst du eher eine Kugel in den Rьcken.</text>
+	</string>
+	<string id="dm_intro_2">
+		<text>Willkommen! Es ist so schцn, endlich mal ein menschliches Gesicht zu sehen! Eine nette Abwechslung zu diesem Schilf und den ganzen Monstern!</text>
+	</string>
+	<string id="dm_intro_3">
+		<text>Hey, du! Bist du neu hier in den Sьmpfen? Ich bin nach der Emission hierher gekommen und habe mich wohl etwas verlaufen.</text>
+	</string>
+	<string id="dm_intro_4">
+		<text>Ein neues Gesicht in diesem Loch! Hallo!</text>
+	</string>
+	<string id="dm_intro_5">
+		<text>Hi! Hast du mal kurz Zeit? Ich langweile mich zu Tode...</text>
+	</string>
+	<string id="dm_intro_6">
+		<text>GrьЯ dich, Bruder! Du scheinst ein echt netter Kerl zu sein!</text>
+	</string>
+	<string id="dm_intro_7">
+		<text>Gefдllt dir die Gegend? So sieht es hier auf den nдchsten fьnf Meilen in jeder Richtung aus... nur Ruinen und Monster bringen etwas Abwechslung ins Spiel.</text>
+	</string>
+	<string id="dm_intro_8">
+		<text>Du bist also auch hier an diesem verfluchten Ort gelandet, was? Such dir lieber jemanden, der sich hier auskennt, wenn du lebend wieder rauskommen willst.</text>
+	</string>
+	<string id="dm_intro_9">
+		<text>Hey! Bist du neu hier? Ich geb dir einen Rat - pass in den Sьmpfen gut auf, da kannst du ganz schnell versinken und keiner bekommt's mit! Halte dich auch von den Trampelpfaden fern, wenn du dir keine Kugel einfangen willst.</text>
+	</string>
+	<string id="dm_intro_10">
+		<text>Ich bin nicht lange hier, aber ich habe diesen Ort jetzt schon satt. Leider kommt man halt nicht so einfach wieder raus, wie man hineingeraten ist.</text>
+	</string>
+	<string id="dm_intro_11">
+		<text>Hallo, mein Freund! Versteckst du dich etwa auch? Jeder hier in der Gegend versteckt sich - der eine vor der Vergangenheit, der andere vor sich selbst...</text>
+	</string>
+	<string id="dm_intro_12">
+		<text>Das erste Mal in den Sьmpfen? Dann hцr gut zu. Vor allem musst du dich vor den Menschen in Acht nehmen. Monster und Treibsand kommen erst an zweiter Stelle. Halte dich an die Schilfbetten und du lebst lдnger.</text>
+	</string>
+	<string id="dm_about_0">
+		<text>Diese verdammten Moskitos! Wenn das mal keine Anomalie ist - die kцnnen dich sogar durch deine Kleider stechen! Daneben haben wir noch eine Attraktion, die nicht viel berauschender ist: Sumpfviecher, die dich echt "runterziehen" kцnnen, verstehst du?</text>
+	</string>
+	<string id="dm_about_1">
+		<text>Die Zone ist schon eine harte Gegend, aber dieses Gebiet hier ist am schlimmsten. Ich habe es langsam satt, jede gottverdammte Sekunde des Tages Angst zu haben. Ich wьrde gerne in eine Fraktion eintreten, aber es gibt nicht gerade viele Mцglichkeiten - entweder irgendeine Bande oder diese blauen Stalker. Banditen mag ich nicht wirklich - die sind ja nicht umsonst Banditen, oder? Irgendwann rammen sie dir einfach so ein Messer in den Rьcken und das war's dann. Da gehe ich doch lieber zu den Stalkern. Denkst du, die nehmen mich auf? Aber warum frage ich eigentlich dich?</text>
+	</string>
+	<string id="dm_about_2">
+		<text>Hier findest du hauptsдchlich Abtrьnnige und Verrдter... die nicht einmal bei den Banditen der Zone erwьnscht sind. Ein paar Mal habe ich diese Stalker in blauer Tarnkleidung gesehen - sie nennen sich Blue Sky oder Clear Sky oder so etwas. Die Kerle sind viel zu verklemmt und mьssen mal lockerer werden! Sie machen ein Geheimnis um ihr Lager - ich wьrde mal gerne dahin und sehen, was sie dort so verstecken.</text>
+	</string>
+	<string id="dm_about_3">
+		<text>Ach, Mann! Meine Socken sind nass, ich hab ьberall Blutegel an den FьЯen und diese verdammte Feuchtigkeit macht mich total fertig. Was wьrde ich alles fьr 'ne scharfe Braut, ein heiЯes Bad, ein paar trockene Kleider und eine Flasche Cognac an einem Kamin geben! Leider warten nur ein Glas Wodka am Lagerfeuer und das Gejammer von Versagern wie mir selbst auf mich - und das auch nur, wenn ich mich irgendeiner Bande anschlieЯe.</text>
+	</string>
+	<string id="dm_about_4">
+		<text>Kennst du Clear Sky? Dieser dumme Clan ist so geheim, dass man meint, es wдren lauter Spione oder so was. Ich habe nur hier und da ьber Funkfetzen von ihnen erfahren. Und natьrlich durch die Geschichten anderer Stalker.</text>
+	</string>
+	<string id="dm_about_5">
+		<text>Fьr einen Stalker gibt es keinen mieseren Ort als die Sьmpfe. Die einzigen Menschen, die man hier finden kann, laufen vor Problemen weg, die schlimmer sind als der Sumpf, Mutanten oder totale Erschцpfung. Wдren sie nicht hier, wьrden die meisten entweder im Knast oder unter der Erde verrotten. Ich... na ja, ich hatte so meine Probleme mit der Armee und musste deswegen hierher flьchten, als die Emission einen Weg geцffnet hat. Hier kann man sich zumindest gut verstecken.</text>
+	</string>
+	<string id="dm_about_6">
+		<text>Ich sag dir, Kumpel, wenn es auf der Welt einen Ort zum Verlaufen gibt, dann sind das die Sьmpfe. Du kannst hier Wochen damit verbringen, einfach nur im Kreis zu laufen. Auch wenn das nicht ratsam ist - wenn die Monster dich nicht schnappen, kriegt dich der Sumpf... wir haben von beidem genug. Ich bin schon hier, seitdem dieser Weg zum ersten Mal entdeckt wurde, und ein besseres Versteck gibt es nicht. Solange man ьberlebt.</text>
+	</string>
+	<string id="dm_about_7">
+		<text>Die Sьmpfe sind voller Leben, und ich rede nicht nur von den Mutanten. Es gibt viele Stalker hier - die einen verstecken sich vor dem Gesetz, die anderen vor ehemaligen Freunden. Und sie sind hier goldrichtig! Die Lьcken in den Anomaliefeldern sind erst vor kurzem entdeckt worden, deswegen gibt es hier noch viele unbekannte Gebiete. Aber leider ist das Leben nicht einfacher geworden. Heutzutage wimmelt es hier nur von Gesindel - die knallen dich ab und rauben dich aus, ohne mit der Wimper zu zucken.</text>
+	</string>
+	<string id="dm_about_8">
+		<text>Die Monster, die Sьmpfe, die gesamte gottverdammte Zone! Ich habe es dermaЯen satt, durch diesen Sumpf zu waten! Ich bin nicht hergekommen, um mir jedes Mal in die Hose zu machen, wenn das Schilf raschelt, das Wasser plдtschert oder ein Hubschrauber zu hцren ist. Vielleicht sollten wir uns irgendwie zusammenschlieЯen und uns einen trockeneren Platz suchen? Ist es denn nicht besser, wenn man Freunde hat, die einem den Rьcken decken? Oder mit denen man abends am Lagerfeuer sitzt... vielleicht 'ne heiЯe Suppe lцffelt... noch eine Gitarre dazu und ein paar Lieder... ach ja, der Himmel auf Erden!</text>
+	</string>
+	<string id="dm_about_9">
+		<text>Hier ist es immer dasselbe: Das Gesindel versteckt sich im Schilf, Leute gehen in den Sьmpfen unter, Hubschrauber kreisen in der Luft und knallen Stalker ab. Oh, und manchmal sind da diese Typen in blauer Tarnkleidung - die sind von Clear Sky. Ist schon interessant, dass es den Clan schon 'ne ganze Weile gibt, aber niemand bis vor kurzem etwas darьber gewusst hat.</text>
+	</string>
+	<string id="dm_about_10">
+		<text>Vor der Emission haben es sich Stalker zweimal ьberlegt, hierher zu kommen. Zu viele Anomalien und Sьmpfe, zu hohe Feuchtigkeit und dann auch noch dieser Gestank! Nicht zu vergessen die Monster und die Moskitos, die noch viel schlimmer sind... oder etwa dieses verfluchte Schilf ьberall, wohin man auch schaut. Also, warum sollte man sich das alles antun? Das hat sich nach der Emission geдndert. Die Anomalien haben sich verschoben und all die Fraktionen haben mit ihren Kriegen gegeneinander um neue Gebiete angefangen. Deswegen haben viele Leute es tatsдchlich hinbekommen, hier ein besseres Leben zu fьhren, auch wenn das verrьckt klingt. Hauptsдchlich Gesindel wie auch ich - und ein paar Narren, die meinen, dass sie irgendwann ьber diesen Ort herrschen werden.</text>
+	</string>
+	<string id="dm_about_11">
+		<text>Oh Mann, ich habe die Sьmpfe so satt! Klar wьrde ich gerne zurьck, aber ich habe ein paar alte Sьnden, die das verhindern... belassen wir es einfach dabei. Ich hдtte nichts dagegen, einem Clan beizutreten, aber hier in der Gegend gibt es ja gar keine - auЯer ein paar Banditen.</text>
+	</string>
+	<string id="dm_about_12">
+		<text>Die Sьmpfe sind nicht gerade das Paradies, ganz sicher nicht - eher so etwas wie die Hцlle auf Erden. Aber genau aus diesem Grund bin ich hier. Ein paar Typen waren der Meinung, dass ich ihnen etwas schulde, und hatten keine Geduld. Deswegen bin ich hier und habe hier bessere Ьberlebenschancen als irgendwo sonst. In diesem Schilf werden sie mich niemals finden, selbst wenn sie hundert Jahre suchen!</text>
+	</string>
+	<string id="dm_about_13">
+		<text>Vor kurzem ist eine neue Fraktion aufgetaucht - Clear Sky. Keine Ahnung, was die im Schilde fьhren, aber ich habe genug Erfahrung, um zu erkennen, dass das totale Freaks sind! Was ich damit meine? Das sind Wissenschaftler oder zumindest so was in der Richtung. Aber sie kцnnen dennoch ziemlich gut mit ihren Waffen umgehen. Und wenn jemand Grips UND eine Waffe hat, sollte man es sich besser zweimal ьberlegen, bevor man ihm auf den Geist geht.</text>
+	</string>
+	<string id="dm_action_info_0">
+		<text>Hey, Kumpel! Stell nicht zu viele Fragen und du lebst lдnger. Ich spreche da aus eigener Erfahrung. Ich war nдmlich auch zu neugierig, bis ich irgendwann zu viel wusste. Und jetzt muss ich mich in diesem Loch hier verstecken. Eigentlich habe ich ja Glьck gehabt, dass ich dank der Emission hier gelandet bin. Hier in den Sьmpfen kann man sich nдmlich wochenlang herumtreiben, ohne auf eine Menschenseele zu treffen!</text>
+	</string>
+	<string id="dm_action_info_1">
+		<text>ScheiЯ doch auf alles! Was fьr ein Glьck ich doch habe... das Leben hat es ja schon immer besonders gut mit mir gemeint, aber jetzt habe ich wohl den Hauptgewinn gezogen! Denkst du, ich wollte hier in diesem Sumpf enden? Natьrlich nicht! Mir ging es gut in der Zone. Ich habe immer gut abgesahnt, richtig viel Geld gemacht. Aber dann musste ich verduften, weil mir meine tollen Freunde in den Rьcken gefallen sind. Warum? Das geht dich nichts an.</text>
+	</string>
+	<string id="dm_action_info_2">
+		<text>Ich habe mich in einem Kartenspiel mit ein paar Dieben verzockt. Ich habe alles gesetzt - sogar mein eigenes Leben. Als ich dann verloren habe, hatte ich keine Lust zu zahlen und habe mich hierher verdrьckt. Auf dem Weg bin ich auch noch an die Armee geraten. Jetzt stecke ich hier fest, wie all das andere Gesindel auch.</text>
+	</string>
+	<string id="dm_action_info_3">
+		<text>Bevor ich hierher gekommen bin, saЯ ich wegen einer Schnalle ein, die mich hereingelegt hat. Im Gefдngnis zu verrotten, ist aber nicht gerade das, was ich vom Leben erwarte. Also habe ich mit ein paar anderen Insassen beschlossen zu tьrmen. Wir haben eine der Wachen umgehauen, uns seine Waffe geschnappt und sind direkt in die Zone geflohen. Als wir hier angekommen sind, habe ich mich dann aus dem Staub gemacht. Ich mцchte mit den Typen nichts zu tun haben - die sind so verdorben wie diese Sьmpfe! Und nun verstecke ich mich also hier.</text>
+	</string>
+	<string id="dm_action_info_4">
+		<text>Was sollen denn die ganzen Fragen, hд? Woher weiЯ ich, dass du kein Spitzel bist? Schon gut, beruhige dich. Ich weiЯ doch, dass mich hier niemand finden kann... Also, dann spitz die Ohren. Ich war so blцd und habe ein paar Diebe ausgeraubt. Als mir klar wurde, dass sie alles - und damit meine ich wirklich alles - tun wьrden, um sich ihr Geld zurьckzuholen, bin ich direkt in die Zone verduftet. Aber diese gierigen Wichser haben mich aufgespьrt und mir ein paar Killer auf den Hals gehetzt. Zum Glьck konnte ich die Typen ausschalten. Jetzt spiele ich mit dem Gedanken, meine eigene Bande auf die Beine zu stellen. Irgendwann kommen wir groЯ raus, ich weiЯ es!</text>
+	</string>
+	<string id="dm_action_info_5">
+		<text>Ich konnte nicht genug bekommen von Action-Filmen. Deswegen bin ich in die Zone gekommen... ich wollte wie ein Hollywood-Held sein. Natьrlich blieben die Probleme nicht aus... wahrlich nicht! Ьberall haben meine Feinde auf mich gewartet. Irgendwann bin ich dann in diesem Rattenloch hier gelandet. Sicher, hier kann man sehr leicht ins Gras beiЯen, aber du kannst auch ebenso leicht im Schilf verschwinden, wenn du willst. Aber das alles ist nicht wie in einem Film - es ist harte und blutige Realitдt.</text>
+	</string>
+	<string id="dm_action_info_6">
+		<text>Meine Geschichte ist schnell erzдhlt - ich bin einem wichtigen Typen in die Quere gekommen und er hat ein Kopfgeld auf mich ausgesetzt. Da habe ich langsam begriffen, wie viele Kopfgeldjдger es wirklich in der Zone gibt. Um von der Bildflдche zu verschwinden, bin ich hierher geflohen. Sobald etwas Gras ьber die Sache gewachsen ist, werde ich den Kerl finden und mich mal eingehend mit ihm unterhalten, von Mann zu Mann!</text>
+	</string>
+	<string id="dm_intro_13">
+		<text>Schцn, dich zu sehen!</text>
+	</string>
+	<string id="dm_intro_14">
+		<text>GrьЯ dich!</text>
+	</string>
+	<string id="dm_intro_15">
+		<text>Hallo!</text>
+	</string>
+	<string id="dm_intro_16">
+		<text>Ja?</text>
+	</string>
+	<string id="dm_intro_17">
+		<text>Brauchst du Hilfe?</text>
+	</string>
+	<string id="dm_intro_18">
+		<text>Kann ich etwas fьr dich tun?</text>
+	</string>
+	<string id="dm_intro_19">
+		<text>Willkommen in den Sьmpfen!</text>
+	</string>
+	<string id="dm_intro_20">
+		<text>Ich geb dir einen Rat - hьte dich vor den Sьmpfen und den Monstern.</text>
+	</string>
+	<string id="dm_intro_21">
+		<text>Ein neues Gesicht in dieser Gegend!</text>
+	</string>
+	<string id="dm_intro_22">
+		<text>Hцr auf mich, mein Freund, und halte dich ans Schilf.</text>
+	</string>
+	<string id="dm_intro_23">
+		<text>Wenn du die Sьmpfe verlassen willst, musst du jemanden finden, der sich auskennt.</text>
+	</string>
+	<string id="dm_about_14">
+		<text>Die Sьmpfe waren lange Zeit unzugдnglich fьr die meisten Stalker. Wir haben ein friedliches Leben gefьhrt, das Gebiet erkundet und uns die Monster vom Leib gehalten. Aber die Emission hat alles verдndert. Anomalien haben sich verschoben und neue Gesichter sind aufgetaucht. Sie sind meistens durch den Kordon gekommen. Ich denke, es muss schon etwas ganz Besonderes sein, vor dem man flьchtet, wenn man freiwillig an einen Ort wie diesen kommt...</text>
+	</string>
+	<string id="dm_about_15">
+		<text>Die Sьmpfe sind fьr jeden Abtrьnnigen der Himmel auf Erden. Hier trifft man auf alle Arten von Menschen - normale Versager, AusgestoЯene verschiedener Fraktionen, gewцhnliche Kriminelle... Wir heiЯen sie alle herzlich willkommen - einige empfangen wir mit offenen Armen, andere weniger freundlich.</text>
+	</string>
+	<string id="dm_about_16">
+		<text>Wir mьssen etwas tun, bevor es zu spдt ist! Die Zone scheint aus so etwas wie einem langen Traum zu erwachen. Die letzte Emission war so stark, dass ich dachte, die Welt wьrde untergehen! Wir kцnnen nicht einfach Dдumchen drehen und auf die wirkliche Katastrophe warten. Daran mцchte ich nicht einmal denken. Nur so viel: Im Vergleich dazu wьrde die erste Tschernobyl-Explosion wie ein Silvesterfeuerwerk wirken.</text>
+	</string>
+	<string id="dm_about_17">
+		<text>Wir erforschen lokale Anomalien. Die Sьmpfe sind wie geschaffen fьr diese Arbeit. Wir haben schon eine Reihe von entsprechenden Stellen gefunden und finden jeden Tag immer mehr davon. Ach, wenn wir nur mehr Geld hдtten...</text>
+	</string>
+	<string id="dm_about_18">
+		<text>Hier ist es nicht so wie in der Zone. Klar, es gibt viele Monster, aber nur sehr wenige Anomalien. Abgesehen davon ist das hier ein absolut normaler Sumpf wie jeder andere auch.</text>
+	</string>
+	<string id="dm_about_19">
+		<text>Die Sьmpfe waren mal ein friedlicher Ort. Niemand hat uns damals gestцrt, keiner hat hier nach Artefakten gesucht. Aber es war genauso lebensgefдhrlich wie ьberall in der Zone. Keiner hat sich fьr diesen Dschungel aus Schilf und Sьmpfen interessiert. Aber die Zeiten дndern sich nun mal. Ich habe keine Ahnung, was in der AuЯenwelt los ist, aber alle mцglichen skrupellosen Halunken strцmen von dort hierher.</text>
+	</string>
+	<string id="dm_about_20">
+		<text>Es gibt nicht viel zu erzдhlen - wir haben hier Sьmpfe, Schilf und Monster. Und natьrlich Riesenmoskitos. Der Kordon ist nordwestlich von hier, Agroprom im Norden. Im Sьden und Westen hinter der Zonengrenze ist sauberes Land.</text>
+	</string>
+	<string id="dm_about_21">
+		<text>Bis vor kurzem war hier nicht viel los. Es gab nur uns, die Sьmpfe, Wildschweine und Fleisch. Aber mittlerweile kommen immer mehr Leute hierher, und die sind mir nicht wirklich geheuer. Gute Leute haben hier nichts zu suchen. Ach, nimm das nicht persцnlich - du bist eine Ausnahme.</text>
+	</string>
+	<string id="dm_about_22">
+		<text>Fьr unsere Misere kцnnen wir uns nur bei unseren Anfьhrern bedanken - Lebedew und Beanpolew. Unser Lager ist ein altes Dorf, das in alten Sowjetzeiten ьberflutet wurde, als das Wasserreservoir gebaut wurde. Es ist auf keiner Karte verzeichnet und zu versuchen, uns ohne die Hilfe von jemandem zu finden, der sich hier auskennt, ist eine vollkommen aussichtslose Idee.</text>
+	</string>
+	<string id="dm_about_23">
+		<text>Wir sind hergekommen, damit wir unbemerkt bleiben kцnnen. Warum? Dafьr gibt es gute Grьnde. Lebedew oder Beanpolew kцnnen dir mehr darьber erzдhlen, wenn du mцchtest. Hier sind wir sogar vor Besuchern aus den Sьmpfen sicher. Wenn du zur Basis gehen willst, solltest du es nicht alleine versuchen und jemanden finden, der sich auskennt. Das ist viel sicherer.</text>
+	</string>
+	<string id="dm_about_24">
+		<text>Hier ist es nass, kalt und erbдrmlich und der Gestank ist nicht auszuhalten. Was willst du sonst noch wissen? Soll ich dir was darьber erzдhlen, wie es ist, wenn man von irgendeinem Viech auf den Grund des Sumpfes gezogen wird? Oder vielleicht darьber, wie man in weniger als einer Minute komplett im Treibsand versinken kann?</text>
+	</string>
+	<string id="dm_about_25">
+		<text>An diesem Ort hier kann man sich sehr gut verstecken. Vor wem? Na, vor jedem - Banditen, dem Militдr oder sonst wem, der dich auf dem Kieker hat. Spring einfach ins Schilf und schon bist du so gut wie verschwunden. Natьrlich darfst du es nicht ganz so wцrtlich nehmen, wenn von "Untertauchen" die Rede ist. Es gibt hier viel zu viele gefдhrliche Stellen und eklige Viecher. Nur ein falscher Schritt und du kannst "Auf Wiedersehen" zur Welt sagen!</text>
+	</string>
+	<string id="dm_about_26">
+		<text>Man kann tagelang durch diese Sьmpfe wandern, ohne jemals irgendwo anzukommen. Es sieht immer alles gleich aus - Wasser, Schilf und manchmal ein paar Pflanzen. Ich denke, aus diesem Grund haben Lebedew und Beanpolew diesen Ort fьr die Basis ausgewдhlt. Nicht einmal die Armee mit ihren Hubschraubern kann uns hier unten entdecken. Nur so haben wir es geschafft, unsere Arbeit vor neugierigen Augen zu schьtzen.</text>
+	</string>
+	<string id="dm_about_27">
+		<text>Wir verstecken uns schon so lange hier, manchmal glaube ich, dass die ganze Welt ein einziger Sumpf ist. Es heiЯt, dass dies hier alles normales Land war, mit Dцrfern, Feldern und dem ganzen Rest. Dann haben sie mit dem Bau des Damms fьr das Wasserkraftwerk angefangen und schlieЯlich das Gebiet ьberflutet. Egal ob falsch geplant oder einfach ScheiЯe gebaut - es war einfach zu viel Wasser. Viele Leute konnten nicht einmal rechtzeitig evakuiert werden. Und jetzt ist hier alles ein groЯer Sumpf.</text>
+	</string>
+	<string id="dm_about_28">
+		<text>Schau dich nur um. Damit hast du alles gesehen, was es in den Sьmpfen zu sehen gibt. Immer derselbe Anblick, wohin du auch siehst - Schilf, halb versunkene Baracken und hier und da ein trockenes Fleckchen Land. Und unsere Basis zu finden, kannst du vergessen, selbst wenn du weiЯt, wonach du suchen musst. Wenn ich mir so ьberlege, wie wenige Leute Clear Sky kennen, machen wir uns keine Sorgen, entdeckt zu werden.</text>
+	</string>
+	<string id="dm_about_29">
+		<text>Wir haben unser Lager nicht ohne Grund hier aufgeschlagen. Vor der Emission war dieses Gebiet der verlassenste und unzugдnglichste Teil der Zone. Natьrlich kann man weiter ins Zentrum vorrьcken, aber das wьrde niemand ьberleben. Betrachte diesen Bereich hier als AuЯenbezirk. Der Kordon ist im Osten, Agroprom im Norden und die anderen Richtungen... nun, dort endet die Zone.</text>
+	</string>
+	<string id="dm_about_30">
+		<text>Jawohl, da fragst du genau den Richtigen. Niemand kennt sich in den Sьmpfen besser aus als Clear Sky. Wir haben uns hier niedergelassen vor... heh, ja, wann war das eigentlich noch mal? An einem Ort wie diesem kann man sich die Zeit nicht sehr einfach merken. Schon bald wirst auch du vergessen, welcher Tag gerade ist. Na ja, wenn du hier raus willst, musst du einen der Clearer finden, die sich in der Gegend auskennen - es wдre total sinnlos, dir jetzt den Weg zu erklдren.</text>
+	</string>
+	<string id="dm_action_info_7">
+		<text>Das ist unsere Pflicht. Die Emission hat uns auf Trab gehalten. Um ehrlich zu sein, sind wir keine richtigen Kдmpfer, aber in Zeiten wie diesen musst du zwangslдufig mit einer Waffe umgehen kцnnen, wenn du ьberleben willst. Ich habe so das Gefьhl, dass meine Waffe schon bald sehr viel zu tun haben wird.</text>
+	</string>
+	<string id="dm_action_info_8">
+		<text>Ich bin im Auftrag von Lebedew unterwegs. Es tut mir leid, aber ich kann nichts darьber verraten - Clan-Geheimnisse.</text>
+	</string>
+	<string id="dm_action_info_9">
+		<text>Ich bereite mich auf meinen nдchsten Auftrag vor. Heutzutage sind einfach zu viele schlechte Menschen in den Sьmpfen unterwegs. Jeder glaubt an das Recht des Stдrkeren. Aber dabei vergessen sie, dass es immer jemanden gibt, der noch stдrker ist!</text>
+	</string>
+	<string id="dm_action_info_10">
+		<text>Ich trцdle nur herum, aber nicht mehr lange. Bei Clear Sky gibt es immer viel zu tun, jetzt sogar mehr als je zuvor!</text>
+	</string>
+	<string id="dm_action_info_11">
+		<text>Ich mache mich bereit fьr einen Auftrag tief in den Sьmpfen. Die Zone wird immer unruhiger, deswegen mьssen wir stets auf alles gefasst sein. Merk dir meine Worte, Stalker: GroЯe Verдnderungen stehen uns bevor.</text>
+	</string>
+	<string id="dm_action_info_12">
+		<text>Wie auch die anderen erforsche ich die Zone. Etwas GroЯartigeres hat die Menschheit bisher nicht entdeckt! Wir sollten die Zone nicht bekдmpfen, sondern sie erforschen, versuchen, sie zu verstehen und mit ihr friedlich koexistieren. Die Zone wird es hier noch sehr lange geben, das kannst du mir glauben.</text>
+	</string>
+	<string id="dm_action_info_13">
+		<text>Wir machen alle das Gleiche - wissenschaftliche Forschung. Die Zone muss studiert werden. Sie fasziniert mich jeden Tag aufs Neue. Die Zone hat zwar viele schreckliche Seiten, aber sie bietet auch genauso viel Wundervolles! Artefakte sind da ja nur ein Bruchteil davon. Erfahrene Stalker berichten von einem Monolithen im Zentrum der Zone, der einem jeden Wunsch erfьllen kann. Ach, wenn ich den nur finden kцnnte.</text>
+	</string>
+	<string id="dm_action_info_14">
+		<text>Meine Instrumente haben eine sehr hohe Energiekonzentration registriert. Das deutet darauf hin, dass es hier irgendwo Artefakte oder Anomalien geben kцnnte. Ich habe meine Messdaten an Beanpolew gesendet und warte jetzt auf weitere Anweisungen.</text>
+	</string>
+	<string id="dm_action_info_15">
+		<text>Jetzt gerade mache ich nichts, aber ich trage eine groЯe Verantwortung. Wir sind Wissenschaftler, Techniker und Soldaten zugleich. Mal mьssen wir kдmpfen und mal gehen wir auf eine Forschungsexpedition - das ist unser Leben.</text>
+	</string>
+	<string id="dm_action_info_16">
+		<text>Ich bin ganz zufдllig bei Clear Sky gelandet. Eines Tages habe ich mich in den Sьmpfen verlaufen und bin in eine Treibsandfalle geraten. Kurz bevor alles aus war, haben mich diese Mдnner herausgezogen und in ihre Basis mitgenommen. Ich habe mich mit Lebedew unterhalten und was er sagte, klang ziemlich einleuchtend. Er weiЯ mehr ьber die Zone, als andere in ihrem ganzen Leben erfahren werden. Zudem scheint der Clan ein gutes Ziel anzustreben... deswegen bin ich eingetreten und mache, was ich kann, um dabei mitzuhelfen.</text>
+	</string>
+	<string id="dm_action_info_17">
+		<text>Ich bin schon lange dabei - war einer der Allerersten im Clan. Schon von Anfang an erforsche ich die Zone in den Sьmpfen. Ich nehme unterschiedliche Messungen vor, lege Schaubilder an, kьmmere mich um die Ausrьstung usw. Ein paar Monster habe ich schon erschossen - natьrlich nur fьr Forschungszwecke. Mittlerweile mьssen wir immer hдufiger zu den Waffen greifen.</text>
+	</string>
+	<string id="dm_action_info_18">
+		<text>Wir sammeln Daten und werten sie aus, wie jeder andere hier auch. Ich glaube, Beanpolew und Lebedew wissen mehr ьber die Zone als wir alle zusammen. Aber sie erzдhlen uns gewцhnlichen Soldaten nicht oft etwas darьber. Wir kьmmern uns einfach um die akuten Probleme, wдhrend sie das groЯe Ganze im Auge behalten.</text>
+	</string>
+	<string id="dm_action_info_19">
+		<text>Auf Nachrichten von unseren Jungs warten. Sie sind auf einer Mission tief in den Sьmpfen. In Zeiten wie diesen kцnnten sie unsere Hilfe benцtigen.</text>
+	</string>
+	<string id="dm_cool_info_0">
+		<text>Vieles ist neu. Die Emission z.B. - sie hat mehr als nur die Zone verдndert. Wir alle haben uns verдndert. Die Wut in uns ist grцЯer geworden, den Eindruck hat man zumindest. Kaum freundest du dich zum Beispiel mit einem Typen an, schon hдlt er eine Knarre an deine Schlдfe. Ach, ich weiЯ nicht, was ich rede. Du solltest lieber Lebedew fragen.</text>
+	</string>
+	<string id="dm_cool_info_1">
+		<text>Es kommt immer hдufiger zu Emissionen - so etwas habe ich noch nie erlebt. Die Zone ist am Brodeln, sie verдndert alles um uns herum. Die bekannten Wege werden von tцdlichen Anomalien ьberwuchert, aber auf der anderen Seite entstehen vцllig neue Wege zu Gebieten, die vorher unzugдnglich waren. Auch in die Sьmpfe kann man mittlerweile einfacher gelangen. Wetten, dass die Fraktionen schon bald um diese Gegend hier kдmpfen werden?</text>
+	</string>
+	<string id="dm_cool_info_2">
+		<text>Woher soll ich das wissen? Hier in den Sьmpfen ist es wie auf einem anderen Planeten. Am besten gehst du und fragst jemanden, der nicht von hier ist.</text>
+	</string>
+	<string id="dm_cool_info_3">
+		<text>Es heiЯt, dass die Emission neue Wege in viele verschiedene Gebiete geцffnet hat, nicht nur in die Sьmpfe. Die bekannten Lebensrдume der Stalker haben sich in anomalieverseuchte Labyrinthe verwandelt, wдhrend die Orte, die man frьher nie und nimmer erreichen konnte, nun jedem offen stehen.</text>
+	</string>
+	<string id="dm_cool_info_4">
+		<text>Unsere gesamten Forschungsergebnisse besagen, dass die immer hдufiger auftretenden Emissionen nicht gut fьr uns sind. Die Zone ist instabil geworden. Diese neuen Verдnderungen werden zu weiteren Kдmpfen um Gebiete fьhren, die frьher wegen der Anomalien unzugдnglich waren. Ich befьrchte Schlimmes fьr die Zukunft.</text>
+	</string>
+	<string id="dm_cool_info_5">
+		<text>Ich habe gehцrt, dass die Stalker beim Kordon den Jungs vom Militдr mдchtig was auf die Fresse gegeben haben. Ich kann mir zwar nicht vorstellen, wie das passieren konnte, aber ein Gerьcht ist ein Gerьcht ist ein Gerьcht... Was noch? Ah, sie haben auf der Mьllhalde ein geheimes Lager mit alten Fahrzeugen, Ausrьstungsgegenstдnden und anderem nьtzlichem Kram entdeckt - das ganze Zeug stammt aus dem Jahr 1986, der Zeit des ersten groЯen Unfalls. Die hatten damals gedacht, dass das alles verseucht wдre, aber heute ist das buchstдblich unbezahlbar. Da ist ein wahrer Goldrausch ausgebrochen, der natьrlich auch eine Menge Banditen angezogen hat. Sie haben die Mьllhalde jetzt unter ihrer Kontrolle und machen unsere Stalker-Brьder fertig.</text>
+	</string>
+	<string id="dm_cool_info_6">
+		<text>Die Emission hat die Lage verschlechtert. Danach war zwar einige Tage wenig los, aber das war die Ruhe vor dem Sturm, wie wir jetzt wissen. Viele Fraktionen werden schon bald zu kдmpfen beginnen, auch unsere. Sie kдmpfen jedoch um Land, wдhrend unser Ziel ein ganz anderes ist...</text>
+	</string>
+	<string id="dm_intro_24">
+		<text>Hey, Bruder!</text>
+	</string>
+	<string id="dm_intro_25">
+		<text>Hast du eine Frage? Ich helfe dir gerne.</text>
+	</string>
+	<string id="dm_intro_26">
+		<text>Frag nur - ich bin gerade in der Stimmung dafьr.</text>
+	</string>
+	<string id="dm_intro_27">
+		<text>Hallo, Stalker! Willkommen beim Kordon!</text>
+	</string>
+	<string id="dm_intro_28">
+		<text>Es ist schon eine Weile her, seit ich das letzte Mal einen erfahrenen Sцldner beim Kordon gesehen habe. Du bist doch einer von denen, oder?</text>
+	</string>
+	<string id="dm_intro_29">
+		<text>Hallo, Bruder! Willkommen bei uns!</text>
+	</string>
+	<string id="dm_intro_30">
+		<text>Schцn, einen Waffenbruder zu treffen!</text>
+	</string>
+	<string id="dm_intro_31">
+		<text>Hallo! Bleib in unserer Nдhe, die Banditen und die Armee verstehen nдmlich in diesen Tagen gar keinen SpaЯ.</text>
+	</string>
+	<string id="dm_about_31">
+		<text>Der Kordon ist, was er ist - der Rand der Zone, wenn man so will. Wir haben nur wenige Anomalien, so gut wie keine nennenswerten Artefakte und keine Monster, die einem Angst einjagen wьrden. Es existieren StraЯen zur Mьllhalde und zum Dunklen Tal. Man kann auch in die Sьmpfe gehen, aber wer zum Teufel will das schon?</text>
+	</string>
+	<string id="dm_about_32">
+		<text>Dieser Ort hier war recht friedlich. Es gab relativ einfache Regeln: Neulinge haben sich an das gehalten, was sie wussten, Stalker haben Artefakte gesammelt, um sie Sidorowitsch zu verkaufen, und das Militдr hat "Schutz" vor den Banditen gewдhrt. Die Jungs von der Armee waren im GroЯen und Ganzen ziemlich in Ordnung. Aber dann hat sich alles geдndert. Ein paar Wichser sind von der Mьllhalde rьbergekommen und haben angefangen, Geschдfte mit dem Kommandeur zu machen. Mittlerweile gibt es gar keine Ordnung mehr und dem Militдr kann man auch nicht mehr trauen. Aber wir hatten Glьck im Unglьck: Die Stalker haben sich zusammengeschlossen, damit die Armee uns nicht mehr herumschubsen kann.</text>
+	</string>
+	<string id="dm_about_33">
+		<text>Soll das ein Scherz sein? Ich kann einfach nicht glauben, dass ein alter Hase wie du noch nie etwas vom Kordon gehцrt hat. Hier fangen die meisten Grьnschnдbel an. Von hier gelangt man an gefдhrlichere Orte wie etwa auf die Mьllhalde, in das Dunkle Tal oder in die Sьmpfe. Die einzige Gefahr hier geht von den Banditen und der Armee aus, die sich momentan zu wichtig vorkommt. Aber wir werden uns schon bald darum kьmmern - die Stalker haben sich vor kurzem aus diesem Grund zusammengeschlossen.</text>
+	</string>
+	<string id="dm_about_34">
+		<text>Also gut, die Sache sieht folgendermaЯen aus. Dort, hinter dem AuЯenposten, befindet sich der Zonenrand - da, wo wir alle hergekommen sind. Da gibt es keine Monster oder Anomalien, aber das weiЯt du ja schon. Im Westen befinden sich die Sьmpfe. Dort drьben findest du den Weg zum Anfдngerdorf und zum alten Transportlager, wo die Armee ihre Basis hat. Ein Stalker-Lager folgt gleich nach der Brьcke und dahinter liegt dann Banditen- und Freiheitsgebiet - die Mьllhalde und das Dunkle Tal. Das war's.</text>
+	</string>
+	<string id="dm_about_35">
+		<text>Die Armee ist nichts weiter als ein Haufen mieser, kleiner Gauner. Ihre Aufgabe besteht darin, die Zone abzuschotten und jeden Zugang zu versperren. Aber hast du dich jemals gefragt, wie wir dennoch an alle mцglichen Waren aus der AuЯenwelt gelangen und die da drauЯen Artefakte und andere illegale Sachen aus der Zone bekommen? Natьrlich geschieht das alles nicht ohne das Wissen der Armee und du kannst davon ausgehen, dass die immer die Hand aufhalten. Frьher war es so, dass sie wenigstens ihr Wort gehalten haben, wenn man sie nur gut genug geschmiert hat, aber das ist auch nicht mehr der Fall. Ob du zahlst oder nicht, du kannst dich einfach nicht auf sie verlassen. Das hat schlieЯlich dazu gefьhrt, dass sich die Stalker tatsдchlich gegen das Militдr erhoben haben, statt wie immer den Kopf in den Sand zu stecken. Es heiЯt sogar, dass sie den Kommandeur des AuЯenpostens gefangen genommen hдtten!</text>
+	</string>
+	<string id="dm_about_36">
+		<text>Hier ist es auch nicht anders als sonst wo. Manche Stalker sind auf der Suche nach Beute, andere sind auf der Suche nach Stalkern. Wir setzen unser Leben aufs Spiel, indem wir fьr kьmmerliches Geld nach Anomalien suchen und gegen Monster kдmpfen, und was haben wir davon? Nichts, denn sie nehmen uns die Moneten ja wieder direkt aus der Tasche. Du weiЯt nicht, von wem ich rede? Na, vom Militдr natьrlich. Mittlerweile halten sie aber still, denn wir haben ihren Kommandeur gefangen genommen. Sie kцnnen das nicht an den Generalstab melden - das wьrde zu einer Untersuchung fьhren und das Letzte, was die wollen, ist, dass jemand Wind von ihren krummen Geschдften bekommt. Auf diese Weise haben wir sie ruhig gestellt.</text>
+	</string>
+	<string id="dm_about_37">
+		<text>Die Stalker schlieЯen sich zusammen. Wenn es hart auf hart zugeht, macht es doch keinen Sinn, es auf eigene Faust zu versuchen. Auf der einen Seite hat die Armee mit ihren Sдbeln gerasselt, auf der anderen Seite haben uns die Banditen zugesetzt. Wir hatten also die Wahl zwischen Pest und Cholera - und haben uns fьr die dritte Option entschieden... wir haben uns gewehrt! Sollen sie doch kommen, wenn sie wollen - wir haben die passende Antwort parat.</text>
+	</string>
+	<string id="dm_about_38">
+		<text>ScheiЯ auf den ganzen Stalker-Kram ьber Anomalien, Strahlung und Monster; ich habe eine wichtigere Neuigkeit fьr dich. Die Stalker und das Militдr sind aneinander geraten; dabei soll es um eine recht groЯe Beute gehen. Also haben die Stalker den Armeekommandeur gefangen genommen. Die Moral der Soldaten ist dann ziemlich schnell gesunken. Natьrlich war ihr Boss schlau genug, um die Beute vor seinen Leuten zu verstecken. Jetzt steckt die Armee in der Klemme: Einerseits kann sie keine Hilfe von AuЯen anfordern, andererseits kann sie die Stalker nicht angreifen, ohne ihren Kommandeur und mit ihm das ganze Geld zu verlieren. Abgesehen davon sind hier immer mehr Banditen von der Mьllhalde unterwegs. Ich denke, das war so das Wichtigste. Pass auf dich auf.</text>
+	</string>
+	<string id="dm_about_39">
+		<text>In letzter Zeit ist sehr viel vorgefallen. Ob du es glaubst oder nicht, die Stalker haben zum ersten Mal die Kontrolle ьber den Kordon an sich gerissen. Sie haben aus der alten Farm sogar eine Basis gemacht. Wer hдtte das je gedacht? Wenn das so weitergeht, werden die Stalker schon bald die ganze Zone kontrollieren. Und das sollten sie auch.</text>
+	</string>
+	<string id="dm_about_40">
+		<text>Das Leben beim Kordon ist momentan ziemlich hart. Wir haben es mit der Armee und den Banditen zu tun und die Nase von beiden Seiten voll. Die ScheiЯer vom Militдr gehen uns mдchtig auf die Nerven und die gierigen Banditen haben es auf unser Land abgesehen. Aber es ist hier immer noch sicherer als an vielen anderen Orten.</text>
+	</string>
+	<string id="dm_about_41">
+		<text>Die Fraktionen der Zone fьhren Krieg gegeneinander, sie kдmpfen um neue Gebiete und Artefaktfelder. Der Kordon stellt dabei keine Ausnahme dar. Die Armee, die Banditen und die Stalker - das sind wir - befinden sich im stдndigen Kampf. Bisher haben wir uns durchsetzen kцnnen.</text>
+	</string>
+	<string id="dm_about_42">
+		<text>Die Zone beginnt am Kordon. Jeder Frischling fдngt hier an und verbringt einen oder zwei Monate hier, um sich an die Zone zu gewцhnen. AuЯer natьrlich er ist ein Vollidiot. Aber das weiЯt du schon alles, oder, mein Freund? Du kommst mir nicht wie ein Anfдnger vor.</text>
+	</string>
+	<string id="dm_about_43">
+		<text>Wir haben frьher mit der Armee zusammengearbeitet. Wir haben Artefakte gesammelt und geschmuggelt, sie haben ein Auge zugedrьckt - gegen Bezahlung, versteht sich. Dann sind sie zu gierig geworden. Sie haben unsere Beute eingesteckt und uns sogar Banditen auf den Hals gehetzt. Wir haben uns also etwas verkracht, wenn ich das so ausdrьcken darf. Jetzt kдmpfen wir an zwei Fronten - gegen das Militдr und gegen die Banditen.</text>
+	</string>
+	<string id="dm_about_44">
+		<text>Vor einiger Zeit haben unsere Jungs ein sehr wertvolles Artefakt ausgegraben. Fьnf von ihnen mussten dran glauben, bis das Ding hier ankam, und die Ьberlebenden sahen auch nicht berauschend aus. Der Kunde war wohl ein hohes Tier oder so was, denn Sidorowitsch hat nichts darьber verraten. Die Jungs hдtten es fast geschafft, aber der Kommandeur des AuЯenpostens wollte doch mehr, als ihm zustand... der Drecksack hat ein paar Banditen von der Sache erzдhlt. Die haben daraufhin unsere Leute ьberfallen! Damit haben wir nicht nur unsere Mдnner verloren, sondern auch die Beute. Zuerst wollten wir den Kommandeur dafьr umbringen, aber dann haben wir uns doch dafьr entschieden, ihn gefangen zu nehmen. Wir wollen einfach nur das, was uns zusteht, und frьher oder spдter prьgeln wir es aus ihm heraus.</text>
+	</string>
+	<string id="dm_action_info_20">
+		<text>Ich mach das, was alle machen - ьberleben und dabei vielleicht ein paar Scheine verdienen. Kann es kaum erwarten, bis wir hier beim Kordon endlich das Sagen haben! Ich habe immer gewusst, dass die Armee und die Banditen irgendwann bekommen, was sie verdienen! Und abgesehen davon wird der Handel mit Artefakten viel einfacher werden.</text>
+	</string>
+	<string id="dm_action_info_21">
+		<text>Momentan sammle ich nur Erfahrung und spare etwas Geld. Sobald ich genug zusammen habe, werde ich mir eine gute Waffe und Panzerung kaufen und mich direkt ins Zentrum der Zone aufmachen. Gerьchten zufolge haben es ein paar Typen schon bis dorthin geschafft und den Wunschgцnner gefunden. Da will ich auch hin. Und wenn ich dort ankomme, werde ich ganz sicher keinen unsinnigen Wunsch дuЯern, das kannst du mir glauben!</text>
+	</string>
+	<string id="dm_action_info_22">
+		<text>Ich habe eine Menge Mдrchen ьber die Zone gehцrt und war blцd genug, sie zu glauben. Aber ich habe schnell gelernt, dass es eine ganz andere Geschichte ist, wenn man einmal selbst drinnen ist. Ich bin wohl doch nicht ganz so ein harter Bursche, wie ich immer gedacht habe. Hier kann man ganz leicht ins Gras beiЯen, dafьr ist das Sammeln von Artefakten eine ScheiЯarbeit. Aber was mich wirklich fertig macht, ist, dass es in der verdammten Zone ьberhaupt keine friedliche Ecke gibt. Selbst wenn ich einschlafe, ist ein Teil von mir noch wach und auf der Hut.</text>
+	</string>
+	<string id="dm_action_info_23">
+		<text>Die Zone hat mich eindeutig in ihren Bann gezogen. Ich war nur auf der Durchreise, so etwas wie ein Tourist, aber schlieЯlich bin ich geblieben. Das Tolle ist, dass es hier noch wirkliche Menschen gibt! Egal ob Freund oder Feind. Die Gefahr, das Gefьhl, dass der Tod hinter jeder Ecke lauert, das Adrenalin, das durch die Adern strцmt... ach, erst so spьrt man doch, dass man lebt! Und ich genieЯe jeden Augenblick!</text>
+	</string>
+	<string id="dm_action_info_24">
+		<text>Ich bin hier, um einen Freund zu treffen. Er hat die Beute bei sich, die wir gefunden haben, nur hat er einen anderen Weg eingeschlagen als ich und ich bin etwas frьher angekommen. Nee, er kann sich nicht verlaufen haben - das ist ein echter Teufelskerl. Ich denke mal, dass er einen Umweg gemacht hat. Oder vielleicht hat er einen alten Freund getroffen. Wie auch immer, ich mache mir keine Sorgen, er wird schon bald hier sein...</text>
+	</string>
+	<string id="dm_action_info_25">
+		<text>So ein Penner hat mir die Karte zu irgendeinem geheimen Lager verkauft und ich glaube langsam, dass die nicht echt ist. Ich habe die ganze Gegend abgesucht, aber hier gibt es nicht ein einziges Artefakt. Wenn ich den Wichser erwische, bringe ich ihn um!</text>
+	</string>
+	<string id="dm_action_info_26">
+		<text>Nach dem letzten Beutezug lasse ich es etwas ruhiger angehen. Wir sind da bis an die Grenze vorgerьckt und haben uns in Stellung gebracht fьr die Monster, die aus dem Zentrum strцmen. Das Team war echt super - Shaggy Alex, Lesha Homeboy, Moldey... alles Top-Leute! Ich habe ziemlich gute Beute gemacht, das Zeug fьr 'ne Menge Geld verscherbelt und mich dann entschieden, eine Pause einzulegen. Und hier kann man sich genauso gut oder schlecht erholen wie ьberall sonst.</text>
+	</string>
+	<string id="dm_cool_info_7">
+		<text>Ich habe gehцrt, dass sich eine Gruppe von Stalkern bis ins Zentrum der Zone vorgekдmpft hat. Das war kurz vor der Emission! Ich wьsste gerne, ob sie es noch rechtzeitig bis zum Wunschgцnner geschafft haben...</text>
+	</string>
+	<string id="dm_cool_info_8">
+		<text>So schwierig wie momentan war es noch nie, an Beute zu gelangen. Selbst wenn du es schaffst, den Monstern zu entwischen und die Anomaliefelder zu ьberleben, bekommst du es danach mit den Banditen zu tun, die den Weg belagern... und dann ist da ja auch noch die Armee. Heutzutage muss man sich nicht wundern, wenn man nach einem Beutezug weniger in der Hand hat als vorher! Irgendjemand muss endlich etwas gegen diese Halsabschneider unternehmen! Vielleicht zahlen es ihnen die Stalker ja heim...</text>
+	</string>
+	<string id="dm_cool_info_9">
+		<text>Hast du mitbekommen, was auf der Mьllhalde los ist? Kurz nachdem die Stalker auf wertvolle Ausrьstungsgegenstдnde gestoЯen sind und damit begonnen haben, das Zeug aus den Mьllhaufen auszugraben, sind Banditen aufgetaucht - wie die Fliegen zur ScheiЯe hat es sie da hingezogen! Sie haben sogar eine Basis in dem Gebiet errichtet - nur um unsere Stalker-Brьder noch mehr schrцpfen zu kцnnen. Die Lage dort ist mittlerweile wirklich beschissen. Mьllgrдber werden ausgeraubt und oft sogar umgebracht... und wer sich dagegen wehrt, landet in einem Sammellager. Das kann unter Umstдnden sogar noch schlimmer sein, als einfach an Ort und Stelle aufgeschlitzt zu werden. Denn die Gefangenen werden gezwungen, in den verseuchtesten Gebieten der Mьllhalde zu graben. Die armen Schweine sterben an der Strahlung und den Anomalien - und die Banditen fьllen sich ihre verfluchten Taschen! Langer Rede kurzer Sinn: Auf der Mьllhalde solltest du stets auf der Hut sein.</text>
+	</string>
+	<string id="dm_cool_info_10">
+		<text>Hinter der Grenze gibt es eine Art Schmelzer. Wenn man zu nahe rankommt, schmelzt er einem das Hirn weg... und - tatata! - wir haben schon wieder einen neuen Zombie. Scheinbar ist bisher niemand da lebend durchgekommen. Es gibt auch Gerьchte ьber einen Wunschgцnner, aber davon glaube ich keine Silbe.</text>
+	</string>
+	<string id="dm_intro_32">
+		<text>Steck dir deine Manieren sonst wohin und geh mir nicht auf den Sack mit dem Geschwдtz! Was willst du?</text>
+	</string>
+	<string id="dm_intro_33">
+		<text>Verpiss dich, Trottel!</text>
+	</string>
+	<string id="dm_intro_34">
+		<text>Tun wir so, als ob ich dich gegrьЯt hдtte. Und jetzt?</text>
+	</string>
+	<string id="dm_intro_35">
+		<text>Was geht, mein Freund?</text>
+	</string>
+	<string id="dm_intro_36">
+		<text>Hast du mal 'ne Kippe?</text>
+	</string>
+	<string id="dm_intro_37">
+		<text>Wie geht's?</text>
+	</string>
+	<string id="dm_intro_38">
+		<text>Du willst mich hoffentlich nicht umarmen oder so was? Was suchst du?</text>
+	</string>
+	<string id="dm_intro_39">
+		<text>Heilige ScheiЯe! Wo kommst du denn her? Komm schon, spuck's aus.</text>
+	</string>
+	<string id="dm_intro_40">
+		<text>Schau an, da kommt ein neuer Halunke! Wie geht's?</text>
+	</string>
+	<string id="dm_intro_41">
+		<text>Was geht, Bruder? Auf der Suche nach dem groЯen Geld? Nur zu, hier gibt es genug fьr alle.</text>
+	</string>
+	<string id="dm_intro_42">
+		<text>GrьЯ dich auch. Hast du 'ne Frage?</text>
+	</string>
+	<string id="dm_intro_43">
+		<text>Hi. Nur die Ruhe... keine Mдtzchen, OK?</text>
+	</string>
+	<string id="dm_intro_44">
+		<text>Ich verstecke mich vor meinem Bewдhrungshelfer, und du?</text>
+	</string>
+	<string id="dm_intro_45">
+		<text>Hey, hallo! Ich erhole mich hier etwas vom harten Gefдngnisleben, und du?</text>
+	</string>
+	<string id="dm_intro_46">
+		<text>Hey hey, schцn, dass dir niemand gefolgt ist.</text>
+	</string>
+	<string id="dm_intro_47">
+		<text>Was geht ab, Mann! Du musst ja echt in der Tinte stecken, wenn du hierher kommst.</text>
+	</string>
+	<string id="dm_intro_48">
+		<text>Na, wen haben wir denn da? Auf der Mьllhalde ist fast jeder willkommen.</text>
+	</string>
+	<string id="dm_intro_49">
+		<text>Na, triff mich der Schlag! Wo kommst du denn her, Kumpel? Setz dich, lass uns quatschen.</text>
+	</string>
+	<string id="dm_intro_50">
+		<text>Ach Gott! Sag, hast du vielleicht 'ne Kippe ьbrig?</text>
+	</string>
+	<string id="dm_intro_51">
+		<text>Himmel! Gott sei Dank habe ich noch gemerkt, dass du ein Mensch bist... um ein Haar hдtte ich dich umgenietet! Also, beruhige dich und sprich mit mir.</text>
+	</string>
+	<string id="dm_intro_52">
+		<text>Hol' mich der Teufel! Hast du denn keine Angst, ganz alleine herum zu laufen?</text>
+	</string>
+	<string id="dm_intro_53">
+		<text>Timmy, lange nicht mehr gesehen! Ich habe gerade an dich gedacht.</text>
+	</string>
+	<string id="dm_intro_54">
+		<text>Ich werd' verrьckt, du bist es! OK, leg los.</text>
+	</string>
+	<string id="dm_intro_55">
+		<text>Hey dich selbst! Jetzt komm her und verrate mir, was es Neues gibt.</text>
+	</string>
+	<string id="dm_intro_56">
+		<text>Donnerwetter! Ein neues Gesicht in der Zone! Tretet ein in unser bescheidenes Reich, werter Freund!</text>
+	</string>
+	<string id="dm_intro_57">
+		<text>Hey, nur die Ruhe, ja? Wir werden uns kurz unterhalten und dann verpisst du dich, wenn ich es sage, klar?</text>
+	</string>
+	<string id="dm_intro_58">
+		<text>Wie geht's, Freundchen? Was suchst du hier in dieser Gegend? Komm, sag schon.</text>
+	</string>
+	<string id="dm_intro_59">
+		<text>Hey, Versager! Komm zur Sache oder verpiss dich von hier.</text>
+	</string>
+	<string id="dm_intro_60">
+		<text>Hey, du siehst so verspannt aus, bist du ein Bulle oder so was?</text>
+	</string>
+	<string id="dm_intro_61">
+		<text>Na, ьber was willst du denn reden, mein kleiner Versager?</text>
+	</string>
+	<string id="dm_about_45">
+		<text>Diese Stalker sind wirklich toll. Viel einfacher kann es ja nicht mehr werden - sie wandern hier umher und wir quetschen sie aus.</text>
+	</string>
+	<string id="dm_about_46">
+		<text>Das hier ist nicht der Informationsschalter, du Spinner.</text>
+	</string>
+	<string id="dm_about_47">
+		<text>Geh einfach weiter, Blцdmann. Ich mag solche Typen wie dich nicht, aber meine Waffe kцnnte Gefallen an dir finden...</text>
+	</string>
+	<string id="dm_about_48">
+		<text>Wenn du dich unterhalten willst, geh und rede mit einem Baum. Ich kann Fremde nicht ausstehen, ganz besonders nicht solche Trottel wie dich.</text>
+	</string>
+	<string id="dm_about_49">
+		<text>Ach, was soll's - ich erzдhle dir einfach alles. Hier in der Gegend hat Yoga das Sagen. Er hat sein Lager in der Basis, voll mit teuren Sachen. Dann haben wir Borow - das ist der Barmann und ein Mцchtegern-Snob. Weiter oben liegt das Agroprom-Institut, wo uns das Stalker-Pack und die Wдchter-Jungs die Monster vom Hals halten, he he. In der anderen Richtung findest du den Schwarzmarkt, wo die Leute ihr Zeug verticken. Nachts hat man da mehr Auswahl, aber es ist auch gefдhrlicher dort, vor allem wegen den Asubers-Brьdern. Und dahinter wartet dann die "Freiheit" im Dunklen Tal... </text>
+	</string>
+	<string id="dm_about_50">
+		<text>Auf der Mьllhalde haben die Roten frьher alles entsorgt, was in irgendeiner Weise verstrahlt war. Transistoren, Fahrzeuge, Rotoren... jeden Schrott, den du dir vorstellen kannst. Das Zeug wдre ja normalerweise nutzlos, wenn wir nicht in der Zone leben wьrden. Es ist dir sicher schon aufgefallen, dass man hier z.B. nirgendwo irgendwelche Eisenwaren kaufen oder einen Mechaniker finden kann. Aber trotzdem mьssen unsere Sachen ja repariert werden. Deswegen ist die Mьllhalde mit dem ganzen Schrott eine wahre Fundgrube! Und was die Strahlung angeht... das interessiert heute keine Sau mehr. Darum versucht hier jetzt jeder sein Glьck. Die einen graben die Sachen aus, die anderen handeln damit und wir... ja, wir nehmen uns einfach unseren Anteil.</text>
+	</string>
+	<string id="dm_about_51">
+		<text>Ich habe Besseres zu tun, als einem Anfдnger wie dir stundenlang das Leben in der Zone zu erklдren! Die Kurzfassung: Dieses Depot ist unsere Basis; beim Agroprom-Institut im Westen findest du die Wдchter und das Stalker-Gesindel; und im Osten haben wir die Freiheit - die Typen sind in Ordnung, aber wir machen uns so unsere Gedanken ьber sie. Nach Norden willst du sicher nicht gehen - nach der Emission wimmelt es dort von Anomalien. Und im Sьden liegt der Kordon, wo sich das Militдr und ein paar Stalker gegenseitig das Leben schwer machen.</text>
+	</string>
+	<string id="dm_about_52">
+		<text>Glaub mir, auf der Mьllhalde ist es am schцnsten in der Zone. Solange du stark und klug bist, geht es dir hier gut. Kurz nachdem man hier auf diesem Schrottplatz geheime Lager mit versteckten Waren fand, hat es die Stalker in Scharen hierher gezogen. Das war der Beginn der Erntezeit - zumindest fьr uns! Die Stalker kommen her, graben selbst in den abscheulichsten Lцchern nach dem Zeug und ьbergeben uns ihre Beute mehr oder weniger freiwillig - wir mьssen keinen Finger krumm machen. Wer nicht aufmuckt, muss lediglich Steuern und Abgaben zahlen, aber wenn jemand Stress macht oder meint, uns verarschen zu kцnnen, schnappen wir ihn uns und er landet im Sammellager.</text>
+	</string>
+	<string id="dm_about_53">
+		<text>Hier sind nur Profis gefragt! Keine Versager, nur gemachte Mдnner und Profiverbrecher - wie wir. Natьrlich haben auch wir unsere Schwдchlinge... schlieЯlich braucht ein wahrer Dieb ja Untergebene, die die Drecksarbeit erledigen. Nur Brдute, die gibt's hier leider nicht.</text>
+	</string>
+	<string id="dm_about_54">
+		<text>Wir sind das Gesetz hier auf der Mьllhalde - und die anderen halten sich daran. Die oberste Regel lautet: Du musst deine Beute mit uns teilen. Wenn du nicht willst, sorgen wir dafьr, dass du es willst. Und du kannst mir glauben, alle, die sich geweigert haben, haben das schnell bereut.</text>
+	</string>
+	<string id="dm_about_55">
+		<text>Hier haben wir die oberschlauen Stalker, die gedacht haben, sie kцnnten sich uns widersetzen. Wenn du auf der Suche nach Beute bist - kein Problem. Aber vergiss nicht, dass wir das Sagen auf der Mьllhalde haben! Alles, was wir wollen, ist eine kleine Gegenleistung fьr unsere Gastfreundlichkeit. Also beschwer dich nicht, wenn du am Ausgang durchsucht wirst. So lдuft es hier eben.</text>
+	</string>
+	<string id="dm_about_56">
+		<text>Hey, Arschgesicht! Verschwinde hier! Geh zu den Mьllgrдbern, die reden gerne mit dir und erzдhlen dir alles.</text>
+	</string>
+	<string id="dm_about_57">
+		<text>Unser Job hier ist es, die Leute hier auszuquetschen. Sie schrцpfen fьr ihren Profit unser Land und im Gegenzug schrцpfen wir sie. Wir sorgen dafьr, dass es zivilisiert auf der Mьllhalde zugeht und Ruhe herrscht, ist das klar?</text>
+	</string>
+	<string id="dm_about_58">
+		<text>Hier machen echte Kerle das groЯe Geld. Und sie machen es auf Kosten von Trotteln wie dir, ist das nicht toll? Ihr Versager kommt her, habt nichts in der Tasche, wisst nicht, wohin ihr gehen sollt... also sorgen wir dafьr, dass ihr euch den Arsch aufreiЯt und die Drecksarbeit fьr uns erledigt. Ihr wьhlt hier den Mьll nach allem Wertvollen durch und unsere Hдndler verkaufen das dann. So lдuft hier das Geschдft.</text>
+	</string>
+	<string id="dm_about_59">
+		<text>Bist du etwa so ein Pressefuzzi? Steht morgen etwas ьber mich in der Zeitung? Ha ha ha! Schon gut, Bruder, hцr zu. Wir sind die Bosse hier und herrschen ьber die Mьllhalde. Du gibst uns etwas von deiner Beute ab und wir drьcken ein Auge zu. Wenn du nicht zahlst, steckst du in der Tinte. Momentan herrscht so etwas wie ein Goldrausch. Die Sowjets haben hier nдmlich vor Jahren billigen Schrott entsorgt, der aber heute Gold wert ist! Wenn du also unseren Anteil an deiner Arbeit nicht zahlst oder den Helden markierst, landest du schneller im Sammellager, als du "Hilf mir, Mama!" sagen kannst. Auf der Halde zu schuften, ist ungefдhr so prickelnd, wie in einer Uranmine zu arbeiten... dank all der Anomalien und Strahlung. Aber hey, das Gute daran ist, dass man eh nicht lange dort arbeiten kann...</text>
+	</string>
+	<string id="dm_about_60">
+		<text>Wir sorgen hier fьr Recht und Ordnung. Schau, viel zu viele Leute wollen sich am Reichtum der Mьllhalde bedienen. Wir nehmen uns nur unseren Anteil an ihrem Gewinn, das ist fair. Immerhin sorgen wir fьr sichere Arbeitsbedingungen und garantieren die Sicherheit der Menschen hier, und das muss ja irgendwie bezahlt werden. Was es mit dem Sammellager auf sich hat? Nun, dort landen die ganzen Versager, die sich selbst in die ScheiЯe reiten. Das ist nutzloses und linkes Gesindel - wir greifen quasi nur der natьrlichen Selektion unter die Arme!</text>
+	</string>
+	<string id="dm_about_61">
+		<text>Wir sagen hier, wo's langgeht, verstanden? Wir waren schon hier, da gab's noch weit und breit keine Stalker. Daher haben wir auch die Pflicht, allen, die nach uns kommen, ein bisschen helfend zur Seite zu stehen. Und das kostet halt etwas... wenn du verstehst, was ich meine.</text>
+	</string>
+	<string id="dm_action_info_27">
+		<text>Bist du etwa mein Anwalt, oder was? Wenn du irgendwo da drauЯen so eine Frage stellst, kannst du bald darauf sicher gar keine Frage mehr stellen...</text>
+	</string>
+	<string id="dm_action_info_28">
+		<text>Je weniger du weiЯt, desto besser schlдfst du nachts.</text>
+	</string>
+	<string id="dm_action_info_29">
+		<text>Warum fragst du denn? Meine Angelegenheiten gehen nur mich etwas an und niemanden sonst.</text>
+	</string>
+	<string id="dm_action_info_30">
+		<text>Soll ich dir das Hirn rausblasen oder willst du, dass ich dir zuerst verrate, was an deiner Frage falsch war?</text>
+	</string>
+	<string id="dm_action_info_31">
+		<text>Ich mache hier das groЯe Geschдft. Wenn ich einen Versager sehe, knцpfe ich ihn mir vor, teile das Geld mit meinen Jungs, gebe Yoga - lediglich aus Respekt - einen kleinen Teil ab und das war's auch schon. Manchmal ziehen wir grцЯere Sachen ab, aber du erwartest hoffentlich nicht, dass ich dir etwas darьber verrate.</text>
+	</string>
+	<string id="dm_action_info_32">
+		<text>Was ich in der Zone mache? Ich verstecke mich vor ein paar alten neugierigen Freunden. Als ich noch da drauЯen gewesen bin, sind sie mir stдndig auf die Nerven gegangen mit ihren Fragen und klugen Ratschlдgen. Also hatten wir eine... kleine Auseinandersetzung. Du willst mich hoffentlich nicht auch mit dem gleichen Unsinn langweilen, oder? Nein? Schцn, dann geh einfach weiter.</text>
+	</string>
+	<string id="dm_action_info_33">
+		<text>Was gibt es da nicht zu verstehen? Das hier ist das Paradies fьr alle, die wissen, was sie tun. Mit den Wachen und Versagern wird man leicht fertig - es gibt keinen schnelleren Weg zum groЯen Geld als hier bei uns. Wenn du deine Arbeit richtig machst, kannst du absahnen.</text>
+	</string>
+	<string id="dm_action_info_34">
+		<text>Frьher habe ich als Stalker geschuftet. Mit einem Freund habe ich die Zone nach Beute durchkдmmt und bin gerade so ьber die Runden gekommen. Eines Tages sind wir auf einen Telepathen gestoЯen und nur ich habe das Ganze ьberlebt. Ich habe dafьr gesorgt, dass mein Kumpel nicht als Zombie weiterleben muss, und mir geschworen, nie wieder dorthin zu gehen. Jetzt bin ich hier bei diesen Halsabschneidern gelandet. Solange man vorsichtig genug ist, kann man hier gut leben - von vergeben und vergessen halten die nicht viel, wenn du verstehst.</text>
+	</string>
+	<string id="dm_action_info_35">
+		<text>Was geht dich das an? Ich sehe doch auf den ersten Blick, dass du deine eigenen Probleme hast. Hier in der Gegend lebt man nicht sehr lange, wenn man zu viel weiЯ. Apropos draufgehen - willst du noch handeln, bevor du an eine Anomalie gerдtst? Nur die Ruhe, ich nehm dich doch nur auf den Arm.</text>
+	</string>
+	<string id="dm_action_info_36">
+		<text>Jeder hier auf der Mьllhalde - auch ich - hat nur ein Ziel: genug Geld verdienen und sich zur Ruhe setzen. Die Mьllgrдber schuften sich ab, die Stalker durchkдmmen das Land nach Beute und wir kassieren, weil wir hier fьr Ordnung sorgen. Ist zwar keine allzu schwere Arbeit, aber irgendjemand muss sie ja erledigen, oder?</text>
+	</string>
+	<string id="dm_action_info_37">
+		<text>Du musst dir ja sehr wichtig vorkommen mit deinen tollen Fragen, oder? Was ich mache und was ich sage, sind zwei ganz unterschiedliche Paar Schuhe.</text>
+	</string>
+	<string id="dm_action_info_38">
+		<text>Ich nehme die Stalker und Mьllgrдber hier in der Gegend aus. Sie schrцpfen auf der Suche nach Beute unser Land aus und ich nehme mir meinen Anteil daran.</text>
+	</string>
+	<string id="dm_action_info_39">
+		<text>Ich will mit ein paar Freunden ins Dunkle Tal und dort ein paar Freiheitler ausnehmen. Aber das geht nicht ohne Yogas Erlaubnis - er hat hier das Sagen. Und ich wьrde ihn nicht gerne verдrgern, deswegen warten wir momentan noch ab.</text>
+	</string>
+	<string id="dm_action_info_40">
+		<text>Ich bin ganz zufдllig zu den Banditen gestoЯen. Eigentlich wollte ich ein Stalker werden, aber das hat einfach nicht geklappt. Macht nichts. Ich werde etwas Geld sparen, ein paar Kontakte knьpfen und mir meinen Anteil an der Beute aus der Mьllhalde schnappen.</text>
+	</string>
+	<string id="dm_action_info_41">
+		<text>Redest du mit mir? Hast du deinen verfluchten Verstand verloren oder warum fragst du mich das? Warte, ich rufe ein paar meiner Mдnner her - dann zeigen wir dir, was wir mit neugierigen Vollidioten anstellen.</text>
+	</string>
+	<string id="dm_cool_info_11">
+		<text>Ich habe schon viele Knдste gesehen, aber das hier ist einmalig. Das Herz der Zone schlдgt genau hier in der Mьllhalde. Hier gelten unsere eigenen Gesetze. Wenn du in Ruhe leben willst, musst du zahlen. Wenn du nicht zahlst, landest du im Sammellager oder unter der Erde. Ist das klar?</text>
+	</string>
+	<string id="dm_cool_info_12">
+		<text>Von welcher Zone redest du? Von dieser hier? Ach, im Vergleich zu einigen anderen Gefдngnissen, in denen ich schon war, ist das hier doch wie im Kindergarten. Ein Paradies fьr Diebe. Stacheldraht und Soldaten? Ganz egal, wir haben unsere eigene Armee. Du kannst hier so frei wie nirgendwo sonst herumlaufen, bekommst alles, was du von drauЯen willst, und kannst dir jeden Tag die Kante geben - ist das nicht wundervoll? Das einzige Problem ist... es gibt keine Frauen! Denen gefдllt es hier nicht. Manchmal habe ich es so nцtig, dass ich sogar scharf auf Mutanten werde.</text>
+	</string>
+	<string id="dm_cool_info_13">
+		<text>Ziemlich mutig von dir, so eine Frage zu stellen. Jetzt hau ab.</text>
+	</string>
+	<string id="dm_intro_62">
+		<text>Du bist zur falschen Zeit auf der Mьllhalde aufgetaucht, Bruder.</text>
+	</string>
+	<string id="dm_intro_63">
+		<text>Hey, Kumpel! Wenn du nur wьsstest, wie satt ich diese Banditenschweine habe...</text>
+	</string>
+	<string id="dm_intro_64">
+		<text>Schцn, dich zu sehen, Bruder!</text>
+	</string>
+	<string id="dm_intro_65">
+		<text>Bis dann, Bruder!</text>
+	</string>
+	<string id="dm_intro_66">
+		<text>Hals- und Beinbruch, mein Freund! Fang dir keine Kugel ein!</text>
+	</string>
+	<string id="dm_intro_67">
+		<text>Es ist schцn, einen Waffenbruder zu treffen!</text>
+	</string>
+	<string id="dm_about_62">
+		<text>Ich habe gehцrt, dass es hier vor dem ersten Unfall eine riesige Grube gegeben hat. Nach der Explosion des Kraftwerks haben sie die ganzen verstrahlten Fahrzeuge, Ausrьstungsgegenstдnde und was weiЯ ich noch in der Grube entsorgt. Das war so viel Zeug, dass es die Grube mehr als ausfьllte. Und nun sind wir hier und graben uns durch den ganzen Schrott.</text>
+	</string>
+	<string id="dm_about_63">
+		<text>Ganz in der Nдhe gibt es ein Sammellager, in dem die Banditen Stalker wie uns gefangen halten. Lieber sterbe ich, als dort zu enden - die lassen dich dort 16 Stunden am Tag schuften, in den gefдhrlichsten und verseuchtesten Teilen der Zone, ganz ohne Schutz oder Ausrьstung. Sie geben dir nur Abfall zu essen und verprьgeln dich... ich denke, du verstehst. Die Stalker sind nichts weiter als Arbeitstiere fьr diese Mistkerle.</text>
+	</string>
+	<string id="dm_about_64">
+		<text>Als Neuling hast du es hier nicht leicht. Die Monster in der Gegend wьrden dich mit einem Biss verschlingen und die Hдndler wollen nichts mehr, als dich ьber den Tisch zu ziehen. Als ob das nicht reicht, gibt es ja noch die Banditen, die jedem auf die Nerven gehen, und selbst die Stalker sind nicht scharf darauf, ihre Geheimnisse mit dir zu teilen.</text>
+	</string>
+	<string id="dm_about_65">
+		<text>Entweder wir Stalker halten auf der Mьllhalde alle zusammen, oder aber die Banditen nehmen uns alles, was wir haben, und sogar mehr. Und wenn man erst einmal Schulden bei ihnen hat, ist das der direkte Weg in ihr Sammellager. Als ihr Sklave. Dort ьberlebt niemand lange - ein Tag in irgendeinem verstrahlten Loch und man ist schon so gut wie tot.</text>
+	</string>
+	<string id="dm_about_66">
+		<text>Heutzutage herrschen die Banditen ьber die Mьllhalde. Sie haben uns so sehr im Griff, dass wir nicht einmal ohne ihre Erlaubnis scheiЯen gehen kцnnen. Willst du rein? Dann musst zu zahlen. Willst du wieder raus? Dann musst du sogar mehr zahlen. Selbst wenn du etwas Wertvolles findest, heiЯt das noch lange nicht, dass du es damit aus der Mьllhalde schaffen wirst. Wenn du einer Gruppe von Banditen ьber den Weg lдufst, gibt es genau zwei Mцglichkeiten: Entweder du beiЯt auf die Zдhne und gibst ihnen alles... oder du beiЯt ins Gras. Oh, dann gibt es noch die dritte Option, die aber nicht wirklich besser ist: Sie lassen dich im Mьll graben, bis du an einer Anomalie oder der Strahlung verreckst.</text>
+	</string>
+	<string id="dm_about_67">
+		<text>Dieser Ort hier war ursprьnglich ein Mьlldepot fьr radioaktiven Abfall. Sie haben alles hier entsorgt, was im Dunklen geleuchtet hat, und kein Mensch hat sich darum geschert. Bis die Zone auftauchte. Jetzt sind Fleischkonserven, Lampen mit Transistoren und Ersatzteile ihr Gewicht in Gold wert! Deswegen kommen Stalker zum Graben hierher. Aber die Banditen haben die Lage schnell erkannt und herrschen jetzt ьber das Gebiet. Im Endeffekt kassieren sie das ganze Geld - wir erledigen nur die Drecksarbeit und bekommen nichts dafьr.</text>
+	</string>
+	<string id="dm_about_68">
+		<text>Die Banditen kontrollieren alles und jeden hier. Sie legen die Regeln fest, kassieren Steuern von uns Mьllgrдbern und nehmen sich ihren Anteil am Gewinn der anderen. Stalker graben sich durch radioaktiven Abfall und finden alte Gegenstдnde aus der Sowjetzeit, aber die Banditen machen den ganzen Profit. Du mьsstest es ja wissen... du hast doch sicher bezahlen mьssen, um reinzukommen, oder? Na ja, wenn du wieder raus willst, wirst du noch mehr bezahlen, wart's ab.</text>
+	</string>
+	<string id="dm_about_69">
+		<text>Das Beste, was man auf der Mьllhalde machen kann, ist, von hier zu verschwinden. Hier gibt es nichts fьr einen ehrlichen Stalker: Selbst wenn du Glьck hast und etwas findest, nehmen es dir entweder die Banditen weg, oder aber du hast eine gehцrige Ladung Strahlung abbekommen, um an das Zeug zu kommen. Du solltest besser nach Osten ins Dunkle Tal zur Freiheit gehen oder nach Westen zum Agroprom-Institut zu den Wдchtern und normalen Stalkern. Dort findest du unsere Zone, die Stalker-Zone! Das hier ist nichts weiter als ein Tummelplatz fьr Verbrecher... du wirst hier nichts finden, glaub mir.</text>
+	</string>
+	<string id="dm_about_70">
+		<text>Sicher kannst du hier reich werden, warum auch nicht? Erst vor ein paar Tagen habe ich von einem Stalker gehцrt, der eine ganze Menge wertvolles Zeug auf der Mьllhalde gefunden hat. Ich weiЯ nicht genau, was er gefunden hat - da wird immer viel zu viel erzдhlt -, aber danach war er reich, so viel steht fest. Ich werde auch etwas finden. Dann kaufe ich bessere Ausrьstung und gehe weiter, hinter das wilde Gebiet - dort warten die besten Artefakte auf uns!</text>
+	</string>
+	<string id="dm_about_71">
+		<text>Diese Mьllhalde und der bescheuerte Goldrausch! Das Schlimmste, was passieren konnte, war, dass irgendein Glьckspilz irgendetwas Wertvolles in all dem Schrott gefunden hat! Gleich darauf sind die Banden hier eingefallen und haben die Kontrolle ьber die Gegend und die Stalker an sich gerissen. Es ist eine Schande, dass wir Stalker diesem Gesindel erlaubt haben, die Zone und vor allem uns zu beherrschen. Sie haben sogar ein Sammellager errichtet, wo die grцЯten Stцrenfriede landen. Dort muss man dann in radioaktivem Abfall graben, um zu ьberleben - wenn man das ьberhaupt so nennen kann! Glaub mir, wir mьssen hier raus.</text>
+	</string>
+	<string id="dm_about_72">
+		<text>Hцr mir zu, Kumpel, je schneller du von hier verschwindest, desto besser ist es fьr dich. Hier gibt es nichts fьr dich auЯer Steuern und Demьtigungen durch die Banditen. Ach, ein Messer im Rьcken oder vielleicht ein nettes Plдtzchen in einem Sammellager stehen auch noch zur Auswahl. An deiner Stelle wьrde ich abhauen, und zwar so schnell es geht.</text>
+	</string>
+	<string id="dm_about_73">
+		<text>Dieser Ort hier ist unser El Dorado. Du musst wissen, in der Zone hat das Militдr alles im Griff, die haben alles gehortet und weggesperrt. Oft genug kann man nicht einmal eine Fleischkonserve finden, geschweige denn Ersatzteile oder Ausrьstung. Und selbst wenn die Hдndler irgendetwas Interessantes haben, ist es nicht gerade billig. Aber hier ist alles anders. In diesem ganzen Abfall kannst du wertvolle Dinge finden - und sie kosten nichts! Die Sowjets haben nach dem Unfall im Tschernobyl-Kraftwerk alles hier entsorgt. Sicher, ein bisschen Strahlung gibt es hier schon noch und du musst den Banditen ihren Anteil an allem geben, was du findest... aber du kannst trotzdem unheimlich viel finden, und zwar sehr schnell! Schnapp dir also eine Schaufel, Kumpel, und fang an zu graben. Grab, bis du auf deine eigene Goldader stцЯt.</text>
+	</string>
+	<string id="dm_about_74">
+		<text>Wenn du immer noch nicht weiЯt, was die Mьllhalde ist, will ich es dir verraten. Stalker graben hier Sachen aus und die Banditen nehmen sie ihnen weg. Sie haben im alten Depot sogar eine Basis errichtet. Seitdem sie die Mьllhalde kontrollieren, fьhren sie ein ganz anderes Leben - sie machen nichts, auЯer die Mьllgrдber auszuschrцpfen und sich damit eine goldene Nase zu verdienen. Elende Wichser! AuЯerdem findest du hier eine Art Flohmarkt. Dort kaufen die Hдndler all das, was die Mьllgrдber zu bieten haben, und verkaufen ihrerseits nьtzliche, manchmal sogar einzigartige Gegenstдnde. Meistens laufen diese Geschдfte nachts ab, sei also stets auf der Hut - einige der Hдndler verkaufen im Schutze der Dunkelheit gerne mal nutzlosen Schrott. </text>
+	</string>
+	<string id="dm_about_75">
+		<text>Hier an diesem Ort leben die Gierigen und Starken auf Kosten der Gierigen und Schwachen. Die Sache ist nдmlich die: In diesem ganzen verseuchten Mьll kann man - neben sehr viel nutzlosem Schrott - bestimmte Gegenstдnde finden, die in der Zone sehr wertvoll sind. Das zieht natьrlich all die Trottel magisch an, die vom groЯen Reichtum trдumen. Das Problem an der Geschichte ist, dass nur die Starken hier das groЯe Geld machen. Ich war einer der Schwachen und habe dafьr bezahlt!</text>
+	</string>
+	<string id="dm_action_info_42">
+		<text>Meistens grabe ich, aber heutzutage muss man verdammt aufpassen, denn man ist vor niemandem mehr sicher. Bisher waren nur die Banditen das Problem, aber mittlerweile kцnnen auch Stalker genauso gefдhrlich werden. Es ist nicht mehr so wie in den alten Tagen... damals konntest du jedem Stalker deine letzte Fleischkonserve geben und hast gewusst, dass er dasselbe fьr dich tun wьrde, wenn es nцtig wдre. Aber jetzt... herrje!</text>
+	</string>
+	<string id="dm_action_info_43">
+		<text>Nicht viel. Wie auch die anderen Mьllgrдber versuche ich, am Leben zu bleiben und genug Geld fьr etwas Brot, eine Konserve Fleisch und ein bisschen Munition zusammenzukratzen. Wenn ich Glьck habe, werde ich reich und kann diesen verfluchten Ort verlassen. Aber davor will ich noch zum Wunschgцnner gehen - da gibt es etwas, das ich mir schon seit sehr langer Zeit wьnsche.</text>
+	</string>
+	<string id="dm_action_info_44">
+		<text>Ich bin neu hier... weiЯ immer noch nicht, was ich eigentlich machen will. Dabei muss ich verdammt vorsichtig sein, Neulinge sind hier nichts wert. Die Leute faseln ьber Berge von Gold, aber ich kann hier nicht viel Wertvolles sehen. Vielleicht sollte ich das alles vergessen und mich einfach den Wдchtern anschlieЯen...</text>
+	</string>
+	<string id="dm_action_info_45">
+		<text>Ich hoffe auf ein Wunder, wie alle anderen auch. Vielleicht grabe ich ja irgendwann etwas so Wertvolles aus, dass ich damit meine Freiheit von den Banditen erkaufen kann und noch genug ьbrig habe, um ein angenehmes Leben zu fьhren. Wie, du denkst, ich trдume? Na ja, es wдre nicht das erste Mal, dass es klappt. Ich habe von einem Mьllgrдber gehцrt, der einen Haufen Armeefunkgerдte gefunden haben soll. Es heiЯt, dass er jetzt ein angesehener Stalker ist, in Geld schwimmt und eine super Ausrьstung hat. Ich kenne den Typ aber nicht... das war vor meiner Zeit.</text>
+	</string>
+	<string id="dm_action_info_46">
+		<text>Ich suche nach etwas Wertvollem in diesem ganzen Abfall. Hier gibt es eine Menge Sachen aus alten Sowjetzeiten, alles Mцgliche von Fleischkonserven bis Dieselmotoren. Diese Dinge kann man hier in der Zone fьr gutes Geld verkaufen. Man braucht nur etwas Geduld und gute Medikamente gegen die Strahlung.</text>
+	</string>
+	<string id="dm_action_info_47">
+		<text>Ich muss meine Schulden begleichen. Wenn ich nicht genug Beute fьr die Banditen finde, werde ich ihr Sklave und sie lassen mich in den gefдhrlichsten Bereichen der Gegend graben. Und das macht ganz sicher keinen SpaЯ.</text>
+	</string>
+	<string id="dm_action_info_48">
+		<text>Ich war auf dem Weg ins Dunkle Tal, als mir diese Drecksдcke am Eingang mein ganzes Geld abgenommen haben. Und am Ausgang muss man ja ebenfalls zahlen! Ich will meinen Stalker-Freunden nicht wie ein armer Penner vorkommen, deswegen versuche ich hier, ein bisschen was zusammenzusparen, bevor ich weitergehe. Das Blцde ist, je mehr ich schufte, desto grцЯer scheinen meine Schulden zu werden. Aber das macht nichts... ich werde hier schon bald verschwinden.</text>
+	</string>
+	<string id="dm_action_info_49">
+		<text>Ich wollte mich den Wдchtern beim Agroprom-Institut anschlieЯen. Da war ein Typ, der hat gesagt, er wьrde mir helfen, dorthin zu gelangen. Als wir aber auf der Mьllhalde angekommen sind, hat er sich mit meinem Geld aus dem Staub gemacht. Jetzt stecke ich hier fest und versuche, genug Geld fьr einigermaЯen gute Ausrьstung und Waffen zu verdienen. Aber glaub mir, das ist nicht so einfach. Die Banditen wissen ganz genau, dass es nicht die allerbeste Idee ist, den Mьllgrдbern den Zugang zu Waffen zu gestatten, deswegen verstehen sie in der Hinsicht keinen SpaЯ. Hier an Waffen und Munition zu gelangen, ist schwieriger, als du dir vorstellst.</text>
+	</string>
+	<string id="dm_action_info_50">
+		<text>Ich war mit einem Kumpel unterwegs zur Grenze, um dort ein paar Stalker-Freunde zu treffen, aber wir haben auf der Mьllhalde Halt gemacht. Mein Freund war total bescheuert und hat sich geweigert zu zahlen; er hat angefangen, sich mit den Banditen zu streiten. Die haben sich das nicht lange angehцrt - sie haben ihn einfach zu ihrem Sklaven gemacht und das war's dann. Jetzt reiЯe ich mir hier also den Arsch auf, um seinen zu retten... damit wir weitergehen kцnnen. Ich habe sogar eine gute Route im Kopf und bin jetzt doch etwas erfahrener als noch am Anfang. Aber hier lдsst es sich nicht einfach Geld verdienen - die Steuern sind hoch und abgesehen davon kommt man fast nicht an Waffen und Munition heran. Das wird alles an den Eingдngen von den Banditen beschlagnahmt.</text>
+	</string>
+	<string id="dm_action_info_51">
+		<text>Mein Bruder ist in der Zone verschwunden. Ich bin gekommen, um nach ihm zu suchen, aber die Banditen haben mich aufgehalten. Mittlerweile habe ich mich mit ein paar Stalkern hier aus der Gegend unterhalten und die behaupten, dass sich mein Bruder hier eine Weile aufgehalten hat. Jetzt versuche, so viel wie mцglich herauszufinden... hoffentlich kann ich ihn finden! Wer weiЯ, vielleicht ist er sogar noch am Leben...</text>
+	</string>
+	<string id="dm_action_info_52">
+		<text>Ich bin hier schon seit Ewigkeiten auf der Suche nach etwas Wertvollerem als eine alte Fleischkonserve. Hatte aber bisher kein Glьck. Mitya da drьben hat ganz in der Nдhe von meinem "Arbeitsplatz" einen Motor und ein paar Kugellager gefunden. Das ist zwar nicht schlecht, aber noch besser wдre es, wenn er jemand finden kцnnte, der ihm das Zeug abkauft! Ha ha! Na ja, ich werde auch bald etwas Nьtzliches ausgraben.</text>
+	</string>
+	<string id="dm_action_info_53">
+		<text>Ich war auf dem Weg zum Agroprom-Institut, konnte aber dem Goldrausch hier nicht widerstehen. Ein paar nьtzliche Sachen habe ich schon gefunden, die sich gut verkauft haben - und das ist doch viel einfacher und sicherer, als irgendwelche Artefakte aus Anomalien zu fischen, oder? Am wichtigsten ist, immer den Geiger-Zдhler im Auge zu behalten... sonst leuchtet man den kьmmerlichen Rest seines Lebens wie ein Weihnachtsbaum.</text>
+	</string>
+	<string id="dm_action_info_54">
+		<text>Ich bin auf der Suche nach Beute. Wir waren eine Gruppe vom Anfдngerdorf und sind hergekommen, als wir von den Gerьchten gehцrt haben, dass man auf der Mьllhalde wertvolle Sachen finden kann. Wenn wir abgewartet hдtten, bis wir gelernt haben, wie man Artefakte findet, hдtten wir den ganzen SpaЯ verpasst. Zumindest haben wir das so gedacht. Wдren wir doch nur im Dorf geblieben! Zwei von uns sind hier gleich draufgegangen, ein anderer ist im Sammellager gelandet... wer weiЯ, vielleicht ist er auch schon gestorben. Mann, wenn ich eine Waffe hдtte, wьrde ich es diesen Banditen zeigen! Sie scheinen nicht die Hellsten zu sein, aber sie haben die Gegend fest im Griff. Sie sorgen dafьr, dass wir voneinander getrennt sind und uns nicht zusammenschlieЯen. Hier eine Waffe zu finden, ist so gut wie unmцglich. Wir kцnnen graben, wo wir wollen, aber wehe, wenn mehr als drei von uns zusammenkommen! Ich sage dir, wir Stalker mьssen uns irgendwie zusammenschlieЯen und diese Mistkerle zum Teufel jagen.</text>
+	</string>
+	<string id="dm_cool_info_14">
+		<text>Ich kenne da ein paar Stalker, die eine Zeit beim Agroprom-Institut verbracht haben. Die haben mir gesteckt, dass die Wдchter ziemlich groЯe Probleme mit Monstern haben. Da sind wohl irgendwelche Hцhlen eingestьrzt und jetzt strцmen da alle mцglichen Monster heraus.</text>
+	</string>
+	<string id="dm_cool_info_15">
+		<text>Ich war mit einem Kumpel bei den Militдrlagern - nach der Emission sieht es da ganz schlecht aus. Das Militдr musste ziemlich viel einstecken; die Freiheitler versuchen, ihre Basis einzunehmen, und aus dem Zentrum strцmen die Monolither und Monster heraus und tцten alles und jeden auf ihrem Weg. Man kann zwar hier und da Funkfetzen empfangen, aber die Leute sind nirgends zu finden. Kurz gesagt: Je nдher man dem Zentrum kommt, desto grцЯer werden die Probleme.</text>
+	</string>
+	<string id="dm_cool_info_16">
+		<text>Es heiЯt, dass man nach der Emission die Orte erreichen kann, die zuvor unzugдnglich waren - wie z.B. den Roten Wald oder die Sьmpfe. Dafьr sind jetzt die Wege zu anderen Orten verschlossen, die man vorher leicht erreichen konnte. So kann man z.B. nicht mehr nach Rostok gelangen... und vor der Emission hielten sich dort viele Stalker auf... niemand weiЯ, was mit ihnen geschehen ist.</text>
+	</string>
+	<string id="dm_intro_68">
+		<text>Hey!</text>
+	</string>
+	<string id="dm_intro_69">
+		<text>Hey, Sцldner. Wenn du hier bist, um gegen die Zonenbrut zu kдmpfen, bist du bei den Wдchtern ganz richtig.</text>
+	</string>
+	<string id="dm_intro_70">
+		<text>Hey! Komm zu den Wдchtern - der Fraktion fьr echte Mдnner.</text>
+	</string>
+	<string id="dm_intro_71">
+		<text>Sei vorsichtig hier und halte dich an die Hauptwege. Ein falscher Schritt und schon landest du auf dem Frьhstьcksteller von irgendeinem Monster.</text>
+	</string>
+	<string id="dm_intro_72">
+		<text>Hey!</text>
+	</string>
+	<string id="dm_intro_73">
+		<text>Hallo, Freund. Du solltest dich hier besser nur auf Zehenspitzen bewegen. Drei, vier Mal pro Nacht angegriffen zu werden ist weitaus weniger lustig, als es klingt.</text>
+	</string>
+	<string id="dm_intro_74">
+		<text>Du kommst zu einer schlechten Zeit, Stalker. Wir befinden uns im Krieg.</text>
+	</string>
+	<string id="dm_intro_75">
+		<text>Hey! Halt schцn die Augen offen, die Viecher hier sind verdammt schlau. Einmal nicht aufpasst und schon kriegst du eine eingeschenkt. </text>
+	</string>
+	<string id="dm_intro_76">
+		<text>Hallo, Freund. Ist mir immer eine Freude, andere Stalker kennen zu lernen.</text>
+	</string>
+	<string id="dm_intro_77">
+		<text>Was geht? Ein herzliches ukrainisches Willkommen. </text>
+	</string>
+	<string id="dm_intro_78">
+		<text>Hey, Bruder! Wenn du 'ne Frage hast, schieЯ los.</text>
+	</string>
+	<string id="dm_about_76">
+		<text>Was gibt's zu erzдhlen? Sieh dich einfach um und du weiЯt Bescheid.</text>
+	</string>
+	<string id="dm_about_77">
+		<text>Diese verdammten Monster kommen von allen Seiten - je mehr wir tцten, desto mehr kommen nach! Ach egal, wir werden trotzdem gewinnen. Wir brдuchten nur ein paar anstдndige Waffen und ein paar gute Kдmpfer. Wenn wir die hдtten, wьrden wir hier in null Komma nichts aufrдumen und unsere gefallenen Brьder rдchen. </text>
+	</string>
+	<string id="dm_about_78">
+		<text>Ich sag dir, der Ort hier ist verflucht. Nicht nur das Agroprom-Institut, sondern die ganze Zone. Wir kдmpfen zwar weiter, aber gegen wen? Normale Monster vermehren sich nicht so schnell! Die, die wir heute erledigt haben, kommen morgen mit Verstдrkung wieder.</text>
+	</string>
+	<string id="dm_about_79">
+		<text>Hier findest du nichts, auЯer vielleicht einer Kugel. Jede Nacht greift uns ein Heer von Mutanten an, das wir aufhalten mьssen. Unsere Basis im ehemaligen Forschungsinstitut ist eine andere Sache. Dort findest du eine Bar, einen Hдndler, einen Reparaturladen und noch einiges andere - sieh dich einfach selbst mal um. Auf dem neutralen Territorium kannst du dich auЯerdem ausruhen und deine Waffen pflegen. Wenn ich mich nicht irre, ist Orest ihr Boss. Solltest du diesen Ort verlassen wollen, geh nach Osten zur Mьllhalde, nach Sьden in die Sьmpfe oder nordwдrts zum Jantar-See und der Forschungsbasis.</text>
+	</string>
+	<string id="dm_about_80">
+		<text>Hier war mal ein Forschungsinstitut namens... дh, Agroprom Forschungsinstitut. Was immer hier auch vorher gemacht wurde, jetzt ist es unsere Basis. Unser Kommandant ist General Krylow, wir nennen ihn einfach Kommodore. Natьrlich nur, wenn er nicht dabei ist. AuЯerdem gibt's hier noch eine neutrale Basis, in der verlassenen Fabrik. Wenn du nach Sьden gehst, kommst du in die Sьmpfe. Die Banditen haben die Mьllhalde im Osten ьbernommen - die Bastarde nutzen aus, dass wir zu viel zu tun haben, um uns auch noch um sie zu kьmmern. Im Norden liegt der Jantar-See. Angeblich gibt's dort irgendwelche Emissionen, die Menschen in Zombies verwandeln. Da wir aus der Richtung immer von groЯen Massen angegriffen werden, scheint was an der Behauptung dran zu sein.</text>
+	</string>
+	<string id="dm_about_81">
+		<text>Willst du ein paar Stalker-Abenteuer hцren? Tja, da bist du falsch hier, Kleiner. Willkommen in der Wirklichkeit. Nachts sind hier so viele Monster, dass wir kaum mit dem Hosenwaschen nachkommen. Siehst du die Lцcher da? Da drьben, die Bodenspalten? Tja, sobald es dunkel wird, klettern die Viecher da raus. Ich sag's dir, mein Junge, das ist kein schцner Anblick. Denk bloЯ nicht, dass die da allein oder im Dutzend rauskommen... Wenn die Lust auf 'ne Party haben, dann gibt's kein Halten mehr, so viel ist mal sicher. Wir erledigen so viel, wie wir kцnnen, aber irgendwie hilft das auch nichts - da muss irgendwo 'n unterirdisches Nest sein... am Besten jagt man hier eine Atombombe hoch und schon ist alles gelцst!</text>
+	</string>
+	<string id="dm_about_82">
+		<text>Hier wird's langsam heiЯ, mein Junge, ich sag's dir! Letzte Woche sind wir zurьck zur Basis und haben ein paar von unseren Leuten hier zurьckgelassen. Nachts wurden sie angegriffen - soweit nichts Ungewцhnliches. Aber als wir am nдchsten Morgen zurьckkamen, gab's hier nichts mehr. Kein Zeichen von unseren Leuten, keine Leichen, keine toten Monster... nur blutverschmierte, leere Rьstungen und Spuren auf dem Boden.</text>
+	</string>
+	<string id="dm_about_83">
+		<text>Ich hab den Ort hier so satt. Wir sind hier seit Gott weiЯ wie viel Wochen und mit jedem Monsterangriff wird's schlimmer. Ich hab nicht mehr genug Wut in mir, um gegen sie zu kдmpfen, ganz zu schweigen von Munition. Manchmal wьrde ich am liebsten meine Knarre fallen lassen und die Bastarde mit bloЯen Hдnden erledigen. Wer weiЯ, vielleicht pfuschen die Monster irgendwie in unseren Kцpfen rum. Na ja, frьher oder spдter erwischen wir sie schon.</text>
+	</string>
+	<string id="dm_about_84">
+		<text>Einmal haben wir nach einem Ьberfall ein SOS-Signal von unseren Jungs hier im Agroprom-Institut erhalten. "Hilfe, wir werden ьberrannt!" und dann kommen nur noch Schьsse, Schreie und Gebrьll ьber den Empfдnger. Innerhalb weniger Minuten hatten wir 20 Leute zu ihrer Verstдrkung losgeschickt, aber als wir dort ankamen, herrschte nur noch Totenstille und es war keine Menschenseele zu sehen. Nur eine flackernde Taschenlampe am Boden. Nachdem die Sonne aufgegangen war, versuchten wir, ihren Spuren zu folgen, aber die fьhrten zum Institut im Untergrund. Und nachdem bei einem vorherigen Angriff schon mal der Tunnel eingebrochen war, hatten wir Angst hineinzugehen. Das war dann auch das Letzte, was wir von unseren Jungs gesehen haben. </text>
+	</string>
+	<string id="dm_about_85">
+		<text>Verschone mich mit deinen Fragen, Kollege. Mir geht's so schon schlecht genug. Wir verlieren hier jede Nacht Freunde - einige sterben im Kampf, andere verschwinden einfach. Manchmal, wenn du morgens zur Wachablцsung bei einem der AuЯenposten aufschlдgst, findet man nur ein schwelendes Lagerfeuer und Totenstille vor. Ein verdammt unheimlicher Anblick ist das. Belдstige also lieber jemand anderen mit deinen Fragen - wir Wдchter drehen auch schon ohne deine Hilfe durch.</text>
+	</string>
+	<string id="dm_about_86">
+		<text>Wir haben hier ьberall AuЯenposten. Jede Nacht tauchen wie aus dem Nichts diese Viecher auf - so viele, dass man nicht mal mehr zielen braucht. Da hilft nur Dauerfeuer und beten! Sie klettern aus diesen Erdlцchern und wir versuchen, sie aufzuhalten. Wo kommen die her? Ach, das weiЯ nur der Teufel...</text>
+	</string>
+	<string id="dm_about_87">
+		<text>Mutanten kommen aus der Erde unter dem Agroprom-Institut gekrochen. Ich schдtze, die Tunnel haben ihr Versteck verschьttet, als unsere Jungs versucht haben, die Untergrundpassagen zu sprengen. Wir kommen mit dem Zдhlen nicht mehr nach, so viele haben wir schon abgeschlachtet. Du kommst nicht zufдllig von den Freiheitlern, oder? Irgendwie kommst du mir bekannt vor... Okay, pass gut auf dich auf.</text>
+	</string>
+	<string id="dm_about_88">
+		<text>Dein erstes Mal im Agroprom, hm? Dann pass mal auf. Unsere Basis befindet sich im ehemaligen Forschungsinstitut. Die alte Fabrik wird von neutralen Stalkern gehalten. Manchmal werden wir gleichzeitig aus nцrdlicher Richtung von Zombies vom Jantar-See und von Monstern aus dem Untergrund angegriffen. Im Osten liegt die Mьllhalde, und wenn du nach Sьden gehst, gelangst du in die Sьmpfe.</text>
+	</string>
+	<string id="dm_about_89">
+		<text>Wir haben hier auf jeden Fall eine anstдndige Basis. Eine SchieЯanlage, ein Zoo, das "Friedliche Atom" - so heiЯt die Bar hier - alles, was man braucht. Aber denke nicht, dass wir hier nur rumhдngen. Die Disziplin steht bei uns an erster Stelle!</text>
+	</string>
+	<string id="dm_about_90">
+		<text>Agroprom ist ein ehemaliges Forschungsinstitut. Seit es die Zone gibt, ist hier aber nicht mehr viel mit dem Forschen. Ha-ha. Stattdessen haben wir das Gebдude zu unserer Basis gegen die Monster aus der Zone umfunktioniert. Wir halten hier die Stellung gegen die Monster aus dem Untergrund. Wir kдmpfen hier, um anderen Stalkern das Leben zu retten - manchmal auf Kosten unseres eigenen.</text>
+	</string>
+	<string id="dm_about_91">
+		<text>Frьher war das Leben hier wesentlich einfacher. Klar, damals gab's auch Monster, aber die waren kein Problem fьr uns. Heutzutage sieht's hier dafьr echt finster aus. Wir erledigen jede Nacht Dutzende dieser Viecher, und je mehr wir tцten, desto mehr kommen in der nдchsten Nacht nach. Wir sterben hier wie die Fliegen.</text>
+	</string>
+	<string id="dm_about_92">
+		<text>Wir - das heiЯt die Wдchter - bekдmpfen die Monster, die versuchen, nach oben zu kommen. Wir haben also nicht viel Zeit zum Plaudern. Das verstehst du bestimmt. Wenn du's dir einfach machen willst, geh zur neutralen Basis in der verlassenen Fabrik. Oder du bleibst hier und hilfst uns - erfahrene Kдmpfer sind bei uns immer willkommen. Unser Kommandant wird dich fьr jede Hilfe gut bezahlen, die du den Wдchtern gibst. </text>
+	</string>
+	<string id="dm_action_info_55">
+		<text>Du bist einer von der neugierigen Sorte, hm? Du willst wissen, warum wir gegen die Zone kдmpfen? Darum! Weil das ein Heiliger Krieg ist, nicht mehr, nicht weniger! Entweder wir gewinnen oder wir gehen unter. Dazwischen gibt es nichts. Mit der Zone kann man nicht verhandeln. Du bist also entweder fьr uns oder gegen uns.</text>
+	</string>
+	<string id="dm_action_info_56">
+		<text>Wonach sieht das wohl aus? Ich hab nichts Besseres zu tun, also habe ich als Hobby mit dem Malen angefangen. Sobald es dunkel wird, wird neue Farbe geliefert. Junge, wir befinden uns im Krieg gegen die Mutanten, ein richtiger Krieg... Blut und Eingeweide. Wir sollten einen letzten Schlag gegen diesen dreckigen Mutantenabschaum fьhren. Ich meine, irgendwann muss denen doch der Nachschub ausgehen, oder?</text>
+	</string>
+	<string id="dm_action_info_57">
+		<text>Ich bekдmpfe die Zone. Du willst wissen, warum? Tja, dann stell dir doch mal vor, da kommt irgendso 'n Freak zu dir, schlдgt in einer Ecke sein Lager auf und beginnt, nach und nach dich und deine Familie rauszuekeln. Was wьrdest du tun? Du wьrdest dir den Kerl greifen und ihn hochkant rauswerfen, oder? Das beschreibt ganz gut, was die Wдchter hier machen. Unser Auftrag ist es, die Zone dahin zurьckzudrдngen, wo sie herkam, und das geht am besten in einem offenen Krieg. Was? Hast du vielleicht 'ne bessere Idee?</text>
+	</string>
+	<string id="dm_action_info_58">
+		<text>Ich bekдmpfe die Dinger, die uns nachts den Schlaf rauben. Fьr mich besteht die Aufgabe eines Stalkers darin, die Manifestationen der Zone zu vernichten. Ich kapiere nicht, wie man das anders sehen kann. Wenn man nichts gegen ein Geschwьr unternimmt, wird frьher oder spдter der ganze Kцrper krank, oder? Und dann verbreitet sich dieses Ungeziefer ьber den ganzen Planeten. Wie wird dann wohl die Zukunft unserer Kinder aussehen: links - ein Monster, rechts - eine Anomalie. Welche Seite ist dir lieber?</text>
+	</string>
+	<string id="dm_action_info_59">
+		<text>Die Zone ist abgrundtief bцse. Eine Bedrohung, die ьber unserem Planeten hдngt wie eine Henkersaxt ьber dem Hals eines zum Tode Verurteilten. Leider versteht das nicht jeder. Die paar, die's kapieren, haben zusammen die Wдchter gegrьndet, eine Gruppe, die verhindern will, dass sich das Bцse weiter ausbreitet. Du hast selbst gesehen, wie viele Mutanten wir jeden Tag auslцschen. Stell dir vor, was los wдre, wenn wir sie einfach aus der Zone rausspazieren lassen wьrden. Kurz gesagt, wir sind die letzte Verteidigungslinie der Menschheit, mein Junge, und ich verstehe beim besten Willen nicht, wie jemand gegen uns sein kann und diese einfachen Tatsachen nicht versteht.</text>
+	</string>
+	<string id="dm_action_info_60">
+		<text>Ich erfьlle meine Pflichten der Menschheit gegenьber und das sind nicht nur schцne Worte - das ist die Wahrheit. Wovor ich sie beschьtze? Vor der Zone und ihrer elenden Brut. Wir mьssen die Quelle dieser bцsen Krankheit vernichten, bevor sie uns vernichtet.</text>
+	</string>
+	<string id="dm_action_info_61">
+		<text>Ich kдmpfe an der Seite meiner Kameraden gegen die Mutanten. Davon gibt's heutzutage jede Menge. AuЯerdem mьssen wir uns noch um die Zombies kьmmern, die von Zeit zu Zeit vom Jantar-See herunterkommen. Wenn du dich dem besten Kдmpfer-Clan anschlieЯen mцchtest, dann bist du bei den Wдchtern richtig.</text>
+	</string>
+	<string id="dm_action_info_62">
+		<text>Ich weiЯ nicht, was fьr ein Viech der Inquisitor haben mцchte. Er hat in unserer Basis einen Zoo, in dem er Tierarten der цrtlichen Fauna hдlt. Ich hдtte da gerne 'nen Telepathen drin, aber selbst wenn wir einen in die Finger bekдmen, wьrde er uns wahrscheinlich alle in Zombies verwandeln. </text>
+	</string>
+	<string id="dm_action_info_63">
+		<text>Ich bin erst seit kurzem bei den Wдchtern, aber das war die beste Entscheidung meines Lebens. Hier arbeiten nur Profis. Der Clan ist diszipliniert und gut organisiert. </text>
+	</string>
+	<string id="dm_action_info_64">
+		<text>Ich bin neu hier und versuche, mir einen Ьberblick zu verschaffen. Frьher bin ich alleine in die Zone gegangen. Jetzt lerne ich, denen, die diese harten Zeiten mit mir durchleben, den Rьcken freizuhalten.</text>
+	</string>
+	<string id="dm_action_info_65">
+		<text>Ich befolge meine Befehle. Hier ist es wie in der Armee - wir haben einen Kommandanten, Offiziere und einfache Soldaten. Alles ganz einfach. Wenn du deine Befehle befolgst, bleibst du vielleicht sogar am Leben. </text>
+	</string>
+	<string id="dm_action_info_66">
+		<text>Ich bekдmpfe diese verdammten Monster. Was soll ich sagen? Ich bin die dauernden Angriffe in der Nacht leid. Aber wir werden das schon durchstehen. Irgendwann schaffen wir's, das Zentrum der Zone zu finden und dann setzen wir dieser Monsterplage ein fьr alle Mal ein Ende. </text>
+	</string>
+	<string id="dm_action_info_67">
+		<text>Viele meiner Freunde waren schon bei den Wдchtern, da bin ich auch beigetreten. Die Entscheidung hat mich mehrere Monate gekostet. Ich war mir nicht sicher, ob es das Richtige ist, aber wenn ich jetzt an meine damaligen Zweifel denke, muss ich lachen. Es ist groЯartig bei den Wдchtern und es ist auch wesentlich sicherer, als alleine in der Zone herumzurennen.</text>
+	</string>
+	<string id="dm_cool_info_17">
+		<text>Nichts Gutes. Es wird jeden Tag schlimmer, besonders nach der groЯen Emission. Irgendetwas hat die Zone aufgerьttelt. Danach wurde sie noch gefдhrlicher fьr Menschen. Die Monster sind schneller, wьtender und sogar noch gnadenloser als vorher. Zu allem Ьberfluss haben die Clans dann auch noch angefangen, sich untereinander zu bekдmpfen. Aus unseren Reihen haben nur wenige Ausflьge in die Zone unternommen... Sie sagen, es hдtten sich dort Wege in neue Gegenden geцffnet.</text>
+	</string>
+	<string id="dm_cool_info_18">
+		<text>Die Zone ist jedes Mal anders. Sie ist nie so wie beim letzten Mal. Es herrscht ein einziges Chaos. Es ist an der Zeit, dass die Wдchter fьr etwas Ordnung in der Zone sorgen. Als die Zone durch die Emission verдndert wurde, begannen die Kдmpfe um die Besitzverhдltnisse. Sollten wir die neuen Gegenden ьbernehmen, wьrden wir fьr gleichwertigen Zugang fьr alle Gruppen sorgen. Abgesehen von den Freiheitlern vielleicht. Egal, jedenfalls ist die Hдlfte unserer Jungs dabei, tiefer in die Zone vorzudringen.</text>
+	</string>
+	<string id="dm_cool_info_19">
+		<text>Ich habe von einem neuen Mutanten gehцrt, der in der Nдhe der Sьmpfe hausen soll. Er soll aussehen wie 'n Blutsauger, ist aber noch gefдhrlicher. Er pirscht leise durchs Buschwerk, auf der Suche nach Beute und dann... "bumm!" - und schon hдlt er einen leblosen Kцrper in den Klauen. Frьher haben sie ausschlieЯlich in den Sьmpfen gelebt, aber inzwischen wurden leider auch hier in der Gegend einige Exemplare gesichtet. </text>
+	</string>
+	<string id="dm_cool_info_20">
+		<text>Viele der Anomalien und Artefakte sind nicht mehr sichtbar. Ich schдtze, die Emissionen haben die Zone mit anormaler Energie vollgepumpt. Dadurch mьssen die Anomalien und Artefakte neue Eigenschaften entwickelt haben. Ich wдre an deiner Stelle vorsichtig. Man kann nicht mehr so einfach in der Zone umherlaufen. Heutzutage kann ein Detektor den Unterschied zwischen Leben und Tod ausmachen. Wenn du allerdings an die wirklich fetten Dinger heranwillst, besorgst du dir am besten einen richtig guten. Denk daran und sei vorsichtig.</text>
+	</string>
+	<string id="dm_intro_79">
+		<text>Hey, Mann!</text>
+	</string>
+	<string id="dm_intro_80">
+		<text>Was geht, Bruder?</text>
+	</string>
+	<string id="dm_intro_81">
+		<text>Guten Tag! Nicht schieЯen... Wir sind Freunde.</text>
+	</string>
+	<string id="dm_intro_82">
+		<text>Hast du 'ne Frage an mich, Stalker?</text>
+	</string>
+	<string id="dm_intro_83">
+		<text>Brauchst du einen Rat?</text>
+	</string>
+	<string id="dm_intro_84">
+		<text>Guten Tag, Freund.</text>
+	</string>
+	<string id="dm_intro_85">
+		<text>Was kann ich fьr dich tun?</text>
+	</string>
+	<string id="dm_intro_86">
+		<text>Wenn du das erste Mal hier im Dunklen Tal bist, solltest du einen Abstecher zur Freiheitsbasis machen. Da geht's hoch her, besonders der Streit zwischen dem Mechaniker und Ashot.</text>
+	</string>
+	<string id="dm_intro_87">
+		<text>Jo, Bruder!</text>
+	</string>
+	<string id="dm_intro_88">
+		<text>Willkommen, Freund!</text>
+	</string>
+	<string id="dm_intro_89">
+		<text>Willkommen im Land der freien Stalker!</text>
+	</string>
+	<string id="dm_about_93">
+		<text>Hier ist der beste Platz der Zone, hier ist nдmlich die Freiheitsbasis. Was kьmmern uns die Mutanten und Anomalien. Ein guter Drink und selbst ein Vortex regt dich nicht mehr auf. Und wenn du auf der Suche nach einem guten Drink bist, liegst du hier genau richtig.</text>
+	</string>
+	<string id="dm_about_94">
+		<text>Das Dunkle Tal ist ein Zufluchtsort fьr freie Stalker. Hier quatscht dich niemand mit Pflichten oder dem Kodex zu. In der verlassenen Fabrik findest du den besten Clan der Zone und du hast gute Chancen, ihm beizutreten. Wir sind hier an einer strategisch gьnstigen Stelle. Im Westen ist die Mьllhalde, der Kordon ist im Sьden und im Norden befinden sich die Militдrlager.</text>
+	</string>
+	<string id="dm_about_95">
+		<text>Die Hauptattraktion des Dunklen Tals ist die Freiheitsbasis. Du kannst sie gar nicht verfehlen - halte einfach nach einer riesigen Fabrik Ausschau. Niemand kann deine Knarre oder Rьstung besser reparieren als Onkel Jar. Wenn du auf der Suche nach gьnstiger Ausrьstung bist, dann ist Ashot dein Mann. Solltest du dir eine wohlverdiente Auszeit gцnnen wollen, schau mal im "Schluck der Freiheit" vorbei. Der Schluck ist in der ganzen Zone fьr seine groЯzьgigen Portionen bekannt. AuЯerdem werden dort Jobs angeboten, falls du dich dafьr interessierst.</text>
+	</string>
+	<string id="dm_about_96">
+		<text>Wir haben gerade ein paar Probleme - irgendjemand tцtet unsere Jungs gleich im Dutzend. Alle Freiheitler, die gerade nichts anderes zu tun haben, sollen sich schnellstmцglich im Tal einfinden, um den Feind zu identifizieren. AuЯerdem bewachen wir jetzt auch die Eingдnge... Man kann heutzutage nicht vorsichtig genug sein.</text>
+	</string>
+	<string id="dm_about_97">
+		<text>Das Tal ist voller alter, verlassener Fabriken. Angeblich gibt es dort auch unterirdische Forschungslabore. Die sind selbstverstдndlich auch verlassen. Wie es unter der Erde aussieht, weiЯ ich nicht genau, aber ьber der Erde haben wir unsere Basis in einer der Fabriken errichtet. Schau mal in der Bar vorbei, wenn du Zeit hast - da wirst du auf jeden Fall 'ne Menge SpaЯ haben, so viel ist sicher.</text>
+	</string>
+	<string id="dm_about_98">
+		<text>Das Dunkle Tal? Was gibt's da zu erzдhlen? Ich bin kein guter Geschichtenerzдhler. Warum fragst du nicht Ashot oder Ganja? Falls du's noch nicht weiЯt, das sind der Hдndler und der Barkeeper unserer Basis. </text>
+	</string>
+	<string id="dm_about_99">
+		<text>Am Tal selbst gibt's nichts Besonderes. Hier kann man von allem etwas finden: Monster, Anomalien und sogar ein paar Artefakte, man muss bloЯ wissen, wo man suchen muss. Abgesehen davon ist es hier genauso wie ьberall sonst. Die verlassene Fabrik kam uns allerdings дuЯerst gelegen - ein perfekter Ort fьr unsere Basis. </text>
+	</string>
+	<string id="dm_about_100">
+		<text>Hier ist ein guter Ausgangspunkt fьr unerfahrene Stalker. Der Kordon ist nicht weit und Anomalien sind nur selten und mit grцЯerem Abstand vorhanden. Sogar Monster sind hier selten! AuЯerdem kannst du hier mit etwas Glьck anstдndig Beute machen und dann in unserer sicheren Basis verkaufen. Es ist schwierig, sich auf dem Weg hierher durch die militдrischen AuЯenposten und die Mьllhalde zu schlagen, ohne eine krдftige Ladung Strahlung abzubekommen.</text>
+	</string>
+	<string id="dm_about_101">
+		<text>Im Dunklen Tal kцnnen Anfдnger den Stalker-Beruf erlernen und ihre ersten Artefakte sammeln. Erfahrene Profis kцnnen sich hier von dem Albtraum der "echten" Zone erholen und Kraft fьr einen erneuten Versuch tanken. Beide kцnnen sich im "Schluck der Freiheit" entspannen, ihre Ausrьstung bei Ashot reparieren lassen oder mit ihm handeln - alles innerhalb unserer Basis.</text>
+	</string>
+	<string id="dm_about_102">
+		<text>Am besten finde ich den "Schluck der Freiheit". Echt 'ne coole Bar - der Besitzer heiЯt Ganja... Der Name passt wie die Faust aufs Auge. In der Bar fьhlt man sich fast wie drauЯen... Mehr hab ich nicht zu erzдhlen, der ganze Rest interessiert mich eigentlich nicht.</text>
+	</string>
+	<string id="dm_about_103">
+		<text>In der Freiheitsbasis gibt es einen Techniker, der dir eine Flak aus einer rostigen AK bauen kann. Ich sag's dir, Mann, der Kerl ist ein echtes Genie. Und der Hдndler ist auch ein korrekter Kerl.</text>
+	</string>
+	<string id="dm_about_104">
+		<text>Irgendetwas Merkwьrdiges geht in letzter Zeit vor. Irgendjemand tцtet unsere Jungs einen nach dem anderen. Wir haben ьberall im Tal StraЯensperren errichtet, aber geholfen haben sie bisher nichts. Immer wieder werden einzelne Gruppen unserer Leute angegriffen, und wenn wir zur Verstдrkung ankommen, ist schon alles vorbei. Wir haben keinen blassen Schimmer, wer das sein kцnnte. Wir verdдchtigen uns inzwischen schon gegenseitig. </text>
+	</string>
+	<string id="dm_about_105">
+		<text>Das Tal ist ein echtes Wespennest geworden. Alle sind nervцs und jeder Neuling ist verdдchtig. Irgendjemand vernichtet einen AuЯenposten nach dem anderen und wir haben nicht die leiseste Ahnung, wer das sein kцnnte. Wir vertrauen uns inzwischen kaum noch gegenseitig. Die Jungs haben die Schnauze voll - jeder hat schon Freunde bei einem dieser Angriffe verloren.</text>
+	</string>
+	<string id="dm_about_106">
+		<text>Und was geht dich das an? Nimm's nicht persцnlich, aber die Bastarde spielen uns seit einer Weile ganz schцn ьbel mit: Sie greifen unsere AuЯenposten und Patrouillen an, und wenn Hilfe eintrifft, findet sie nur noch Leichen. Keine Hinweise, gar nichts... Deshalb sind wir auf der Suche nach einem Verrдter aus unseren eigenen Reihen. </text>
+	</string>
+	<string id="dm_about_174">
+		<text>Hier geht gerade alles den Bach runter. Irgendjemand hat es auf die Freiheitskдmpfer abgesehen, aber niemand weiЯ, wer. Die Angreifer scheinen immer an unserem schwдchsten Punkt anzugreifen. Als wьssten sie im Vorhinein genau Bescheid. Mann, ich trau mich gar nicht, die Toten aus unseren Reihen zu zдhlen, und wir kцnnen einfach nichts dagegen tun. Wir sitzen nur rum und warten, und sobald wir ein wenig entspannen, kommt wieder ein SOS von einem unserer AuЯenposten. Und wenn wir dann vor Ort eintreffen, finden wir nur noch Leichen vor. Die Leichen unserer Jungs. </text>
+	</string>
+	<string id="dm_about_175">
+		<text>Ich glaube wir haben hier einen Maulwurf bei den Freiheitlern. Irgendjemand versorgt unsere Feinde mit Informationen. Sie greifen in aller Stille an, tцten unsere Jungs und verschwinden spurlos. Der Clan hat schwere Verluste erlitten, so schwere, dass wir es nicht mehr schaffen, die Militдrlager einzunehmen... Na ja, vergiss das... Ich schwцr dir, sollte ich den Maulwurf jemals in die Finger bekommen, dann lasse ich den Bastard fьr jeden meiner verlorenen Freunde bezahlen - plus Zinsen. </text>
+	</string>
+	<string id="dm_about_176">
+		<text>Im GroЯen und Ganzen unterscheidet diesen Ort kaum etwas vom Rest der Zone. Wir suchen nach Beute, kдmpfen, sterben und machen Plдne fьr die Zukunft. Wenn du nach besonderen Ereignissen fragst, dann sieht's hier nicht gerade gut aus. Deshalb sind wir momentan nicht gerade wild darauf, mit AuЯenseitern zu plaudern. </text>
+	</string>
+	<string id="dm_action_info_68">
+		<text>Alles, was ein Stalker so tun kann: Nach Beute suchen, Mutanten tцten und wenn ich mal etwas ьbrig habe, mit meinen Freunden in der Basis feiern gehen. Manchmal begrabe ich Freunde, wenn noch genug von ihnen da ist. </text>
+	</string>
+	<string id="dm_action_info_69">
+		<text>Ich warte hier auf 'nen ehemaligen Freund - ein echtes Arschloch. Wir hatten zusammen etwas Beute gemacht und sind auf dem Rьckweg an ein Rudel Pseudohunde geraten. Ich hab wie wild losgeballert, deswegen fiel mir gar nicht auf, dass er sich mit meinem Rucksack aus dem Staub gemacht hat. Er hat mich einfach meinem Schicksal ьberlassen und mir meinen Anteil geklaut, um ihn zu verkaufen. Fast hдtte ich's nicht geschafft! Jetzt warte ich hier auf ihn, um sicherzustellen, dass er es nicht schafft - irgendwann muss er hier durchkommen.</text>
+	</string>
+	<string id="dm_action_info_70">
+		<text>Eine Zeit lang hatte ich vor, mich den Freiheitlern anzuschlieЯen, aber ich hab's nie wirklich in die Tat umgesetzt. Und jetzt steht vor dir ein echtes Mitglied der Gruppe. Deine Witze ьber "Mitglieder " kannst du dir sparen, okay? Nein, ich bin nicht unsicher, mir hдngen bloЯ die alten, immer gleichen Witze zum Hals raus. </text>
+	</string>
+	<string id="dm_action_info_71">
+		<text>Wonach sieht das fьr dich denn aus? Aber ernsthaft, ich bin ein Stalker. Ich tue genau das, was alle Stalker tun.</text>
+	</string>
+	<string id="dm_action_info_72">
+		<text>Es wird dir wahrscheinlich schwerfallen, das Konzept zu verstehen, aber... ich lebe hier! Und zusдtzlich arbeite ich hier auch noch. Als Stalker. Und wir haben hier unsere Basis. Vielleicht hast du schon mal von einem Clan namens Freiheitler gehцrt? Das Dunkle Tal ist unser Territorium. Was glaubst du wohl, was ein Freiheitler auf Freiheitsterritorium so macht?</text>
+	</string>
+	<string id="dm_action_info_73">
+		<text>Ich versuche, Artefakte aus Anomalien zu holen und dabei am Leben zu bleiben.</text>
+	</string>
+	<string id="dm_action_info_74">
+		<text>Ich lauere diesem einen Hund auf. Lach nicht! Du hast ja keine Ahnung, wie gerissen das Biest ist. Der Kцter schleicht sich nachts ans Lager ran und heult. Sobald du versuchst, ihn aufs Korn zu nehmen, rennt er weg, schleicht sich von hinten wieder an und legt von vorne los. Ich hab seit drei Tagen nicht geschlafen. Wenn ich rausbekomme, wo er seinen Unterschlupf hat, erwьrg ich ihn mit bloЯen Hдnden!</text>
+	</string>
+	<string id="dm_action_info_75">
+		<text>Die Jungs und ich bewachen dieses Gebiet fьr den Fall eines Ьberraschungsangriffs. Du hast wahrscheinlich schon mitbekommen, dass jemand unsere AuЯenposten und Patrouillen angreift? Eine Schande ist das! Das waren alles gute Stalker.</text>
+	</string>
+	<string id="dm_action_info_76">
+		<text>Tja, viel Auswahl gibt es in der Zone nicht: Beute suchen, kдmpfen, Geheimnisse erkunden und dafьr sorgen, dass jeder gleichberechtigten Zugang zu ihnen hat. Das ist so ungefдhr, was ich mache. </text>
+	</string>
+	<string id="dm_action_info_77">
+		<text>Hast du schon mal von dem Quallen-Artefakt gehцrt? Tja, ich habe den Auftrag, dieses kleine Juwel zu finden und es bei Ashot fьr 'nen anstдndigen Preis zu verkaufen. Jetzt lass mich in Ruhe ьberlegen, wo ich eins herbekomme.</text>
+	</string>
+	<string id="dm_action_info_78">
+		<text>Wusstest du, dass die Freiheitler die Zone auch erforschen? Wir sind zwar keine Wissenschaftler, aber wir wьssten zu gerne, was dieses Wunder der Natur hervorgebracht hat. Das Ganze hier ist ein wahres Geschenk an die Menschheit: all die Anomalien, die Artefakte und die seltsamen Emissionen. Дhh... worьber haben wir noch mal geredet? Oh ja, du hast mich gefragt, was ich hier mache. Ich sammle Forschungsdaten - Hintergrundstrahlung, Temperatur, Luftfeuchtigkeit - und vermerke das Auftauchen von Monstern und Anomalien... Wenn du nichts dagegen hast, wьrde ich damit gerne weitermachen.</text>
+	</string>
+	<string id="dm_action_info_79">
+		<text>Tja, falls es dir noch nicht aufgefallen ist, das hier ist unsere Basis, und alles, was ich tue, hat genau damit zu tun. Das heiЯt, selbst wenn ich einfach nur rumhдnge und nichts tue, erledige ich zwei entscheidende Aufgaben: Ich erwecke den Eindruck, dass sich hier viele Personen aufhalten, und ermцgliche anderen Kдmpfern das Rasten.</text>
+	</string>
+	<string id="dm_action_info_80">
+		<text>Ich suche in der Zone nach Abenteuern und davon gibt's hier im Dunklen Tal jede Menge. Das verdanke ich alles den Freiheitlern - auch wenn sich das vielleicht hochgestochen anhцrt. </text>
+	</string>
+	<string id="dm_about_107">
+		<text>Die Freiheitler sind die Hauptmacht hier im Tal. In letzter Zeit sind sie allerdings ganz schцn unter Beschuss geraten. Abgelegene AuЯenposten werden immer wieder ьberrannt - die Verteidiger sterben, ohne das es jemand mitbekommt. Niemand weiЯ, wie es die Angreifer schaffen, den Patrouillen der Freiheitler auszuweichen, und wer sie eigentlich sind. Ich hatte eigentlich vor, mich dem Clan anzuschlieЯen, aber mein Leben einfach so wegzuwerfen, gehцrt nicht zu meinen Plдnen. Ich habe also keine Eile damit.</text>
+	</string>
+	<string id="dm_about_108">
+		<text>Der Ort hier unterscheidet sich nicht weiter von anderen - weder zum Schlechten noch zum Guten. Anomalien, Monster, Strahlung, verfallene Gebдude aus der Sowjetzeit, Bauernhцfe, Fabriken und so weiter... der einzige Unterschied ist die Freiheitsbasis. Die Leute hier sind ziemlich cool, allerdings etwas nervцs in letzter Zeit. Angesichts der momentanen Probleme mache ich ihnen da aber auch keinen Vorwurf.</text>
+	</string>
+	<string id="dm_about_109">
+		<text>Bis vor kurzem war das Dunkle Tal einer der freundlichsten Orte der Zone, wenn man hier ьberhaupt von "freundlich" reden kann. Das Tal war genauso gefдhrlich wie jeder andere Ort, aber es gab immer einigermaЯen wertvolle Artefakte und dazu keine Banditen, kein Militдr, keine Hirnschmelzer oder so einen Mist. In letzter Zeit hat's allerdings jemand auf die Freiheitler abgesehen. Seitdem ist hier alles anders. Man fдngt sich hier leicht 'ne Kugel ein, die eigentlich fьr ein Mitglied des Clans bestimmt ist.</text>
+	</string>
+	<string id="dm_about_110">
+		<text>Das Dunkle Tal ist weit ab von den Hauptwegen zum Zentrum der Zone. Die einzigen Orte, die man von hier aus erreichen kann, sind der Kordon und die Mьllhalde. Das wird auch der Grund sein, warum hier kein so groЯer Durchgangsverkehr herrscht wie anderswo. Der Hauptgrund dafьr, dass die Freiheitler hier ihre Basis errichtet haben. Ich bezweifle, dass ich dir irgendetwas ьber den Clan erzдhlen kann, das du nicht sowieso schon weiЯt.</text>
+	</string>
+	<string id="dm_about_111">
+		<text>Hier ist einer der besten Orte der Zone fьr einen neutralen Stalker. Hier gibt's weder Militдr noch Banditen oder gefдhrliche Mutanten. Alles, was du tun musst, ist Beute sammeln und Anomalien ausweichen. Die Dinge, die das Leben eines Stalkers ausmachen.</text>
+	</string>
+	<string id="dm_about_112">
+		<text>Ich habe Orte gesehen, die das Dunkle Tal wie einen Kindergarten wirken lassen. Pseudohunde und Anomalien - ha! Wenn du erst mal genauso viel Zeit in der Zone verbracht hast wie ich, wirst du verstehen, was ich meine! Wenn dir erst mal ein Telepath ins Hirn gekrochen ist oder dich aus dem Nichts ein Blutsauger angesprungen hat - dann ist es keine Schande, sich vor Angst in die Hosen zu machen. Und das sind nicht mal die Schlimmsten - hast du schon mal vom Hirnschmelzer gehцrt? Das Viech bedeutet echten Дrger. Du kannst es nicht sehen, kannst es nicht berьhren und es verdammt noch mal auch nicht tцten, womit es andersrum aber kein Problem hat.</text>
+	</string>
+	<string id="dm_about_113">
+		<text>Die Freiheitler haben hier vielleicht die Kontrolle, aber die flippen wenigstens nicht so aus wie die Banditen. Du kannst dich im Tal frei bewegen, Artefakte sammeln und musst dafьr niemandem Schutzgeld oder Tribut zahlen. Bei Weitem der beste Ort in der Zone, wenn du mich fragst.</text>
+	</string>
+	<string id="dm_about_114">
+		<text>Die Freiheitler kцnnen dir dazu mehr erzдhlen. Warum gehst du nicht rьber zur Basis und fragst dort nach. Ich bin hier noch nicht so lange und gehe meistens dieselben Wege. Ich weiЯ nur, wie man von der Mьllhalde zur Freiheitsbasis kommt und von dort aus zu dem Bauernhof im Sьden.</text>
+	</string>
+	<string id="dm_about_115">
+		<text>Die ersten paar Wochen kommt dir der Ort hier vor wie der beste der Zone. Es ist relativ sicher und die Freiheitsjungs sind gute Kerle - man findet schnell Freunde und beim Handeln zieht dich niemand ьber den Tisch. Nach einer Weile wird's dir allerdings langweilig werden. Das Tal liegt weit ab der HauptstraЯen und hier ist einfach nicht viel los. Hier ist ein guter Ort, um sich 'ne kleine Auszeit zu gцnnen, bevor man sich wieder in das Chaos der Zone wirft. Aber hier zu leben, macht dich nur faul und schwach. Fьr mich ist die Mьllhalde im Westen die bessere Wahl oder du gehst zum Kordon und дrgerst das Militдr. </text>
+	</string>
+	<string id="dm_about_116">
+		<text>Wenn du bei guter geistiger und kцrperlicher Gesundheit bist, kannst du dir hier eine ordentliche Geldsumme mit Freiheitsmissionen oder durch einfaches Beutesammeln verdienen. Die Freiheitler haben keine Gemeinschaftskasse wie die Banditen oder einen Hilfsfond wie die Wдchter. Hier kriegt jeder das, was er verdient - was du findest, gehцrt dir. Du kannst gelegentlich freiwillige Spenden abgeben... an Feiertagen oder fьr den Geburtstag des Kommandanten. Und wenn dir etwas nicht gefдllt, kannst du immer noch zum Kordon abhauen oder, wenn du mal in Geberlaune bist, dann "schenk" deine schwer verdiente Kohle doch den Banditen auf der Mьllhalde im Westen. </text>
+	</string>
+	<string id="dm_about_117">
+		<text>Wenn du keinen Bock darauf hast, dich mit Telepathen oder Blutsaugern herumzuschlagen, dann ist das Dunkle Tal der richtige Platz fьr dich. Die einzigen Monster hier sind Wildschweine, Fleisch und Hunde. Was Anomalien angeht, sei einfach auf der Hut und umgeh sie. </text>
+	</string>
+	<string id="dm_action_info_81">
+		<text>Ich bin ins Tal gekommen, um Artefakte zu sammeln, aber wie sich herausgestellt hat hatten die Freiheitler hier ihre Basis. Ich liebдugele schon 'ne ganze Zeit mit ihnen und wollte beitreten, aber sie nehmen gerade niemanden auf. Wegen der Angriffe auf ihre AuЯenposten. Sie sind verдrgert und misstrauisch - fehlt nur noch, dass sie hier alle Rцntgen lassen. Kleiner Scherz, woher soll man hier ein Rцntgengerдt bekommen? Jedenfalls sind die Jungs echt besorgt, also musste ich meine Bewerbung erst mal auf Eis legen.</text>
+	</string>
+	<string id="dm_action_info_82">
+		<text>Ich bin hergekommen, um mich den Freiheitlern anzuschlieЯen - die kцnnen etwas frisches Blut gut gebrauchen. Aber im Moment sind sie sehr vorsichtig mit Neuaufnahmen. Scheinen Probleme mit einem Maulwurf zu haben.</text>
+	</string>
+	<string id="dm_action_info_83">
+		<text>Ich bin auf der Suche nach Beute und das hier ist einer der sichersten Orte. Hier musst du dich nicht um exorbitante Steuern sorgen wie auf der Mьllhalde, um Mutantenhorden wie im Agroprom-Institut, und korrupte Militдrs gibt's hier auch nicht. Anomalien und von Zeit zu Zeit ein Monster sind nicht schlecht. Besonders im Vergleich zu anderen Orten.</text>
+	</string>
+	<string id="dm_action_info_84">
+		<text>Bin auf Mutantenjagd. Hдndler und Wissenschaftler zahlen ziemlich gut fьr ihre Organe. Du glaubst mir nicht? Frag doch selbst nach. </text>
+	</string>
+	<string id="dm_action_info_85">
+		<text>Hier ist mein Zuhause. Die Jungs und ich haben hier unser eigenes Lager eingerichtet. Wir ruhen uns aus und holen etwas Luft zwischen den Ausflьgen in die Zone, und der Ort hier ist ziemlich gut dafьr geeignet.</text>
+	</string>
+	<string id="dm_action_info_86">
+		<text>Ich bin hierher gekommen, um den Mьhen und Schwierigkeiten der anderen Teile der Zone zu entkommen. Das Militдr bei den Lagerhдusern und im Kordon behandelt uns Stalker wie Tiere, die Banditen auf der Mьllhalde machen, was immer ihnen gerade einfдllt, und die Wдchter im Agroprom-Institut wollen dich dazu bringen, gegen alle zu kдmpfen, die nicht zu ihnen gehцren. Hier bist du frei und gleichberechtigt und hдufig betrunken. Genau meine Kragenweite.</text>
+	</string>
+	<string id="dm_action_info_87">
+		<text>Ich wurde auf der Mьllhalde von meiner Gruppe getrennt. Wir haben uns mit den Banditen zerstritten, weil wir ihnen keinen Schutzgeld zahlen wollten. Und da verstehen die keinen SpaЯ. Wir haben ihnen ordentlich eingeschenkt, aber als ihre Verstдrkung eingetroffen ist, mussten wir uns zurьckziehen. Ich bin nach Osten geflohen und hier im Dunklen Tal gelandet. Das Risiko, zurьck zur Mьllhalde zu gehen, ist mir zu groЯ, deswegen hoffe ich, dass noch ein paar der anderen es hierher schaffen. Dann kцnnten wir unseren nдchsten Schritt ьberlegen. </text>
+	</string>
+	<string id="dm_action_info_88">
+		<text>Ich bin noch nicht sehr lange in der Zone. Die einzigen anderen Orte, die ich gesehen habe, sind der Kordon und die Mьllhalde. Ich versuche nur, etwas Erfahrung zu sammeln und dabei etwas Beute zu machen und zu verkaufen.</text>
+	</string>
+	<string id="dm_action_info_89">
+		<text>Mir wurde gesagt, hier im Dunklen Tal kцnne man gute Beute machen und sie direkt beim Hдndler der Freiheitler verkaufen. Ich bin hier schon 'ne ganze Weile, aber gefunden habe ich nichts. Ich habe wohl einfach Pech, oder ich suche an den verkehrten Orten. Keine Ahnung...</text>
+	</string>
+	<string id="dm_action_info_90">
+		<text>Ashot hat gute Rьstungen im Angebot. Leider bin ich gerade nicht so gut bei Kasse. Deswegen habe ich mich auf die Suche nach Beute gemacht. Wer nicht auf den Kopf gefallen ist, kommt hier im Tal gut zurecht. Aber irgendwie schaff ich's nie so ganz. Entweder ich gebe zu viel fьr Munition aus oder ich setze meine ganze Kohle im "Schluck der Freiheit" in Alkohol um.</text>
+	</string>
+	<string id="dm_cool_info_21">
+		<text>Seit der Emission ist alles anders. Die sicheren und bekannten Wege sind gefдhrlich geworden und fьhren nicht mehr in die alten Richtungen. Man muss im Sumpf nach neuen Ausschau halten. Die andere Seite der Medaille ist, dass man jetzt in neue Teile der Zone gelangen kann. Niemand weiЯ, was fьr Geheimnisse einen dort erwarten. Ich habe gehцrt, tief in der Zone soll es sogar eine kleine Stadt geben, an der die Sowjetzeit vorbeigegangen ist. Unser Boss hat, sofort nachdem er davon gehцrt hatte, einen groЯen Erkundungstrupp losgeschickt. Kurz darauf fand er heraus, dass die Wдchter auch einen Trupp ausgesandt hatten, und befahl unseren Jungs, einen Zahn zuzulegen. Wenn alles klappt, habe ich dir auf jeden Fall 'ne Menge Neues zu erzдhlen.</text>
+	</string>
+	<string id="dm_cool_info_22">
+		<text>Ich habe gehцrt, dass die Emissionen, die die Zone vor kurzem erschьttert haben, von einer Gruppe Stalker ausgelцst wurde, die es am Hirnschmelzer vorbei ins Zentrum der Zone geschafft hat. Stell dir das mal vor, die haben's am Schmelzer vorbeigeschafft. Und sie sind in einem Stьck zurьckgekommen. Ich wьsste zu gerne, was die Emissionen auslцst... Vielleicht nimmt die Zone dadurch Rache?</text>
+	</string>
+	<string id="dm_cool_info_23">
+		<text>Die Anomalien sind gefдhrlicher geworden. Es sind nicht mehr nur kleine Nester anormaler Energie. Sie sind wesentlich grцЯer und gefдhrlicher geworden. Ab und zu einen Bolzen zu verschieЯen hilft dir heutzutage nicht mehr weiter - um die Strahlung und die giftigen Dдmpfe zu ьberleben, musst du dir 'ne verdammt gute Schutzkleidung zulegen und dir am besten jeden Schritt zweimal ьberlegen.</text>
+	</string>
+	<string id="dm_intro_90">
+		<text>Nimm dich vor den Zombies aus der Fabrik in acht - die kommen in wahren Horden!</text>
+	</string>
+	<string id="dm_intro_91">
+		<text>Puh, Mann. Du siehst einem Zombie so дhnlich, dass ich dir fast den Kopf weggeblasen hдtte.</text>
+	</string>
+	<string id="dm_intro_92">
+		<text>Willkommen am Jantar-See, wo ich so gerne angeln geh. Ha-ha! Kapiert? Das reimt sich! Ha-ha!</text>
+	</string>
+	<string id="dm_intro_93">
+		<text>Willkommen in Jantar, Bruder.</text>
+	</string>
+	<string id="dm_intro_94">
+		<text>Du kommst genau richtig, Stalker - wir kцnnten deine Hilfe gebrauchen.</text>
+	</string>
+	<string id="dm_intro_95">
+		<text>Hey, Mann!</text>
+	</string>
+	<string id="dm_about_118">
+		<text>Komm der Fabrik bloЯ nicht zu nahe. Da hat's noch niemand wieder rausgeschafft. Man wird schon halb verrьckt, bevor man zum Eingang kommt, und nur die Zone selbst weiЯ, was sich drinnen abspielt.</text>
+	</string>
+	<string id="dm_about_119">
+		<text>Ein verdammt grusliger Ort, ich sag's dir, Mann. Aus der Fabrik kommen ohne Ende Zombies und wir schlachten sie haufenweise ab. Und von denen, die reingegangen sind, um nachzuschauen, was los ist, ist keiner zurьckgekehrt. Ich hab selbst einmal versucht, zur Fabrik durchzukommen, aber sobald ich nur etwas nдher herankam, hatte ich das Gefьhl, als ob mein Hirn schmelzen wьrde! Ich war bewegungsunfдhig, mir war schwindelig und ich hab irgendwas in meinem Kopf gehцrt - Mann, ich hab mir fast in die Hosen gemacht! Ich bin sofort zurьck, aber die Gerдusche in meinem Kopf haben noch fast den ganzen Tag angehalten. Gott allein weiЯ, wie viele Leichen von denen, die's weiter geschafft haben als ich, da drinnen liegen.</text>
+	</string>
+	<string id="dm_about_120">
+		<text>Vom Jantar-See ist heutzutage nur noch ein stinkender Tьmpel voller Mьll ьbrig. Die Wissenschaftler haben ein Lager am Ufer. Dort arbeiten sie in Bunkern an ihren Forschungsprojekten und gehen von Zeit zu Zeit auf Expeditionen. Ab und zu haben sie sogar Arbeit fьr uns. Mit etwas Glьck findest du hier ein, zwei Artefakte oder kannst einem toten Zombie eine Knarre abnehmen. Das Einzige, woran es hier nicht mangelt: Zombies. Das Problem ist, dass wir an die Wurzel allen Ьbels, die Fabrik, nicht nдher herankommen. Sobald du ihr zu nahe kommst, lдsst dich irgendetwas durchdrehen. Die ganzen mutigen Jungs sind schon seit lдngerem verschwunden. Nur die Vorsichtigen haben ьberlebt. </text>
+	</string>
+	<string id="dm_about_121">
+		<text>Ich versteh den Ort hier nicht. Ich hab mit einem Freund zusammen versucht, in die Fabrik zu gelangen, weil sie zu den wenigen unberьhrten Teilen der Zone gehцrt. Wir dachten, da mьsse jede Menge fette Beute zu holen sein. Ha! Als wir am Tor ankamen, wurde mir verdammt schwindelig und ich fing an, merkwьrdige Gerдusche und Flьstern zu hцren und zu halluzinieren. Mein Freund war direkt hinter mir und hat uns beide da wieder rausgeholt: Als er gesehen hat, wie ich zusammenbrach, hat er mich sofort gepackt und da rausgezogen. Zur Krцnung des Ganzen wurden wir von den anderen Stalkern dann auch fast noch fьr Zombies gehalten, als wir zurьckkamen.</text>
+	</string>
+	<string id="dm_about_122">
+		<text>Die Wissenschaftler haben ein Lager an dem ausgetrockneten See und die Stalker bekдmpfen endlose Horden von Zombies aus befestigten Stellungen. Keiner weiЯ, was in der alten Fabrik vor sich geht, aber sobald man ihr zu nahe kommt, hцrt man Stimmen und Gerдusche im Kopf und fьhlt sich schwindelig und schwach - nicht mal die Wissenschaftler kцnnen einem sagen, was da los ist.</text>
+	</string>
+	<string id="dm_about_123">
+		<text>Das Gebiet hier nennt sich Jantar. Hier war ja vielleicht mal ein See, aber wenn du auf der Suche nach einem netten Ferienort bist, liegst du hier auf jeden Fall falsch. Wir haben hier nur noch 'nen schmutzigen Tьmpel, einen Haufen Strahlung und tonnenweise Zombies. Wenn dir das noch nicht reicht, dann statte der alten Fabrik doch mal einen Besuch ab. Nicht, dass du besonders nahe an sie herankommen wirst - man wird schon verrьckt, bevor man durchs Tor geht. </text>
+	</string>
+	<string id="dm_about_124">
+		<text>Die Fabrik ist der gefдhrlichste Ort hier. Ihre Umgebung wurde von einer unbekannten Art Emission heimgesucht und jeder, der versucht hat reinzukommen, erzдhlt seltsame Geschichten von Stimmen und Gerдuschen im Kopf. Einige haben's versucht und sind verrьckt geworden und die, die mutig genug waren reinzugehen, haben's nicht wieder rausgeschafft.</text>
+	</string>
+	<string id="dm_about_125">
+		<text>Wir haben hier ein gutes Verhдltnis zu den Wissenschaftlern. Wir verteidigen sie gegen den permanenten Ansturm der Zombies aus der alten Fabrik, und als Gegenleistung helfen sie uns mit Medikamenten, Ausrьstung und manchmal erledigen sie auch Arbeiten fьr uns. Nur wenige schaffen es in die Fabrik hinein. Irgendeine Art Emission schlдgt dir vorher fasst das Hirn raus. Die, die's wдhrend der ruhigen Phasen reingeschafft haben und lebendig wieder rausgekommen sind, haben lohnenswerte Beute gemacht.</text>
+	</string>
+	<string id="dm_about_126">
+		<text>Ich bin sicher, dass da irgendwas verdammt Wertvolles in der Fabrik sein muss - ich wette, Sacharow und seine Wissenschaftler wьrden 'ne Menge Bares dafьr hinlegen. Leider ist es nicht gerade einfach, da hineinzukommen, und bisher hat es niemand so weit geschafft. Entweder dir blьht ein herzliches Willkommen der Zombies oder... Irgendwas passiert mit den Kцpfen derer, die zu nahe kommen. Sie fangen an zu halluzinieren und ihnen wird schwindelig. Wenn du nicht rechtzeitig abhaust, war's das mit dir. Ich hab schon einige Freunde verloren... Sie hatten's alle zu sehr darauf abgesehen, die Geheimnisse der Fabrik zu enthьllen.</text>
+	</string>
+	<string id="dm_about_127">
+		<text>Vor dem ersten Unfall war hier mal ein See, der Jantar-See. Beim Bau der Fabrik wurde unterirdisch irgendwas beschдdigt, was das Wasser des Sees ablaufen lieЯ, bis nur noch ein stinkender Tьmpel ьbrig blieb. Die Wissenschaftler haben jetzt ein Lager neben dem, was vom See ьbrig ist, und die Fabrik etwas weiter die StraЯe hinauf sorgt weiter fьr Дrger. Sobald du zu nahe rankommst, spielt dein Kopf verrьckt. Inzwischen versuchen nur noch Lebensmьde da reinzukommen - alle anderen tцten einfach die Zombiestalker, die aus der Fabrik kommen, und helfen den Wissenschaftlern. </text>
+	</string>
+	<string id="dm_about_128">
+		<text>Die Zone hier am Jantar-See wird von Wissenschaftlern erforscht. Die цrtliche Hauptattraktion ist die Fabrik. Allerdings werden dort aufgrund der Emissionen eine Menge Leute vermisst. Bisher ist dort niemand wieder rausgekommen und wir haben keinen blassen Schimmer, was mit ihnen passiert ist.</text>
+	</string>
+	<string id="dm_about_129">
+		<text>Die Wissenschaftler haben eine Basis hier und die Stalker haben befestigte Stellungen gegen die Zombies errichtet. Im Sьden liegt das Agroprom-Institut, dort bekдmpfen die Wдchter Mutanten und im Norden liegt der Rote Wald. Was da genau ist, wissen wir nicht - es ist noch keiner zurьckgekommen. </text>
+	</string>
+	<string id="dm_action_info_91">
+		<text>Ich helfe den Wissenschaftlern bei ihren Forschungsarbeiten. Selbstverstдndlich nicht direkt. Die Jungs und ich beschьtzen sie vor den Zombies, bewachen ihre Expeditionen und versorgen Sacharow mit Artefakten, Mutantenorganen und anderem Zeug, um das er uns bittet. Als Gegenleistung erforschen sie die Emissionen, die einem in der Nдhe der Fabrik das Hirn schmelzen lassen. Wir warten nur darauf, dass sie einen Weg finden, die zu umgehen, damit wir in der Fabrik auf Beutejagd gehen kцnnen.</text>
+	</string>
+	<string id="dm_action_info_92">
+		<text>Ich warte darauf, dass die Wissenschaftler etwas gegen die Emissionen finden, die uns am Betreten der Fabrik hindern. Was genau uns daran hindert? Geh rьber und sieh selbst. Irgendwas macht dich so verrьckt, dass du nicht mehr weiЯt, wie rum du deine Knarre halten sollst. Eine Menge Stalker sind da reingegangen... und nie mehr herausgekommen. </text>
+	</string>
+	<string id="dm_action_info_93">
+		<text>Ich habe mich freiwillig zur Hilfe der Wissenschaftler gemeldet. Soll heiЯen, sie gegen eine Welle Zombies nach der anderen zu verteidigen. Ein guter Deal, wenn man an das Verbandsmaterial, die Medikamente und die Munition denkt. Gar nicht schlecht hier, solange du dich im Hintergrund hдltst. </text>
+	</string>
+	<string id="dm_action_info_94">
+		<text>Ein Stalkerveteran hat mir eine Karte aller Verstecke in diesem Gebiet verkauft. Ich habe sie mir gemerkt und die Karte verbrannt. Es bringt dir also nichts, mich zu tцten. Die Verstecke auЯerhalb der Fabrik habe ich schon alle abgegrast und sie waren alle an genau den Positionen wie auf der Karte. Die besten warten allerdings in der Fabrik. Sobald Sacharow und sein Team herausgefunden haben, was man gegen die Emissionen machen kann, bin ich drьben.</text>
+	</string>
+	<string id="dm_action_info_95">
+		<text>Ich nehme ein paar Werte fьr Sacharow. Er hat zu wenig Assistenten, deswegen heuert er Stalker fьr diese Hilfsarbeiten an.</text>
+	</string>
+	<string id="dm_action_info_96">
+		<text>Ein Hдndler, den ich kenne, hat mir erzдhlt, dass ein alter Freund aus meiner Militдrzeit hier in der Gegend rumhдngt. Ich bin hier, um nach ihm zu suchen. Wir wьrden ein gutes Team abgeben.</text>
+	</string>
+	<string id="dm_action_info_97">
+		<text>Mann, bin ich mьde. Ich hab die Nase voll davon, Beute zu sammeln, gegen Monster zu kдmpfen und gegen die Banditen um einen Platz an der Sonne zu streiten. Ich hab mir hier eine kleine Auszeit genommen. Ich muss nur ab und zu einen Zombie abknallen und bekomme dafьr Geld von den Wissenschaftlern. Ich werd's mir hier noch eine Weile gut gehen lassen und mich dann in gefдhrlichere Gefilde aufmachen. Eine gute Faustregel fьr die Zone ist: Je grцЯer die Gefahr, desto besser die Beute.</text>
+	</string>
+	<string id="dm_action_info_98">
+		<text>Nach der Emission hab ich eine kleine Tour durch die Zone gemacht, um zu sehen, was es Neues gab. Ich war ьberall, von den Sьmpfen zum Schmelzer und habe Dinge gesehen, die deine Vorstellungskraft ьbersteigen. Ich bin hergekommen, um meine Beute zu verkaufen und habe hier ein paar echt anstдndige Kerle kennen gelernt. Jetzt kдmpfen wir gemeinsam.</text>
+	</string>
+	<string id="dm_action_info_99">
+		<text>Ich erhole mich von unserem letzten Kampf. Da waren so viele Zombies, dass wir's fast nicht geschafft hдtten - wдren's menschliche Angreifer gewesen, wьrden wir uns jetzt nicht unterhalten. Gott sei Dank sind Zombies blцd wie Brot, nicht mal ein Hauch von Taktik. Trotzdem war's ein harter Kampf und ich hab einen Querschlдger abbekommen. Ist aber nur eine Fleischwunde, nichts Schlimmes.</text>
+	</string>
+	<string id="dm_action_info_100">
+		<text>Ich wьrde gerne in die Fabrik, aber ich weiЯ nicht so recht. Einerseits hab ich die Hosen voll, aber andererseits wьsste ich nur zu gerne, was da drinnen los ist. Frьher oder spдter wird jemand ihre Geheimnisse lьften - warum nicht ich?</text>
+	</string>
+	<string id="dm_action_info_101">
+		<text>Ich versuche, genug Geld fьr eine anstдndige Waffe zusammenzubekommen. Ich arbeite fьr die Wissenschaftler - sorge dafьr, dass die Zombies ihrem Lager nicht zu nahe kommen. Wenn ich genug zusammenhabe, hol ich mir die Knarre, die ich will, und suche die Zone ab.</text>
+	</string>
+	<string id="dm_action_info_102">
+		<text>Ich bin aus dem Agroprom-Institut hergekommen, nachdem ich einige Zeit in Orests Clan gekдmpft habe. War Zeit fьr einen Tapetenwechsel. Ich wьrde nur zu gerne den Roten Wald unter die Lupe nehmen, aber an dem Hirnschmelzer in der Fabrik fьhrt kein Weg vorbei. Nahe an sie heranzukommen, ist schon eine gewaltige Aufgabe.</text>
+	</string>
+	<string id="dm_action_info_103">
+		<text>Wдhrend der Zeit, in der ich den Wдchtern gegen die Mutanten im Agroprom-Institut geholfen habe, kamen plцtzlich Zombies aus Jantar runter. Wir haben einen Trupp zusammengestellt, der sich um das Problem kьmmern sollte. Ich war dabei. Nachdem wir hier angekommen waren und den Weg hierher gesдubert hatten, gingen die Wдchterjungs wieder zurьck. Ich hatte allerdings einen feinen Schutzanzug im Forschungslabor entdeckt und mich entschlossen, solange hierzubleiben, bis ich genug Geld zusammenhabe.</text>
+	</string>
+	<string id="dm_action_info_104">
+		<text>LASS MICH IN RUHE!!! Was?! Nein, nicht du. Ich werd noch verrьckt, Mann. Ich war blцd genug, der Fabrik aus Neugier einen Besuch abzustatten. Keine gute Idee. Mein Kopf ist total im Arsch... Gottseidank haben mich die Jungs da rausgeholt. Ich rede mit dir und gleichzeitig hцr ich so ein Flьstern im Kopf. Halt's Maul, verdammt! Nein, nicht du. Ach... vergiss es.</text>
+	</string>
+	<string id="dm_cool_info_24">
+		<text>Ich hab gehцrt, ein Trupp Stalker hat versucht, ins Zentrum der Zone durchzubrechen. Manche sagen, sie hдtten's geschafft, andere bestreiten das, aber jeder denkt, dass da ein Zusammenhang zu der letzten Emission besteht. Ich wьsste zu gerne, ob sie den Wunschgцnner gefunden und sich was gewьnscht haben.</text>
+	</string>
+	<string id="dm_cool_info_25">
+		<text>Angeblich soll eine ganze Fraktion in der Zone verschwunden sein. Hast du schon mal von den Monolithern gehцrt? Frьher haben sie die Zone vor Eindringlingen geschьtzt, aber kurz vor der Emission haben sie einen VorstoЯ ins Zentrum der Zone unternommen. Seitdem hat niemand mehr von ihnen gehцrt. In letzter Zeit haben allerdings aus der Gegend des Schmelzers einige verdammt aggressive Stalker angegriffen, die einfach nur tцten und keine Fragen stellen. Ich hab sie selbst bei den Militдrlagern gesehen und ich denke, dabei kцnnte es sich um die vermissten Monolither handeln. Wьrde mich nicht ьberraschen. Ihre Uniformen sahen ganz дhnlich aus. </text>
+	</string>
+	<string id="dm_cool_info_26">
+		<text>Nach der Emission war alles anders. Als wдre die Zone plцtzlich eine ganz andere. Die Clans bekдmpfen sich, aus jeder Ecke kommen Monster gekrochen, es werden neue Gebiete entdeckt und die bekannten Wege werden von Anomalien blockiert. Wir finden sogar neue Artefakte... Was soll man dazu sagen? Ich fьhl mich wieder wie ein Anfдnger.</text>
+	</string>
+	<string id="dm_cool_info_27">
+		<text>Neulich hab ich gehцrt, dass das Militдr seit der Emission echte Probleme bei den Lagerhдusern bekommen hat. Die Freiheitler haben's auf ihr Gebiet abgesehen und sie kцnnen sich nur noch in ihrer Basis verschanzen und beten. Das Militдr ist zwar geschwдcht, aber sie wissen, dass ihre Basis der Schlьssel ist. Zusдtzlich ist die Rьckkehr der Monolither aus dem Zentrum in aller Munde. Wir dachten alle, sie wдren draufgegangen. Mann, ich wьrde echt gerne mal einen davon fragen, wie's im Zentrum aussieht.</text>
+	</string>
+	<string id="dm_cool_info_28">
+		<text>Ich hab gehцrt, dass hinter dem Jantar-See ein Weg zum Roten Wald aufgetaucht sein soll. Alle mцglichen seltsamen Geschichten ranken sich darum, wie der Wald rot wurde und innerhalb eines Tages komplett im Nebel verschwunden ist. Seit diesem Ereignis hдlt man ihn fьr einen Ort voller Gefahren... Viele Leute sind von dort nicht mehr zurьckgekehrt und nach einer Weile sind sogar die Wege dorthin verschwunden. Ich wьrde mir an deiner Stelle lieber zweimal ьberlegen, da hinzugehen.</text>
+	</string>
+	<string id="dm_cool_info_29">
+		<text>Mann, es passiert so viel, dass es schwer fдllt, die Ьbersicht zu behalten. Ich dachte, Jantar liegt am Rand der bekannten Zone, aber die Emission war so stark, dass sich Wege zum Roten Wald und nach Limansk, der verschwundenen Stadt, geцffnet haben. Einige unserer Jungs haben sich an der Fabrik vorbei dahin aufgemacht. Aber ich weiЯ nicht, ob sie's wirklich geschafft haben. AuЯerdem habe ich noch gehцrt, dass die Wдchter und die Freiheitler, die beiden mдchtigsten Clans der Zone, gegeneinander um die Kontrolle ьber Limansk kдmpfen.</text>
+	</string>
+	<string id="dm_intro_96">
+		<text>Du wieder? Was gibt es Neues?</text>
+	</string>
+	<string id="dm_intro_97">
+		<text>Herzlich willkommen, Stalker.</text>
+	</string>
+	<string id="dm_intro_98">
+		<text>Hallo, junger Mann!</text>
+	</string>
+	<string id="dm_intro_99">
+		<text>Hallo! Wie kann ich dir helfen?</text>
+	</string>
+	<string id="dm_intro_100">
+		<text>Mцchtest du handeln oder bist du auf der Suche nach einen Job?</text>
+	</string>
+	<string id="dm_intro_101">
+		<text>Du bist bestimmt an Informationen interessiert. Ich werde deine Fragen, so gut ich kann, beantworten.</text>
+	</string>
+	<string id="dm_intro_102">
+		<text>Wie geht's, Kumpel?</text>
+	</string>
+	<string id="dm_intro_103">
+		<text>So begrьЯt ein wahrer Freiheitler einen freien Stalker.</text>
+	</string>
+	<string id="dm_intro_104">
+		<text>Hey, Stalker.</text>
+	</string>
+	<string id="dm_intro_105">
+		<text>Du siehst aus, als hдttest du tausend Fragen. SchieЯ los! </text>
+	</string>
+	<string id="dm_about_130">
+		<text>Dies ist eines der wichtigsten Gebiete der Zone - von hier aus kannst du den Schmelzer, den Roten Wald, Limansk und was dahinter liegt erreichen... Nicht dass irgendwer wьsste, was genau uns dort erwartet. AuЯerdem gibt es hier eine alte Militдrbasis, die von der Armee vor der groЯen Emission eingerichtet wurde. Jetzt wird sie nur noch von etwa 20 Soldaten verteidigt, und wenn wir die Basis einnehmen wьrden, kцnnten wir die angrenzenden Gebiete kontrollieren. Wir mьssen dem Militдr nur ein wenig bei der Evakuierung unter die Arme greifen, wenn du verstehst...</text>
+	</string>
+	<string id="dm_about_131">
+		<text>Nach Norden gibt es durch den Hirnschmelzer so gut wie kein Durchkommen. Aber das scheint die Monolither nicht davon abzuhalten, hier vorbeizuschauen - und allzu freundlich haben sie sich dabei bislang nicht gezeigt. Sie schieЯen einfach drauflos und Fragen stellen sie auch keine. Wenn du nach Sьden gehst, kommst du zum Dunklen Tal. Im Westen liegt der Rote Wald. Ist nicht der schцnste Ort in der Zone, aber wenigstens wird dort weniger rumgeballert. Sie haben hinter dem Wald auch eine StraЯe nach Limansk entdeckt. Das ist ein kleines Stдdtchen, aber es ist strategisch von groЯer Bedeutung, weshalb die Wдchter und unsere Jungs bis aufs Blut darum kдmpfen.</text>
+	</string>
+	<string id="dm_about_132">
+		<text>Hier gab es einmal eine Militдrbasis und einige Militдrlager, aber die Emission hat sie ьbel zugerichtet. Die Ьberlebenden sind jetzt nicht mehr so groЯmaulig - sie verstecken sich vor den Stalkern in ihrer Basis und machen sich vor Angst in die Hosen. Sie werden nicht mьde, von ihrem Hauptquartier ein Evakuierungsteam anzufordern, aber es kommt niemand, um sie da rauszuholen. AuЯerhalb der Zone scheint es genьgend andere Probleme zu geben. Oder aber, das Militдr kommt einfach nicht durch. Die armen Teufel kцnnen einem fast schon leid tun - sie sind Ratten, aber selbst Ratten kдmpfen fьreinander.</text>
+	</string>
+	<string id="dm_about_133">
+		<text>Das Militдr konnte die Lagerhдuser eine Weile halten, aber die letzte Emission hat alles verдndert. Sie war so heftig, dass nur wenige ьberlebt haben - hauptsдchlich diejenigen, die sich in der Basis versteckt hatten. Wer an der Oberflдche war, den hat es erwischt. Woher ich das weiЯ? Nun, Bruder, auch die Freiheitsgruppe hat ihre Informanten, und jetzt kontrollieren wir die Lage hier. Die Stalker haben sich unterdessen zusammengerottet, um die Monster zu bekдmpfen, die aus der Richtung des Hirnschmelzers kommen. </text>
+	</string>
+	<string id="dm_about_134">
+		<text>Als wir das erste Mal herkamen, herrschte hier absolutes Chaos. Das Militдr hatte die Verteidigung der Barriere aufgegeben und sich in der Basis verkrochen. Dummerweise muss die Barriere durchgehend bewacht werden, weil sonst die Monsterhorden durchbrechen und alles auslцschen wьrden. Darum versuchen wir jetzt, sie selbst zu verteidigen, und dabei brauchen wir jede Hilfe, die wir kriegen kцnnen - denn wenn die Barriere fдllt, sind wir alle dran.</text>
+	</string>
+	<string id="dm_about_135">
+		<text>Auf dem Hьgel ist eine ehemalige Militдrbasis, die hoffentlich bald in unserer Hand ist. Ein bisschen weiter weg steht ein alter Bauernhof, nur ein paar Gebдude, und bei dem radioaktiv verseuchten Sumpf ist eine Blockhьtte. Davon abgesehen gibt es hier noch ein paar verlassene Dцrfer und unsere AuЯenposten. Die grцЯten von ihnen befinden sich auf den StraЯen zum Roten Wald und zum Dunklen Tal. Die Stalker verteidigen die Barriere auf eigene Faust und versuchen die regelmдЯig anstьrmenden Monolither und Mutanten zurьckzuschlagen. Ein echtes Wunder - ich habe noch nie erlebt, dass sich Stalker aus einem anderen Grund als Geld zusammentun!</text>
+	</string>
+	<string id="dm_about_136">
+		<text>In Richtung Norden kommst du zur Barriere, die von den Stalkern gegen Mutanten aus der Richtung des Schmelzers verteidigt wird. Rechts der Barriere liegt ein Sumpf mit einer Hьtte auf Pfдhlen. Du solltest dich von dort fernhalten, die Strahlung in dem Gebiet ist verdammt hoch. Hinter dem Sumpf liegt die Militдrbasis. Unser AuЯenposten im Westen bewacht die StraЯe zum Roten Wald und nach Limansk - dorthin ist der grцЯte Teil des Clans unterwegs. Der sьdliche AuЯenposten bewacht den Weg zum Dunklen Tal.</text>
+	</string>
+	<string id="dm_about_137">
+		<text>Hier verдndert sich alles rasend schnell. Die Militдrlager werden bald den Freiheitlern gehцren. Unsere AuЯenposten und befestigte Stellungen, die von einzelnen Stalkern gehalten werden, schьtzen sдmtliche Zugдnge zu diesem Gebiet. Die Barriere im Norden stoppt die Monster und Mutanten, die aus dem Zentrum der Zone heranstrцmen. Gott sei Dank bewachen die Stalker die Barriere - wir wдren in echten Schwierigkeiten, wenn sie uns nicht helfen wьrden. Unser westlicher AuЯenposten bewacht die StraЯe nach Limansk durch den Roten Wald und der AuЯenposten im Sьden sorgt dafьr, dass der Weg ins Dunkle Tal zu unserer Hauptbasis sicher ist. Dieser Ort wimmelt im Moment nur so von Stalkern aller Art - sie genieЯen die Freiheit, die wir ihnen gewдhren, indem wir das Militдr in der Basis festnageln. In den verlassenen Dцrfern und Bauernhцfen findet sich bestimmt das eine oder andere brauchbare Artefakt.</text>
+	</string>
+	<string id="dm_about_138">
+		<text>Nachdem das Militдr die Kontrolle ьber dieses Gebiet verloren hat, tauchten die Stalker ьberall auf in der Hoffnung, am Hirnschmelzer vorbeizukommen. Diese Narren! Am Schmelzer kommt niemand vorbei. Niemand, der es je versucht hat, ist je wiedergekehrt. Die Freiheitler wollen sich das Militдr vom Hals schaffen und eine neue Basis aufbauen. Wenn wir die Barriere halten wollen, dann brauchen wir eine Basis in ihrer Nдhe.</text>
+	</string>
+	<string id="dm_about_139">
+		<text>An diesem Ort versammeln sich die Stalker. Die besten von ihnen haben sich bei den Militдrlagern zusammengefunden und suchen nach einem Weg, den Schmelzer zu umgehen. Die Moral ist hoch und alle trдumen davon, das Zentrum zu erreichen und dem Wunschgцnner gegenьberzustehen. Narren! Sie waren clever genug, bis zu den Lagerhдusern zu gelangen, aber ihnen fehlt der nцtige Grips, um zu erkennen, dass hinter dem Schmelzer nur der Tod auf sie wartet. Sie sollten uns lieber helfen, die Barriere zu verteidigen, denn wenn sie fдllt, kann uns tatsдchlich nur noch der Wunschgцnner helfen!</text>
+	</string>
+	<string id="dm_about_140">
+		<text>Die Dinge verдndern sich von Minute zu Minute. Aus Richtung des Schmelzers stьrmen regelmдЯig Wellen von fanatischen Monolithern und Mutanten heran. Und dann diese Funkfetzen, die es mir eiskalt den Rьcken runter laufen lassen. Seit der Emission sind eine Menge Leute verschwunden... Sie sind nicht krepiert, sondern sie haben sich verirrt, wenn du verstehst. Es ist, als hдtte sich nichts verдndert, aber sie finden einfach nicht zurьck. Vielleicht ist es eine neue Anomalie, der man nicht entkommen kann... Wer weiЯ? Sie tun mir leid, aber ich habe keinen Schimmer, wie ich ihnen helfen kann.</text>
+	</string>
+	<string id="dm_action_info_105">
+		<text>Wir tun nichts anderes, als die Barriere zu verteidigen und das Militдr aus der Basis zu scheuchen. Unser Anfьhrer ist schlau wie ein Fuchs - ich wдre nie darauf gekommen, dass die Verteidigung der Barriere mit einer Basis in der Nдhe viel einfacher werden wьrde. Darum fьhrt er die Freiheitler an und ich plaudere hier mit dir. Andererseits muss ich mir nicht den Kopf zerbrechen und kann mich zusaufen, wie ich will - und keinen interessiert's!</text>
+	</string>
+	<string id="dm_action_info_106">
+		<text>Wir halten die Barriere, so gut es geht. Das Militдr kьmmert sich seit der Emission nicht mehr darum, und es sind so viele Monster durchgebrochen, dass sogar wir im Dunklen Tal uns vor Angst in die Hosen gemacht haben. Da hat unser Anfьhrer diese Truppe zusammengestellt. AuЯerdem sind die ersten Mitglieder des vermissten Spдhtrupps aus dem Gebiet hinter der Barriere als Monolither zurьckgekehrt. Sie waren wohl nicht in dem Sinne "vermisst", wie wir gedacht haben. </text>
+	</string>
+	<string id="dm_action_info_107">
+		<text>Ich suche nach unserem Spдhtrupp. Sie sind vor der Emission in diese Richtung aufgebrochen, und seitdem hat niemand sie gesehen. Hin und wieder empfangen wir ein paar Funkfetzen, in denen sie um Hilfe bitten und sagen, dass ihre Vorrдte zur Neige gehen. Seltsam, Mann - der Trupp ist irgendwo in der Nдhe. Sie kцnnen sogar den Turm der Militдrbasis sehen, aber wenn sie einen Schritt nach vorn machen, kommen sie ihm nicht nдher. Es ist, als wьrden sie auf einem unendlichen Mцbiusband laufen. Ich zerbreche mir schon die ganze Zeit den Kopf, was wir tun kцnnen.</text>
+	</string>
+	<string id="dm_action_info_108">
+		<text>Wir haben einen kleinen Deal mit dem Militдr ausgehandelt. Sie kassieren unsere Kugeln und wir kassieren ihre Basis. Klingt fair in meinen Augen. Die Jungs und ich "verhandeln" so gut wir kцnnen.</text>
+	</string>
+	<string id="dm_action_info_109">
+		<text>Wenn wir nicht gerade kдmpfen, was nicht allzu oft passiert, hдng ich am Lagerfeuer rum und erzдhle Geschichten und Witze und trinke was mit den Jungs. Wenn wir hier und in Limansk fertig sind - zwei unberьhrte Gebiete in der Zone - finden wir vielleicht einen Weg ins Zentrum. Von dorther kommen die Monolither.</text>
+	</string>
+	<string id="dm_action_info_110">
+		<text>Ich genieЯe es hier: Ich und meine Kumpel saufen, feiern und reiЯen ohne Ende Witze. Wen interessiert schon, was morgen mit mir passiert oder in einer Stunde oder sogar in einer Minute? Vielleicht begegne ich ja einer Anomalie oder fang mir eine Kugel ein. Man muss SpaЯ haben, solang man noch am Leben ist.</text>
+	</string>
+	<string id="dm_action_info_111">
+		<text>Ich will ein Held sein, und bei den Freiheitlern kann man zurzeit schnell aufsteigen und durch Erfolge im Kampf einen Platz in den Geschichtsbьchern einnehmen. Aber man muss sich clever anstellen, es sei denn, du willst unbedingt einen Orden haben. Versteck dich niemals hinter anderen, aber spiel auch nicht den Kugelfдnger.</text>
+	</string>
+	<string id="dm_action_info_112">
+		<text>Ich bin aus dem Dunklen Tal als Freiwilliger hergekommen, um dem Militдr Feuer unterm Arsch zu machen. Ich wollte Action erleben und mal was anderes sehen - ich hatte es einfach satt, stдndig auf ein und demselben Fleck zu hocken.</text>
+	</string>
+	<string id="dm_action_info_113">
+		<text>Ich erfьlle die Aufgaben, die mir der Kommandant aufgetragen hat. Glaubst du etwa, die Wдchter sind der einzige Clan, bei dem Befehle befolgt werden? Auch wir kцnnen diszipliniert sein, wenn es nцtig ist. Du musst nicht ganz bei Trost sein, wenn du glaubst, dass die Freiheitler nichts als Junkies und Trinker sind. Wenn dem so wдre, dann wдre unser ganzer Clan schon vor langer Zeit ausgelцscht worden.</text>
+	</string>
+	<string id="dm_action_info_114">
+		<text>Alle sind losgezogen, um zu kдmpfen. Was sollte ich da tun? Ich bin kein Feigling und ein Verrдter bin ich erst recht nicht! Wir kдmpfen hier fьr eine gemeinsame Sache. Es gibt Zeiten, in denen man SpaЯ haben kann, und es gibt Zeiten, in denen man ernst sein muss. Aber in letzter Zeit kцnnen wir keine Sekunde entspannen.</text>
+	</string>
+	<string id="dm_action_info_115">
+		<text>Kдmpfen. Gegen wen? Nun, gegen jeden, der gegen uns ist. Wir sind kein Haufen von Anarchisten - in unserem Clan herrschen klare Regeln. Wir wissen genau, was wir tun. Vielleicht kann man es nicht mit dem Militдr oder den Wдchtern vergleichen, weil wir dem Clan beigetreten sind, um in den Genuss von Freiheit und Gleichheit zu kommen, aber wir kцnnen uns immer organisieren und was zusammen erreichen. Also halt dich fest, Kumpel, gleich wirst du die Freiheitler in Aktion erleben.</text>
+	</string>
+	<string id="dm_cool_info_30">
+		<text>Die Freiheitler haben es zurzeit nicht leicht. Wir hatten uns gerade von den Banditenangriffen erholt und den Maulwurf gefunden, da wurde Limansk hinter dem Roten Wald entdeckt und das Militдr verlor die Kontrolle ьber die Lagerhдuser hier. Wir mussten also an mehreren Fronten gleichzeitig kдmpfen und sind jetzt von Feinden umgeben. Hoffentlich ьbernehmen wir uns nicht.</text>
+	</string>
+	<string id="dm_cool_info_31">
+		<text>Nach der Emission scheinen in der Zone einige seltsame Blasen entstanden zu sein. Es sind jede Menge Leute von hier verschwunden und es sieht so aus, als wьrden sie in einer Raumblase ohne Ausweg feststecken - ganz egal, wohin sie auch gehen, sie kommen nicht vom Fleck! Diese Blasen haben einige gute Leute verschluckt, und wenn du dich etwas hцher postierst, kannst du ihre Hilferufe hцren. Pass auf dich auf, sonst wirst du dich schneller zu ihnen gesellen, als dir lieb ist.</text>
+	</string>
+	<string id="dm_cool_info_32">
+		<text>Nach der Emission hat sich herausgestellt, dass viele wichtige StraЯen zum Zentrum der Zone an den Lagerhдusern vorbeifьhren. Unsere Vorhut hat vor kurzem Limansk erreicht, ein Stдdtchen, von dem zuvor niemand je etwas gehцrt hat. Vielleicht gelangt man von dort aus zu anderen Orten, aber was ich eigentlich hoffe, ist, dass endlich jemand das Geheimnis des Schmelzers lьftet und einen Weg nach Norden findet!</text>
+	</string>
+	<string id="dm_cool_info_33">
+		<text>Wir haben die Ratte erwischt, die Informationen an die Banditen weitergegeben hat, mit denen sie unsere Jungs wie Vieh abgeschlachtet haben. Dreimal darfst du raten, wer es ist! Ganz genau, unser Kommandant! Du wirkst nicht gerade ьberrascht - woher weiЯt du es? Was fьr ein dreckiger Hund muss man sein, um seinen eigenen Clan so zu verraten! Ich hдtte ihm am liebsten eigenhдndig umgelegt!</text>
+	</string>
+	<string id="dm_cool_info_34">
+		<text>Kumpel, wird sind dabei, die Zone zu befreien, dann wird der Name meines Clans wird im ganzen Land bekannt sein! Wir werden uns um die Wдchter in Limansk kьmmern und diese Basis auch einnehmen. Dann sollten wir in der Lage sein, am Schmelzer vorbeizukommen und nach Norden zu gelangen. Die Monolither haben es geschafft, also warum sollten wir es nicht auch schaffen? Ich hab keine Ahnung, was sie dort entdeckt haben, aber sie kдmpfen so, als wдre es wichtig.</text>
+	</string>
+	<string id="dm_cool_info_35">
+		<text>Bruder, wir stehen vor groЯen Verдnderungen! Die Militдrlager und das gesamte Gebiet werden schon bald der Freiheitsgruppe gehцren. Unsere AuЯenposten bewachen die wichtigsten StraЯen und es wird nicht mehr lange dauern, bis wir die Militдrbasis eingenommen haben. Hier fьhrt eine StraЯe nach Norden direkt ins Zentrum der Zone, und sobald wir mit dem Hirnschmelzer fertig sind, werden wir die Ersten sein, die herausfinden, was es mit diesem... Wunschgцnner auf sich hat.</text>
+	</string>
+	<string id="dm_intro_106">
+		<text>Hallo Fremder!</text>
+	</string>
+	<string id="dm_intro_107">
+		<text>Hallo und willkommen, Stalker!</text>
+	</string>
+	<string id="dm_intro_108">
+		<text>Hey!</text>
+	</string>
+	<string id="dm_about_141">
+		<text>Dies ist der letzte bewohnte Bereich der Zone vor dem Hirnschmelzer. Nur Verrьckte gehen noch weiter, und wenn sie es tun, kehren sie nicht zurьck. Das Gebiet rund um die Lagerhдuser wimmelt von blutdьrstigen Monstern und anderen tцdlichen Gefahren, aber was dahinterliegt, weiЯ niemand. Im Roten Wald wurde vor kurzem ein Weg gefunden, der in eine unerforschte Gegend fьhrt. Ich hab gehцrt, dass ein kleines Stдdtchen entdeckt wurde, aber ich war selbst nicht dort. </text>
+	</string>
+	<string id="dm_about_142">
+		<text>Ich wьrde sagen, das Wichtigste hier ist die Militдrbasis. Die Freiheitler kдmpfen gegen das Militдr um die Basis, da die Armee seit der letzten Emission fast ausgelцscht wurde. Ein paar Dцrfer gibt es hier auch. Nichts Besonderes, aber in den Ruinen der alten Hдuser und Hьtten lдsst sich das eine oder andere Brauchbare finden. Im Norden liegt die Barriere, die von den Stalkern errichtet wurde, um die Monster aufzuhalten, die aus Richtung des Hirnschmelzers kommen. Wenn du hier weg willst, musst du einfach nach Sьden ins Dunkle Tal gehen. Im Westen beim Roten Wald kдmpfen die Wдchter gegen die Freiheitler um neue Gebiete.</text>
+	</string>
+	<string id="dm_about_143">
+		<text>Hier versuchen kleine Gruppen von Stalkern die Monster und Zombies aufzuhalten, die aus Richtung des Hirnschmelzers kommen. Irgendwo hinter dem Roten Wald kдmpfen die Haupteinheiten der Freiheitler und Wдchter gegeneinander. Ich hab gehцrt, dass dort ein Weg zu einem kleinen Stдdtchen, ich glaube es heiЯt Limansk, entdeckt wurde.</text>
+	</string>
+	<string id="dm_about_144">
+		<text>Dieser Ort wird immer heiЯer, Mann. Nach der groЯen Emission haben die Stalker eine StraЯe nach Limansk entdeckt, die durch den Roten Wald fьhrt. Als sich herumgesprochen hatte, dass die StraЯe an den Militдrlagern vorbeifьhrt, waren die Wдchter und Freiheitler sofort zur Stelle. An der Barriere wird die Lage auch immer schlechter, denn die heranstьrmenden Monsterhorden sind nicht mehr das einzige Problem. Ob du es glaubst oder nicht, die Monolither greifen ebenfalls dort an... Bis jetzt hatte ich die Geschichten ьber sie nie fьr bare Mьnze genommen!</text>
+	</string>
+	<string id="dm_about_145">
+		<text>In letzter Zeit verдndert sich die Zone so schnell, dass ich nicht weiЯ, ob mein Wissen darьber nicht bereits ьberholt ist. AuЯerdem bin ich noch nicht so lange hier. Ich weiЯ also selbst noch nicht allzu viel. Im Norden soll etwas sein, dass Hirnschmelzer genannt wird, und ich habe gehцrt, dass im Westen der Rote Wald und Limansk liegen sollen, wo sich die Freiheitler und die Wдchter gegenseitig die Kцpfe einschlagen. </text>
+	</string>
+	<string id="dm_about_146">
+		<text>Als wir hierher kamen, hielten die Freiheitler das Militдr bereits ganz gut in Schach, und dabei schienen sie selbst keine allzu groЯen Verluste zu haben. Wir halten uns da im Moment raus - wir wollen uns mit keiner der beiden Seiten anlegen, aber die anderen scheinen auch nichts fьr uns zu haben. Ach, deswegen sind wir sowieso nicht hier.</text>
+	</string>
+	<string id="dm_about_147">
+		<text>Alles, was hier passiert, passiert wegen der Armeebasis. Ihre Lage ist unglaublich wichtig, denn von dort aus hat man die Kontrolle ьber alle angrenzenden Gebiete. Verglichen damit sind die Bauernhцfe und Dцrfer in der Nдhe nichts wert. Darum unternehmen die Freiheitler alles, um sie einzunehmen - sie haben auf den StraЯen zum Dunklen Tal und zum Roten Wald bereits AuЯenposten errichtet. Die Jungs wissen, was sie tun. Der AuЯenposten im Norden wird im Moment noch von einzelnen Stalkern gehalten, die versuchen, den Ansturm der Mutanten abzuwehren, aber ich bin mir sicher, sobald die Freiheitler mit der Basis fertig sind, werden sie sich diesem Problem zuwenden.</text>
+	</string>
+	<string id="dm_about_148">
+		<text>Diese Gegend wird bald unter Kontrolle der Freiheitler stehen. Sie haben den Kampf stark vorangetrieben, seit sie ihre internen Streitigkeiten beigelegt haben. Sie sind sowohl hier als auch in Limansk und auch das Dunkle Tal haben sie noch unter Kontrolle. Ich sage "noch", weil sie sich ziemlich weit ausgebreitet haben: Sie kдmpfen um Limansk, die Militдrbasis und sie halten ihr Hauptquartier im Dunklen Tal. Die Banditen werden sie bestimmt bald von dort vertreiben. Ьberleg mal: Es muss nur ein Bandit mit etwas Grips die Situation erkennen und sie ausnutzen, indem er die Freiheitler angreift. Wenigstens wьrde ich das an ihrer Stelle tun.</text>
+	</string>
+	<string id="dm_about_149">
+		<text>Hier ist irgendein verdammter Zauber am Werk, Kollege. Wir drehen uns bei der Suche nach unseren vermissten Freunden im Kreis und das Einzige, was wir bisher gefunden haben, sind Monster. Aus etwas hцher gelegener Position empfangen wir ab und zu bruchstьckhafte Funksprьche von ihnen, aber sie machen keinen Sinn. Und das ist beileibe nicht alles! Oder wie erklдrst du dir das Auftauchen der Monolither hinter der Barriere? Ich hab einmal einen zu Gesicht bekommen. Er war verwundet, seine Augen waren glasig und er murmelte immer die gleichen Worte vor sich hin. "Verteidigt den Monolithen!" Ich glaube nicht, dass er Schmerzen hatte, denn er hцrte nicht auf, meinem Kumpel an den Hals zu gehen, bis wir ein paar Magazine in ihn gepumpt hatten. Was wollen die bloЯ? Warum sind sie nach der Emission wieder zurьckgekommen? Ich habe so viele unbeantwortete Fragen, mein Freund...</text>
+	</string>
+	<string id="dm_action_info_116">
+		<text>Wir suchen unsere Jungs. Hier wurden sie vor der Emission das letzte Mal gesehen. Auf Hьgeln kцnnen wir ab und zu Funksprьche empfangen, aber abgesehen davon gibt's keine Spur von ihnen. Ich habe keine Ahnung, wo ich anfangen soll zu suchen.</text>
+	</string>
+	<string id="dm_action_info_117">
+		<text>Wir unternehmen hier so was wie 'ne Rettungsmission fьr einen unserer Trupps. Die Emission hat sie hier in der Gegend erwischt und wir kцnnen keinen Funkkontakt mehr herstellen. Wir wurden losgeschickt, um nach unseren Jungs zu suchen... oder dem, was von ihnen ьbrig ist.</text>
+	</string>
+	<string id="dm_action_info_118">
+		<text>Alle versuchen irgendwie ins Zentrum der Zone zu gelangen, um ihre Geheimnisse zu lьften. Ich hдtte nichts gegen ein paar Antworten, ich versuche nдmlich herauszufinden, wie man am Hirnschmelzer vorbeikommt. Es werden immer wieder neue Wege entdeckt. Ich gehe davon aus, dass einer von ihnen direkt ins Herz der Zone fьhrt. Ich werde aber garantiert nicht der Erste sein, der eine neue StraЯe erkundet - so blцd bin ich dann doch nicht! Aber ich hдtte nichts dagegen, zu wissen, was hier eigentlich los ist - vielleicht findet ja jemand anderes die Wahrheit heraus.</text>
+	</string>
+	<string id="dm_action_info_119">
+		<text>Ich halte die Ohren offen. Unsere Hauptaufgabe ist allerdings, den verschwundenen Trupp zu suchen. Sie wurden hier von der Emission ьberrascht und seitdem hat sie niemand mehr gesehen. Ab und zu versuchen sie, wieder eine Verbindung herzustellen, aber bis jetzt hat es noch nicht geklappt. Wir haben hier jeden Stein umgedreht - keine Spur! Mann, ich werd noch verrьckt!</text>
+	</string>
+	<string id="dm_action_info_120">
+		<text>Wir machen's hier genau wie alle anderen, Mann - wir warten darauf, dass jemand einen Weg am Hirnschmelzer vorbei findet. Danach nehmen wir einfach die StraЯe ins Zentrum der Zone und reiЯen uns die besten Artefakte untern Nagel. Ist nicht schlimm, wenn wir nicht als Erste dort ankommen, Hauptsache wir bleiben am Leben. Ich bin kein Feigling, bloЯ vorsichtig. Du wirst das verstehen, wenn du etwas дlter bist.</text>
+	</string>
+	<string id="dm_action_info_121">
+		<text>Wir jagen Geister. Du glaubst mir nicht? Tja, ehrlich gesagt, ich wьrde mir selbst auch nicht glauben! Wir empfangen hier immer wieder bruchstьckhafte Funksprьche von dem vermissten Trupp. Wir erkennen sogar einzelne Stimmen, aber wir finden sie einfach nicht. Nicht mal reden oder das Signal orten kцnnen wir. Deshalb habe ich gesagt, wir jagen Geister... verdammte Emission!</text>
+	</string>
+	<string id="dm_action_info_122">
+		<text>Ich warte auf Befehle vom Boss. Du weiЯt schon, Gehorsam und so. Wir sind hier, um Leschiis Trupp zu retten. Schwierige Aufgabe, wenn man die armen Kerle einfach nicht finden kann. Und dann haben wir auch noch unseren Funker in dem Dorf beim Wasserturm verloren. Wir hatten gehofft, dort ein besseres Funksignal zu bekommen und plцtzlich kam so'n unsichtbarer Tintenfisch aus dem Nichts und hat ihn umgebracht. Wir konnten nichts tun, wir wurden nicht darauf trainiert, gegen Monster zu kдmpfen - unsere Hauptfeinde sind heutzutage andere Menschen.</text>
+	</string>
+	<string id="dm_action_info_123">
+		<text>Leschiis Trupp hat direkt vor der Emission einen wichtigen Auftrag erfьllt - er hat ein sehr seltenes Artefakt gefunden. Wir hatten sogar schon dem Auftraggeber Bescheid gegeben, dass die Lieferung auf dem Weg ist, aber Leschii ist nie zurьckgekommen. Wir Sцldner haben einen Kodex - ohne den sind wir gar nichts. Jeder Vertrag muss erfьllt werden. Wenn wir bei einem Job versagen, ist unser Ruf im Arsch und kein ernst zu nehmender Auftraggeber wird uns mehr engagieren. Dann wдren wir einfach wieder nur in der Zone umherwandernde Stalker. </text>
+	</string>
+	<string id="dm_cool_info_36">
+		<text>Ich wьnschte, ich wьsste mehr darьber. Wir sind Sцldner, Kollege. Wir gehen nur in die Zone, um bestimmte Auftrдge zu erfьllen, und verlassen uns auf gute Planung und hervorragende Vorbereitung zum Erreichen unserer Ziele. </text>
+	</string>
+	<string id="dm_cool_info_37">
+		<text>Ich habe von einem Stalker-Clan gehцrt, den Monolithern, der wieder aufgetaucht sein soll. Eines Tages haben sie einfach aufgehцrt, wie die anderen Clans nur herumzuspielen und sind auf der Suche nach dem Wunschgцnner ins Zentrum der Zone aufgebrochen. Fьr lange Zeit hat niemand auch nur ein Sterbenswцrtchen von ihnen gehцrt, aber jetzt sind sie wieder da. Allerdings ist keiner besonders erfreut darьber. Sie geben alle nur wirres Geschrei von sich und fangen an loszuballern, sobald jemand in Sichtweite kommt.</text>
+	</string>
+	<string id="dm_cool_info_38">
+		<text>Die StraЯe durch den Roten Wald nach Limansk wurde vor kurzem entdeckt. Die Freiheitler haben's schon dorthin geschafft. Die Wдchter versuchen, es ihnen gleichzutun. Schдtze, dort findet gerade ein Blutbad statt. Beide Clans wollen die Kontrolle ьber das Dreckloch - da werden keine Kompromisse gemacht. Die Freiheitler sind gerade auf einem Eroberungsfeldzug - die Militдrbasis wollen sie auch einnehmen. Ich bin kein Freund der Armee, aber die Jungs tun mir leid. Sie wurden ziemlich hart von der Emission getroffen und jetzt werden sie auch noch von Stalkern angegriffen.</text>
+	</string>
+	<string id="dm_cool_info_39">
+		<text>Ich habe gehцrt, dass die Wдchter Probleme mit den Mutanten im Agroprom-Institut hatten. Sie haben da irgendwas im Untergrund verbockt und kommen kaum noch gegen die Monster an. Eine Zeit lang war das eine Goldgrube fьr Hдndler, bei dem gewaltigen Munitionsverbrauch. Na ja, ich habe von einem einzelnen Stalker gehцrt, der ihnen geholfen hat, den Untergrund zu fluten - ganz auf eigene Faust! Keine Ahnung, ob das stimmt, aber wenn ja, dann muss der Stalker ganz schon was auf dem Kasten haben. Hier gibt's nicht viele, die einfach in eine Mutantenhцhle reinspazieren, der Zone den Stinkefinger zeigen und mit dem Leben davonkommen kцnnen. Sollte ich dem Stalker jemals persцnlich begegnen, kaufe ich mir einen Hut, damit ich ihn vor ihm ziehen kann.</text>
+	</string>
+	<string id="dm_intro_109">
+		<text>Es ist mir eine Ehre, Eure Faltigkeit.</text>
+	</string>
+	<string id="dm_intro_110">
+		<text>Ich wette, du hast 'nen vernьnftigen Handschlag, GroЯer!</text>
+	</string>
+	<string id="dm_intro_111">
+		<text>Willkommen bei den Lagerhдusern.</text>
+	</string>
+	<string id="dm_about_150">
+		<text>Dies ist das letzte Gebiet der Zone, das von Stalkern erkundet wurde. Hier befinden sich die Militдrlager, aber wenn du weitergehst, gelangst du zum Hirnschmelzer - es heiЯt, dass diejenigen, die von ihm beeinflusst werden, ab und an die Kontrolle ьber sich verlieren! Aber das ist alles reine Spekulation, weil bisher noch nie jemand von dort je zurьckgekommen ist! Der Weg zum Schmelzer von den Lagerhдusern wird durch die Barriere blockiert, die dazu gedacht ist, angreifende Monster abzuwehren, die aus dem Zentrum kommen. Seit der groЯen Emission wimmelt es ьberall von Monolithern. Ich frag mich, was die in diesem Teil der Zone suchen... Vielleicht wollen sie alle tцten, die ihren angeblichen Monolithen bedrohen?</text>
+	</string>
+	<string id="dm_about_151">
+		<text>Das Militдr hat nach der Emission sein wahres Gesicht gezeigt - Sie haben die AuЯenposten verlassen und sich wie die Ratten in ihrer Basis verkrochen. Aber da sie dem Zentrum am nдchsten waren und jetzt nur noch 20 von ihnen ьbrig sind, kann man das verstehen. Als das Militдr die Kontrolle ьber die Lagerhдuser verlor, hat sich die halbe Welt hierher geflьchtet: Stalker, Sцldner, Wдchter und Freiheitler. Es ist gut, dass die Stalker sich uns angeschlossen haben, um die Barriere zu verteidigen. Wenn wir die Mutanten und Monolither nicht aufhalten, werden wir alle schrecklich leiden, selbst die Armee beim Kordon.</text>
+	</string>
+	<string id="dm_about_152">
+		<text>Von der Militдrbasis und der Barriere hast du wahrscheinlich schon gehцrt. Nun, abgesehen davon gibt es hier nicht allzu viel bis auf ein paar Dцrfer und einen Bauernhof. Darьber gibt es kaum was zu erzдhlen, aber ein verlassenes Haus eignet sich gut als Versteck oder auch als Operationsbasis, es sei denn, ein Mutant hat sich schon dort eingenistet. Sei auf der Hut - es treiben sich eine Menge davon in der Gegend herum.</text>
+	</string>
+	<string id="dm_about_153">
+		<text>Es gab eine kurze Emission von wenigen Minuten, und danach wurden die Militдrlager von Stalkern in Beschlag genommen. Und jetzt verstecken sich die groЯmauligen Soldaten vor den Freiheitlern tief in ihrer Basis und wagen sich vor lauter Angst keinen Schritt vor die Tьr. Die Monolither dagegen scheinen vor nichts und niemandem Angst zu haben. Wir haben gedacht, dass sie schon vor langem verreckt sind, aber sie sind quicklebendig - sie kommen aus Richtung des Schmelzers und schieЯen auf alles, was sich bewegt!</text>
+	</string>
+	<string id="dm_about_154">
+		<text>Hier laufen echt schrдge Dinge ab. Ein Haufen Stalker treibt sich hier rum, seitdem das Militдr durch die Emission geschwдcht wurde. Alle versuchen, irgendwie ins Zentrum der Zone zu gelangen. Einige von ihnen kцnnen es kaum erwarten, kostbare Artefakte in ihre dreckigen Finger zu bekommen, wдhrend andere den Wunschgцnner aufsuchen wollen und wieder andere nach irgendeinem seltsamen Monolithen suchen... Die sind alle irgendwie vцllig durchgeknallt. Vielleicht hat der Schmelzer ja schon ihre Hirne gegrillt.</text>
+	</string>
+	<string id="dm_about_155">
+		<text>Ich kann dir alles ganz genau erklдren, denn ich kenne die Gegend hier wie meine Westentasche, seit ich hier nach Artefakten suche. Der wichtigste Bezugspunkt ist die Militдrbasis. Sie liegt auf einem Hьgel, du kannst sie also aus der Ferne sehen. Nцrdlich davon ist die Barriere und im Sьden liegt das Dunkle Tal. Wenn du zu dem Dorf in Richtung Westen gehst, kommst du zum Roten Wald. Dort sind auch ein paar Bauernhцfe und eine Hьtte am Sumpf, aber ich wьrde da lieber nicht hingehen - ziemlich ьble Strahlung dort. </text>
+	</string>
+	<string id="dm_about_156">
+		<text>Dort hat das Militдr einige Dinge von Wert zurьckgelassen. Leider werden sich die Freiheitler das Zeug wohl unter den Nagel reiЯen, denn sie haben ein Auge auf die Militдrbasis geworfen. Uns bleiben nur die Barrikaden auf der StraЯe in Richtung Schmelzer und die Artefakte, die dort herumliegen. Oh, es gibt auch eine Reihe verlassener Dцrfer, wo du in einem Haus deiner Wahl deine Zelte aufschlagen kannst. Wenn du Glьck hast, darfst du dir dein Zimmer mit einem unsichtbaren Zimmergenossen teilen - mit Tentakeln und so.</text>
+	</string>
+	<string id="dm_about_157">
+		<text>Die Freiheitler werden die Sache mit dem Militдr ein fьr alle Mal "klдren". Dann wird das hier genauso friedlich wie im Dunklen Tal. In der Zwischenzeit haben wir eine eigene Mission zu erledigen: Wir mьssen die Barriere verteidigen. Als ich gesehen habe, was fьr Viecher von jenseits der Barriere auf uns zukommen, ist mir jede Lust auf Abenteuer vergangen. Sollen doch andere Idioten sich dort treffen und versuchen, am Schmelzer vorbeizukommen.</text>
+	</string>
+	<string id="dm_about_158">
+		<text>Wir haben in der Basis der Freiheitsgruppe im Dunklen Tal von der Barriere erfahren. Es heiЯt, das Militдr sei zurьckgeschlagen worden und gewцhnliche Stalker hдtten sich zusammengeschlossen, um die Gegend gegen die Monolither zu verteidigen. Wir haben uns mit einer ganzen Einheit auf den Weg gemacht, um unsere Brьder zu unterstьtzen, aber ich bin als Einziger durchgekommen. Einige haben sich abgeseilt, ein paar sind auf der StraЯe umgekommen und der Rest ist einfach weitergegangen...</text>
+	</string>
+	<string id="dm_about_159">
+		<text>Das Militдr verliert immer mehr die Kontrolle ьber die Gegend hier. Vor Kurzem haben Stalker die Lagerhдuser ьbernommen und halten zusammen mit den Freiheitlern die meisten wichtigen Punkte in der Umgebung. Wir haben uns zusammengeschlossen, um die Barriere zu verteidigen und die gelegentlichen Angriffe dieser durchgeknallten Monolither und der schrecklichen Mutanten aus Richtung des Radars zurьckzuschlagen. Die Freiheitler kontrollieren die westlichen und sьdlichen Bereiche, und stehen kurz davor, die Militдrbasis zu ьbernehmen. Oh, irgendwo hier treiben sich auch ein paar Sцldner herum, die nach einer vermissten Einheit suchen oder so.</text>
+	</string>
+	<string id="dm_action_info_124">
+		<text>Rate mal. Ich sammle Beute, was sonst? Das Militдr hдlt nicht mehr die Hand drauf, wir kцnnen machen, was wir wollen. AuЯerdem will ich ins Zentrum der Zone. Natьrlich muss ich hin und wieder bei der Verteidigung der Barriere helfen, aber das tue ich zu meiner eigenen Sicherheit. Und manchmal springt sogar eine nette Wumme und etwas Muni ab, wenn das Geballere erst vorbei ist. </text>
+	</string>
+	<string id="dm_action_info_125">
+		<text>Ich bin hier, um an der Barriere zu kдmpfen. Ein Freund in der Bar der Wдchter hat mir gesagt, dass hier ein paar Leute eine Verteidigungsstellung gegen die Mutanten aufgebaut haben. Er hat gesagt, dass es hier immer jemanden zum Abknallen gibt, also bin ich mitten in der Nacht los, um ein wenig mitzumischen - macht ja schlieЯlich SpaЯ!</text>
+	</string>
+	<string id="dm_action_info_126">
+		<text>Mich haben unbekannte Gebiete schon immer angezogen. Ich bin in die Zone gekommen, weil ich die monotone Routine von auЯerhalb satt hatte. Dagegen wartet hier immer ein Geheimnis darauf, gelьftet zu werden. AuЯerdem brauch ich das Geld. Um zu ьberleben braucht man was zu beiЯen und Munition, und Geld gibt es nur fьr Beute. Ich warte auЯerdem darauf, dass jemand einen Weg am Schmelzer vorbei findet, denn dann bin ich der Erste, der sich zum Zentrum der Zone aufmacht. Ich habe einen innigen Wunsch - dass die Zone verschwindet.</text>
+	</string>
+	<string id="dm_action_info_127">
+		<text>Ich versuche, die Freiheitler einzuholen. Ich wollte mit ihnen nach Limansk ziehen, aber ich war zu spдt im Dunklen Tal und sie waren schon weg. Ashot hat gesagt, dass sie hier entlang gehen, aber als ich hier ankam, waren Sie schon durch den Roten Wald gezogen. Jetzt werde ich sie niemals einholen! Ganz allein werde ich die StraЯe sicher nicht entlanggehen, und Gruppen werden hier in der nдchsten Zeit auch nicht vorbeikommen.</text>
+	</string>
+	<string id="dm_action_info_128">
+		<text>Ich mache nur eine kurze Verschnaufpause, bevor ich mich auf den Weg durch den Roten Wald mache. Ich will unbedingt wissen, was auf der anderen Seite von Limansk ist. Wenn interessiert's, dass andere nicht mehr zurьckkommen? Vielleicht kommen Sie ja nicht mehr zurьck, weil sie etwas gefunden haben. Denk doch mal an die Monolither: Keiner hцrt was von ihnen ьber Monate, und dann sind sie auf einmal wieder da... Gott allein weiЯ, was sie dort entdeckt haben.</text>
+	</string>
+	<string id="dm_action_info_129">
+		<text>Ich bin gerade mit leeren Hдnden aus dem Roten Wald zurьck. Zusammen mit ein paar Freunden wollten wir hindurchgehen, aber dann haben wir einfach so Angst bekommen. Mann, wir haben uns so in die Hosen gemacht, dass wir gerannt sind, bis wir die Barriere erreicht hatten. Es ist ein Wunder, dass keiner von uns einer Anomalie begegnet ist. Seltsamerweise wissen wir immer noch nicht, was uns eigentlich so eine Angst eingejagt hat. Was soll's, der Wald ist jedenfalls echt unheimlich.</text>
+	</string>
+	<string id="dm_action_info_130">
+		<text>Ich mцchte die ganze Zone sehen. Ich kenne jetzt die Lagerhдuser, aber davor war ich schon beim Kordon, in den Sьmpfen, im Agroprom-Institut und im Dunklen Tal. Ich war sogar eine Zeit lang Sklave der Banditen an der Mьllhalde. Wenn ich mich hier grьndlich umgesehen habe, werde ich weiterziehen.</text>
+	</string>
+	<string id="dm_action_info_131">
+		<text>Es gibt nicht mehr viele Gebiete, die nicht unter Kontrolle anderer Clans oder Fraktionen stehen, und ein einzelner Stalker kann im Agroprom-Institut oder bei der Mьllhalde wenig erreichen. Auch nicht in Limansk - es wurde gerade erst entdeckt, und schon strцmen massenweise Leute dorthin. Aber mit den Lagerhдusern ist es anders, denn die dortige Lage ist unklar: Sie gehцren nicht mehr dem Militдr, aber den Freiheitlern gehцren sie auch noch nicht richtig. AuЯerdem liegen sie dicht bei den neu erkundeten Gebieten, und wenn man dorthin gelangt, muss man nicht kдmpfen, um Geld zu bekommen - stattdessen findet man dort jede Menge kostbare Artefakte.</text>
+	</string>
+	<string id="dm_action_info_132">
+		<text>Ich suche nach einem wertvollen Artefakt. Sidorowitsch hat mich beauftragt, es zu suchen, und ich konnte es weder im Kordon noch im Dunklen Tal auftreiben. Auf der Mьllhalde zu suchen bringt nur Дrger und rund um das Agroprom grasen zwei Stalker-Clans alles ab, besonders seit irgendein gefeierter Held den Untergrund dort geflutet hat. Seitdem mьssen die Wдchter nicht mehr die ganze Zeit damit verbringen, Mutanten zu bekдmpfen. Aber wдhrend dort alles verrьckt spielt, kцnnte ich vielleicht finden, was ich suche.</text>
+	</string>
+	<string id="dm_action_info_133">
+		<text>Ich wurde aus dem Dunklen Tal hierher geschickt, um dem Kommandanten der hiesigen Einheit der Freiheitler eine wichtige Nachricht zu ьberbringen. Jetzt hab ich meine Bezahlung erhalten und wollte hier etwas herumhдngen. Warum auch nicht? Die Jungs hier sind ganz okay, und bisher hat noch keiner versucht, hier den Boss zu spielen. Hier gibt es zwar jede Menge Geballere und Anomalien, und die Monolither halten uns nachts auf Trab, aber das macht die Zone aus!</text>
+	</string>
+	<string id="dm_action_info_134">
+		<text>Ich will nach Norden in Richtung Schmelzer ziehen. Es heiЯt, die Monolither hдtten es geschafft und ein paar andere Stalker hдtten tatsдchlich den Wunschgцnner erreicht und seien in einem Stьck zurьckgekehrt. Keiner weiЯ, warum sie zurьckgekehrt sind. Vielleicht ist ihnen die Munition ausgegangen oder sie haben etwas zu viel Strahlung abbekommen. Aber sei's drum - wenn es andere geschafft haben, kann ich es auch schaffen, ganz egal, was die Leute sagen!</text>
+	</string>
+	<string id="dm_action_info_135">
+		<text>Du siehst aus, als wдrst du schon eine ganze Weile in der Zone, Stalker. Ich hдtte erwartet, dass du dabei gelernt hast, dass solche Fragen nicht gerade klug sind. Es geht dich einfach nichts an. Wenn ich vorhдtte, das mit jemandem zu teilen, dann wьrde ich das auch tun. Und zwar mit einer Person, die ich mir aussuche. Frag mich was anderes.</text>
+	</string>
+	<string id="dm_cool_info_40">
+		<text>Nachdem die Monolither sich von der Barriere zurьckgezogen hatten, wollten wir einen von ihnen lebendig gefangen nehmen, um herauszufinden, wie man am Schmelzer vorbeikommt und in das Zentrum der Zone gelangt. Mann, es hat uns einige Kameraden gekostet und noch mehr Munition, aber wir haben's geschafft. Dem einen Kerl haben wir ein halbes Magazin in die Brust geschossen, aber er war immer noch ziemlich lebendig: Er grunzte und versuchte unseren Anfьhrer anzugreifen. Wir haben ihn nett und weniger nett gefragt, aber er hat uns nichts verraten. Stattdessen schrie er die ganze Zeit "Verteidigt den Monolithen", immer und immer wieder... Irgendetwas muss auf der anderen Seite mit den Jungs passiert sein. Wir haben also nicht herausgefunden, wie man am Schmelzer vorbeikommt, aber wenn sie aus dem Gebiet hinter der Barriere kommen, muss es doch einen Weg geben, oder nicht? Was meinst du?</text>
+	</string>
+	<string id="dm_cool_info_41">
+		<text>Die letzte Neuigkeit ist, dass sie hinter dem Roten Wald eine StraЯe nach Limansk gefunden haben, und jetzt schlagen sich Wдchter und Freiheitler im Kampf darum die Kцpfe ein. Muss ein ziemlich wichtiges Stдdtchen sein, wenn sie deswegen so ein Blutbad veranstalten.</text>
+	</string>
+	<string id="dm_cool_info_42">
+		<text>Ich hab gehцrt, dass ein Sцldner den Stalkern beim Kordon geholfen hat, das Problem mit dem Militдr zu lцsen. Seitdem belдstigt sie das Militдr dort nicht mehr, denn die Soldaten fьrchten die Antwort. Wenn ich an die Beschreibung dieses Sцldners denke... dann bist du das! Sei nicht schьchtern, Kumpel, lass mich deine starke Hand schьtteln! Du bist der Beste!</text>
+	</string>
+	<string id="dm_cool_info_43">
+		<text>Die Emissionen treten inzwischen so hдufig auf, dass sie ein echtes Problem werden. So war es schon lange nicht mehr. Sie treten kurz nacheinander auf, und jedes Mal verдndert sich die Zone. Manchmal findet man nach einer Emission neue Anomalien, und manchmal entdeckt man einen Weg durch ein bestehendes Anomaliefeld. So erklдrt sich auch, wie sie die StraЯe nach Limansk entdecken konnten, obwohl die meisten Stalker zuvor noch nie von ihr gehцrt hatten. Die ganze Situation kostet vielen das Leben, und es sind nicht nur die Emissionen. Es herrscht ein regelrechter Krieg um die Kontrolle ьber die neuen Gebiete, und das ist alles andere als gut.</text>
+	</string>
+	<string id="dm_cool_info_44">
+		<text>Wie soll's hier Neues geben? Stell dir das hier wie'n Kindergarten vor, oder 'ne Vorschule. Zugegeben, wenn du hier nicht die Grundlagen lernst, bist du in der Zone nach spдtestens fьnf Minuten Hundefutter. Die Schlauen bleiben eine Weile hier, dann gehen sie weg und nur der Teufel weiЯ, wohin. Abgesehen davon kommst du hier an gute Munition oder Waffen heran. Machen alle so.</text>
+	</string>
+	<string id="dm_action_info_136">
+		<text>Nichts weiter. Ich versuch nur, am Leben zu bleiben, mehr nicht.</text>
+	</string>
+	<string id="dm_about_160">
+		<text>Ist das zu glauben? Vor 'ner Stunde wдr ich fast dran gewesen! Als ich vor 'nem halben Jahr hier war, da war alles still, und jetzt? Unter jedem Busch diese Glatzkцpfe in ihren Kostьmen. Irre, Mann...</text>
+	</string>
+	<string id="dm_cool_info_45">
+		<text>Was willst du denn hцren? Eins sag ich dir: Die "Wдchter" haben eindeutig das Sagen. Die wissen, wie man Ordnung hдlt, so viel steht fest. Aber ich mag sie nicht besonders. Sie sind wie Grundbesitzer - "nimm dies nicht mit", "das darf die Zone nicht verlassen"... Nicht nur das, sie geben auch vor, was du in der AuЯenwelt sagen darfst und was du zu verschweigen hast! Ich habe sogar gehцrt, dass sie die Zone Schritt fьr Schritt zerstцren wollen. Na, das ьberrascht mich nicht, bei ehemaligen Soldaten... alles Trдumer. Viel schlimmer ist, dass sie Unterstьtzung von ganz oben haben. Zumindest behaupten sie das!</text>
+	</string>
+	<string id="dm_about_161">
+		<text>Das Gebiet wird von den Wдchtern beherrscht, und deren Regeln sind das Gesetz. Wir kontrollieren die Grenzen der Zone und kьhlen Hitzkцpfe ab. Die armen Idioten kommen scharenweise her, alles Amateure und Romantiker. Und schon am ersten Tag gehen sie gleich gruppenweise drauf.</text>
+	</string>
+	<string id="dm_about_162">
+		<text>Ziehen wir ins Lager, da hцrt man alle Gerьchte. Alle, die das hier zum ersten Mal machen - Anfдnger wie du - schauen meist rein, um sich Tipps zu holen oder mal zu entspannen. In der Nдhe sind Soldaten. Hab keine Angst vor ihnen, aber steh ihnen nicht im Weg. Die kцnnen schieЯen, ohne weiter drьber nachzudenken... Hier beim Hдndler - der verkauft die цrtliche Ware - gibt's eine schцne, ruhige Stelle, an der du dein Lager aufschlagen kannst. </text>
+	</string>
+	<string id="dm_cool_info_46">
+		<text>Hast du gehцrt, dass die Wдchter rekrutieren? Hab kurz mit dem Gedanken gespielt, aber dann dachte ich: zur Hцlle damit! Irgendwann ziehen sie mich noch ein. Diese Art Disziplin kann ich nicht brauchen. Hab meine zwei Jahre gedient, das hat mir gereicht...</text>
+	</string>
+	<string id="dm_action_info_137">
+		<text>Ich hab ьberlegt, nach Jantar zu gehen, aber dann dachte ich, scheiЯ drauf. Die Forscher haben 'ne ausgereifte wissenschaftliche Basis in der Zone. Die buddeln in Wer-weiЯ-was rum, wдhrend die Zombies um den Komplex rumgeistern. Was 'ne Idylle, Mann.</text>
+	</string>
+	<string id="dm_cool_info_47">
+		<text>Neulich haben sie in der Jantar-Zone aufgerдumt... Ja, richtig sauber gemacht! Da gibt's Forschungslabors, aber zu viele Zombies drum herum. Wir mьssen regelmдЯig rьber und den Wissenschaftlern helfen.</text>
+	</string>
+	<string id="dm_cool_info_48">
+		<text>WeiЯt du was, sollen doch die Wдchter, die von der Freiheit und die ganzen Beutejдger unter sich ausmachen, wem hier alles gehцrt. Was geht mich das an? Zur Hцlle damit...</text>
+	</string>
+	<string id="dm_action_info_138">
+		<text>Jetzt arbeiten wir hier, Stalker. Hier brьten nicht nur einige dieser Kreaturen, hier kommen dir auch noch die Arschgeigen von Sцldnern und die Schwachkцpfe von der Freiheitsfraktion in den Weg...</text>
+	</string>
+	<string id="dm_cool_info_49">
+		<text>Nichts. Ich weiЯ gar nichts. Ich nehm, was ich kann, und versuche, mich irgendwie durchzuschlagen. In die Zone zu gehen, ist mir zu unheimlich. Drauf geschissen! Zu Hause gibt's keine Arbeit, meine Frau sitzt mir im Nacken und von irgendwas muss man ja leben, oder? Hier auf der Mьllhalde kannst du einige einfache Artefakte finden, wenn du dich mal einen Tag umsiehst. Und das reicht mir... ich hab was zu beiЯen und auch genug, um es runterzuspьlen.</text>
+	</string>
+	<string id="dm_cool_info_50">
+		<text>Nun ja... einige ernдhren sich von der Mьllhalde und sammeln Kleinschrott, andere dringen tiefer in die Zone ein. Natьrlich findet man dort viel bessere Gegenstдnde, aber nicht jeder will dorthin. Es ist kein Ort fьr Anfдnger, und wenn du keine Munition hast, denk nicht mal dran! Das wдr' echt hoffnungslos.</text>
+	</string>
+	<string id="dm_action_info_141">
+		<text>Was geht dich das an? Geh uns hier nicht mit deinen dдmlichen Fragen auf die Nerven!</text>
+	</string>
+	<string id="dm_cool_info_51">
+		<text>Die Wissenschafter sind echt spaЯig! Ich steh voll drauf, Mann. Meist stecken die die Nasen nicht aus dem Bunker, und wenn man sie doch sieht, so wie neulich - oh Mann! Ьberall Truppen, Hubschrauber, Schьtzenpanzer! Ich wьrde mich nicht wundern, wenn sie beim nдchsten Mal gleich einen Flugzeugtrдger oder so etwas ankarren!</text>
+	</string>
+	<string id="dm_cool_info_52">
+		<text>Was Neues? Zum Teufel mit dem Neuen. Hier ist soviel alter ScheiЯ, dass du fast dran erstickst. Die Banditen sind durchgedreht, diese Schweine! Wir schleichen zwischen den Anomalien her, um ein paar Artefakte zu bekommen, und die klauen einem einfach die Sachen! Diese Ratten! Geh bloЯ nicht zur Mьllhalde, da lungern die rum.</text>
+	</string>
+	<string id="dm_action_info_139">
+		<text>Was ich hier mache? Ich stecke hier fest! Ich mцchte nach Hause, aber sie lassen mich nicht. Das ist alles. Die Jungs, die sich tief in die Zone hineinwagen, die sich auskennen, erzдhlen so manches. Manchmal bringen sie auch ein paar Sachen mit. Da wird man fast neidisch. Man erzдhlt sich von Bergen von Schдtzen. Man kann sie einfach so mitnehmen. Na ja, nicht viele schaffen es bis dorthin, und zurьck kommen noch weniger.</text>
+	</string>
+	<string id="dm_cool_info_53">
+		<text>Tja, ich bin nicht wirklich auf dem Laufenden.</text>
+	</string>
+	<string id="dm_cool_info_54">
+		<text>Hast du diese Gerьchte gehцrt, dass sich die Zone angeblich ausdehnt? Ich glaube, dass es stimmt. Ich habe direkt an der Grenze ein derart widerliches Monster gesehen, wie man es sonst nur im Zentrum der Zone sieht. Sieht nicht gut aus, was?</text>
+	</string>
+	<string id="dm_cool_info_55">
+		<text>Schon mцglich, dass das mit den Blutsaugern an der Zonengrenze stimmt. Aber was hat das mit der Ausdehnung der Zone zu tun? Dann ist halt ein Rudel zur Grenze gezogen, na und? Manchmal mьssen wir tagelang patrouillieren! Und wir machen unsere Arbeit gut. Hinter der Grenze hab ich noch niemanden sagen gehцrt: "Hilfe, wir sind von Mutanten umzingelt!"</text>
+	</string>
+	<string id="dm_about_167">
+		<text>Nimm dich vor diesen lebenden Leichen in Acht, die ьberall herumstreunen. Sehr dumm und sehr aggressiv. Wir schlagen uns Tag und Nacht mit ihnen herum. Junge, hier ist es echt gefдhrlich.</text>
+	</string>
+	<string id="dm_about_168">
+		<text>Ich weiЯ nicht, was ich dir erzдhlen soll... Hier passiert stдndig etwas, aber alles in vernьnftigem Rahmen. In der AuЯenwelt sehen sie das zwar anders, aber du und ich, wir sind hier quasi in einer Anomalie-Zone.</text>
+	</string>
+	<string id="dm_cool_info_56">
+		<text>Was gibt es fьr Gerьchte? Ich sage dir, bald herrscht hier Recht und Ordnung und das ist kein Gerьcht! Wir werden die Zone von allen mцglichen Bestien und gewissen Elementen befreien...</text>
+	</string>
+	<string id="dm_cool_info_57">
+		<text>Hast du gehцrt, was die Wдchter uns angedroht haben? Sie wollen uns "zu Staub zermalmen"! Ich mache mir Sorgen um diese Sache... Vor allem, weil sie sich angeblich mit den neusten Waffen ausgestattet haben.</text>
+	</string>
+	<string id="dm_cool_info_58">
+		<text>Neuigkeiten? Wen interessiert's? Man darf nicht glauben, was die Leute erzдhlen. Angeblich hat ein erfahrener Stalker etwas aus den inneren Gebieten mitgebracht, das vorher noch jemand gesehen hat. Waren alle mдchtig beeindruckt... Alter, solche Geschichten kann ich mir auch ausdenken!</text>
+	</string>
+	<string id="dm_help_12">
+		<text>Vielen Dank.</text>
+	</string>
+	<string id="dm_about_169">
+		<text>Was tust du da? Lдufst du ohne Schutz herum? Bist du lebensmьde? Hier lauert hinter jeder Ecke eine Anomalie. Zack, und weg bist du! Selbst zum Pissen trдgt hier jeder seinen Schutzanzug, sonst fдngt man sich gleich die Strahlung ein.</text>
+	</string>
+	<string id="dm_about_170">
+		<text>Anscheinend kennst du dich noch nicht gut aus, also gebe ich dir einen guten Rat: Halte dich vom Militдr fern! Wenn du einen Soldaten entdeckst, mach, dass du weg kommst. Die Jungs haben kein bisschen Hirn. Immer nach der Devise: Erst schieЯen, dann fragen.</text>
+	</string>
+	<string id="dm_intro_112">
+		<text>Auf Wiedersehen.</text>
+	</string>
+	<string id="dm_intro_113">
+		<text>Auf Wiedersehen.</text>
+	</string>
+	<string id="dm_intro_114">
+		<text>Alles Gute.</text>
+	</string>
+	<string id="dm_intro_115">
+		<text>Hey Kumpel!</text>
+	</string>
+	<string id="dm_intro_116">
+		<text>Hey.</text>
+	</string>
+	<string id="dm_intro_117">
+		<text>Oh, hi!</text>
+	</string>
+	<string id="dm_intro_118">
+		<text>Hallo.</text>
+	</string>
+	<string id="dm_intro_119">
+		<text>Guten Tag!</text>
+	</string>
+	<string id="dm_intro_120">
+		<text>Hallo Stalker.</text>
+	</string>
+	<string id="dm_intro_121">
+		<text>Guten Tag Stalker.</text>
+	</string>
+	<string id="dm_intro_122">
+		<text>Hey du, Stalker!</text>
+	</string>
+	<string id="dm_intro_123">
+		<text>Hallo.</text>
+	</string>
+	<string id="dm_intro_124">
+		<text>Tja, wen haben wir denn hier?</text>
+	</string>
+	<string id="dm_intro_125">
+		<text>Und wen haben wir hier?</text>
+	</string>
+	<string id="dm_intro_126">
+		<text>Hallo Kamerad.</text>
+	</string>
+	<string id="dm_about_165">
+		<text>Es ist, als ob man durch ein Minenfeld geht - nur schlimmer. WeiЯ der Teufel, was hier vor sich geht. Man kann sich keine Sekunde entspannen.</text>
+	</string>
+	<string id="dm_about_171">
+		<text>Ich rate dir: Sei immer auf der Hut. Du darfst keine Sekunde unaufmerksam sein, sonst bist du sofort erledigt. Der Tod ist hier schnell zur Stelle.</text>
+	</string>
+	<string id="dm_about_172">
+		<text>Hier musst du immer die Augen offen halten! Selbst im Schlaf! Hier kann dir stдndig irgendwas passieren.</text>
+	</string>
+	<string id="dm_about_173">
+		<text>Achte auf die Penner! Es gibt hier so viele davon, fast wie Kakerlaken!</text>
+	</string>
+	<string id="dm_help_0">
+		<text>Hilfe, Junge!</text>
+	</string>
+	<string id="dm_help_1">
+		<text>Kann mir jemand helfen?</text>
+	</string>
+	<string id="dm_help_2">
+		<text>Wachen! Ich bin verletzt! Hierher!</text>
+	</string>
+	<string id="dm_help_3">
+		<text>Hilfe! Ich sterbe!</text>
+	</string>
+	<string id="dm_help_4">
+		<text>Jungs, bringt das Medkit!</text>
+	</string>
+	<string id="dm_help_5">
+		<text>Holt das Medkit!</text>
+	</string>
+	<string id="dm_help_6">
+		<text>SchockmaЯnahmen, Jungs! Schnell!</text>
+	</string>
+	<string id="dm_help_7">
+		<text>Das Medkit, schnell!</text>
+	</string>
+	<string id="dm_help_8">
+		<text>Gib mir mal jemand das Medkit!</text>
+	</string>
+	<string id="dm_help_9">
+		<text>Kamerad, das Medkit... da drьben!</text>
+	</string>
+	<string id="dm_help_10">
+		<text>Hilfe, Kamerad!</text>
+	</string>
+	<string id="dm_help_11">
+		<text>Hey, Kamerad, hast du ein Medkit ьber?</text>
+	</string>
+	<string id="dm_cool_info_59">
+		<text>Ich hab gehцrt, diese Typen beim Kordon haben den Soldaten ganz schцn in den Arsch getreten und ihren bekloppten Anfьhrer in einen Kдfig gesteckt. Hдtte nichts dagegen, mir diese Freakshow mal anzusehen. Ich meine, was fьr eine Schande!</text>
+	</string>
+	<string id="dm_cool_info_60">
+		<text>Diese verdammten Emissionen sind kein Witz! Wenn du nicht auf der Stelle gegrillt wirst, kriegen sie dich auf 'ne Million andere Weisen am Arsch! Die Gegend hier war mal richtig schцn, und jetzt wimmelt sie nur noch so von diesen verfluchten Anomalien. Ьberall, wo du hingehst, machst du dir vor Angst in die Hosen, dass du in so eine ScheiЯe trittst!</text>
+	</string>
+	<string id="dm_cool_info_61">
+		<text>Wir haben diesen Goldramsch... oder heiЯt es Goldrausch? Was soll's, die Stalker schaufeln sich durch Berge von radioaktiv verseuchtem Mьll auf der Suche nach brauchbaren Dingen, und unsere Aufgabe ist es, dafьr zu sorgen, dass sie keine Schwierigkeiten machen.</text>
+	</string>
+	<string id="dm_cool_info_62">
+		<text>Vor ein paar Tagen sind Koljan und seine Leute einer Emission zum Opfer gefallen, also trдgt jetzt jemand anders seine Stiefel, wenn du verstehst. Das kommt davon, wenn man die Basis verlдsst. Bleib immer beim Lager, dann wird dir nichts passieren.</text>
+	</string>
+	<string id="dm_cool_info_63">
+		<text>Ein paar dreckige Stalker haben sich beim Agroprom-Institut zusammengerottet. Diese gerissenen Hunde haben ein paar unserer Jungs in eine Falle gelockt und halten sie fest. Sie haben nicht den Mumm sie zu tцten, denn sie wissen, dass wir sie gnadenlos jagen wьrden, um unsere Leute zu rдchen.</text>
+	</string>
+	<string id="dm_sim_action_attack_point_enemy">
+		<text>Was? Der Feind ist gleich um die Ecke und du kommst mir mit diesem Mьll?</text>
+	</string>
+	<string id="dm_sim_action_attack_point_friend">
+		<text>Was willst du? Wir treffen uns mit den anderen Jungs. Die haben in der Nдhe ein Lager aufgeschlagen.</text>
+	</string>
+	<string id="dm_sim_action_attack_point_none">
+		<text>Da ist ein idealer freier Platz nicht weit von hier, dort gehen wir hin.</text>
+	</string>
+	<string id="dm_sim_action_stay_point_enemy_near">
+		<text>Was ist los mit dir? Wir sitzen rum, bewachen das Lager und sind von jeder Menge Feinden umgeben. Verschwinde endlich mit deinen nervtцtenden Fragen.</text>
+	</string>
+	<string id="dm_sim_action_stay_point_none_near">
+		<text>Was ist denn los? Wir machen nur eine kurze Pause. Es ist eine schцne Nacht und da drauЯen ist niemand...</text>
+	</string>
+	<string id="dm_actor_news_1">
+		<text>Irgendwelche Neuigkeiten?</text>
+	</string>
+	<string id="dm_actor_news_2">
+		<text>Was gibt's Neues?</text>
+	</string>
+	<string id="dm_actor_news_3">
+		<text>Irgendwelche Neuigkeiten?</text>
+	</string>
+	<string id="dm_army_no_news_1">
+		<text>Wenn du Neuigkeiten willst, such dir einen Fernseher - wir haben hier nur unsere alltдgliche Arbeit. La-a-a-ngweilig...</text>
+	</string>
+	<string id="dm_army_no_news_2">
+		<text>Du kannst mich mal! Du willst Neuigkeiten? Kauf dir eine Zeitung am Zeitungsstand gleich um die Ecke!</text>
+	</string>
+	<string id="dm_army_no_news_3">
+		<text>Klar, wir haben hier jede Menge Neuigkeiten... Genug um einen Neuling eine ganze Woche lang zu unterhalten. Spдter ist es dann allerdings nur noch mьhselige Arbeit.</text>
+	</string>
+	<string id="dm_army_no_news_4">
+		<text>Wenn dir irgendwas Neues begegnet, schick's zu mir, okay? Ha! Lass uns lieber handeln - hast du irgendwas Wertvolles?</text>
+	</string>
+	<string id="dm_bandit_no_news_1">
+		<text>Was soll's hier schon Neues geben? Ist doch immer das Gleiche!</text>
+	</string>
+	<string id="dm_bandit_no_news_2">
+		<text>Guter Witz, Kollege! Du glaubst doch nicht wirklich, dass wir in diesem Dreckloch von irgendwelchen Neuigkeiten hцren, oder?</text>
+	</string>
+	<string id="dm_bandit_no_news_3">
+		<text>Das Leben hier ist beschissen... Das ist allerdings nichts Neues.</text>
+	</string>
+	<string id="dm_bandit_no_news_4">
+		<text>Vergiss es! Hey, hast du irgendwas zum Handeln?</text>
+	</string>
+	<string id="dm_csky_no_news_1">
+		<text>Neuigkeiten? Tja, wir arbeiten uns hier die Дrsche ab. Hoffentlich kцnnen wir bald wie normale Menschen in die Zone, ohne uns bei jedem Schritt vor irgendwelchen Anomalien in Acht nehmen zu mьssen.</text>
+	</string>
+	<string id="dm_csky_no_news_2">
+		<text>Ich habe nichts Neues gehцrt. Jeden Tag die gleiche Leier: Geh hierhin, pass dort auf... Wir hoffen nur, dass das alles einen Sinn hat.</text>
+	</string>
+	<string id="dm_csky_no_news_3">
+		<text>Hier gibt's nur ein Thema: Die Zone versteht keinen SpaЯ. Wir erforschen sie und dabei kann sie uns jeden Moment verschlingen... Hast du zufдllig irgendwelche nьtzlichen Artefakte bei dir?</text>
+	</string>
+	<string id="dm_csky_no_news_4">
+		<text>Keine Ahnung... mir fдllt nichts Neues ein. Aber wir kцnnten handeln, wenn du willst...</text>
+	</string>
+	<string id="dm_default_no_news_1">
+		<text>Ich habe keine Zeit fьr Neuigkeiten! Die Neuigkeiten finden dich schon frьh genug von alleine. Wir rennen hier nur rum wie Hamster in einem Laufrad...</text>
+	</string>
+	<string id="dm_default_no_news_2">
+		<text>Ich habe Gott sei Dank nichts Neues gehцrt. Hier gibt's immer nur schlechte Neuigkeiten. Also - toi, toi, toi - habe nichts Neues gehцrt.</text>
+	</string>
+	<string id="dm_default_no_news_3">
+		<text>Warum scherst du dich ьberhaupt um so was? Pass einfach nur auf dich auf und versuch, am Leben zu bleiben! Da fдllt mir ein, hast du irgendwas zum Handeln?</text>
+	</string>
+	<string id="dm_default_no_news_4">
+		<text>Woher soll ich das wissen? Wie wдr's jetzt mit ein bisschen Handeln? SchmeiЯen wir unsere Sachen zusammen und jeder nimmt sich, was ihm gefдllt, okay?</text>
+	</string>
+	<string id="dm_dolg_no_news_1">
+		<text>Wenn wir diesen Ort erst mal gesдubert haben, dann sind das groЯe Neuigkeiten. Bis dahin gibt's hier nur Arbeit und kein Vergnьgen...</text>
+	</string>
+	<string id="dm_dolg_no_news_2">
+		<text>Du bist immer noch in der Zone - da sind deine Neuigkeiten. Ich verstehe die Stalker einfach nicht - macht es wirklich so viel SpaЯ mit Knarre und Rьstung rumlaufen zu mьssen, wenn man einfach nur mal in die Bьsche muss?</text>
+	</string>
+	<string id="dm_dolg_no_news_3">
+		<text>Wir haben hier keine groЯartigen Neuigkeiten, Kumpel. Dafьr mьsstest du wieder nach drauЯen gehen. Aber wir sind hier groЯ im Handeln... Hast du irgendwas Wertvolles dabei?</text>
+	</string>
+	<string id="dm_dolg_no_news_4">
+		<text>Neuigkeiten? Ein paar Idioten sind wieder mal in eine Anomalie gerannt, ein paar andere wurden von irgendeinem wilden Biest in Stьcke gerissen, immer das Gleiche... Hast du irgendwelche Beute dabei? Irgendwas zu verkaufen?</text>
+	</string>
+	<string id="dm_freedom_no_news_1">
+		<text>Mann, wozu brauchst du Neuigkeiten? Entspann dich! Nimm's leicht und versuch einfach deinen SpaЯ zu haben...</text>
+	</string>
+	<string id="dm_freedom_no_news_2">
+		<text>Wir bekommen hier jede Menge Sonne, frische Luft und Gras... gutes Gras... Komm schon, Mann, entspann dich und genieЯ es!</text>
+	</string>
+	<string id="dm_freedom_no_news_3">
+		<text>Oh ja, es gibt eine Menge Neuigkeiten hier... nur interessieren sie mich kein bisschen. Hast du vielleicht irgendwas zum Handeln? Machen wir ein paar Geschдfte.</text>
+	</string>
+	<string id="dm_freedom_no_news_4">
+		<text>Keine Ahnung, Kollege... Wir bekommen hier nicht viel Neues mit. Denken wir doch mal praktisch. Wenn du zum Beispiel was zu verkaufen hдttest, kцnnte ich's dir abkaufen...</text>
+	</string>
+</string_table>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mar_capture_plant">
+		<text>Conquista lo stabilimento</text>
+	</string>
+	<string id="mar_capture_plant_text">
+		<text>Conquista lo stabilimento usato per estrarre sostanze anomale dal fondale delle Paludi.</text>
+	</string>
+	<string id="mar_capture_tower">
+		<text>Conquista la torre di guardia</text>
+	</string>
+	<string id="mar_capture_tower_text">
+		<text>Aiuta la squadra Clear Sky a conquistare la torre di guardia occupata dai banditi.</text>
+	</string>
+	<string id="mar_defend_tower">
+		<text>Respingi l'attacco dei banditi alla torre</text>
+	</string>
+	<string id="mar_defend_tower_text">
+		<text>Respingi il contrattacco dei banditi alla torre di guardia.</text>
+	</string>
+	<string id="mar_story_capture_bandit_base">
+		<text>Conquista la fattoria a nord-est</text>
+	</string>
+	<string id="mar_story_capture_bandit_base_text">
+		<text>Conquista la fattoria a nord-est delle Paludi eliminando i banditi che la occupano.</text>
+	</string>
+	<string id="mar_story_capture_levelchangers">
+		<text>Conquista le vie d'accesso alle strade per il mondo esterno</text>
+	</string>
+	<string id="mar_story_capture_levelchangers_text">
+		<text>Ottieni il controllo delle strade per il Cordon e l'Agroprom conquistando le posizioni adiacenti.</text>
+	</string>
+	<string id="mar_story_empower_csky">
+		<text>Rinforza la presenza della Clear Sky nelle Paludi</text>
+	</string>
+	<string id="mar_story_empower_csky_text">
+		<text>Rinforza la presenza della Clear Sky nelle Paludi eliminando le forze nemiche.</text>
+	</string>
+	<string id="mar_story_go_to_escape">
+		<text>Vai al Cordon con la guida</text>
+	</string>
+	<string id="mar_story_go_to_escape_text">
+		<text>Incontra la guida e andate al Cordon insieme.</text>
+	</string>
+	<string id="mar_story_go_to_marsh">
+		<text>Vai alle Paludi con la guida</text>
+	</string>
+	<string id="mar_story_go_to_marsh_text">
+		<text>Chiedi alla guida di accompagnarti alle Paludi.</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh">
+		<text>Conquista le Paludi</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh_text">
+		<text>Conquista le Paludi per rendere le strade piщ sicure per le guide.</text>
+	</string>
+	<string id="mar_story_talk_with_barman">
+		<text>Parla con il barista</text>
+	</string>
+	<string id="mar_story_talk_with_barman_text">
+		<text>Chiedi informazioni sulla base della Clear Sky al barista.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1">
+		<text>Parla con Lebedev</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1_text">
+		<text>Scopri cosa voleva Lebedev.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2">
+		<text>Chiedi a Lebedev cosa и successo</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2_text">
+		<text>Chiedi a Lebedev cosa и successo dopo la seconda emissione.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3">
+		<text>Raggiungi un accordo con Lebedev per aiutarvi a vicenda</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3_text">
+		<text>Raggiungi un accordo con Lebedev per uscire dalle Paludi.</text>
+	</string>
+	<string id="mar_story_talk_with_guide">
+		<text>Dirigiti all'avamposto con la guida</text>
+	</string>
+	<string id="mar_story_talk_with_guide_text">
+		<text>Chiedi alla guida di accompagnarti all'avamposto.</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych">
+		<text>Parla con Sidorovich</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych_text">
+		<text>Chiedi informazioni a Sidorovich sullo stalker che era interessato a strani componenti. И l'unico indizio che possiede la Clear Sky per spiegare le emissioni che sconvolgono la Zona.</text>
+	</string>
+	<string id="mar_story_talk_with_trader">
+		<text>Ottieni equipaggiamento dal trafficante</text>
+	</string>
+	<string id="mar_story_talk_with_trader_text">
+		<text>Ottieni un carico di equipaggiamento dal trafficante.</text>
+	</string>
+	<string id="mar_tutorial_help">
+		<text>Aiuta l'avamposto</text>
+	</string>
+	<string id="mar_tutorial_help_text">
+		<text>Rispondi al segnale di soccorso inviato dall'avamposto della Clear Sky.</text>
+	</string>
+	<string id="mar_tutorial_kill_boars">
+		<text>Uccidi i cinghiali</text>
+	</string>
+	<string id="mar_tutorial_kill_boars_text">
+		<text>Elimina i cinghiali che attaccano l'avamposto della Clear Sky.</text>
+	</string>
+	<string id="mar_tutorial_return_to_base">
+		<text>Torna alla base della Clear Sky</text>
+	</string>
+	<string id="mar_tutorial_return_to_base_text">
+		<text>Rifugiati all'interno della base della Clear Sky prima che si scateni l'emissione.</text>
+	</string>
+	<string id="mar_tutorial_tower_top">
+		<text>Sali sulla torre</text>
+	</string>
+	<string id="mar_tutorial_tower_top_text">
+		<text>Sali sulla torre per sfuggire ai mostri.</text>
+	</string>
+	<string id="st_bring_item_1_name">
+		<text>Consegna granate</text>
+	</string>
+	<string id="st_bring_item_1_text">
+		<text>La squadra Clear Sky ha richiesto delle granate.</text>
+	</string>
+	<string id="st_bring_item_2_name">
+		<text>Consegna rifornimenti medici</text>
+	</string>
+	<string id="st_bring_item_2_text">
+		<text>La squadra Clear Sky ha urgente bisogno di rifornimenti medici.</text>
+	</string>
+	<string id="st_bring_item_3_name">
+		<text>Consegna munizioni</text>
+	</string>
+	<string id="st_bring_item_3_text">
+		<text>La squadra Clear Sky ha bisogno di munizioni per le doppiette.</text>
+	</string>
+	<string id="st_bring_item_4_name">
+		<text>Consegna munizioni</text>
+	</string>
+	<string id="st_bring_item_4_text">
+		<text>La squadra Clear Sky ha bisogno di munizioni per le pistole.</text>
+	</string>
+	<string id="st_bring_item_5_name">
+		<text>Consegna munizioni</text>
+	</string>
+	<string id="st_bring_item_5_text">
+		<text>La squadra Clear Sky ha bisogno di munizioni per i fucili d'assalto.</text>
+	</string>
+	<string id="st_recover_item_1_name">
+		<text>Riporta la PMm</text>
+	</string>
+	<string id="st_recover_item_1_text">
+		<text>Durante una missione notturna, una squadra Clear Sky si и imbattuta in una tana di cinghiali. Ormai и troppo tardi per salvarla, ma il comandante della squadra aveva una PMm modificata che tornerа utile alla fazione. Cerca di recuperarla.</text>
+	</string>
+	<string id="st_recover_item_2_name">
+		<text>Riporta l'AK74/2u</text>
+	</string>
+	<string id="st_recover_item_2_text">
+		<text>Alcuni giorni fa dei rinnegati hanno attaccato una squadra Clear Sky che stava acquistando un carico di armi dai militari. I rinnegati hanno preso quasi tutte le armi, ma il migliore fucile d'assalto и stato nascosto. Devi recuperarlo.</text>
+	</string>
+	<string id="st_recover_item_3_name">
+		<text>Ottieni il manufatto</text>
+	</string>
+	<string id="st_recover_item_3_text">
+		<text>Una squadra Clear Sky aveva ricevuto un segnale di soccorso da uno stalker che diceva di aver trovato un manufatto raro, ma non sapeva come uscire da un'area anomala. La squadra non и riuscita a raggiungerlo in tempo e il segnale и sparito. Devi recuperare il manufatto.</text>
+	</string>
+	<string id="st_recover_item_4_name">
+		<text>Riporta il PDA</text>
+	</string>
+	<string id="st_recover_item_4_text">
+		<text>Uno dei nostri migliori esploratori и sparito durante una missione di ricognizione notturna. Cerca di recuperare almeno il suo PDA, cosм le informazioni che ha raccolto non andranno perdute.</text>
+	</string>
+	<string id="st_recover_item_5_name">
+		<text>Riporta la tuta</text>
+	</string>
+	<string id="st_recover_item_5_text">
+		<text>Dei rinnegati hanno occupato il piccolo stabilimento delle Paludi nel bel mezzo di un esperimento. Gli scienziati stavano provando a saturare una tuta con della gelatina anomala. Recupera la tuta, cosм i nostri esperti potranno valutare l'esito dell'esperimento.</text>
+	</string>
+	<string id="st_sim_sos_name">
+		<text>Aiuta</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_name">
+		<text>Trova informazioni sull'armatura in kevlar</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_text">
+		<text>Gray ha bisogno di maggiori dati sull'armatura in kevlar per poter effettuare la modifica.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_name">
+		<text>Trovare informazioni sulla frizione della canna.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_text">
+		<text>Gray vuole aggiungere una frizione alla canna della pistola, ma non и abbastanza esperto in questo campo. Portagli le informazioni necessarie.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_name">
+		<text>Trova i dati per la modifica al caricatore.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_text">
+		<text>Gray potrebbe effettuare le modifiche all'arma, se non fosse che gli mancano dei dati.</text>
+	</string>
+	<string id="st_mar_leader_notify_actor">
+		<text>Concentrati, mercenario! Il nostro obiettivo и assumere il controllo delle Paludi. Se non sai cosa fare, guarda gli incarichi attivi nel tuo PDA.</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_desc">
+		<text>PDA con informazioni sulle Paludi raccolte da un esploratore della Clear Sky.</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_name">
+		<text>PDA del ricognitore della Clear Sky</text>
+	</string>
+</string_table>

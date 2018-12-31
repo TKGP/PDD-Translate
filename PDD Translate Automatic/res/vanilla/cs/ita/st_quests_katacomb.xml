@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hospital_task_general_text">
+		<text>Trova l'ingresso delle catacombe.</text>
+	</string>
+	<string id="hospital_task_general_title">
+		<text>Trova l'ingresso delle catacombe</text>
+	</string>
+	<string id="katacomb_task_3_objective_1">
+		<text>Resisti fino all'arrivo della squadra Clear Sky</text>
+	</string>
+	<string id="katacomb_task_3_objective_2">
+		<text>Aiuta la squadra Clear Sky</text>
+	</string>
+	<string id="katacomb_task_3_text">
+		<text>Fatti strada verso l'ingresso delle catacombe.</text>
+	</string>
+	<string id="katacomb_task_3_title">
+		<text>Fatti strada verso l'ingresso delle catacombe</text>
+	</string>
+	<string id="katacomb_task_helicopter_text">
+		<text>Distruggi l'elicottero.</text>
+	</string>
+	<string id="katacomb_task_helicopter_title">
+		<text>Distruggi l'elicottero</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_text">
+		<text>Uccidi il cecchino.</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_title">
+		<text>Uccidi il cecchino</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_1">
+		<text>Dirigiti verso le scale per il piano terra</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_2">
+		<text>Attraversa il piano terra</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_3">
+		<text>Raggiungi il ponte</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_4">
+		<text>Attraversa il ponte</text>
+	</string>
+	<string id="katacomb_task_sniper_back_text">
+		<text>Aiuta la squadra Clear Sky a sottrarsi al fuoco nemico.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_title">
+		<text>Uccidi furtivamente il cecchino nemico</text>
+	</string>
+	<string id="katacomb_task_z2_exit_text">
+		<text>Entra nel terzo salone.</text>
+	</string>
+	<string id="katacomb_task_z2_exit_title">
+		<text>Entra nel terzo salone</text>
+	</string>
+</string_table>

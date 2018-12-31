@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mar_capture_plant">
+		<text>Capturer la centrale</text>
+	</string>
+	<string id="mar_capture_plant_text">
+		<text>Capturez la centrale qui servait а extraire des substances anormales du Marais.</text>
+	</string>
+	<string id="mar_capture_tower">
+		<text>Capturer la tour de guet</text>
+	</string>
+	<string id="mar_capture_tower_text">
+		<text>Aidez l'unitй de Firmament а capturer la tour de guet occupйe par les bandits.</text>
+	</string>
+	<string id="mar_defend_tower">
+		<text>Repousser l'attaque des bandits sur la tour</text>
+	</string>
+	<string id="mar_defend_tower_text">
+		<text>Repoussez la contre-attaque des bandits sur la tour de guet.</text>
+	</string>
+	<string id="mar_story_capture_bandit_base">
+		<text>Capturer la ferme au nord-est</text>
+	</string>
+	<string id="mar_story_capture_bandit_base_text">
+		<text>Capturez la ferme au nord-est du Marais en йliminant les bandits qui s'y trouvent.</text>
+	</string>
+	<string id="mar_story_capture_levelchangers">
+		<text>Capturer les abords des chemins menant а l'extйrieur de la Zone</text>
+	</string>
+	<string id="mar_story_capture_levelchangers_text">
+		<text>Sйcurisez les chemins menant au Cordon et а l'Agroprom en capturant les positions adjacentes.</text>
+	</string>
+	<string id="mar_story_empower_csky">
+		<text>Renforcer la prйsence de Firmament dans le Marais</text>
+	</string>
+	<string id="mar_story_empower_csky_text">
+		<text>Renforces la prйsence de Firmament dans le Marais en йliminant les forces ennemies.</text>
+	</string>
+	<string id="mar_story_go_to_escape">
+		<text>Aller au Cordon avec le guide</text>
+	</string>
+	<string id="mar_story_go_to_escape_text">
+		<text>Retrouvez le guide et allez au Cordon avec lui.</text>
+	</string>
+	<string id="mar_story_go_to_marsh">
+		<text>Aller au Grand Marais avec le guide</text>
+	</string>
+	<string id="mar_story_go_to_marsh_text">
+		<text>Demandez au guide de vous conduire au Grand Marais.</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh">
+		<text>Prendre le contrфle du Marais</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh_text">
+		<text>Prenez le contrфle du Marais pour que les guides puissent passer en toute sйcuritй.</text>
+	</string>
+	<string id="mar_story_talk_with_barman">
+		<text>Parler au barman</text>
+	</string>
+	<string id="mar_story_talk_with_barman_text">
+		<text>Demandez au barman de vous parler de la base de Firmament.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1">
+		<text>Parler а Lebedev.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1_text">
+		<text>Dйcouvrez ce que Lebedev veut.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2">
+		<text>Demander а Lebedev ce qui s'est passй.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2_text">
+		<text>Demandez а Lebedev ce qui s'est passй aprиs la deuxiиme йmission.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3">
+		<text>Passer un accord avec Lebedev.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3_text">
+		<text>Passez un accord avec Lebedev pour qu'il vous aide а sortir du Marais.</text>
+	</string>
+	<string id="mar_story_talk_with_guide">
+		<text>Aller а l'avant-poste avec le guide.</text>
+	</string>
+	<string id="mar_story_talk_with_guide_text">
+		<text>Demandez au guide de vous conduire а l'avant-poste.</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych">
+		<text>Parler а Sidorovich.</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych_text">
+		<text>Interrogez Sidorovich sur le stalker qui s'intйressait а d'йtranges composants. C'est le seul indice qu'ait Firmament sur ce qui cause les bouleversements de la Zone.</text>
+	</string>
+	<string id="mar_story_talk_with_trader">
+		<text>Prendre l'йquipement du marchand.</text>
+	</string>
+	<string id="mar_story_talk_with_trader_text">
+		<text>Allez demander votre йquipement au marchand de la base.</text>
+	</string>
+	<string id="mar_tutorial_help">
+		<text>Secourir l'avant-poste</text>
+	</string>
+	<string id="mar_tutorial_help_text">
+		<text>Rйpondez au signal de dйtresse de l'avant-poste de Firmament.</text>
+	</string>
+	<string id="mar_tutorial_kill_boars">
+		<text>Tuer les sangliers</text>
+	</string>
+	<string id="mar_tutorial_kill_boars_text">
+		<text>Йliminez les sangliers qui attaquent l'avant-poste de Firmament.</text>
+	</string>
+	<string id="mar_tutorial_return_to_base">
+		<text>Retourner а la base de Firmament</text>
+	</string>
+	<string id="mar_tutorial_return_to_base_text">
+		<text>Allez vous rйfugier dans la base de Firmament avant que l'йmission ne frappe.</text>
+	</string>
+	<string id="mar_tutorial_tower_top">
+		<text>Monter au sommet de la tour</text>
+	</string>
+	<string id="mar_tutorial_tower_top_text">
+		<text>Montez au sommet de la tour pour йchapper aux mutants.</text>
+	</string>
+	<string id="st_bring_item_1_name">
+		<text>Livrer les grenades</text>
+	</string>
+	<string id="st_bring_item_1_text">
+		<text>L'unitй de Firmament a besoin de grenades.</text>
+	</string>
+	<string id="st_bring_item_2_name">
+		<text>Livrer le matйriel mйdical</text>
+	</string>
+	<string id="st_bring_item_2_text">
+		<text>L'unitй de Firmament a dйsespйrйment besoin de matйriel mйdical.</text>
+	</string>
+	<string id="st_bring_item_3_name">
+		<text>Livrer les munitions</text>
+	</string>
+	<string id="st_bring_item_3_text">
+		<text>L'unitй de Firmament a besoin de cartouches de fusil а pompe.</text>
+	</string>
+	<string id="st_bring_item_4_name">
+		<text>Livrer les munitions</text>
+	</string>
+	<string id="st_bring_item_4_text">
+		<text>L'unitй de Firmament a besoin de balles de pistolet.</text>
+	</string>
+	<string id="st_bring_item_5_name">
+		<text>Livrer les munitions</text>
+	</string>
+	<string id="st_bring_item_5_text">
+		<text>L'unitй de Firmament a besoin de balles de fusil d'assaut.</text>
+	</string>
+	<string id="st_recover_item_1_name">
+		<text>Rapporter le PMm</text>
+	</string>
+	<string id="st_recover_item_1_text">
+		<text>Une unitй de Firmament est tombйe sur un repaire de sangliers au cours d'une mission. Il est probablement trop tard pour sauver ces hommes, mais le commandant de l'йquipe avait un PMm modifiй qui pourrait кtre utile а la faction. Rйcupйrez-le et rapportez-le.</text>
+	</string>
+	<string id="st_recover_item_2_name">
+		<text>Rapporter l'AK74/2u</text>
+	</string>
+	<string id="st_recover_item_2_text">
+		<text>Des renйgats ont attaquй une unitй de Firmament il y a quelques jours, alors qu'elle achetait un chargement d'arme aux militaires. La plupart des armes ont йtй volйes par les renйgats, mais le meilleur fusil йtait cachй. Vous devez le rйcupйrer.</text>
+	</string>
+	<string id="st_recover_item_3_name">
+		<text>Obtenir l'artefact</text>
+	</string>
+	<string id="st_recover_item_3_text">
+		<text>Une unitй de Firmament a reзu un appel de dйtresse d'un stalker qui disait avoir trouvй un artefact trиs rare, mais ne savait comment sortir de la zone anormale. L'йquipe n'a pas pu s'y rendre avant que le signal ne disparaisse. Vous devez retrouver l'artefact.</text>
+	</string>
+	<string id="st_recover_item_4_name">
+		<text>Rapporter le PDA</text>
+	</string>
+	<string id="st_recover_item_4_text">
+		<text>Un de nos meilleurs йclaireurs est portй disparu depuis une mission de reconnaissance nocturne. Vous devez retrouver son PDA pour que les informations qu'il avait n'aient pas йtй collectйes en vain.</text>
+	</string>
+	<string id="st_recover_item_5_name">
+		<text>Rapporter la combinaison</text>
+	</string>
+	<string id="st_recover_item_5_text">
+		<text>Des renйgats ont rйcemment capturй une petite centrale dans le Marais, au moment oщ une expйrience s'y dйroulait : les chercheurs йtaient en train d'imprйgner une combinaison de gelйe anormale. Rapportez la combinaison aux scientifiques pour qu'ils puissent йvaluer les rйsultats de l'expйrience.</text>
+	</string>
+	<string id="st_sim_sos_name">
+		<text>Aider</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_name">
+		<text>Trouver des infos sur les protections en kevlar</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_text">
+		<text>Gray a besoin de donnйes supplйmentaires pour pouvoir ajouter du kevlar а des combinaisons.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_name">
+		<text>Trouver des infos sur les freins de bouche.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_text">
+		<text>Gray veut monter un frein de bouche spйcial, mais ne connaоt pas assez bien son fonctionnement. Trouvez les informations nйcessaires et apportez-les-lui.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_name">
+		<text>Trouver des infos sur les modifications de canons.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_text">
+		<text>Il manque quelques informations pour que Gray puisse apporter des modifications aux canons des armes.</text>
+	</string>
+	<string id="st_mar_leader_notify_actor">
+		<text>Mercenaire, concentre-toi ! L'objectif est de prendre le contrфle du Marais. Si tu ne sais pas quoi faire, consulte ton PDA !</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_desc">
+		<text>PDA contenant des informations sur le Marais, rassemblйes par un йclaireur de Firmament.</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_name">
+		<text>PDA de l'йclaireur de Firmament</text>
+	</string>
+</string_table>

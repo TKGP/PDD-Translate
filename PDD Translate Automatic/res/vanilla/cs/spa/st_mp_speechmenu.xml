@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>ЎTodos al ataque!</text>
+	</string>
+	<string id="speech_covermeartifact">
+		<text>ЎVoy a por el artefacto! ЎCubridme!</text>
+	</string>
+	<string id="speech_followme">
+		<text>ЎSeguidme!</text>
+	</string>
+	<string id="speech_guardartifact">
+		<text>Proteged el artefacto por ahora, Ўque no ataque nadie!</text>
+	</string>
+	<string id="speech_holdingpos">
+		<text>Estoy manteniendo la posiciуn.</text>
+	</string>
+	<string id="speech_holdpos">
+		<text>ЎMantened vuestras posiciones!</text>
+	</string>
+	<string id="speech_icoverartifact">
+		<text>ЎCoged el artefacto! ЎOs cubro!</text>
+	</string>
+	<string id="speech_needhelp">
+		<text>Necesito ayuda.</text>
+	</string>
+	<string id="speech_needmoney">
+		<text>Te falta dinero. Compra mбs equipo.</text>
+	</string>
+	<string id="speech_no">
+		<text>No</text>
+	</string>
+	<string id="speech_noenemy">
+		<text>Nadie a la vista.</text>
+	</string>
+	<string id="speech_report">
+		<text>ЎInformad, ahora!</text>
+	</string>
+	<string id="speech_retreat">
+		<text>ЎRetirada!</text>
+	</string>
+	<string id="speech_returntheartefact">
+		<text>ЎDevolved el artefacto!</text>
+	</string>
+	<string id="speech_roger">
+		<text>Recibido.</text>
+	</string>
+	<string id="speech_silence">
+		<text>ЎSilencio!</text>
+	</string>
+	<string id="speech_sticktogether">
+		<text>Manteneos juntos</text>
+	</string>
+	<string id="speech_takeartifact">
+		<text>ЎCoged el artefacto!</text>
+	</string>
+</string_table>

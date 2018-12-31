@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_bandit_wounded_dialog_1_11">
+		<text>ЎSocorro, tнos! Dadme un botiquнn, mi colega se muere.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_111">
+		<text>Aquн tienes.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1111">
+		<text>Espera, dйjame ayudar a mi colega primero.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_112">
+		<text>Lo siento, no tengo ningъn botiquнn.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1121">
+		<text>Mierda, tнos.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_113">
+		<text>Que te den, cabrуn.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_11">
+		<text>Gracias por salvarme. Parece que vas a la ciudad. Ten cuidado. Los hombres de Red estбn acechando en la calle de delante. Han tendido un cable junto a un coche, no tropieces con йl. Mantente en el lado derecho de la calle y pasarбs sin problemas.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_111">
+		<text>їQuiйn mбs hay en la ciudad ahora?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1111">
+		<text>Un montуn de gente armando la marimorena. Deber y Libertad han ido al centro de la ciudad, deben de estar buscando un camino al centro de la Zona. Hemos visto algunos helicуpteros, asн que los militares tambiйn estбn de visita. Tambiйn hay algunos stalkers, pero vienen del otro lado, del centro de la Zona.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_112">
+		<text>їQuй estб pasando en la ciudad?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1121">
+		<text>Nuestro jefe y sus hombres se han atrincherado en una casa calle abajo. De ahн no se mueven. Si quieres entrar en la ciudad, tendrбs que sacarlos de ahн.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_113">
+		<text>Gracias por nada. Lбrgate antes de que cambie de idea y te dispare.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_12">
+		<text>Deprisa, tenemos que salir de este sitio.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_121">
+		<text>Ya estб, vete.</text>
+	</string>
+</string_table>

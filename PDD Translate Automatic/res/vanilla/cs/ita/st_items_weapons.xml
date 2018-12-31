@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ammo-9x18-fmj">
+		<text>Cartucce 9x18 mm</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18</text>
+	</string>
+	<string id="ammo-9x18-fmj_descr">
+		<text>Cartucce FMJ di base. Ideali per fermare bersagli non corazzati. Adatte alle pistole PMm, PB1s e Fora-12.</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>Cartucce 9x18 mm +P</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 +P</text>
+	</string>
+	<string id="ammo-9x18-pmm_descr">
+		<text>Queste cartucce contengono un proiettile con ottime capacitа di arresto. Inefficaci contro i bersagli corazzati. Adatte alle pistole Pmm, PB1s e Fora-12</text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>9x19 mm FMJ</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	<string id="ammo-9x19-fmj_descr">
+		<text>Cartucce semplici FMJ 9x19 mm. Inefficaci contro i bersagli corazzati. Adatte alle pistole Walker P9m, HPSS-1, Martha e al mitragliatore Viper 5.</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>Cartucce 9x19 mm PBP</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 PBP</text>
+	</string>
+	<string id="ammo-9x19-pbp_descr">
+		<text>Una potente cartuccia 9x19 con pallottola a punta cava. Inefficace contro i bersagli corazzati. Adatta alle pistole Walker P9m, HPSS-1, Martha e al mitragliatore Viper 5.</text>
+	</string>
+	<string id="ammo-11.43x23-fmj">
+		<text>Cartucce .45ACP</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45ACP</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>Cartucce FMJ di base, calibro .45, adatte alle pistole Kora-919 e SIP-t M200.</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>Cartucce .45ACP Hydro</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45Hydro</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>Una cartuccia Hydro-Shock migliorata per le pistole Kora-919 e SIP-t M200. L'Hydro и dotata di una pallottola a punta cava che fornisce una buona capacitа di arresto.</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>Cartucce 5.45x39 mm</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>Cartucce standard per i fucili automatici delle nazioni del Patto di Varsavia. Adatte ai fucili d'assalto Akm 74/2U, Akm 74/2 e AC96/2.</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>Cartucce 5.45x39 mm BP</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 BP</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>Cartucce anticarro per fucili automatici delle nazioni del Patto di Varsavia. Adatte ai fucili d'assalto Akm 74/2U, Akm 74/2 e AC96/2.</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>Cartucce 5.56?45 mm</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56?45</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>Una cartuccia NATO molto nota con il nome Belgian SS109. Adatta ai fucili d'assalto IL 86, TRs 301, SGI 5k, GP 37 e FT 200M.</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>Cartucce 5.56x45 mm AP</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56 AP</text>
+	</string>
+	<string id="ammo-5.56x45-ap_descr">
+		<text>Una cartuccia anticarro per i fucili d'assalto IL 86, TRs 301, SGI 5k, GP 37 e FT 200M.</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>Cartucce 9x39 mm PAB-9</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39 PAB9</text>
+	</string>
+	<string id="ammo-9x39-pab9_descr">
+		<text>Cartucce generiche ed economiche. Nonostante la loro velocitа subsonica, forniscono una buona capacitа di arresto. Adatte ai fucili d'assalto Tunder S14 e SA Valanga e al fucile da cecchino speciale Vintar BC.</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>Cartucce 9x39 mm SP-6</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>Cartucce 7.62x54 mm 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_descr">
+		<text>Cartucce anticarro calibro 7.62 da cecchino. Usate con i fucili d'assalto SVDm 2 e SVUmk2.</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>Cartucce 7.62x54 mm PP</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62 PP</text>
+	</string>
+	<string id="ammo-7.62x54-ap_descr">
+		<text>Cartucce da mitragliatore calibro 7.62, poco costose. La forma le rende inadatte al fucile da cecchino, quindi sono utilizzabili solo con il mitragliatore RP-74.</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>Cartucce a pallettoni 12x70 </text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>Pallettoni 12x70</text>
+	</string>
+	<string id="ammo-12x70-buck_descr">
+		<text>Cartucce standard calibro 12 con pallettoni 6mm. Molto letali a distanza ravvicinata. Utilizzabili con i fucili da caccia, le doppiette e le doppiette semiautomatiche SPSA 14 e Chaser 13.</text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>Cartucce slug 12x76</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 slug</text>
+	</string>
+	<string id="ammo-12x76-zhekan_descr">
+		<text>Questa cartuccia slug pesante viene normalmente usata per la caccia grossa, ma и utilizzabile anche in altri contesti. Anzichй penetrare, il pesante proiettile slug si schianta attraverso la corazza. Viene usata con i fucili da caccia, le doppiette e le doppiette semiautomatiche SPSA 14 e Chaser 13.</text>
+	</string>
+	<string id="ammo-12x76-dart">
+		<text>Cartucce a dardo 12x76</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>Dardi 12x76</text>
+	</string>
+	<string id="ammo-12x76-dart_descr">
+		<text>Proiettile a dardo. Il taglio gli fornisce una maggiore stabilitа, che porta a una maggiore precisione. Il corpo d'acciaio massiccio del proiettile puт penetrare qualunque corazza da corpo. Viene usato con i fucili da caccia, le doppiette e le doppiette semiautomatiche SPSA 14 e Chaser 13.</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>Accumulatori</text>
+	</string>
+	<string id="ammo-gauss_descr">
+		<text>Celle energetiche ad alta capacitа. Usate per potenziare un prototipo del fucile elettromagnetico EM1.</text>
+	</string>
+	<string id="ammo-m209">
+		<text>Granata M209</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M209</text>
+	</string>
+	<string id="ammo-m209_descr">
+		<text>Granata usata con il lanciagranate sotto canna e con il lanciagranate integrato FT 200M.</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>Granata VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_descr">
+		<text>Granata standard per il lanciagranate sotto canna GP-25 Koster, l'accessorio integrato sotto canna per il Tunder S14 e il lanciagranate tipo pistola Bulldog 6.</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>Granata OG-7V</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="ammo-og-7b_descr">
+		<text>Granata a frammentazione per il RPG-7u. Efficace contro i bersagli non corazzati e i veicoli leggermente corazzati.</text>
+	</string>
+	<string id="st_grenade_f1">
+		<text>Granata F1</text>
+	</string>
+	<string id="st_grenade_f1_descr">
+		<text>Granata a mano difensiva, con frammenti in grado di perforare le tute corazzate standard. La sua onda d'urto ha un raggio d'azione di 10 metri.</text>
+	</string>
+	<string id="st_grenade_rgd5">
+		<text>Granata RGD-5</text>
+	</string>
+	<string id="st_grenade_rgd5_descr">
+		<text>Granata offensiva con un piccolo raggio di frammentazione. La sua onda d'urto ha un raggio di 8 metri.</text>
+	</string>
+	<string id="st_grenade_smoke">
+		<text>Granata fumogena</text>
+	</string>
+	<string id="st_grenade_smoke_descr">
+		<text>Granata fumogena a mano, usata per sollevare cortine di fumo della durata di 10 secondi.</text>
+	</string>
+	<string id="st_grenade_launcher">
+		<text>GP-25 "Koster"</text>
+	</string>
+	<string id="st_grenade_launcher_descr">
+		<text>Un lanciagranate sotto canna per i fucili d'assalto, realizzato nei paesi del Patto di Varsavia. Usa munizioni VOG-25.</text>
+	</string>
+	<string id="st_grenade_launcher_m203">
+		<text>M203</text>
+	</string>
+	<string id="st_grenade_launcher_m203_descr">
+		<text>Un lanciagranate sotto canna per i fucili NATO. Usa munizioni M209.</text>
+	</string>
+	<string id="st_addon_scope">
+		<text>Mirino PSO-1</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>Un mirino ottico sovietico molto diffuso. Si collega all'arma tramite un incastro a coda di rondine, standard nei paesi del Patto di Varsavia.</text>
+	</string>
+	<string id="st_addon_scope_susat">
+		<text>Mirino SUSAT</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>Un mirino ottico 4x realizzato nei paesi NATO. Si collega all'arma tramite l'incastro Picatinny, standard per la NATO.</text>
+	</string>
+	<string id="st_addon_silencer">
+		<text>Silenziatore</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>Un efficace silenziatore, assemblato da alcuni artigiani della Zona. Dotato di adattatori per armi di tutti i calibri.</text>
+	</string>
+	<string id="st_wpn_pm">
+		<text>PMm</text>
+	</string>
+	<string id="st_wpn_pm_descr">
+		<text>Questa pistola di ereditа sovietica и la piщ diffusa nella Zona. Benchй sia affidabile ed economica, difetta in precisione e in caricatori poco capienti. Usata come arma principale da molti principianti, questa pistola usa munizioni 9x18mm.</text>
+	</string>
+	<string id="st_wpn_pb">
+		<text>PB1s</text>
+	</string>
+	<string id="st_wpn_pb_descr">
+		<text>Pistola dotata di silenziatore integrato, un tempo usata dagli Spetsnaz sovietici. Concettualmente obsoleta, resta potenzialmente efficace se messa nelle mani giuste. Usa munizioni 9x18mm.</text>
+	</string>
+	<string id="st_wpn_fort">
+		<text>Fora-12</text>
+	</string>
+	<string id="st_wpn_fort_descr">
+		<text>Pistola per la polizia di realizzazione ucraina. Fornisce precisione, ergonomicitа e caricatori superiori alla Makarov, ma difetta in affidabilitа. Usa munizioni 9x18mm.</text>
+	</string>
+	<string id="st_wpn_beretta">
+		<text>Martha</text>
+	</string>
+	<string id="st_wpn_beretta_descr">
+		<text>Martha и in dotazione alla polizia e alle forze armate americane e a molte organizzazioni militari in tutto il mondo. La pistola gode di altrettanta popolaritа tra le fila della criminalitа, grazie alla sua potenza e alla capacitа di carico. Usa munizioni 9x19.</text>
+	</string>
+	<string id="st_wpn_walther">
+		<text>Walker P9m</text>
+	</string>
+	<string id="st_wpn_walther_descr">
+		<text>Un'eccellente pistola tedesca. Molto affidabile, precisa e con ottime capacitа di carico, soprattutto per questo modello, che usa le cartucce Parabellum 9mm. Usa munizioni 9x19mm.</text>
+	</string>
+	<string id="st_wpn_hpsa">
+		<text>HPSS-1m</text>
+	</string>
+	<string id="st_wpn_hpsa_descr">
+		<text>La Browning si merita la reputazione di una delle migliori pistole del XX secolo. Affidabile, potente e precisa, contiene fino a 13 cartucce 9x19mm.</text>
+	</string>
+	<string id="st_wpn_colt1911">
+		<text>Kora-919</text>
+	</string>
+	<string id="st_wpn_colt1911_descr">
+		<text>Questa classica Colt automatica, che ha superato con successo i maggiori conflitti armati del XX secolo, и entrata con decisione nel nuovo millennio. La sua mediocre capacitа di carico и ben compensata dalle potenti munizioni .45 che utilizza.</text>
+	</string>
+	<string id="st_wpn_sig220">
+		<text>SIP-t M200</text>
+	</string>
+	<string id="st_wpn_sig220_descr">
+		<text>Questo modello, progettato nel 1975, continua a essere utilizzato in tutto il mondo. Anche se la sua capacitа di carico и relativamente limitata, il meccanismo dell'arma и preciso come un orologio svizzero. Ha anche il vantaggio di usare le potenti munizioni calibro .45 della Colt.</text>
+	</string>
+	<string id="st_wpn_usp">
+		<text>UDP Compact</text>
+	</string>
+	<string id="st_wpn_usp_descr">
+		<text>Quest'arma vanta la qualitа e l'affidabilitа tedesca. Compatta e a breve raggio, и molto usata tra i veterani della Zona. Usa munizioni .45.</text>
+	</string>
+	<string id="st_wpn_eagle">
+		<text>Aquilone nero</text>
+	</string>
+	<string id="st_wpn_eagle_descr">
+		<text>La vera pistola dei veri eroi: grossa, pesante e letale. L'uso limitato che ne viene fatto nella Zona и attribuibile al prezzo, alla dimensione e ai pochi elefanti da cacciare. Usa munizioni .45.</text>
+	</string>
+	<string id="st_wpn_mp5">
+		<text>Viper 5</text>
+	</string>
+	<string id="st_wpn_mp5_descr">
+		<text>Negli ultimi decenni del XX secolo il Viper 5, uno dei migliori mitragliatori in circolazione, fu dato in dotazione alle forze armate speciali e alle unitа di polizia di tutto il mondo. Dopo essere stato gradualmente sostituito da modelli piщ recenti, si и continuato a vederlo sul mercato nero, da cui alla fine ha raggiunto la Zona in grandi quantitа. Usa munizioni 9x19mm.</text>
+	</string>
+	<string id="st_wpn_ak74u">
+		<text>Akm 74/2U</text>
+	</string>
+	<string id="st_wpn_ak74u_descr">
+		<text>Nonostante la sua somiglianza al mitragliatore per peso e dimensioni, quest'arma viene catalogata come fucile d'assalto a causa del suo meccanismo e delle munizioni che usa. Degna di nota per le dimensioni ridotte (estremamente utili per combattere in ambienti urbani) e per l'ottima capacitа di penetrazione dei bersagli corazzati, i suoi difetti sono un raggio d'azione ridotto e la tendenza a surriscaldarsi rapidamente quando spara. Usa munizioni 5,45x39mm.</text>
+	</string>
+	<string id="st_wpn_ak74">
+		<text>Akm 74/2</text>
+	</string>
+	<string id="st_wpn_ak74_descr">
+		<text>Quest'arma, progettata nel 1974, usa munizioni 5,45x39mm. И semplice e affidabile, anche se i costi contenuti di produzione ne compromettono semplicitа d'uso e precisione. Nella Zona и l'arma piщ usata dai militari e da molti stalker solitari. Usa munizioni 5,45x39mm.</text>
+	</string>
+	<string id="st_wpn_abakan">
+		<text>AC96/2</text>
+	</string>
+	<string id="st_wpn_abakan_descr">
+		<text>Un modello del 1996 basato sull'AK47. Progettato per il fuoco a distanza ravvicinata. Usa munizioni 5,45x39mm.</text>
+	</string>
+	<string id="st_wpn_l85">
+		<text>IL 86</text>
+	</string>
+	<string id="st_wpn_l85_descr">
+		<text>Dopo che l'esercito britannico sostituм questo fucile con un modello piщ recente, grandi quantitа invasero il mercato nero e giunsero infine nella Zona. I maggiori vantaggi del fucile sono il mirino 4x integrato e una grande precisione nel colpo singolo. Comunque, la precisione diminuisce sensibilmente quando si spara a raffica, e i meccanismi interni del fucile non sono molto affidabili. Usa munizioni 5,56x45mm.</text>
+	</string>
+	<string id="st_wpn_lr300">
+		<text>TRs 301</text>
+	</string>
+	<string id="st_wpn_lr300_descr">
+		<text>Un nuovo passo nello sviluppo della celebre famiglia dell'M-16. Grazie a un rilascio estremamente morbido, a una buona ergonomia e a un peso soddisfacente, questo fucile facilita la precisione di tiro. Comunque tende ad accumulare sporcizia, difetto che ne limita l'efficacia sul campo. Usa munizioni 5,56x45mm.</text>
+	</string>
+	<string id="st_wpn_sig550">
+		<text>SGI 5k</text>
+	</string>
+	<string id="st_wpn_sig550_descr">
+		<text>Un fucile d'assalto di fattura svizzera, relativamente recente che utilizza le cartucce NATO. La precisione, il rilascio morbido e l'alta affidabilitа dell'arma contribuiscono a renderlo famoso. Usa munizioni 5,56x45mm.</text>
+	</string>
+	<string id="st_wpn_g36">
+		<text>GP 37</text>
+	</string>
+	<string id="st_wpn_g36_descr">
+		<text>Questo fucile di fattura tedesca и un ottimo esempio di arma moderna: affidabile, leggero ed ergonomico. Usa munizioni 5,56x45mm.</text>
+	</string>
+	<string id="st_wpn_fn2000">
+		<text>FT 200M</text>
+	</string>
+	<string id="st_wpn_fn2000_descr">
+		<text>Questo fucile di fattura tedesca и un ottimo esempio di arma moderna: affidabile, leggero ed ergonomico. Usa munizioni 5,56x45mm.</text>
+	</string>
+	<string id="st_wpn_groza">
+		<text>Tunder S14</text>
+	</string>
+	<string id="st_wpn_groza_descr">
+		<text>Questo fucile d'assalto, combinato con un lanciagranate, и un'ottima soluzione per le insidie della Zona: compatto, affidabile e potente per tutte e situazioni. Particolarmente utilizzato tra gli stalker dell'esercito. Usa munizioni 9x39mm e granate VOG-25.</text>
+	</string>
+	<string id="st_wpn_val">
+		<text>SA "Valanga"</text>
+	</string>
+	<string id="st_wpn_val_descr">
+		<text>Versione modificata del silenzioso fucile da cecchino Vintar BC, la SA Valanga и dotata di un poggia spalla, spara a raffica e ha una capacitа di carico maggiore. Inizialmente pensata per le operazioni d'assalto delle forze speciali, le quali richiedevano un fuoco silenzioso e privo di lampi. Usa munizioni 9x39.</text>
+	</string>
+	<string id="st_wpn_vintorez">
+		<text>Vintar BC </text>
+	</string>
+	<string id="st_wpn_vintorez_descr">
+		<text>Un fucile da cecchino costruito per un fuoco silenzioso e privo di lampi, dotato di un silenziatore integrato. Molto usato tra gli stalker nonostante la ridotta capacitа di carico. Usa munizioni 9x39mm.</text>
+	</string>
+	<string id="st_wpn_svd">
+		<text>SVDm 2</text>
+	</string>
+	<string id="st_wpn_svd_descr">
+		<text>Un'arma molto usata in tutte le operazioni militari sovietiche e russe fin dagli anni '60. Si и guadagnata la fama per l'eccellente affidabilitа e la semplicitа d'uso. Usa munizioni 7.62 7H14.</text>
+	</string>
+	<string id="st_wpn_svu">
+		<text>SVUmk2</text>
+	</string>
+	<string id="st_wpn_svu_descr">
+		<text>Un fucile da cecchino modernizzato con un design bullpup compatto. Il suo fuoco di precisione piщ veloce e il design leggero gli sono valsi l'ammirazione di innumerevoli stalker. Usa munizioni 7,62 7H14.</text>
+	</string>
+	<string id="st_wpn_rp">
+		<text>RP-74</text>
+	</string>
+	<string id="st_wpn_rp_descr">
+		<text>Nonostante il peso e la scarsa precisione, questo mitragliatore leggero ha trovato molti ammiratori nella Zona. Usato principalmente per respingere le forze nemiche superiori o per fare pulizia delle tane dei mutanti. Usa munizioni 7.62 PP.</text>
+	</string>
+	<string id="st_wpn_bm16">
+		<text>Doppietta</text>
+	</string>
+	<string id="st_wpn_bm16_descr">
+		<text>Una doppietta da caccia a canne mozze con due canne una a fianco all'altra. Benchй sia molto piщ compatta e leggera di una doppietta completa, и efficace solo a distanza ravvicinata. Una delle armi piщ usate tra gli stalker piщ inesperti.</text>
+	</string>
+	<string id="st_wpn_toz34">
+		<text>Fucile da caccia</text>
+	</string>
+	<string id="st_wpn_toz34_descr">
+		<text>Un semplice fucile da caccia a canne mozze, molto diffuso. Usato principalmente dai novellini ai confini della Zona. Usa munizioni 12x70mm.</text>
+	</string>
+	<string id="st_wpn_spas12">
+		<text>SPSA14 </text>
+	</string>
+	<string id="st_wpn_spas12_descr">
+		<text>La doppietta SPSA ad anima liscia e semiautomatica fu progettata alla fine degli anni '70 come arma adatta a tutti gli scopi, in dotazione alla polizia e alle truppe d'assalto dell'esercito. И molto affidabile e versatile, ma anche massiccia, complessa e costosa. Probabilmente и la miglior arma a distanza ravvicinata della Zona. Usa munizioni 12x70mm.</text>
+	</string>
+	<string id="st_wpn_wincheaster1300">
+		<text>Chaser 13</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_descr">
+		<text>Un fucile a pompa ad anima liscia di fattura americana, estremamente affidabile e pensato per il combattimento negli ambienti piщ ostili. Tutti i componenti sono rivestiti da un preparato anticorrosione. Usa munizioni 12x70mm.</text>
+	</string>
+	<string id="st_wpn_rpg7">
+		<text>RPG-7u </text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>Questo lanciagranate degli anni '60 и arrivato nella Zona dai depositi militari. Anche se le grosse dimensioni e il peso lo rendono un'arma poco adatta agli stalker, puт rivelarsi insostituibile per certe operazioni. Usa granate OG-7V.</text>
+	</string>
+	<string id="st_wpn_rg6">
+		<text>Bulldog 6</text>
+	</string>
+	<string id="st_wpn_rg6_descr">
+		<text>Questo lanciagranate a revolver и indispensabile quando si devono ripulire ampie zone dai mutanti, attaccare bersagli fissi ben difesi o farsi strada tra i mostri. Usa granate VOG-25.</text>
+	</string>
+	<string id="st_wpn_gauss">
+		<text>Fucile EM1</text>
+	</string>
+	<string id="st_wpn_gauss_descr">
+		<text>Un fucile elettromagnetico sperimentale, usato per disabilitare dispositivi elettronici da lontano. Inefficace contro bersagli vivi. Potenziato da batterie ad accumulatori.</text>
+	</string>
+	<string id="st_wpn_mp5_m1">
+		<text>Viper 5m</text>
+	</string>
+	<string id="st_wpn_mp5_m1_descr">
+		<text>Una versione modificata del mitragliatore Viper. Grazie al miglior allineamento dei componenti, l'arma ha una maggiore velocitа di volata. Usa munizioni 9x19mm.</text>
+	</string>
+	<string id="st_wpn_hpsa_m1">
+		<text>HPCS-1</text>
+	</string>
+	<string id="st_wpn_hpsa_m1_descr">
+		<text>Quest'arma и una versione modificata della pistola XPSS-1, adatta all'uso in condizioni climatiche avverse. Una pistola virtualmente a prova di errore, che usa munizioni 9x19mm.</text>
+	</string>
+	<string id="st_wpn_fort_m1">
+		<text>Fora-14</text>
+	</string>
+	<string id="st_wpn_fort_m1_descr">
+		<text>Il Fora-14 ha una capacitа di carico maggiore del modello di base. Usa munizioni 9x18mm.</text>
+	</string>
+	<string id="st_wpn_ak74_m1">
+		<text>Akv 74</text>
+	</string>
+	<string id="st_wpn_ak74_m1_descr">
+		<text>И una versione modernizzata del fucile d'assalto Akm 74/2. Un design moderno che consente di sparare addirittura 100 colpi al minuto. Alcuni elementi del progetto furono rimossi per alleggerire la canna, su cui ora non si possono utilizzare i mirini ottici. Usa munizioni 5,45x39mm.</text>
+	</string>
+	<string id="st_wpn_eagle_m1">
+		<text>Big Ben</text>
+	</string>
+	<string id="st_wpn_eagle_m1_descr">
+		<text>Un vero Golia delle pistole. La canna giа lunga и ulteriormente estesa con una speciale aggiunta fissa. Fornisce un ottimo potere di arresto e usa munizioni calibro .45.</text>
+	</string>
+	<string id="st_wpn_sig550_m1">
+		<text>SGI 5.45</text>
+	</string>
+	<string id="st_wpn_sig550_m1_descr">
+		<text>Alcuni abili artigiani hanno modificato lo SGI 5k per farlo funzionare con cartucce russe, piщ comuni nella Zona, pur mantenendo la possibilitа di usare tutte le varianti base del fucile. Usa munizioni 5,45x39mm.</text>
+	</string>
+	<string id="st_wpn_abakan_m1">
+		<text>AC96sl</text>
+	</string>
+	<string id="st_wpn_abakan_m1_descr">
+		<text>Una versione silenziosa dell'AC96/2. L'arma и dotata di un silenziatore artigianale che allunga la canna aumentando la precisione, pur mantenendo tutti i vantaggi di un fucile d'assalto. Usa munizioni 5,45x39mm.</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_m1">
+		<text>Chaser della "Freedom"</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_m1_descr">
+		<text>A differenza della maggior parte delle doppiette questa ha un'anima rigata, che rende impossibile sparare cartucce a pallettoni o a dardo, ma aumenta la precisione quando si sparano cartucce slug. Usa solo munizioni 12x76mm.</text>
+	</string>
+	<string id="st_wpn_vintorez_m1">
+		<text>Vintar "Valanga"</text>
+	</string>
+	<string id="st_wpn_vintorez_m1_descr">
+		<text>Una versione ibrida che combina i vantaggi di entrambi i modelli: una portata di carico di 20 colpi e un fuoco automatico molto preciso. Il mirino 2x del fucile и adattato per un uso a distanza ravvicinata. Usa munizioni 9x39mm.</text>
+	</string>
+	<string id="st_wpn_spas12_m2">
+		<text>SPSA-AUT</text>
+	</string>
+	<string id="st_wpn_spas12_m2_descr">
+		<text>La doppietta semi-automatica SPSA-AUT и realizzata solo nei laboratori della Duty per combattere specificamente gli sciami di mostri. Un meccanismo di ricarica dei bossoli assicura una miglior velocitа di fuoco ed eccellenti colpi multipli quando si usano munizioni a pallettoni. Un caricatore esteso puт contenere fino a 10 cartucce 12x70mm.</text>
+	</string>
+	<string id="st_wpn_lr300_m1">
+		<text>TPs "Mancino"</text>
+	</string>
+	<string id="st_wpn_lr300_m1_descr">
+		<text>Quest'arma и un'eccellente opera d'artigianato, adattata per chi la porta. Il design sacrifica la velocitа di fuoco in cambio di precisione, quindi questa и l'arma adatta per colpire lo stesso punto per 10 volte in 10 secondi. Usa munizioni 5,56x45mm.</text>
+	</string>
+	<string id="st_wpn_l85_m1">
+		<text>IL86s</text>
+	</string>
+	<string id="st_wpn_l85_m1_descr">
+		<text>Una versione per cecchini del fucile IL86. La canna allungata assicura una maggior velocitа di volata, appiattendo la traiettoria dei proiettili e consentendo una maggior precisione di fuoco anche su distanze maggiori. Usa munizioni 5,56x45mm.</text>
+	</string>
+	<string id="st_wpn_fn2000_m1">
+		<text>FT 202M</text>
+	</string>
+	<string id="st_wpn_fn2000_m1_descr">
+		<text>Una versione modernizzata del fucile d'assalto. Esaltata la precisione del fuoco a raffica. Il lanciagranate sotto canna и dotato di uno stabilizzatore gravitazionale dei proiettili che riduce sensibilmente la dispersione. Il difetto di questa modifica и che rende il lanciagranate inutilizzabile. Usa munizioni 5,56x45mm.</text>
+	</string>
+	<string id="st_wpn_svu_m1">
+		<text>SV-Am</text>
+	</string>
+	<string id="st_wpn_svu_m1_descr">
+		<text>Questa versione automatica di un fucile da cecchino ha un rinculo molto piщ morbido, che consente un fuoco piщ veloce e preciso. Usa munizioni 7,62 7H14.</text>
+	</string>
+	<string id="st_wpn_groza_m1">
+		<text>Tunder S14sn</text>
+	</string>
+	<string id="st_wpn_groza_m1_descr">
+		<text>Un prototipo per cecchini del fucile d'assalto Tunder S14. Quest'arma ben equilibrata и ottima per il fuoco preciso e automatico. Il lanciagranate sotto canna puт tornare altresм molto utile. Usa munizioni 9x39mm e granate VOG-25.</text>
+	</string>
+	<string id="ammo-9x39-ap_descr">
+		<text>Munizioni perforanti 9x39 mm. Nonostante la velocitа subsonica, il grosso calibro fornisce una notevole capacitа di arresto. La forma speciale dei proiettili consente di perforare gran parte delle armature. Adatte ai fucili d'assalto Tunder S14 e SA Valanga e al fucile da cecchino speciale Vintar BC.</text>
+	</string>
+	<string id="st_knife">
+		<text>Coltello</text>
+	</string>
+	<string id="ammo_minigame_descr">
+		<text>Munizioni con contrassegni per il poligono di tiro.</text>
+	</string>
+	<string id="ammo_minigame_name">
+		<text>Munizioni poligono di tiro</text>
+	</string>
+</string_table>

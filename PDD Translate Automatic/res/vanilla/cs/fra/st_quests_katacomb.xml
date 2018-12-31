@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hospital_task_general_text">
+		<text>Trouver l'entrйe des souterrains</text>
+	</string>
+	<string id="hospital_task_general_title">
+		<text>Trouvez l'entrйe des souterrains.</text>
+	</string>
+	<string id="katacomb_task_3_objective_1">
+		<text>Tenir la position jusqu'а l'arrivйe de l'unitй de Firmament</text>
+	</string>
+	<string id="katacomb_task_3_objective_2">
+		<text>Aider l'unitй de Firmament.</text>
+	</string>
+	<string id="katacomb_task_3_text">
+		<text>Avancez jusqu'а l'entrйe des souterrains</text>
+	</string>
+	<string id="katacomb_task_3_title">
+		<text>Avancer jusqu'а l'entrйe des souterrains.</text>
+	</string>
+	<string id="katacomb_task_helicopter_text">
+		<text>Abattre l'hйlicoptиre</text>
+	</string>
+	<string id="katacomb_task_helicopter_title">
+		<text>Abattez l'hйlicoptиre.</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_text">
+		<text>Tuer le sniper</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_title">
+		<text>Abattez le sniper.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_1">
+		<text>Avancer vers les escaliers qui mиnent au rez-de-chaussйe</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_2">
+		<text>Traverser le rez-de-chaussйe</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_3">
+		<text>Atteindre le pont</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_4">
+		<text>Traverser le pont</text>
+	</string>
+	<string id="katacomb_task_sniper_back_text">
+		<text>Couvrir l'unitй de Firmament</text>
+	</string>
+	<string id="katacomb_task_sniper_back_title">
+		<text>S'approcher discrиtement du sniper</text>
+	</string>
+	<string id="katacomb_task_z2_exit_text">
+		<text>Avancez dans le troisiиme hall.</text>
+	</string>
+	<string id="katacomb_task_z2_exit_title">
+		<text>Avancer dans le troisiиme hall</text>
+	</string>
+</string_table>

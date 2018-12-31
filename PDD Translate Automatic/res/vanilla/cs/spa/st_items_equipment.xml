@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>Fбrmacos antirrad.</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Un paquete de pastillas con ingredientes activos que ayudan a expulsar los radionucleoides del cuerpo. Las pнldoras no protegen al organismo de nuevas exposiciones a la radiaciуn, solo reducen la dosis de radiaciуn actual.</text>
+	</string>
+	<string id="st_bread">
+		<text>Pan</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>En la Zona no se ha visto nunca ningъn panadero, pero este pan no estб contaminado y es bastante comestible. Al menos, nadie se ha quejado hasta ahora.</text>
+	</string>
+	<string id="st_conserva">
+		<text>"Desayuno para turistas"</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>Alimentos enlatados de un depуsito de suministros del ejйrcito saqueado por stalkers. Si te fнas de la fecha de caducidad, todavнa se pueden comer.</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Salchicha dietйtica</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Para bien o para mal, esta salchicha, una mezcla de pollo y soja artificial, es a menudo el desayuno, la comida y la cena de los stalkers.</text>
+	</string>
+	<string id="st_medkit">
+		<text>Botiquнn</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Botiquнn bбsico. Ъtil para tratar diversas aflicciones: heridas, quemaduras, envenenamiento, etc.</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Botiquнn militar</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Un botiquнn especializado en tratar heridas fнsicas y hemorragias. Estб lleno de coagulantes, anestйsicos, antibiуticos e inmunoestimulantes.</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Botiquнn cientнfico</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Un botiquнn mйdico diseсado especнficamente para la Zona. Contiene productos para atender las heridas y expulsar los radionucleoides del cuerpo. Impide el desarrollo de la enfermedad por radiaciуn y reduce la dosis actual de radiaciуn en el organismo.</text>
+	</string>
+	<string id="st_vodka">
+		<text>Vodka cosaco</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Fabricado por GSC. Se bebe con facilidad y reduce considerablemente los efectos de la radiaciуn. Debe tomarse con moderaciуn.</text>
+	</string>
+	<string id="st_bandage">
+		<text>Venda</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Material de vendaje. Ayuda a detener las hemorragias.</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Bebida energйtica</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Los stalkers la usan a menudo en los viajes largos cuando no pueden detenerse. Esta bebida contiene carbohidratos fбciles de digerir y drogas que estimulan la liberaciуn de la adrenalina en el flujo sanguнneo.</text>
+	</string>
+	<string id="st_detector1">
+		<text>Detector "eco"</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Este detector de actividad anуmala, con un contador Geiger incorporado, da una seсal de alarma cuando te acercas a una anomalнa. Tambiйn puede registrar la presencia de artefactos y medir la distancia hasta el mбs prуximo. El dispositivo se limita a registrar la radiaciуn y las anomalнas cuando estб cerrado. Para cambiar al modo de bъsqueda de artefactos, levanta la tapa frontal del dispositivo (antena).</text>
+	</string>
+	<string id="st_detector2">
+		<text>Detector "oso"</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Este detector de actividad anуmala, con un contador Geiger incorporado, puede usarse para localizar artefactos. Pero ademбs de medir la distancia hasta el artefacto, tambiйn puede indicar su direcciуn. El dispositivo se limita a registrar la radiaciуn y las anomalнas cuando estб cerrado. Para cambiar al modo de bъsqueda de artefactos, levanta la tapa frontal del dispositivo (antena).</text>
+	</string>
+	<string id="st_detector3">
+		<text>Detector "Veles"</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Un escбner de detecciуn de ъltima generaciуn diseсado especнficamente para localizar artefactos. Los artefactos aparecen en una pantalla especial, por lo que son mбs fбciles de encontrar. Incluye un contador Geiger y puede usarse para detectar anomalнas. El dispositivo se limita a registrar la radiaciуn y las anomalнas cuando estб cerrado. Para cambiar al modo de bъsqueda de artefactos, levanta la pantalla frontal del dispositivo (antena).</text>
+	</string>
+	<string id="st_cordon_case">
+		<text>Maletнn plateado</text>
+	</string>
+	<string id="st_cordon_case_descr">
+		<text>Un pequeсo maletнn cerrado con una clave. Contiene informaciуn muy valiosa acerca de comerciantes fiables a los que vender artefactos.</text>
+	</string>
+	<string id="st_fang_pda">
+		<text>PDA de Fang</text>
+	</string>
+	<string id="st_fang_pda_descr">
+		<text>Un PC de bolsillo. En la Zona se usa como ordenador, dispositivo de navegaciуn, dispositivo de comunicaciуn y grabadora de voz. Cada PDA tiene una ID ъnica que permite rastrearla.</text>
+	</string>
+	<string id="st_shukin_pda">
+		<text>PDA de Lingov</text>
+	</string>
+	<string id="st_shukin_pda_descr">
+		<text>Un PC de bolsillo. En la Zona se usa como ordenador, dispositivo de navegaciуn, dispositivo de comunicaciуn y grabadora de voz. Cada PDA tiene una ID ъnica que permite rastrearla.</text>
+	</string>
+	<string id="st_recorder">
+		<text>Dispositivo de dictado</text>
+	</string>
+	<string id="st_cooler_docs">
+		<text>Descripciуn de la estaciуn de refrigeraciуn</text>
+	</string>
+	<string id="st_cooler_docs_descr">
+		<text>Contiene una descripciуn detallada e instrucciones de soluciуn de problemas de una estaciуn de refrigeraciуn estacionaria situada en la fбbrica.</text>
+	</string>
+	<string id="st_compass">
+		<text>"Brъjula"</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>Un raro artefacto. Han pasado varios aсos desde que se encontrу uno. Puede localizar los huecos en los campos de anomalнas, de modo que actъa como una brъjula. Se cree que puede ayudar a cruzar los campos de anomalнas mбs complejos sin sufrir el menor daсo. Sin embargo, son pocos los que saben manejarlo adecuadamente.</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>Guitarra de siete cuerdas</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Guitarra</text>
+	</string>
+</string_table>

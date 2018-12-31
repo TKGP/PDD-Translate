@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hosp_task_general_name">
+		<text>Encuentra un camino a la central nuclear de Chernуbil.</text>
+	</string>
+	<string id="hosp_task_general_text">
+		<text>El camino a la central nuclear de Chernуbil pasa por el hospital en ruinas. Date prisa. Strelok ha cruzado el Cauterizador y estб muy cerca de la central nuclear. Encuentra la entrada a las catacumbas.</text>
+	</string>
+	<string id="hosp_task_heli_name">
+		<text>Elimina el helicуptero.</text>
+	</string>
+	<string id="hosp_task_heli_text">
+		<text>Derriba el helicуptero militar.</text>
+	</string>
+	<string id="hosp_task_kill_sniper_name">
+		<text>Mata al francotirador.</text>
+	</string>
+	<string id="hosp_task_kill_sniper_text">
+		<text>El francotirador no esta protegido desde este lado. Mбtalo.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_name">
+		<text>Sorprende al francotirador</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_text">
+		<text>El vestнbulo del hospital estб cubierto por un francotirador y un nido de ametralladora. La posiciуn del francotirador estб bien protegida. Cielo Despejado distraerб al enemigo mientras cruzas el vestнbulo para eliminar al francotirador.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_name">
+		<text>Ve al otro lado del vestнbulo.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_text">
+		<text>El artillero estб disparando en el piso inferior y el francotirador cubre el piso superior. Cielo Despejado distraerб al enemigo un momento. Muйvete solo cuando el comandante del pelotуn de Cielo Despejado te dй la orden.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_name">
+		<text>Ve al puente.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_text">
+		<text>Tienes que llegar hasta el puente. Muйvete solo cuando el comandante del pelotуn de Cielo Despejado te dй la orden, ellos distraerбn al enemigo.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_name">
+		<text>Cruza el puente.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_text">
+		<text>Cruza el puente. Muйvete solo cuando el comandante del pelotуn de Cielo Despejado te dй la orden, ellos distraerбn al enemigo.</text>
+	</string>
+	<string id="hosp_task_z2_exit_name">
+		<text>Ve al siguiente vestнbulo.</text>
+	</string>
+	<string id="hosp_task_z2_exit_text">
+		<text>El helicуptero destruyу el muro al caer y ha abierto el camino al siguiente vestнbulo. Ve allн.</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_name">
+		<text>Cubre al pelotуn de Cielo Despejado.</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_text">
+		<text>El pelotуn de Cielo Despejado estб avanzando para destruir el nido de ametralladora. Los miembros de Monolith atacan al pelotуn. Proporciona fuego de cobertura al pelotуn de Cielo Despejado.</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_name">
+		<text>Aguanta hasta que lleguen los refuerzos.</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_text">
+		<text>Se acerca un pelotуn de Cielo Despejado. Aguanta hasta que lleguen los refuerzos.</text>
+	</string>
+</string_table>

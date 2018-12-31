@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hosp_task_general_name">
+		<text>Trouver un moyen d'atteindre la centrale de Tchernobyl</text>
+	</string>
+	<string id="hosp_task_general_text">
+		<text>Il faut traverser l'hфpital en ruines pour atteindre la centrale de Tchernobyl. Vite, Strelok est dйjа passй et il ne doit plus кtre loin du but. Trouvez l'entrйe des souterrains !</text>
+	</string>
+	<string id="hosp_task_heli_name">
+		<text>Abattre l'hйlicoptиre</text>
+	</string>
+	<string id="hosp_task_heli_text">
+		<text>Descendez l'hйlicoptиre militaire.</text>
+	</string>
+	<string id="hosp_task_kill_sniper_name">
+		<text>Tuer le sniper</text>
+	</string>
+	<string id="hosp_task_kill_sniper_text">
+		<text>Le sniper n'est pas protйgй de ce cфtй. Abattez-le !</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_name">
+		<text>S'approcher discrиtement du sniper</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_text">
+		<text>Le hall de l'hфpital est sous le feu d'un sniper et d'une mitrailleuse. La position du sniper est bien protйgйe. Firmament va dйtourner l'attention de l'ennemi pendant que vous traverserez le hall pour neutraliser le sniper.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_name">
+		<text>Traverser le hall</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_text">
+		<text>La mitrailleuse couvre le niveau infйrieur tandis que le sniper couvre le niveau supйrieur. Firmament va dйtourner l'attention de l'ennemi. Ne vous dйplacez que lorsque le commandant de Firmament vous en donne l'ordre.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_name">
+		<text>Atteindre le pont</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_text">
+		<text>Vous devez atteindre le pont. Firmament va dйtourner l'attention de l'ennemi. Ne vous dйplacez que lorsque le commandant de Firmament vous en donne l'ordre.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_name">
+		<text>Traverser le pont</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_text">
+		<text>Traversez le pont. L'unitй de Firmament va vous couvrir. Ne vous dйplacez que lorsque le commandant de Firmament vous en donne l'ordre.</text>
+	</string>
+	<string id="hosp_task_z2_exit_name">
+		<text>Avancer dans le hall suivant</text>
+	</string>
+	<string id="hosp_task_z2_exit_text">
+		<text>L'hйlicoptиre s'est йcrasй sur le mur et a ouvert un passage vers le hall suivant. Avancez.</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_name">
+		<text>Couvrir l'unitй de Firmament</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_text">
+		<text>L'unitй de Firmament va tenter de neutraliser le nid de mitrailleuse alors que des Monolithes les attaquent. Assurez un tir de couverture pour protйger les hommes de Firmament.</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_name">
+		<text>Tenir la position jusqu'а l'arrivйe des renforts</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_text">
+		<text>Une unitй de Firmament approche. Tenez bon jusqu'а son arrivйe !</text>
+	</string>
+</string_table>

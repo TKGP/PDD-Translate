@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pda_end_tutorial">
+		<text>Nun, das ist alles...</text>
+	</string>
+	<string id="pda_start_tutorial">
+		<text>Schritt-fьr-Schritt-Tutorial</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_1">
+		<text>Gut. Wie du sicherlich weiЯt, besteht unser Hauptziel darin, die Kontrolle ьber die Sьmpfe zu erlangen. Das bedeutet wiederum Krieg mit den Angreifern.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_10">
+		<text>Hier kannst du das aktuelle strategische Ziel und die taktischen Missionen sehen, die du fьr das Erreichen des strategischen Ziels erfьllen musst.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_11">
+		<text>Die erfьllten strategischen Missionen werden unten angezeigt.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_2">
+		<text>In diesem Bereich werden alle taktischen Details angezeigt, die den aktuellen Kampffortschritt betreffen.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_3">
+		<text>Auf der linken Seite findest du Informationen zu deiner aktuellen Fraktion. Im Augenblick sind das wir, Clear Sky.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_4">
+		<text>Auf der rechten Seite steht die wichtigste Information ьber den Feind.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_5">
+		<text>Das ist ein ungefдhrer Wert unserer militдrischen Stдrke.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_6">
+		<text>Das ist die Anzahl unserer Truppen.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_7">
+		<text>Das ist der Wert unserer logistischen Unterstьtzung.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_8">
+		<text>Die Symbole, die unten zu sehen sind, zeigen die besonderen Eigenschaften unserer Kampfausrьstung an.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_9">
+		<text>Дhnliche Anzeigen sind auch bei unserem Feind zu sehen.</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_1">
+		<text>Im letzten Tab werden deine aktuellen Beziehungen zu jeder Fraktion angezeigt und wie groЯ deren jeweilige militдrische Stдrke ist.</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_2">
+		<text>Deine Statistik wird hier ebenfalls angezeigt.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_1">
+		<text>Sieh mal. Hier stehen die Missionen - das ist der wichtigste Bereich.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_10">
+		<text>Zusдtzlich zu den Aufgaben, sind auf deiner Karte die Standorte verbьndeter Einheiten und ebenfalls die Koordinaten aufgespьrter Feinde zu sehen.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_2">
+		<text>Hier wird deine Hauptmission angezeigt...</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_3">
+		<text>Und ebenfalls die von dir gewдhlte Nebenmission.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_4">
+		<text>Wenn du mehrere Nebenmissionen hast, lassen sie sich mit diesen Feldern durchblдttern.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_5">
+		<text>Die meisten Missionen werden auch auf der Karte angezeigt, es sei denn, das Ziel der Mission kann erfasst werden. Dies ist allerdings nur selten der Fall.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_6">
+		<text>Deine Unterstьtzung ist nicht nur bei der Vernichtung des Feindes, sondern auch bei der Eroberung strategischer Stellungen wichtig.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_7">
+		<text>In einer solchen Situation wьrden es unsere Kдmpfer zu schдtzen wissen, wenn du ihnen Deckungsfeuer geben kцnntest, wдhrend sie eine Stellung angreifen.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_8">
+		<text>AuЯerdem solltest du immer auf Hilferufe achten - das Leben unserer Jungs kцnnte von dir abhдngen.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_9">
+		<text>Gehe ьber einen Punkt auf der Karte, um genauere Informationen ьber diesen Ort zu erhalten.</text>
+	</string>
+</string_table>

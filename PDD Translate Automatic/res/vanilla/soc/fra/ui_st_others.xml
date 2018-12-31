@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_st_conn_version_differs">
+		<text>Erreur de connexion : Version diffйrente.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Erreur de connexion : Clй CD invalide.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Erreur de connexion : Clй CD utilisйe.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Erreur de connexion : Votre clй CD est dйsactivйe. Contactez le service client.</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Nouveau patch disponible.\n Version : %s\n Emplacement :%s\nLe tйlйcharger maintenant ?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Aucun nouveau patch disponible</text>
+	</string>
+</string_table>

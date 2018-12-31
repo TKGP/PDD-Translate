@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hello_mil_freedom_11">
+		<text>Du hast es durch den Roten Wald geschafft. Du musst jede Menge Glьck gehabt haben. Aber die Lage hier ist noch um einiges schwieriger, Sцldner. Die Barriere ist gefallen. Das Militдr kann sie nicht mehr halten.</text>
+	</string>
+	<string id="hello_mil_freedom_111">
+		<text>Was ist mit den Leuten vom Militдr passiert?</text>
+	</string>
+	<string id="hello_mil_freedom_2">
+		<text>Sie sind tot... die meisten jedenfalls. Die Ьberlebenden der zahlreichen Angriffe durch Zombies und Mutanten sitzen jetzt wie Ratten in einem Loch in ihrer Basis beim Helikopterlandeplatz fest. AuЯerdem haben wir wдhrend der groЯen Emission zahlreiche Kдmpfer verloren.</text>
+	</string>
+	<string id="hello_mil_freedom_22">
+		<text>Was meinst du mit "verloren"? Was ist passiert?</text>
+	</string>
+	<string id="hello_mil_freedom_222">
+		<text>Das weiЯ keiner so genau, Sцldner, aber die Leute sind einfach verschwunden. Einzelne Stalker und sogar ganze Trupps. Manchmal empfangen wir irgendwelche Funkfetzen, in denen jemand um Hilfe bittet. Eine Sцldnereinheit hat die ganze letzte Woche in der Nдhe des Bauernhofes nach Kameraden gesucht.</text>
+	</string>
+	<string id="hello_mil_freedom_3">
+		<text>Ich werde dort hingehen und nach dem Rechten sehen.</text>
+	</string>
+	<string id="hello_mil_freedom_333">
+		<text>Lass es mich wissen, falls du etwas Wichtiges herausfindest.</text>
+	</string>
+	<string id="hello_mil_freedom_44">
+		<text>Das werde ich.</text>
+	</string>
+	<string id="hello_mil_freedom_55">
+		<text>Was jetzt?</text>
+	</string>
+	<string id="hello_mil_freedom_555">
+		<text>WeiЯ nicht, bis dann.</text>
+	</string>
+	<string id="hello_mil_freedom_66">
+		<text>Du hast es durch den Roten Wald geschafft. Du musst jede Menge Glьck gehabt haben. Aber die Lage hier ist noch um einiges Schwieriger, Sцldner.</text>
+	</string>
+	<string id="hello_mil_freedom_666">
+		<text>Was geht hier vor sich? Ich brauche mehr Informationen.</text>
+	</string>
+	<string id="hello_mil_freedom_6666">
+		<text>Rede erst mit dem Fцrster, er wird dich auf den neuesten Stand bringen.</text>
+	</string>
+	<string id="hello_mil_freedom_77">
+		<text>Was jetzt?</text>
+	</string>
+	<string id="hello_mil_freedom_777">
+		<text>WeiЯ nicht, bis dann.</text>
+	</string>
+	<string id="hello_mil_killer_11">
+		<text>Was hast du hier zu suchen, Sцldner?</text>
+	</string>
+	<string id="hello_mil_killer_111">
+		<text>Ich hab dich gesucht. Die Freiheitler beim AuЯenposten haben mir gesagt, dass nicht weit von hier einige Mдnner verschollen sind. Was ist passiert?</text>
+	</string>
+	<string id="hello_mil_killer_1111">
+		<text>Vor ein paar Wochen haben wir einen wichtigen Auftrag erhalten - wir sollten ein einzigartiges Artefakt beschaffen. Der Auftrag kam von ganz oben - der Kunde ist irgendein groЯes Tier. Jedenfalls lief zuerst alles nach Plan: Unsere Einheit fand das Artefakt irgendwo in der Nдhe der Barriere und war bereits auf dem Rьckweg, als sie von der groЯen Emission ьberrascht wurde. Wir hatten schon geglaubt, dass es sie komplett erwischt hдtte, aber die Mдnner hatten Glьck und ьberlebten. Dummerweise sind sie jetzt irgendwo dort drauЯen verschollen. Wir haben den Befehl erhalten, sie zu finden, um das Artefakt liefern zu kцnnen. Wenn wir scheitern, dann war das der letzte Auftrag fьr die Sцldner.</text>
+	</string>
+	<string id="hello_mil_killer_11111">
+		<text>Sind sie vielleicht tot? Es ist fast unmцglich, eine Emission zu ьberleben.</text>
+	</string>
+	<string id="hello_mil_killer_111111">
+		<text>Wir empfangen hin und wieder Funkfetzen der Einheit, aber wir werden nicht schlau daraus. Das Einzige, was wir sicher wissen, ist, dass sie bei Tageslicht verschwunden sind und sich jetzt in einer Art Falle befinden. Es kцnnte eine Anomalie sein oder irgendeine neue Form des Bцsen, das sich in der Zone breitgemacht hat. Wir wissen nicht weiter. Bei dem Bauernhof steht ein alter Wasserturm - von dort kцnnen wir die Funksignale bestimmt besser empfangen. Wir haben schon versucht, dort hinaufzuklettern, aber dann wurden wir auf einmal von ein paar richtig ьblen Viechern angegriffen, die einen von uns gepackt und fortgerissen haben. Der Rest von uns konnte gerade noch entkommen!</text>
+	</string>
+	<string id="hello_mil_killer_1111111">
+		<text>Einen netten Auftrag hast du da fьr mich. Aber was soll's. Ein Mann muss tun, was ein Mann tun muss. Ich muss mir genauso den Kopf darьber zerbrechen, wie die Gruppe gerettet werden kann, wie du.</text>
+	</string>
+	<string id="hello_mil_killer_11111112">
+		<text>Ich hab mich um das Biest gekьmmert. Jetzt muss ich nur noch zum Wasserturm und den Funkspruch empfangen.</text>
+	</string>
+	<string id="hello_mil_killer_11111113">
+		<text>Keine Sorge. Ich war schon beim Wasserturm und konnte den Funkspruch mit den Koordinaten empfangen.</text>
+	</string>
+	<string id="hello_mil_killer_22">
+		<text>Gut, dich zu sehen. Hast du einen Weg gefunden, wie unsere Jungs gerettet werden kцnnen?</text>
+	</string>
+	<string id="hello_mil_killer_222">
+		<text>Noch nicht.</text>
+	</string>
+	<string id="hello_mil_killer_44">
+		<text>Was gibt's Neues, Sцldner?</text>
+	</string>
+	<string id="hello_mil_killer_444">
+		<text>Nichts.</text>
+	</string>
+	<string id="hello_mil_killer_55">
+		<text>Ist eine Weile her, seit du das letzte Mal hier warst. Unsere Jungs stecken schon zu lange in dieser Anomalie fest. Hast du herausbekommen, wie wir sie befreien kцnnen?</text>
+	</string>
+	<string id="hello_mil_killer_555">
+		<text>Allerdings. Der Fцrster hat mir die Koordinaten des Ausgangs gegeben, durch den die Sцldner aus der Raumblase entkommen kцnnen. Ich brauche nur einen leistungsfдhigen Sender, um mit der Gruppe Kontakt aufzunehmen und ihr die Koordinaten zu senden.</text>
+	</string>
+	<string id="hello_mil_killer_5555">
+		<text>In der Militдrbasis sollte es einen Sender geben. Die Soldaten wurden von der Emission ziemlich hart getroffen, und nur ein Dutzend von ihnen hat ьberhaupt ьberlebt. Sie senden alle SOS-Signale aus, weil sie glauben, dass es einen Rettungseinsatz geben wird. Aber ich glaube nicht, dass irgendjemand kommen wird - sie werden dem Tod ьberlassen, wie immer.</text>
+	</string>
+	<string id="hello_mil_killer_55555">
+		<text>Ein Dutzend Soldaten sind noch immer ziemlich gefдhrlich, selbst nach der Emission. Wьrdest du mir helfen? Ich meine, wir haben doch das gleiche Ziel, nicht wahr?</text>
+	</string>
+	<string id="hello_mil_killer_555555">
+		<text>Wir kцnnen uns im Moment nicht mit dem Militдr anlegen. Tut mir leid, Sцldner, diesmal nicht. Aber ich weiЯ, dass die Freiheitler ein Auge auf die Basis geworfen haben. Sie kцnnten damit die Kontrolle ьber die Barriere sichern. Sie kцnnen dir helfen, besonders seit ihr Kommandant mir noch etwas schuldet. Ich werde das regeln.</text>
+	</string>
+	<string id="hello_mil_killer_5555555">
+		<text>Danke fьr den Tipp.</text>
+	</string>
+	<string id="hello_mil_killer_55555555">
+		<text>Viel Glьck, Sцldner!</text>
+	</string>
+	<string id="hello_mil_killer_5555556">
+		<text>Ich kьmmere mich selbst darum. Ich bin kein Freund der Freiheitler.</text>
+	</string>
+	<string id="hello_mil_killer_66">
+		<text>Kommst du voran?</text>
+	</string>
+	<string id="hello_mil_killer_666">
+		<text>Bisher nicht.</text>
+	</string>
+	<string id="hello_mil_killer_667">
+		<text>Wir haben deine Kдmpfer aus der Blase befreit. Sie ziehen nach Limansk, und wenn alles klappt, werden sie in wenigen Stunden hier sein.</text>
+	</string>
+	<string id="hello_mil_killer_6676">
+		<text>Das sind tolle Neuigkeiten! Vielen Dank, Mann. Das werde ich dir nie vergessen!</text>
+	</string>
+	<string id="hello_mil_killer_77">
+		<text>Eines Tages werde ich es dir zurьckzahlen kцnnen. Bis dann.</text>
+	</string>
+	<string id="mil_killer_about_around_0">
+		<text>Was fьr Neuigkeiten bekommst du so mit?</text>
+	</string>
+	<string id="mil_killer_about_around_1">
+		<text>Nun, wir sind jetzt eine Weile hier, also haben wir bereits einen Ьberblick. Vor Kurzem sind die Monolither wie aus dem Nichts aufgetaucht. Es ist schon etwas lдnger her, da hab ich ein paar Monolither gejagt. Die Jungs sind echt seltsam, dass kann ich dir sagen. Sie reden stдndig ьber den Monolithen, irgendein genetisches Modul, weiЯ der Teufel. Und dann waren sie auf einmal weg, pilgerten hinter das Radar. Wir dachten uns, das war's - ruht in Frieden, ihr Schwachkцpfe. Aber siehe da - unsere Pilger sind zurьckgekehrt, noch verrьckter als zuvor. Ich frag mich, was sie dort im Zentrum der Zone wohl vorgefunden haben. Sind sie tatsдchlich auf diesen Monolithen gestoЯen? Oder haben sie rein gar nichts gefunden, und der Frust darьber hat sie vцllig durchdrehen lassen. Hey, bei diesen Psychopathen kann man nie sicher sein.</text>
+	</string>
+	<string id="mil_killer_about_last_time_0">
+		<text>Gibt es noch andere interessante Vorfдlle?</text>
+	</string>
+	<string id="mil_killer_about_last_time_1">
+		<text>Vorfдlle gibt es immer in der Zone, und sie sind immer interessant. Ich habe dir bereits von den Monolithern erzдhlt - alle reden ьber sie... Hast du von der neuen GroЯexpedition in die Zone gehцrt? Eigentlich soll es sich um Umweltforscher der UN handeln, aber das ist die offizielle Variante. Natьrlich sind auch ein paar Wissenschaftler mit Brille dabei, aber ein Blick auf den Rest verrдt schnell, dass es sich um erfahrene Kдmpfer handelt. Keine Ahnung, was die hier wollen. Oh, und noch etwas: Sie setzen keine Ortskundigen ein. Entweder werden sie per Satellit gefьhrt oder ihre Mission ist so geheim, dass niemand sonst teilnehmen durfte. Sie scheinen sich dem Radar zu nдhern. Ich hab keine Ahnung, wie die Sache enden wird, aber ich hab das Gefьhl, dass es kein schцnes Ende gibt.</text>
+	</string>
+	<string id="mil_killer_about_what_is_you_doing_0">
+		<text>Wie verdienst du hier deinen Lebensunterhalt?</text>
+	</string>
+	<string id="mil_killer_about_what_is_you_doing_1">
+		<text>Verdammt, wir versuchen noch immer, unsere Jungs zu finden Was die Stalker machen, interessiert uns nicht - wir konzentrieren uns auf spezielle Auftrдge. Man kцnnte sagen, wir sind unabhдngige Auftragnehmer. So weit war ich noch nie zuvor in der Zone. Ich hab immer gedacht, dass ich ganz gut informiert wдre und mich nichts unterkriegen kцnnte, aber ich habe die Zone unterschдtzt. Wir haben schon so viel durchgemacht, dass unsere Jungs auf dem Zahnfleisch zurьck zum Kordon kriechen werden. AuЯerdem haben wir kьrzlich gehцrt, dass es einige besonders ьble Mutanten gibt, die mehr tun kцnnen, als die Gedanken zu kontrollieren - das sind die Telepathen, nicht wahr? Also, diese Viecher kцnnen dich sogar Dinge sehen lassen. Da bist du z. B. mit deinen Freunden unterwegs und auf einmal siehst du nur noch Zombies um dich herum... und fдngst an, wild um dich zu ballern! Oder du denkst, dass du eine StraЯe hinuntergehst, wдhrend du in Wahrheit geradewegs ьber eine Klippe marschierst.</text>
+	</string>
+</string_table>

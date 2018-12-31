@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="bandit_outfit_description">
+		<text>Traditionelle Banditenkleidung - eine Lederjacke mit eingenдhten Panzerplatten. Der Schutz, den die Jacke bietet, ist viel zu gering fьr das harte Leben in der Zone. Die Jacke weist einen Behдlter auf, der bis zu zwei Artefakte fasst.</text>
+	</string>
+	<string id="bandit_outfit_name">
+		<text>Banditenjacke</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>Eine erneuerte Version des Wдchter-Schutzanzugs, die - anders als Anzьge der PSZ-Serie - einen guten Schutz vor Anomalien bietet. Die eingebaute Kцrperpanzerung kann den Schuss einer Pistole absorbieren. Der Anzug kann nicht modifiziert werden, um ein Artefakt tragen zu kцnnen.</text>
+	</string>
+	<string id="dolg_outfit_name">
+		<text>PS5-M "UniSchutz"</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>Experimenteller Prototyp eines militдrischen Exoskeletts der dritten Generation, der auf Grund der hohen Kosten und einiger Konstruktionsmдngel nie in Serienproduktion ging. Dennoch werden geringe Stьckzahlen in unterirdischen Fabriken auЯerhalb der Ukraine hergestellt. Die Mдngel der vorhergehenden Version, die die Bewegungen des Trдgers beeintrдchtigten, wurden behoben und es bietet eine stдrkere Panzerung.</text>
+	</string>
+	<string id="exo_outfit_name">
+		<text>Exoskelett  </text>
+	</string>
+	<string id="military_outfit_description">
+		<text>Der Bulat-Kampfanzug ist fьr Sturmangriffe in stark anomalieverseuchten Gebieten konzipiert. Er besteht aus einem schweren Armeekampfanzug, einem eingebauten Kompensationsanzug und einem Sphere-12M-Helm. Die Panzerung des Anzugs ist in der Lage, einem Sturmgewehr standzuhalten. Der Anzug kann nicht modifiziert werden, um ein Artefakt tragen zu kцnnen.</text>
+	</string>
+	<string id="military_outfit_name">
+		<text>"Bulat"-Kampfanzug</text>
+	</string>
+	<string id="mp_exo_outfit_description">
+		<text>Dieses Exoskelett bietet hervorragenden Schutz vor Schaden durch Projektile und Splitter, mindert jedoch im Gegenzug die Bewegungsfдhigkeit des Trдgers. Es ist anfдllig gegen panzerbrechende Munition.</text>
+	</string>
+	<string id="mp_exo_outfit_name">
+		<text>Panzerung</text>
+	</string>
+	<string id="mp_military_outfit_description">
+		<text>Dieser Armeekampfanzug ist fьr Angriffsoperationen gedacht. Er bietet ausgezeichneten Schutz vor Schaden durch Projektile und Splitter, ohne die Mobilitдt des Trдgers einzuschrдnken. Der Anzug ist anfдllig gegen panzerbrechende Munition.</text>
+	</string>
+	<string id="mp_military_outfit_name">
+		<text>Armeekampfanzug</text>
+	</string>
+	<string id="mp_scientific_outfit_description">
+		<text>Dieser Kцrperanzug wurde fьr den wissenschaftlichen Einsatz in der Zone entwickelt. Er verfьgt ьber einen geschlossenen Atemkreislauf und ein eingebautes System zur Feldunterdrьckung, das sehr gut vor Anomalien schьtzt. Der Anzug bietet auf Grund seiner niedrigen Panzerung keinen groЯen Schutz vor eindringenden Gegenstдnden, verfьgt jedoch ьber einen eingebauten Behдlter fьr Artefakte.</text>
+	</string>
+	<string id="mp_scientific_outfit_name">
+		<text>Wissenschaftlicher Kцrperanzug</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>Dieser Anzug, der in einer der Forschungsinstitute in Kiew entwickelt wurde, stellt eine groЯartige Alternative zu anderen selbstgemachten Stalker-Anzьgen dar. Er ist eine gelungene Kombination aus einem gepanzerten Kцrperanzug, einem geschlossenen Atemkreislauf und einem System zur Feldunterdrьckung. In Verbindung mit sorgfдltig ausgesuchten Materialien macht dies den Anzug zu einer sehr guten Wahl fьr alle Interessierten, wobei der Preis den einzigen Nachteil darstellt.</text>
+	</string>
+	<string id="scientific_outfit_name">
+		<text>SEVA-Anzug</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>Der Berill-5M ist ein Spetsnaz-Kampfanzug, der fьr den Einsatz in der Zone modifiziert wurde. Der Anzug besteht aus einem Armeekцrperpanzer der PSZ-9a-Serie mit einer Berylliumbeschichtung und einem Sphere-08-Helm. Er wurde fьr Angriffsoperationen in hochradioaktiven Gebieten entwickelt und ist bei starker Anomalieverseuchung wirkungslos.</text>
+	</string>
+	<string id="specops_outfit_name">
+		<text>"Beryll-5M"-Kampfanzug</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>Dieser Stalker-Anzug Marke Eigenbau kombiniert gekonnt einen leichten Armeekцrperpanzer mit einem Kцrperanzug aus gummiertem Stoff. Obwohl der Anzug nicht einmal Schutz vor Pistolenschьssen bietet, erfreut er sich auf Grund seines geringen Preises und der Erweiterbarkeit groЯer Beliebtheit. Er verfьgt ьber einen Behдlter fьr bis zu zwei Artefakte.</text>
+	</string>
+	<string id="stalker_outfit_name">
+		<text>"Sunrise"-Anzug</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>Ein verbesserter Stalker-Kцrperanzug, hergestellt von Handwerkern der Freiheit. Der gewцhnliche Armeekцrperpanzer und die eingebauten Zirkoniumplatten sorgen fьr einen guten Schutz vor Schaden durch MPs, Sturmgewehre und Splitter aus jeder Entfernung. Das zweischichtige Material des Anzugs kombiniert auf spezielle Art behandeltes Leder mit Asbestfasern. Dieser Wachanzug bietet einen begrenzten Schutz gegenьber Strahlung und verschiedenen Anomalien.</text>
+	</string>
+	<string id="svoboda_heavy_outfit_name">
+		<text>Freiheit-Wachanzug</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>Dieser leichte Stalker-Kцrperanzug wird von Handwerkern der Freiheit hergestellt. Sein leichter Armeekцrperpanzer ist mit Kevlarplatten verstдrkt und bietet Schutz vor leichten Feuerwaffen. Das Material des Anzugs wird mit einer speziellen Lцsung behandelt, wodurch der Schutz vor Anomalien verbessert wird.</text>
+	</string>
+	<string id="svoboda_light_outfit_name">
+		<text>Freiheit-Sturmanzug</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>Standardausrьstung der Clear-Sky-StoЯtruppen. Dieser Kцrperschutz ist wirksam gegen Pistolenkugeln, wдhrend die integrierte Gasmaske fьr guten Schutz vor Anomalien sorgt. Enthдlt einen Behдlter fьr ein Artefakt.</text>
+	</string>
+	<string id="csky_heavy_outfit_name">
+		<text>CS-1 Kцrperschutz</text>
+	</string>
+	<string id="csky_light_outfit_description">
+		<text>Dieser Kцrperschutz wurde speziell fьr Sucheinsдtze in Umgebungen mit geringer anormaler Aktivitдt entworfen. Das hochwertige Material sorgt fьr eine lдngere Haltbarkeit. Enthдlt einen Behдlter fьr ein Artefakt.</text>
+	</string>
+	<string id="csky_light_outfit_name">
+		<text>CS-3a Kцrperschutz</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>Frьhe Version eines Wдchter-Kampfanzugs. Er wurde bekannt durch seinen integrierten Kцrperschutz und bietet praktisch keinen Schutz vor Anomalien. Kann nicht um einen Artefaktbehдlter erweitert werden.</text>
+	</string>
+	<string id="dolg_heavy_outfit_name">
+		<text>Wдchter-PSZ-9d</text>
+	</string>
+	<string id="exo_freedom_outfit_description">
+		<text>Die verbesserte Version eines regulдren Exoskeletts. Durch die Verwendung von leichterem Material konnte das Gewicht reduziert und die Haltbarkeit verbessert werden.</text>
+	</string>
+	<string id="exo_freedom_outfit_name">
+		<text>Freiheit-Exoskelett</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>Typische Ausrьstung eines Anfдngerstalkers. Es schьtzt nicht vor Kugeln oder Anomalien, aber es ist besser als nichts. Enthдlt einen Behдlter fьr zwei Artefakte.</text>
+	</string>
+	<string id="novice_outfit_name">
+		<text>Lederjacke.</text>
+	</string>
+</string_table>

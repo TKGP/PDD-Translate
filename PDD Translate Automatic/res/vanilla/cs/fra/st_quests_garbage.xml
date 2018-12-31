@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gar_defend_bandit_base_name">
+		<text>Dйfendre la base des bandits</text>
+	</string>
+	<string id="gar_defend_bandit_base_text">
+		<text>Dйfendez la base des bandits contre l'attaque ennemie.</text>
+	</string>
+	<string id="gar_quest_bring_money_name">
+		<text>Apporter 2000 roubles en liquide au Sauvage quand il fera noir</text>
+	</string>
+	<string id="gar_quest_bring_money_text">
+		<text>Achetez un mйdikit au Sauvage au marchй aux puces pour 2000 roubles. Attention, il ne vous le vendra que de nuit.</text>
+	</string>
+	<string id="gar_quest_bring_old_pda_name">
+		<text>Apporter le PDA au Sauvage</text>
+	</string>
+	<string id="gar_quest_bring_old_pda_text">
+		<text>Apportez le PDA trouvй dans le faux fond de la boоte а outils de Freshy au Sauvage. Vous le trouverez au marchй aux puces.</text>
+	</string>
+	<string id="gar_quest_destroy_ambush_name">
+		<text>Tuer le traоtre</text>
+	</string>
+	<string id="gar_quest_destroy_ambush_text">
+		<text>Tuez Stringov pour vous avoir attirй dans une embuscade.</text>
+	</string>
+	<string id="gar_quest_destroy_flea_market_name">
+		<text>Prendre le contrфle du marchй aux puces</text>
+	</string>
+	<string id="gar_quest_destroy_flea_market_text">
+		<text>Йliminez les mineurs du marchй aux puces pour l'exemple. Assurez-vous que l'un des bandits reste sur place pour garder l'endroit.</text>
+	</string>
+	<string id="gar_quest_get_old_pda_box_name">
+		<text>Rйcupйrer le vieux PDA dans la boоte а outils</text>
+	</string>
+	<string id="gar_quest_get_old_pda_box_text">
+		<text>Trouvez le vieux PDA de Freshy pour l'apporter au Sauvage. Il devrait кtre sous un faux fond de la boоte а outils.</text>
+	</string>
+	<string id="gar_quest_get_old_pda_name">
+		<text>Rйcupйrer le vieux PDA dans le camp de Freshy</text>
+	</string>
+	<string id="gar_quest_get_old_pda_text">
+		<text>Trouvez le vieux PDA de Freshy pour l'apporter au Sauvage. Si Freshy n'est pas lа, vous trouverez le PDA sous le faux fond de sa boоte а outils.</text>
+	</string>
+	<string id="gar_quest_get_traitor_pda_name">
+		<text>Fouiller le corps de Stringov</text>
+	</string>
+	<string id="gar_quest_get_traitor_pda_text">
+		<text>Fouillez le cadavre de Stringov et prenez tout ce qui a de la valeur.</text>
+	</string>
+	<string id="gar_quest_get_weapons_name">
+		<text>Apporter 2000 roubles а Stringov</text>
+	</string>
+	<string id="gar_quest_get_weapons_text">
+		<text>Apportez 2000 roubles а Stringov pour qu'il puisse acheter des armes de contrebande.</text>
+	</string>
+	<string id="gar_quest_kill_digger_traitor_name">
+		<text>Tuer un mec du nom de Stringov</text>
+	</string>
+	<string id="gar_quest_kill_digger_traitor_text">
+		<text>Descendez un gars nommй Stringov, conformйment aux instructions de Yoga.</text>
+	</string>
+	<string id="gar_quest_kill_smuggler_name">
+		<text>Йliminer le contrebandier et les mineurs</text>
+	</string>
+	<string id="gar_quest_kill_smuggler_text">
+		<text>Tuez le contrebandier et ses acheteurs.</text>
+	</string>
+	<string id="gar_quest_killer_pseudodogs_name">
+		<text>Йliminer les Chasseurs nocturnes</text>
+	</string>
+	<string id="gar_quest_killer_pseudodogs_text">
+		<text>Trouver et йliminer les crйatures qui dйciment les mineurs. Commencez par fouiller l'endroit oщ elles ont attaquй le groupe de survivants. Il est probable qu'elles ne se montrent que la nuit.</text>
+	</string>
+	<string id="gar_quest_liberate_conc_camp_name">
+		<text>Йliminer les gardes du camp de travail</text>
+	</string>
+	<string id="gar_quest_liberate_conc_camp_text">
+		<text>Libйrez les captifs а l'aide du groupe de mineurs aprиs avoir йliminй les gardes du camp de travail.</text>
+	</string>
+	<string id="gar_quest_meet_with_digger_fighters_name">
+		<text>Rejoindre le groupe de mineurs</text>
+	</string>
+	<string id="gar_quest_meet_with_digger_fighters_text">
+		<text>Rejoignez le groupe de mineurs et menez l'attaque sur le camp de travail.</text>
+	</string>
+	<string id="gar_quest_speak_with_quester_name">
+		<text>Parler au Sauvage</text>
+	</string>
+	<string id="gar_quest_speak_with_quester_text">
+		<text>Allez voir de quoi le Sauvage veut vous parler au marchй aux puces</text>
+	</string>
+	<string id="gar_story_chase_digger_name">
+		<text>Obtenir les informations du messager des mineurs</text>
+	</string>
+	<string id="gar_story_chase_digger_text">
+		<text>Parlez au messager des mineurs pour savoir oщ les Crocs est allй.</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_cellar_name">
+		<text>Trouver les Crocs</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_cellar_text">
+		<text>Trouvez les Crocs dans le sous-sol en suivant le signal de son PDA.</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_name">
+		<text>Rattraper les Crocs</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_text">
+		<text>Rattrapez les Crocs en suivant le signal de son PDA.</text>
+	</string>
+	<string id="gar_story_find_cache_name">
+		<text>Trouver la planque</text>
+	</string>
+	<string id="gar_story_find_cache_text">
+		<text>Trouvez la planque du groupe des Crocs.</text>
+	</string>
+	<string id="gar_story_find_diggers_name">
+		<text>Obtenir des informations sur les Crocs auprиs des mineurs</text>
+	</string>
+	<string id="gar_story_find_diggers_text">
+		<text>Parlez aux mineurs qui, selon le marchand, auraient croisй les Crocs pour savoir oщ ce dernier est allй.</text>
+	</string>
+	<string id="gar_story_get_pda_name">
+		<text>Ramasser le PDA des Crocs</text>
+	</string>
+	<string id="gar_story_get_pda_text">
+		<text>Rйcupйrez le PDA que les Crocs a laissй tomber.</text>
+	</string>
+	<string id="gar_story_go_to_freedom_name">
+		<text>Suivre les Crocs jusqu'а la Vallйe obscure</text>
+	</string>
+	<string id="gar_story_go_to_freedom_text">
+		<text>Suivez les Crocs jusqu'а la Vallйe obscure.</text>
+	</string>
+	<string id="gar_story_kill_dogs_name">
+		<text>Tuer les chiens aveugles</text>
+	</string>
+	<string id="gar_story_kill_dogs_text">
+		<text>Tues les chiens aveugles qui poursuivent le messager des mineurs.</text>
+	</string>
+	<string id="gar_story_search_digger_bodies_name">
+		<text>Fouiller le corps du mineur</text>
+	</string>
+	<string id="gar_story_search_digger_bodies_text">
+		<text>Fouillez le cadavre du mineur pour trouver des informations sur les Crocs.</text>
+	</string>
+	<string id="gar_quest_bandit_reward_name">
+		<text>Rйcupйrer la rйcompense de Dent creuse</text>
+	</string>
+	<string id="gar_quest_bandit_reward_text">
+		<text>Allez voir Dent creuse le marchand et rйcupйrez votre rйcompense pour avoir nettoyй le marchй aux puces.</text>
+	</string>
+	<string id="gar_quest_bandit_secret_name">
+		<text>Prendre le fusil de la planque dans l'anomalie</text>
+	</string>
+	<string id="gar_quest_bandit_secret_text">
+		<text>Prenez le fusil dont Yoga a parlй. Il se trouve dans une planque au milieu d'une anomalie.</text>
+	</string>
+	<string id="gar_quest_captive_reward_name">
+		<text>Prendre le butin dans la planque</text>
+	</string>
+	<string id="gar_quest_captive_reward_text">
+		<text>Prenez le butin qui se trouve dans la planque des mineurs prisonniers du camp de travail.</text>
+	</string>
+	<string id="gar_quest_more_reward_name">
+		<text>Demander la rйcompense а Yoga</text>
+	</string>
+	<string id="gar_quest_more_reward_text">
+		<text>Demander une meilleure rйcompense а Yoga pour avoir nettoyй le marchй aux puces.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_aceg_scientific_outfit_name">
+		<text>Trouver des infos sur le renforcement des armures</text>
+	</string>
+	<string id="st_gar_find_flesh_up_aceg_scientific_outfit_text">
+		<text>Apportez а Limpide une bouteille de jaja et des informations sur le renforcement des armures. En retour, il pourra effectuer une modification similaire sur votre combinaison.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_bdfh_scientific_outfit_name">
+		<text>Trouver des infos sur la protection psi des combinaisons</text>
+	</string>
+	<string id="st_gar_find_flesh_up_bdfh_scientific_outfit_text">
+		<text>Limpide n'a jamais entendu parler d'йmissions psi, mais si vous lui fournissez les donnйes nйcessaires, il pourra installer sur une combinaison un dispositif qui les neutralise.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_fh_scientific_outfit_name">
+		<text>Trouver des infos sur un respirateur en circuit fermй</text>
+	</string>
+	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
+		<text>Limpide, le technicien des bandits, peut installer toutes sortes de modification, mais pour un respirateur en circuit fermй, il a besoin d'informations supplйmentaires.</text>
+	</string>
+</string_table>

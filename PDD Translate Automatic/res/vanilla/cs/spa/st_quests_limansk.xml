@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_destroy_ambush_2_name">
+		<text>Destruye al enemigo en la encrucijada.</text>
+	</string>
+	<string id="lim_destroy_ambush_2_text">
+		<text>Destruye la emboscada del enemigo en la encrucijada.</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_name">
+		<text>Destruye el nido de ametralladora.</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_text">
+		<text>Hay un tiroteo en la encrucijada. Los bandidos estбn en el edificio de la izquierda. Es una buena posiciуn para despejar el camino. Destruye el nido de ametralladora en el edificio.</text>
+	</string>
+	<string id="lim_destroy_military_minigun_name">
+		<text>Neutraliza el nido de ametralladora.</text>
+	</string>
+	<string id="lim_destroy_military_minigun_text">
+		<text>El enemigo ha tomado posiciones defensivas en el edificio al otro lado del puente. El бrea al otro lado del puente estб bien cubierta, tan bien que el pelotуn de Cielo Despejado no logra cruzar el puente. Tienes que llegar al edificio y anular el fuego enemigo. El pelotуn de Cielo Despejado distraerб al enemigo.</text>
+	</string>
+	<string id="lim_electro_fence_name">
+		<text>Desactiva el generador.</text>
+	</string>
+	<string id="lim_electro_fence_text">
+		<text>Unidad elйctrica localizada. Desactiva el generador y corta la corriente de la valla.</text>
+	</string>
+	<string id="lim_find_way_through_construction_name">
+		<text>Busca un modo de atravesar la obra.</text>
+	</string>
+	<string id="lim_find_way_through_construction_text">
+		<text>Las afueras de Limansk estбn muy cerca. El camino conduce a travйs de un complejo sin acabar. Busca un modo de atravesar la obra.</text>
+	</string>
+	<string id="lim_go_into_limansk_name">
+		<text>Explora la carretera que pasa por Limansk.</text>
+	</string>
+	<string id="lim_go_into_limansk_text">
+		<text>Lebedev ha dado la orden de explorar la carretera que pasa por Limansk para garantizar el paso seguro del pelotуn de Cielo Despejado. Hay una guerra en las calles, ten cuidado.</text>
+	</string>
+	<string id="lim_go_to_canal_name">
+		<text>Avanza hacia el puente por el canal.</text>
+	</string>
+	<string id="lim_go_to_canal_text">
+		<text>El fuego enemigo es demasiado intenso. Ve hacia el puente por el canal.</text>
+	</string>
+	<string id="lim_destroy_ambush_1_name">
+		<text>Neutraliza la emboscada.</text>
+	</string>
+	<string id="lim_destroy_ambush_1_text">
+		<text>Neutraliza la emboscada.</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_name">
+		<text>Vuelve con el comandante del grupo.</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_text">
+		<text>Vuelve con el comandante del grupo.</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_name">
+		<text>Ayuda al combatiente a sorprender al francotirador.</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_text">
+		<text>Ayuda al combatiente de Cielo Despejado a sorprender al francotirador.</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_name">
+		<text>Encuentra el generador.</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_text">
+		<text>El camino al generador estб bloqueado por una valla elйctrica. Hace tiempo que la ciudad no tiene electricidad, asн que la valla debe de tener un generador de corriente autуnomo. Los cables de la valla conducen al edificio del instituto a la derecha. Encuentra el generador de la valla.</text>
+	</string>
+	<string id="lim_electro_fence_sniper_name">
+		<text>Elimina al francotirador.</text>
+	</string>
+	<string id="lim_electro_fence_sniper_text">
+		<text>La valla ya no tiene corriente. Ahora es posible acercarse y eliminar al francotirador. Acaba con йl.</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_name">
+		<text>Encuentra al comandante del grupo.</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_text">
+		<text>Encuentra al comandante del grupo.</text>
+	</string>
+</string_table>

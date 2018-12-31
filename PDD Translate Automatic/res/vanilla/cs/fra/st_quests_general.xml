@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hide_from_surge_name">
+		<text>Se mettre а couvert pour йviter l'йmission</text>
+	</string>
+	<string id="hide_from_surge_name2">
+		<text>Attendre que l'йmission soit terminйe</text>
+	</string>
+	<string id="hide_from_surge_text">
+		<text>Courez jusqu'а l'abri le plus proche et attendez que l'йmission soit terminйe.</text>
+	</string>
+	<string id="hide_from_surge_text1">
+		<text>Attention ! Йmission imminente ! Temps estimй avant йmission :</text>
+	</string>
+	<string id="hide_from_surge_text2">
+		<text>secondes.</text>
+	</string>
+	<string id="sim_bring_item">
+		<text>Livrer les objets</text>
+	</string>
+	<string id="sim_bring_item_text">
+		<text>Apportez les objets rйcupйrйs au commandant d'unitй.</text>
+	</string>
+	<string id="sim_capture_smart">
+		<text>Capturer</text>
+	</string>
+	<string id="sim_capture_smart_text">
+		<text>Vous devez capturer et conserver le lieu indiquй.</text>
+	</string>
+	<string id="sim_capture_wait_smart">
+		<text>Tenir la position jusqu'а l'arrivйe des secours.</text>
+	</string>
+	<string id="sim_defend_smart">
+		<text>Dйfendre le camp</text>
+	</string>
+	<string id="sim_defend_smart_delay">
+		<text>Aider</text>
+	</string>
+	<string id="sim_defend_smart_delay_text">
+		<text>L'ennemi a йtй repйrй. Une attaque est imminente.</text>
+	</string>
+	<string id="sim_defend_smart_text">
+		<text>L'unitй est attaquйe ! Aidez-la а repousser l'ennemi !</text>
+	</string>
+	<string id="sim_eliminate_smart">
+		<text>Йliminer l'ennemi</text>
+	</string>
+	<string id="sim_eliminate_smart_text">
+		<text>Йliminez les ennemis au point de contrфle.</text>
+	</string>
+	<string id="sim_find_upgrade">
+		<text>Trouver l'amйlioration</text>
+	</string>
+	<string id="sim_find_upgrade_consent">
+		<text>D'accord ?</text>
+	</string>
+	<string id="sim_recover_item">
+		<text>Rapporter l'objet :</text>
+	</string>
+	<string id="sim_repeal_counterattack">
+		<text>Repousser la contre-attaque ennemie</text>
+	</string>
+	<string id="sim_take_reward">
+		<text>Rйcupйrer la rйcompense</text>
+	</string>
+	<string id="sim_take_reward_text">
+		<text>Allez rйcupйrer votre rйcompense auprиs du marchand de la faction.</text>
+	</string>
+	<string id="st_sim_eliminate_path_smart">
+		<text>Dйgager la route</text>
+	</string>
+	<string id="st_sim_eliminate_path_text">
+		<text>Aidez l'unitй alliйe а avancer.</text>
+	</string>
+	<string id="st_sim_eliminate_resource_smart">
+		<text>Йliminer l'ennemi</text>
+	</string>
+	<string id="st_sim_eliminate_resource_text">
+		<text>Йliminez les ennemis dans le secteur.</text>
+	</string>
+	<string id="test_storyline_task_text">
+		<text>Approcher du tonneau</text>
+	</string>
+	<string id="tm_random_task_bring_item">
+		<text>text in default.</text>
+	</string>
+	<string id="stc_kill_gunslinger_name">
+		<text>Supprimer la protection antipsi de Strelok</text>
+	</string>
+	<string id="stc_kill_gunslinger_text">
+		<text>Le champ psi autour de la centrale dйpasse les compteurs, mais Strelok est protйgй par le prototype. Utilisez le fusil йlectromagnйtique pour dйsactiver les composants йlectroniques du prototype et, par lа-mкme, stopper Strelok.</text>
+	</string>
+	<string id="stc_kill_monolith_name">
+		<text>Trouver le tйlйporteur qui conduit au pipeline</text>
+	</string>
+	<string id="stc_kill_monolith_text">
+		<text>L'espace autour de la centrale est parsemйe de tйlйporteurs. Pour continuer а tirer sur Strelok, vous devez retourner sur le pipeline. Trouvez le tйlйporteur qui y mиne !</text>
+	</string>
+</string_table>

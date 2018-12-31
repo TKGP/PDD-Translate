@@ -1,0 +1,4 @@
+NLC 7.5
+	localization.ltx stuff is in system.ltx
+	string_table_pda_military.xml and string_table_pda_green.xml are empty and ruin everything
+	<texture_?> in ui\ui_cheat_razgruzka and ui_cheat_inv_buttons

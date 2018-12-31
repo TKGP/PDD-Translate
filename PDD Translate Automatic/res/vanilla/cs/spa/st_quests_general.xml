@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hide_from_surge_name">
+		<text>Ocъltate para evitar la emisiуn.</text>
+	</string>
+	<string id="hide_from_surge_name2">
+		<text>Ocъltate hasta que la emisiуn haya terminado.</text>
+	</string>
+	<string id="hide_from_surge_text">
+		<text>Corre para ponerte a cubierto y ocъltate para evitar la emisiуn.</text>
+	</string>
+	<string id="hide_from_surge_text1">
+		<text>ЎAtenciуn! ЎSe aproxima una emisiуn! Tiempo aproximado hasta la prуxima emisiуn:</text>
+	</string>
+	<string id="hide_from_surge_text2">
+		<text>segundos.</text>
+	</string>
+	<string id="sim_bring_item">
+		<text>Entrega los objetos.</text>
+	</string>
+	<string id="sim_bring_item_text">
+		<text>Lleva los objetos que has recogido al comandante del pelotуn.</text>
+	</string>
+	<string id="sim_capture_smart">
+		<text>Capturar</text>
+	</string>
+	<string id="sim_capture_smart_text">
+		<text>Tienes que conquistar y defender el lugar indicado.</text>
+	</string>
+	<string id="sim_capture_wait_smart">
+		<text>Defiende el punto hasta que lleguen refuerzos.</text>
+	</string>
+	<string id="sim_defend_smart">
+		<text>Defiende el campamento</text>
+	</string>
+	<string id="sim_defend_smart_delay">
+		<text>Ayuda</text>
+	</string>
+	<string id="sim_defend_smart_delay_text">
+		<text>Se ha visto al enemigo en esta бrea. Atacarбn pronto.</text>
+	</string>
+	<string id="sim_defend_smart_text">
+		<text>El enemigo ha atacado al pelotуn. Ayuda al pelotуn a rechazar el ataque.</text>
+	</string>
+	<string id="sim_eliminate_smart">
+		<text>Elimina al enemigo</text>
+	</string>
+	<string id="sim_eliminate_smart_text">
+		<text>Elimina al enemigo en el punto de control.</text>
+	</string>
+	<string id="sim_find_upgrade">
+		<text>Encuentra la actualizaciуn.</text>
+	</string>
+	<string id="sim_find_upgrade_consent">
+		<text>їDe acuerdo?</text>
+	</string>
+	<string id="sim_recover_item">
+		<text>Devolver objeto:</text>
+	</string>
+	<string id="sim_repeal_counterattack">
+		<text>Rechaza el contraataque del enemigo.</text>
+	</string>
+	<string id="sim_take_reward">
+		<text>Recoge tu recompensa.</text>
+	</string>
+	<string id="sim_take_reward_text">
+		<text>Puedes recoger la recompensa del jefe de la facciуn.</text>
+	</string>
+	<string id="st_sim_eliminate_path_smart">
+		<text>Despeja el camino</text>
+	</string>
+	<string id="st_sim_eliminate_path_text">
+		<text>Ayuda al pelotуn aliado a cruzar.</text>
+	</string>
+	<string id="st_sim_eliminate_resource_smart">
+		<text>Elimina al enemigo</text>
+	</string>
+	<string id="st_sim_eliminate_resource_text">
+		<text>Expulsa al enemigo del бrea. Esto lo debilitarб.</text>
+	</string>
+	<string id="test_storyline_task_text">
+		<text>Acйrcate al barril.</text>
+	</string>
+	<string id="tm_random_task_bring_item">
+		<text>text in default</text>
+	</string>
+	<string id="stc_kill_gunslinger_name">
+		<text>Incapacita la protecciуn psнquica de Strelok.</text>
+	</string>
+	<string id="stc_kill_gunslinger_text">
+		<text>La intensidad del campo psнquico en la estaciуn es enorme, pero Strelok estб protegido de las emisiones psнquicas por un prototipo. Si lo neutralizas detendrбs a Strelok. Puedes daсar el sistema electrуnico del prototipo con un fusil electromagnйtico. Ъsalo para disparar a Strelok y desactivar el prototipo.</text>
+	</string>
+	<string id="stc_kill_monolith_name">
+		<text>Encuentra el teletransporte que conduce mбs allб de la tuberнa de calor.</text>
+	</string>
+	<string id="stc_kill_monolith_text">
+		<text>El espacio alrededor de la estaciуn estб lleno de teletransportes. Para seguir disparando a Strelok tienes que volver a la tuberнa de calor. Encuentra el teletransporte que conduce de vuelta allн.</text>
+	</string>
+</string_table>

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ammo-9x18-fmj">
+		<text>Municiуn 9x18 mm</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18</text>
+	</string>
+	<string id="ammo-9x18-fmj_descr">
+		<text>Municiуn bбsica PB. Proporciona una buena potencia de disparo contra blancos sin blindaje. Adecuada para las pistolas PMm, PB1s y Fora-12.</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>Municiуn +P+ 9x18 mm</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>+P+ 9x18</text>
+	</string>
+	<string id="ammo-9x18-pmm_descr">
+		<text>Esta municiуn contiene balas con potencia de disparo mejorada. Ineficaz contra blancos blindados. Adecuada para las pistolas PMm, PB1s y Fora-12.</text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>PB 9x19 mm</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>PB 9x19</text>
+	</string>
+	<string id="ammo-9x19-fmj_descr">
+		<text>Municiуn bбsica PB 9x19 mm. Ineficaz contra blancos blindados. Adecuada para las pistolas Walker P9m, HPSS-1m y Martha, asн como para el subfusil Viper 5.</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>Municiуn PBP 9x19 mm</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>PBP 9x19</text>
+	</string>
+	<string id="ammo-9x19-pbp_descr">
+		<text>Potente municiуn 9x19 mm con balas de punta hueca. Ineficaz contra blancos blindados. Adecuada para las pistolas Walker P9m, HPSS-1m y Martha, asн como para el subfusil Viper 5.</text>
+	</string>
+	<string id="ammo-11.43x23-fmj">
+		<text>Municiуn ACP .45 </text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>ACP .45</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>Municiуn bбsica de calibre PB .45. Adecuada para las pistolas Kora-919 y SIP-t M200.</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>Municiуn ACP Hydro .45</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>Hydro .45</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>Municiуn Hydro-Shock con caracterнsticas mejoradas para las pistolas Kora-919 y SIP-t M200. Son balas de punta hueca que proporcionan una buena potencia de disparo.</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>Municiуn 5,45x39 mm</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5,45x39</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>Municiуn estбndar de los fusiles automбticos de los paнses del Pacto de Varsovia. Adecuada para los fusiles de asalto Akm 74/2U, Akm 74/2 y AC96/2.</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>Municiуn BP 5,45x39 mm</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>BP 5,45x39</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>Municiуn antiblindaje de los fusiles automбticos de los paнses del Pacto de Varsovia. Adecuada para los fusiles de asalto Akm 74/2U, Akm 74/2 y AC96/2.</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>Municiуn 5,56?45 mm</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5,56?45</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>Municiуn estбndar de la OTAN, conocida por su нndice belga de SS109. Adecuada para los fusiles de asalto IL 86, TRs 301, SGI 5k, GP 37 y FT 200M.</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>Municiуn AP 5,56x45 mm</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>AP 5,56</text>
+	</string>
+	<string id="ammo-5.56x45-ap_descr">
+		<text>Municiуn antiblindaje de los fusiles de asalto IL 86, TRs 301, SGI 5k, GP 37 y FT 200M.</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>Municiуn PAB-9 9x39 mm</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>PAB-9 9x39</text>
+	</string>
+	<string id="ammo-9x39-pab9_descr">
+		<text>Municiуn barata de uso general. Pese a su velocidad subsуnica, proporciona una buena potencia de disparo. Adecuada para los fusiles de asalto Tunder S14 y SA Avalanche, asн como para el fusil de francotirador especial Vintar BC.</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>Municiуn SP-6 9x39 mm</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>SP-6 9x39</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>Municiуn 7N1 7,62X54 mm</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7N1 7,62</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_descr">
+		<text>Municiуn de precisiуn antiblindaje de calibre 7,62. Adecuada para los fusiles de francotirador SVDm 2 y SVUmk2.</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>Municiуn PP 7,62X54 mm</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>PP 7,62</text>
+	</string>
+	<string id="ammo-7.62x54-ap_descr">
+		<text>Municiуn barata de calibre 7,62 para ametralladoras. Su diseсo resulta inapropiado para los fusiles de francotirador, de modo que solo se usa con la ametralladora RP-74.</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>Perdigones 12x70</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>Perdigones 12x70</text>
+	</string>
+	<string id="ammo-12x70-buck_descr">
+		<text>Municiуn estбndar de calibre 12 con perdigones de 6 mm. Extremadamente letal a corto alcance. Municiуn adecuada para los fusiles de caza, las escopetas y las escopetas semiautomбticas SPSA14 y Chaser 13.</text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>Postas 12x76</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>Postas 12x76</text>
+	</string>
+	<string id="ammo-12x76-zhekan_descr">
+		<text>Las postas pesadas normalmente solo se usan para la caza mayor, pero tambiйn son adecuadas para otros fines. En vez de penetrar el blindaje, lo atraviesan aplastбndolo. Municiуn adecuada para los fusiles de caza, las escopetas y las escopetas semiautomбticas SPSA14 y Chaser 13.</text>
+	</string>
+	<string id="ammo-12x76-dart">
+		<text>Balas de punta 12x76</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>Bala de punta 12x76</text>
+	</string>
+	<string id="ammo-12x76-dart_descr">
+		<text>Bala de punta. Sus aletas aсaden estabilidad, por lo que aumenta la precisiуn. El cuerpo de acero de la bala puede penetrar en cualquier blindaje personal. Municiуn adecuada para los fusiles de caza, las escopetas y las escopetas semiautomбticas SPSA14 y Chaser 13.</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>Acumuladores</text>
+	</string>
+	<string id="ammo-gauss_descr">
+		<text>Cйlulas de energнa de alta capacidad. Adecuadas para el prototipo de fusil electromagnйtico EM1.</text>
+	</string>
+	<string id="ammo-m209">
+		<text>Granada M209</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M209</text>
+	</string>
+	<string id="ammo-m209_descr">
+		<text>Granada del lanzagranadas acoplado M203 y del lanzagranadas integrado FT 200M.</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>Granada VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_descr">
+		<text>Granada estбndar del lanzagranadas acoplado Koster GP-25, del lanzagranadas acoplado integrado del Tunder S14 y del lanzagranadas tipo revуlver Bulldog 6.</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>Granada OG-7V</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="ammo-og-7b_descr">
+		<text>Granada de fragmentaciуn para el RPG-7u. Igual de efectiva contra blancos sin blindaje y vehнculos de blindaje ligero.</text>
+	</string>
+	<string id="st_grenade_f1">
+		<text>Granada F1</text>
+	</string>
+	<string id="st_grenade_f1_descr">
+		<text>Granada de mano defensiva con metralla capaz de perforar blindaje personal estбndar. La onda expansiva tiene un radio de 10 metros.</text>
+	</string>
+	<string id="st_grenade_rgd5">
+		<text>Granada RGD-5</text>
+	</string>
+	<string id="st_grenade_rgd5_descr">
+		<text>Granada de mano ofensiva con un pequeсo radio de daсo de metralla. La onda expansiva es de 8 metros.</text>
+	</string>
+	<string id="st_grenade_smoke">
+		<text>Granada de humo</text>
+	</string>
+	<string id="st_grenade_smoke_descr">
+		<text>Granada de mano para crear cortinas de humo. Dura 10 segundos.</text>
+	</string>
+	<string id="st_grenade_launcher">
+		<text>GP-25 "Koster"</text>
+	</string>
+	<string id="st_grenade_launcher_descr">
+		<text>Un lanzagranadas acoplado para los fusiles de asalto de los paнses del Pacto de Varsovia. Utiliza municiуn VOG-25.</text>
+	</string>
+	<string id="st_grenade_launcher_m203">
+		<text>M203</text>
+	</string>
+	<string id="st_grenade_launcher_m203_descr">
+		<text>Un lanzagranadas acoplado para los fusiles de la OTAN. Utiliza municiуn M209.</text>
+	</string>
+	<string id="st_addon_scope">
+		<text>Mira PSO-1</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>Una mira telescуpica muy comъn de fabricaciуn soviйtica. Se aсade a las armas ensamblбndola a cola de milano, sistema utilizado en los paнses del Pacto de Varsovia.</text>
+	</string>
+	<string id="st_addon_scope_susat">
+		<text>Mira SUSAT</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>Una mira telescуpica 4x fabricada en los paнses de la OTAN. Se puede aсadir a una montura estбndar de la OTAN, tambiйn llamada carril Picatinni.</text>
+	</string>
+	<string id="st_addon_silencer">
+		<text>Silenciador</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>Un efectivo silenciador, ensamblado por algunos de los mejores artesanos de la Zona. Incluye una serie de adaptadores para armas de todos los calibres.</text>
+	</string>
+	<string id="st_wpn_pm">
+		<text>PMm</text>
+	</string>
+	<string id="st_wpn_pm_descr">
+		<text>Esta pistola de legado soviйtico es el arma mбs comъn de toda la Zona. Aunque es fiable y barata, sus desventajas son la escasa precisiуn y un cargador de poca capacidad. Muchos novatos la tienen como su arma principal. Usa municiуn de calibre 9x18 mm.</text>
+	</string>
+	<string id="st_wpn_pb">
+		<text>PB1s</text>
+	</string>
+	<string id="st_wpn_pb_descr">
+		<text>Una pistola con un silenciador integrado. Antes la utilizaba la Spetsnaz soviйtica. Ya estб obsoleta, pero es potencialmente efectiva en las manos adecuadas. Usa municiуn de calibre 9x18 mm.</text>
+	</string>
+	<string id="st_wpn_fort">
+		<text>Fora-12</text>
+	</string>
+	<string id="st_wpn_fort_descr">
+		<text>Pistola de policнa de fabricaciуn ucraniana. En comparaciуn con la pistola Makarov, su precisiуn es mayor, es mбs ergonуmica y tiene un cargador mбs grande, aunque es menos fiable. Usa municiуn de calibre 9x18 mm.</text>
+	</string>
+	<string id="st_wpn_beretta">
+		<text>Martha</text>
+	</string>
+	<string id="st_wpn_beretta_descr">
+		<text>Utilizada por el ejйrcito y la policнa estadounidenses, asн como por muchas unidades de policнa y militares de todo el mundo. Esta pistola goza de una popularidad similar entre los miembros del hampa gracias a su potencia y a la capacidad de su cargador. Usa municiуn de calibre 9x19 mm.</text>
+	</string>
+	<string id="st_wpn_walther">
+		<text>Walker P9m</text>
+	</string>
+	<string id="st_wpn_walther_descr">
+		<text>Excelente pistola de fabricaciуn alemana muy fiable, con buena precisiуn y un cargador de gran capacidad, especialmente en el caso de este modelo, diseсado para para la municiуn Parabellum de 9 mm. Usa municiуn de calibre 9x19 mm.</text>
+	</string>
+	<string id="st_wpn_hpsa">
+		<text>HPSS-1m</text>
+	</string>
+	<string id="st_wpn_hpsa_descr">
+		<text>La Browning merece ser considerada como una de las mejores pistolas del siglo XX. Es fiable, potente y precisa. Puede llevar hasta 13 balas de calibre 9x19 mm.</text>
+	</string>
+	<string id="st_wpn_colt1911">
+		<text>Kora-919</text>
+	</string>
+	<string id="st_wpn_colt1911_descr">
+		<text>El clбsico Colt automбtico, que demostrу su valнa en casi todos los conflictos armados del siglo XX, entrу en el nuevo milenio con seguridad. La mediocre capacidad de su cargador queda compensada por la potente municiуn de calibre .45 que utiliza.</text>
+	</string>
+	<string id="st_wpn_sig220">
+		<text>SIP-t M200</text>
+	</string>
+	<string id="st_wpn_sig220_descr">
+		<text>Este modelo, diseсado originalmente en 1975, sigue siendo popular en todo el mundo. Aunque el cargador es relativamente pequeсo, su mecanismo funciona como un reloj suizo. Su otra ventaja es la potente municiуn Colt de calibre .45.</text>
+	</string>
+	<string id="st_wpn_usp">
+		<text>UDP compacto</text>
+	</string>
+	<string id="st_wpn_usp_descr">
+		<text>Esta arma goza de fiabilidad y calidad alemanas. Es un arma compacta de corto alcance especialmente popular entre los veteranos de la Zona. Utiliza municiуn de calibre .45.</text>
+	</string>
+	<string id="st_wpn_eagle">
+		<text>Black Kite</text>
+	</string>
+	<string id="st_wpn_eagle_descr">
+		<text>La autйntica arma de los autйnticos hйroes: voluminosa, pesada y muy letal. Su uso limitado en la Zona puede atribuirse a su precio, a su tamaсo y a la escasez de elefantes para cazar. Utiliza municiуn de calibre .45.</text>
+	</string>
+	<string id="st_wpn_mp5">
+		<text>Viper 5</text>
+	</string>
+	<string id="st_wpn_mp5_descr">
+		<text>El Viper 5, uno de los mejores subfusiles que existen, fue utilizado por las fuerzas armadas especiales y las unidades de policнa de todo el mundo en las ъltimas dйcadas del siglo XX. Tras ser sustituido gradualmente por modelos mбs modernos, fue visto a menudo en el mercado negro, desde donde llegу a la Zona en grandes cantidades. Utiliza municiуn de calibre 9x19 mm.</text>
+	</string>
+	<string id="st_wpn_ak74u">
+		<text>Akm 74/2U</text>
+	</string>
+	<string id="st_wpn_ak74u_descr">
+		<text>Pese a ser similar a los subfusiles en tamaсo y peso, a esta arma se la considera un fusil de asalto debido a su mecanismo y a su municiуn. Destacan su pequeсo tamaсo (una caracterнstica extremadamente ъtil para luchar en entornos urbanos) y su gran capacidad antiblindaje. Sus principales desventajas son su corto alcance efectivo y su tendencia a sobrecalentarse rбpidamente al disparar rбfagas. Usa municiуn de calibre 5,45x39 mm.</text>
+	</string>
+	<string id="st_wpn_ak74">
+		<text>Akm 74/2</text>
+	</string>
+	<string id="st_wpn_ak74_descr">
+		<text>Esta arma, diseсada en 1974, utiliza municiуn de calibre 5,45x39 mm. Es un arma sencilla y fiable, aunque su bajo coste de producciуn ha comprometido su facilidad de uso y su precisiуn. En la Zona es el arma principal del ejйrcito y de muchos stalkers solitarios. Usa municiуn de calibre 5,45x39 mm.</text>
+	</string>
+	<string id="st_wpn_abakan">
+		<text>AC96/2</text>
+	</string>
+	<string id="st_wpn_abakan_descr">
+		<text>Un modelo de 1996 basado en el AK47. Diseсado para rбfagas cortas y precisas. Usa municiуn de calibre 5,45x39 mm.</text>
+	</string>
+	<string id="st_wpn_l85">
+		<text>IL 86</text>
+	</string>
+	<string id="st_wpn_l85_descr">
+		<text>Despuйs de que el ejйrcito britбnico sustituyese este fusil con un nuevo modelo, aparecieron grandes cantidades del mismo en el mercado negro y mбs tarde en la Zona. Sus ventajas principales son la mira telescуpica de cuatro aumentos integrada y una gran precisiуn en el primer disparo. Sin embargo, la precisiуn se reduce significativamente al disparar rбfagas. Ademбs, los mecanismos internos del fusil son poco fiables. Usa municiуn de calibre 5,56x45 mm.</text>
+	</string>
+	<string id="st_wpn_lr300">
+		<text>TR 301</text>
+	</string>
+	<string id="st_wpn_lr300_descr">
+		<text>Un paso mбs en el desarrollo de la famosa familia M-16. Gracias una salida excepcionalmente suave, buena ergonomнa y peso satisfactorio, este fusil proporciona una gran precisiуn de disparo. Sin embargo, tiene tendencia a ensuciarse, por lo que su efectividad es menor en condiciones de campo. Usa municiуn de calibre 5,56x45 mm.</text>
+	</string>
+	<string id="st_wpn_sig550">
+		<text>SGI 5k</text>
+	</string>
+	<string id="st_wpn_sig550_descr">
+		<text>Un fusil de asalto de fabricaciуn suiza relativamente nuevo que usa municiуn de la OTAN. La precisiуn del arma, su suave salida y su alta fiabilidad son las responsables de su popularidad en todo el mundo. Usa municiуn de calibre 5,56x45 mm.</text>
+	</string>
+	<string id="st_wpn_g36">
+		<text>GP 37</text>
+	</string>
+	<string id="st_wpn_g36_descr">
+		<text>Este fusil de asalto de fabricaciуn alemana es un excelente ejemplo de un arma moderna: ligera, fiable y ergonуmica. Usa municiуn de calibre 5,56x45 mm.</text>
+	</string>
+	<string id="st_wpn_fn2000">
+		<text>FT 200M</text>
+	</string>
+	<string id="st_wpn_fn2000_descr">
+		<text>Este fusil de asalto incluye un sistema de control de disparo por ordenador y un lanzagranadas de 40 mm. Usa municiуn de calibre 5,56x45 mm y granadas M209.</text>
+	</string>
+	<string id="st_wpn_groza">
+		<text>Tunder S14</text>
+	</string>
+	<string id="st_wpn_groza_descr">
+		<text>Este fusil de asalto, combinado con un lanzagranadas, es una estupenda soluciуn para los desafнos de la Zona: un arma compacta, fiable, potente y muy versбtil. Muy popular entre los stalkers militares. Usa municiуn de calibre 9x39 mm y granadas VOG-25.</text>
+	</string>
+	<string id="st_wpn_val">
+		<text>SA "Avalanche"</text>
+	</string>
+	<string id="st_wpn_val_descr">
+		<text>Una versiуn modificada del fusil de francotirador Vintar BC. El SA Avalanche incluye una culata plegable, es capaz de disparar a rбfagas y tiene un cargador mбs grande. En principio fue diseсado para las unidades especiales en operaciones de asalto que requiriesen un disparo silencioso y sin destello. Usa municiуn de calibre 9x39 mm.</text>
+	</string>
+	<string id="st_wpn_vintorez">
+		<text>Vintar BC </text>
+	</string>
+	<string id="st_wpn_vintorez_descr">
+		<text>Un fusil de francotirador diseсado para disparar en silencio y sin destellos, equipado con un silenciador integrado. Muy valorado por muchos stalkers pese a su pequeсo cargador. Usa municiуn de calibre 9x39 mm.</text>
+	</string>
+	<string id="st_wpn_svd">
+		<text>SVDm 2</text>
+	</string>
+	<string id="st_wpn_svd_descr">
+		<text>Un arma empleada a menudo en las operaciones soviйticas y rusas desde los sesenta. Se ha ganado una reputaciуn de fiabilidad excepcional y facilidad de uso. Usa municiуn de calibre 7,62 7H14.</text>
+	</string>
+	<string id="st_wpn_svu">
+		<text>SVUmk2</text>
+	</string>
+	<string id="st_wpn_svu_descr">
+		<text>Un fusil de francotirador modernizado con un diseсo bullpup compacto. Su disparo de precisiуn mбs rбpido y su diseсo de peso ligero le han granjeado la admiraciуn de incontables stalkers. Usa municiуn de calibre 7,62 7H14.</text>
+	</string>
+	<string id="st_wpn_rp">
+		<text>RP-74</text>
+	</string>
+	<string id="st_wpn_rp_descr">
+		<text>Pese a su peso y a su escasa precisiуn, esta ametralladora ligera tiene sus admiradores en la Zona. Se usa principalmente para combatir contra fuerzas superiores en nъmero o para despejar guaridas de mutantes. Usa municiуn de calibre PP 7,62.</text>
+	</string>
+	<string id="st_wpn_bm16">
+		<text>Escopeta</text>
+	</string>
+	<string id="st_wpn_bm16_descr">
+		<text>Una escopeta de caza recortada con dos caсones paralelos. Aunque es mucho mбs ligera y compacta que una escopeta convencional, solo es efectiva a corto alcance. Es una de las armas favoritas entre los stalkers novatos. Usa municiуn de calibre 12x70 mm.</text>
+	</string>
+	<string id="st_wpn_toz34">
+		<text>Fusil de caza</text>
+	</string>
+	<string id="st_wpn_toz34_descr">
+		<text>Un fusil de caza muy comъn y sin caracterнsticas destacables. Lo usan principalmente los novatos de los alrededores de la Zona. Usa municiуn de calibre 12x70 mm.</text>
+	</string>
+	<string id="st_wpn_spas12">
+		<text>SPSA14 </text>
+	</string>
+	<string id="st_wpn_spas12_descr">
+		<text>La escopeta semiautomбtica SPSA de caсуn liso fue diseсada a finales de los setenta como una arma versбtil para la policнa y las tropas de asalto del ejйrcito. Aunque es muy fiable y flexible, resulta bastante voluminosa, compleja y cara. Probablemente la mejor arma de corto alcance de la Zona. Usa municiуn de calibre 12x70 mm.</text>
+	</string>
+	<string id="st_wpn_wincheaster1300">
+		<text>Chaser 13</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_descr">
+		<text>Una escopeta de corredera muy fiable con caсуn liso fabricada en Amйrica. Fue diseсada para combatir en los mбs duros entornos. Todas sus partes estбn recubiertas de un compuesto anticorrosivo. Usa municiуn de calibre 12x70 mm.</text>
+	</string>
+	<string id="st_wpn_rpg7">
+		<text>RPG-7u </text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>Este lanzagranadas de los sesenta llegу a la Zona desde los depуsitos del ejйrcito. Aunque su enorme tamaсo y peso son poco apropiados para un stalker, puede ser insustituible para ciertos trabajos. Usa granadas OG-7V.</text>
+	</string>
+	<string id="st_wpn_rg6">
+		<text>Bulldog 6</text>
+	</string>
+	<string id="st_wpn_rg6_descr">
+		<text>Este lanzagranadas tipo revуlver es indispensable para despejar grandes zonas de mutantes, atacar objetivos fijos bien defendidos o combatir contra monstruos particularmente duros. Usa granadas VOG-25.</text>
+	</string>
+	<string id="st_wpn_gauss">
+		<text>Fusil EM1</text>
+	</string>
+	<string id="st_wpn_gauss_descr">
+		<text>Un fusil electromagnйtico experimental utilizado para incapacitar dispositivos electrуnicos a distancia. Ineficaz contra objetivos vivientes. Usa baterнas acumuladoras.</text>
+	</string>
+	<string id="st_wpn_mp5_m1">
+		<text>Viper 5m</text>
+	</string>
+	<string id="st_wpn_mp5_m1_descr">
+		<text>Una versiуn modificada del subfusil Viper. Gracias a su mejor alineaciуn de los componentes, el arma tiene mayor velocidad de salida. Usa municiуn de calibre 9x19 mm.</text>
+	</string>
+	<string id="st_wpn_hpsa_m1">
+		<text>HPCS-1</text>
+	</string>
+	<string id="st_wpn_hpsa_m1_descr">
+		<text>Esta arma es una versiуn modificada para los climas adversos de la pistola XPSS-1m. Es una pistola virtualmente a prueba de fallos que usa municiуn de calibre 9x19 mm.</text>
+	</string>
+	<string id="st_wpn_fort_m1">
+		<text>Fora-14</text>
+	</string>
+	<string id="st_wpn_fort_m1_descr">
+		<text>La Fora-14 tiene un cargador mayor que el del modelo bбsico. Usa municiуn de calibre 9x18 mm.</text>
+	</string>
+	<string id="st_wpn_ak74_m1">
+		<text>Akv 74</text>
+	</string>
+	<string id="st_wpn_ak74_m1_descr">
+		<text>Es una versiуn moderna del fusil de asalto Akm 74/2. Su diseсo avanzado permite una cadencia de disparo de 100 balas por minuto. Algunos elementos del diseсo han sido eliminados para aligerar el caсуn, por lo que no se le pueden aсadir miras telescуpicas. Usa municiуn de calibre 5,45x39 mm.</text>
+	</string>
+	<string id="st_wpn_eagle_m1">
+		<text>Big Ben</text>
+	</string>
+	<string id="st_wpn_eagle_m1_descr">
+		<text>Un autйntico Goliat entre las pistolas. Su ya de por sн largo caсуn se alarga con una extensiуn especial permanente. Tiene una potencia de disparo sobresaliente y usa municiуn de calibre .45.</text>
+	</string>
+	<string id="st_wpn_sig550_m1">
+		<text>SGI 5,45</text>
+	</string>
+	<string id="st_wpn_sig550_m1_descr">
+		<text>Algunos manitas han modificado el SGI 5k para que funcione con la municiуn soviйtica, que es mбs comъn en la Zona, sin perder la capacidad de utilizar las modificaciones bбsicas del modelo. Usa municiуn de calibre 5,45x39 mm.</text>
+	</string>
+	<string id="st_wpn_abakan_m1">
+		<text>AC96sl</text>
+	</string>
+	<string id="st_wpn_abakan_m1_descr">
+		<text>Una versiуn silenciosa del AC96/2. Tiene un caсуn extendido con silenciador que aumenta la precisiуn y conserva todas las ventajas de un fusil de asalto. Usa municiуn de calibre 5,45x39 mm.</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_m1">
+		<text>Chaser "Libertad"</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_m1_descr">
+		<text>A diferencia de la mayorнa de las escopetas, йsta tiene el caсуn estriado. No puede disparar balas de punta o perdigones, pero la precisiуn de las postas aumenta considerablemente. Usa solo postas de calibre 12x76.</text>
+	</string>
+	<string id="st_wpn_vintorez_m1">
+		<text>Vintar "Avalanche"</text>
+	</string>
+	<string id="st_wpn_vintorez_m1_descr">
+		<text>Una versiуn hнbrida que combina las ventajas de ambos modelos. El resultado es un cargador de 20 balas y un disparo automбtico muy preciso. La mira telescуpica de dos aumentos del fusil estб diseсada para corto alcance. Usa municiуn de calibre 9x39 mm.</text>
+	</string>
+	<string id="st_wpn_spas12_m2">
+		<text>SPSA-AUT</text>
+	</string>
+	<string id="st_wpn_spas12_m2_descr">
+		<text>La escopeta semiautomбtica SPSA-AUT solo se fabrica en los talleres de Deber. Estб diseсada para combatir enjambres de monstruos. Su mecanismo de carga mejora la cadencia de disparo y garantiza una agrupaciуn excepcional de los perdigones. El cargador ampliado lleva hasta 10 cartuchos de calibre 12x70 mm.</text>
+	</string>
+	<string id="st_wpn_lr300_m1">
+		<text>TPs "Left-hander"</text>
+	</string>
+	<string id="st_wpn_lr300_m1_descr">
+		<text>Esta arma es una pieza de artesanнa excepcional, personalizada para su propietario. El diseсo sacrifica cadencia de disparo por precisiуn, asн que si necesitas dar en el mismo punto diez veces en diez segundos, йsta es el arma ideal para ti. Usa municiуn de calibre 5,56x45 mm.</text>
+	</string>
+	<string id="st_wpn_l85_m1">
+		<text>IL86s</text>
+	</string>
+	<string id="st_wpn_l85_m1_descr">
+		<text>Una versiуn de francotirador del fusil IL86. Su caсуn extendido garantiza una mayor velocidad de salida, lo que normaliza la trayectoria de la bala y permite disparar con precisiуn a mayor distancia. Usa municiуn de calibre 5,56x45 mm. </text>
+	</string>
+	<string id="st_wpn_fn2000_m1">
+		<text>FT 202M</text>
+	</string>
+	<string id="st_wpn_fn2000_m1_descr">
+		<text>Una versiуn moderna de un fusil de asalto con el йnfasis puesto en el disparo de rбfagas. El acoplamiento para lanzagranadas lleva un estabilizador gravitacional de balas que reduce significativamente la dispersiуn. El inconveniente de esta modificaciуn es que no se puede usar un lanzagranadas. Usa municiуn de calibre 5,56x45 mm.</text>
+	</string>
+	<string id="st_wpn_svu_m1">
+		<text>SV-Am</text>
+	</string>
+	<string id="st_wpn_svu_m1_descr">
+		<text>Esta versiуn automбtica del fusil de francotirador tiene un retroceso mucho mбs suave, lo que permite disparos de precisiуn mбs rбpidos. Usa municiуn de calibre 7,62 7H14.</text>
+	</string>
+	<string id="st_wpn_groza_m1">
+		<text>Tunder S14sn</text>
+	</string>
+	<string id="st_wpn_groza_m1_descr">
+		<text>Un prototipo para francotirador del fusil de asalto Tunder S14. Esta equilibrada arma es buena tanto para el disparo automбtico como para el de precisiуn. El lanzagranadas acoplado tambiйn puede ser ъtil. Usa municiуn de calibre 9x39 mm y granadas VOG-25.</text>
+	</string>
+	<string id="ammo-9x39-ap_descr">
+		<text>Municiуn antiblindaje de calibre 9x39 mm. Pese a su velocidad subsуnica, proporciona una buena potencia de disparo gracias a su calibre. El diseсo especial de la bala le permite penetrar en casi cualquier blindaje personal. Adecuada para los fusiles de asalto Tunder S14 y SA Avalanche, asн como para el fusil de francotirador especial Vintar BC.</text>
+	</string>
+	<string id="st_knife">
+		<text>Cuchillo</text>
+	</string>
+	<string id="ammo_minigame_descr">
+		<text>Municiуn con marcas especнficas de la galerнa de tiro.</text>
+	</string>
+	<string id="ammo_minigame_name">
+		<text>Municiуn de la galerнa de tiro</text>
+	</string>
+</string_table>

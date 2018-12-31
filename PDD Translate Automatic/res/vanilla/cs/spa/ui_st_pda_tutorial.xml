@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pda_end_tutorial">
+		<text>Bueno, ya estб...</text>
+	</string>
+	<string id="pda_start_tutorial">
+		<text>Tutorial paso a paso.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_1">
+		<text>De acuerdo. Como sabes, nuestro objetivo principal es controlar los pantanos, lo que supone hacerles la guerra a los invasores.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_10">
+		<text>Finalmente, aquн verбs el objetivo estratйgico actual, asн como misiones tбcticas que debes completar para cumplir con el objetivo estratйgico.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_11">
+		<text>En la parte inferior aparecerбn las misiones estratйgicas completadas.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_2">
+		<text>Esta secciуn te mostrarб todos los detalles tбcticos del progreso de combate actual.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_3">
+		<text>En el lado izquierdo verбs la informaciуn de tu facciуn actual. Ahora mismo somos nosotros, Cielo Despejado.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_4">
+		<text>A la derecha verбs la informaciуn del enemigo principal.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_5">
+		<text>Йste es el nivel aproximado de nuestro poder militar.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_6">
+		<text>Esto muestra nuestro nъmero de tropas.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_7">
+		<text>Y йste es nuestro nivel de apoyo logнstico.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_8">
+		<text>Los sнmbolos de la parte inferior muestran las caracterнsticas distintivas de nuestro equipamiento de combate.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_9">
+		<text>Se muestran indicadores similares para nuestro enemigo.</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_1">
+		<text>La ъltima pestaсa te informa de nuestras relaciones actuales con cada facciуn y su nivel de poder militar.</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_2">
+		<text>Aquн tambiйn se muestran tus estadнsticas.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_1">
+		<text>Mira aquн. Es la secciуn de misiones, tu guнa principal.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_10">
+		<text>Ademбs de enumerar tus tareas, el mapa revelarб las ubicaciones de los pelotones aliados y las coordenadas de los enemigos detectados.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_2">
+		<text>Esto muestra tu misiуn principal.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_3">
+		<text>Tambiйn muestra tu misiуn secundaria elegida.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_4">
+		<text>Si tienes varias misiones secundarias, desplбzate entre ellas con estos botones.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_5">
+		<text>La mayorнa de las misiones tambiйn aparecen en el mapa, con las raras excepciones en las que no se puede ubicar el objetivo de la misiуn.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_6">
+		<text>Necesitaremos tu ayuda para destruir al enemigo y para conquistar posiciones estratйgicas.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_7">
+		<text>En una situaciуn como йsa, nuestros combatientes te agradecerбn que les proporciones fuego de cobertura mientras asaltan una posiciуn.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_8">
+		<text>Por cierto, no ignores las llamadas de socorro. Las vidas de nuestros muchachos pueden depender de tus acciones.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_9">
+		<text>Pasa el puntero sobre un punto del mapa para ver mбs informaciуn de esa ubicaciуn.</text>
+	</string>
+</string_table>

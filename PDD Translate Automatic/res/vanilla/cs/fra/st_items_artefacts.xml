@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_af_medusa_name">
+		<text>"Mйduse"</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>Trиs rйpandu dans la Zone, cet artefact gravitationnel absorbe les particules radioactives et rйduit donc les effets des radiations sur le corps.</text>
+	</string>
+	<string id="st_af_cristall_flowe_name">
+		<text>"Rose des sables"</text>
+	</string>
+	<string id="st_af_cristall_flowe_descr">
+		<text>Pierre dйformйe par des forces extrкmes, cet artefact radioactif est dur comme du granit et procure une protection modйrйe contre les йmissions psi.</text>
+	</string>
+	<string id="st_af_night_star_name">
+		<text>"Йtoile phosphorescente"</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>Cet artefact luisant gйnиre un faible champ gravitationnel directionnel, qui permet de rйduire le poids du sac а dos placй prиs de lui. Souvent utilisй pour augmenter la charge maximale. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>"Tortillon"</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>Cet artefact de forme йtrange apparaоt dans les zones d'activitй gravitationnelle anormale. Il agit comme une йponge qui aspire les particules radioactives et protиge ainsi le porteur des radiations, mais a йgalement un effet curatif pour les particules dйjа absorbйes par le corps.</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>"Gravi"</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>Le Gravi se forme а partir de substances mйtalliques exposйes pendant de longues pйriodes а des forces gravitationnelles intenses. Il est donc capable de crйer un champ antigravitationnel et d'aider de nombreux stalkers а porter des charges plus importantes. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>"Cyprin"</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>Issu de d'une exposition prolongйe aux champs gravitationnel, cet artefact produit son propre champs gravitationnel et amйliore nettement la quantitй de matйriel que peuvent transporter les stalkers. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_blood_name">
+		<text>"Pierre sanguine"</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>Formation rougeвtre de dйbris polymйrisйs de plantes, de terre et d'os compressйs. Neutralise les toxines chimiques, mais йmet des radiations.</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>"Carnй"</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>Cet artefact organique est constituй de tissus fossilisйs d'animaux mutants. Le mucus fluide qui en suppure neutralise partiellement les effets des toxines chimiques. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_soul_name">
+		<text>"Coeur"</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>Artefact organique aux propriйtйs uniques. Amйliore nettement le mйtabolisme, modifiant ainsi la vitesse de cicatrisation. Grвce а son prix raisonnable et а son apparence plaisante, cet artefact est trиs prisй par les collectionneurs. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>"Kolobok"</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>Rare et cher, cet artefact se forme dans des zones d'intense activitй chimique. Il augmente nettement le mйtabolisme du corps humain. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_baloon_name">
+		<text>"Bulle"</text>
+	</string>
+	<string id="st_af_baloon_descr">
+		<text>Formй de plusieurs vacuoles organiques, cet artefact йmet une substance gazeuse qui neutralise les particules radioactives dans le corps. Artefact de trиs grande valeur.</text>
+	</string>
+	<string id="st_af_glass_name">
+		<text>"Luciole"</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>La luciole йmet une йnergie d'un type inconnu qui accйlиre le mйtabolisme humain, au point de quelque fois ressusciter des morts en quelques secondes. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>"Boule de feu"</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>Bien que cet artefact йmette de la chaleur, l'utilisateur peut le manier sans peur d'кtre brыlй. Il maintient une tempйrature de 75 degrйs dans un petit rayon autour de lui, quel que soient les conditions environnementales. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_cristall_name">
+		<text>"Cristal"</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>Cet artefact se forme dans les zones anormales а l'activitй thermique intense. Il absorbe la chaleur ambiante et reste ainsi toujours froid au toucher. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_name">
+		<text>"Gouttes nourriciиres"</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>Tout le monde connaоt cet artefact qui йmet de la chaleur, mais sa forme dйconcerte toujours les scientifiques les plus douйs. Les pulsations йmises par ses sections les plus йpaisses augmentent le mйtabolisme des кtres vivants, accйlйrant leur cicatrisation. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>"Oeil"</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>Cet artefact ressemble quelque peu а un oeil humain. Il accйlиre le mйtabolisme humain et ses capacitйs de cicatrisation. Les vйtйrans disent qu'il porte chance. Que cela soit vrai ou non, cet artefact peut rapporter beaucoup d'argent. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>"Flammиche"</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>Cet artefact trиs rare se forme dans les zones d'intense activitй thermique. Ses radiations infrarouges intenses accйlиrent les processus mйtaboliques et donc la cicatrisation. De trиs grande valeur, il йmet des radiations.</text>
+	</string>
+	<string id="st_af_electra_sparkler_name">
+		<text>"Йtincelle"</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>Appartenant au groupe des artefacts йlectrostatiques, l'йtincelle cause des fluctuations dans les champs йlectriques. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>"Flash"</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>La structure cristalline de cet artefact lui permet d'absorber les charges йlectriques et donc de protйger son porteur contre les chocs йlectriques а hauteur de 50 000 volts. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>"Clair de lune"</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>Cet artefact unique en son genre rйsonne sous l'influence des йmissions psi. Les stalkers ont appris а le contrфler pour qu'il йmette des vibrations de nature contraire et donc les absorbent. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_dummy_battery_name">
+		<text>"Hyperboloпde"</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>L'origine de cet objet reste un mystиre pour les scientifiques. De toute йvidence, il est composй d'йlйments diйlectriques, mais personne n'a su dйcouvrir les conditions physiques liйes а sa crйation. Cet artefact est populaire dans la Zone pour ses propriйtйs rйgйnйratrices. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>"Coquille"</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>Cet artefact a longtemps йtй considйrй comme inutile, mais des scientifiques ont rйcemment dйcouvert que s'il йtait gardй en contact constant avec le corps, il avait un effet stimulant sur le systиme nerveux et emplissait le porteur d'йnergie. Йmet des radiations.</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>"Flocon"</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>А premiиre vue, cet artefact ressemble а un Kolobok. Certains affirment qu'il s'agit du mкme artefact, avec des propriйtйs renforcйes suite а une exposition а un puissant champ йlectrique. Cet artefact a des propriйtйs stimulantes qui augmentent singuliиrement la santй du porteur. Йmet des radiations.</text>
+	</string>
+</string_table>

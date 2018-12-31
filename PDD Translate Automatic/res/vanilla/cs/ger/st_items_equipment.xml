@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>Strahlungshemmende Mittel</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Eine Packung Tabletten mit aktiven Inhaltsstoffen, die dem menschlichen Kцrper dabei helfen, Radionukleotide auszuscheiden. Die Tabletten schьtzen den Kцrper nicht vor neuer Strahlung, sondern verringern nur das vorherrschende Strahlungsniveau.</text>
+	</string>
+	<string id="st_bread">
+		<text>Brot</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>Man hat zwar niemals einen Bдcker in der Zone gesehen, aber dieses Brot ist nicht verstrahlt und ist sogar essbar. Zumindest sind bisher keine Beschwerden bekannt geworden.</text>
+	</string>
+	<string id="st_conserva">
+		<text>"Touristenfrьhstьck"</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>Dosenfutter aus einem Armeedepot, das von Stalkern erbeutet wurde. Wenn man dem Mindesthaltbarkeitsdatum glauben kann, mьsste es noch essbar sein.</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Diдtwurst</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Diese Wurst - eine Mischung aus Hдhnchen und Soja-Ersatz - ist oft das einzige Essen am Tag fьr Stalker. Kein Gourmetessen, aber man kann ja nicht alles haben.</text>
+	</string>
+	<string id="st_medkit">
+		<text>Medkit</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Basis-Medkit - nьtzlich fьr die Behandlung von zahlreichen Verletzungen wie z.B. Wunden, Verbrennungen, Vergiftungen etc.</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Armee-Medkit</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Ein Medkit, das speziell fьr die Behandlung von kцrperlichen Verletzungen und Blutungen gedacht ist. Es ist vollgepackt mit Blutstillern, Schmerzmitteln, Antibiotika und Immunstimulanzien.</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Wissenschaftliches Medkit</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Dieses Medkit ist auf die Verwendung in der Zone zugeschnitten. Es enthдlt sowohl wundheilende Prдparate als auch Mittel gegen Radionukleotide im Kцrper. Im Allgemeinen wird der Ausbruch der Strahlungskrankheit verhindert und das im Kцrper vorherrschende Strahlungsniveau gesenkt.</text>
+	</string>
+	<string id="st_vodka">
+		<text>Cossacks-Wodka</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Hergestellt von GSC. Trinkt sich angenehm und sorgt fьr eine erhebliche Verringerung von Strahlungsauswirkungen. Sollte in MaЯen genossen werden.</text>
+	</string>
+	<string id="st_bandage">
+		<text>Verband</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Verbandsmaterial, das dabei hilft, Blutungen zu stoppen.</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Energy-Drink</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Wird hдufig von Stalkern auf langen Reisen getrunken, wenn keine Pausen eingelegt werden kцnnen. Das Getrдnk enthдlt leicht verdauliche Kohlenhydrate sowie bestimmte Wirkstoffe, die die Adrenalinausschьttung im Kцrper erhцhen.</text>
+	</string>
+	<string id="st_detector1">
+		<text>Echo-Detektor</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Dieser Detektor fьr Anomalien, der ьber einen eingebauten Geiger-Zдhler verfьgt, gibt ein Alarmsignal aus, wenn man sich einer Anomalie nдhert. Er kann auch Artefakte aufspьren und zeigt die Entfernung zum nдchsten Artefakt an. Im geschlossenen Zustand registriert das Gerдt nur Radioaktivitдt und Anomalien. Um in den Suchmodus zu gelangen, muss die vordere Abdeckung (Antennen) geцffnet werden.</text>
+	</string>
+	<string id="st_detector2">
+		<text>Peil-Detektor</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Dieser Detektor fьr Anomalien, der ьber einen eingebauten Geiger-Zдhler verfьgt, kann auch Artefakte aufspьren. Er misst nicht nur die Entfernung zu einem Artefakt, sondern gibt auch die Richtung an. Im geschlossenen Zustand registriert das Gerдt nur Radioaktivitдt und Anomalien. Um in den Suchmodus zu gelangen, muss die vordere Abdeckung (Antennen) geцffnet werden.</text>
+	</string>
+	<string id="st_detector3">
+		<text>Veles-Detektor</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Ein Detektor der neuesten Generation, der speziell fьr das Aufspьren von Artefakten konzipiert wurde. Die Artefakte werden auf einem Bildschirm angezeigt und sind damit deutlich leichter zu finden. Das Gerдt verfьgt zudem ьber einen Geiger-Zдhler und kann auch Anomalien aufspьren. Im geschlossenen Zustand registriert das Gerдt nur Radioaktivitдt und Anomalien. Um in den Suchmodus zu gelangen, muss die vordere Abdeckung (Antennen) geцffnet werden.</text>
+	</string>
+	<string id="st_cordon_case">
+		<text>Silberkoffer</text>
+	</string>
+	<string id="st_cordon_case_descr">
+		<text>Ein kleiner, mit einem Code verschlossener Koffer. Enthдlt sehr wertvolle Informationen ьber vertrauenswьrdige Hдndler, bei denen man Artefakte loswerden kann.</text>
+	</string>
+	<string id="st_fang_pda">
+		<text>Fangs PDA</text>
+	</string>
+	<string id="st_fang_pda_descr">
+		<text>Ein tragbarer Computer. Wird in der Zone als Notizbuch sowie als Navigations-, Kommunikations- und Sprachaufnahmegerдt benutzt. Jeder PDA weist eine eindeutige ID auf, mit der er geortet werden kann.</text>
+	</string>
+	<string id="st_shukin_pda">
+		<text>Lingows PDA</text>
+	</string>
+	<string id="st_shukin_pda_descr">
+		<text>Ein tragbarer Computer. Wird in der Zone als Notizbuch sowie als Navigations-, Kommunikations- und Sprachaufnahmegerдt benutzt. Jeder PDA weist eine eindeutige ID auf, mit der er geortet werden kann.</text>
+	</string>
+	<string id="st_recorder">
+		<text>Diktiergerдt</text>
+	</string>
+	<string id="st_cooler_docs">
+		<text>Beschreibung der Kьhlanlage</text>
+	</string>
+	<string id="st_cooler_docs_descr">
+		<text>Dieser Ordner enthдlt eine detaillierte Beschreibung einer stationдren Kьhlanlage auf dem Fabrikgelдnde und Hilfestellungen fьr Problemfдlle. </text>
+	</string>
+	<string id="st_compass">
+		<text>"Kompass"</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>Ein seltenes Artefakt - es ist schon einige Jahre her, seit eines davon gefunden wurde. Es kann Lьcken in Anomaliefeldern aufspьren und wirkt dadurch wie ein Kompass. Mit diesem Artefakt, so heiЯt es, kann man die kompliziertesten Anomaliefelder unbeschadet durchqueren. Allerdings wissen nur die Wenigsten, wie man richtig mit dem Kompass umgeht.</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>Siebensaitige Gitarre</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Gitarre</text>
+	</string>
+</string_table>

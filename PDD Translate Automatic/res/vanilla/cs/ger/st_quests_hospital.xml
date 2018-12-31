@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hosp_task_general_name">
+		<text>Finde einen Weg zum Tschernobyl AKW</text>
+	</string>
+	<string id="hosp_task_general_text">
+		<text>Der Weg zum Tschernobyl AKW fьhrt durch das zerstцrte Krankenhaus. Beeilung - Strelok ist am Schmelzer vorbeigekommen und ist dem Kraftwerk schon sehr nahe. Finde den Eingang zu den Katakomben.</text>
+	</string>
+	<string id="hosp_task_heli_name">
+		<text>Schalte den Helikopter aus</text>
+	</string>
+	<string id="hosp_task_heli_text">
+		<text>SchieЯe den Militдrhelikopter ab.</text>
+	</string>
+	<string id="hosp_task_kill_sniper_name">
+		<text>Tцte den Scharfschьtzen</text>
+	</string>
+	<string id="hosp_task_kill_sniper_text">
+		<text>Der Scharfschьtze ist von dieser Seite aus nicht geschьtzt. Tцte den Scharfschьtzen.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_name">
+		<text>Schleich dich an den Scharfschьtzen an</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_1_text">
+		<text>Die Eingangshalle des Krankenhauses wird von einem Scharfschьtzen und einer Maschinengewehrstellung gesichert. Die Position des Scharfschьtzen ist gut geschьtzt. Clear Sky wird den Feind ablenken, wдhrend du die Halle durchquerst, um den Scharfschьtzen auszuschalten.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_name">
+		<text>Gelange auf die andere Seite der Halle</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_2_text">
+		<text>Der Maschinengewehrschьtze verwandelt das untere Geschoss in die reinste Hцlle, wдhrend der Scharfschьtze das obere Geschoss abdeckt. Clear Sky wird die Feinde fьr einen kurzen Moment ablenken. Bewege dich nur, wenn dir der Kommandant von Clear Sky den Befehl dazu gibt.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_name">
+		<text>Erreiche die Brьcke</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_3_text">
+		<text>Du musst die Brьcke erreichen. Bewege dich nur, wenn dir der Kommandant von Clear Sky den Befehl dazu gibt. Sie werden die Feinde ablenken.</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_name">
+		<text>Ьberquere die Brьcke</text>
+	</string>
+	<string id="hosp_task_sniper_back_rush_4_text">
+		<text>Ьberquere die Brьcke. Bewege dich nur, wenn dir der Kommandant von Clear Sky den Befehl dazu gibt. Sie werden die Feinde ablenken.</text>
+	</string>
+	<string id="hosp_task_z2_exit_name">
+		<text>Bewege dich weiter in die nдchste Halle</text>
+	</string>
+	<string id="hosp_task_z2_exit_text">
+		<text>Der abgestьrzte Helikopter hat die Wand eingerissen und so den Weg in die nдchste Halle freigemacht. Gehe weiter in die nдchste Halle.</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_name">
+		<text>Gib der "Clear Sky"-Einheit Deckung</text>
+	</string>
+	<string id="hosp_task_z3_help_csky_squad_text">
+		<text>Die "Clear Sky"-Einheit rьckt vor, um die Maschinengewehrstellung hochzunehmen. Die Einheit wird von Monolithern angegriffen. Gib der "Clear Sky"-Einheit Feuerschutz.</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_name">
+		<text>Halte aus, bis Hilfe kommt</text>
+	</string>
+	<string id="hosp_task_z3_hold_out_text">
+		<text>Eine "Clear Sky"-Einheit nдhert sich. Halte aus, bis Verstдrkung kommt.</text>
+	</string>
+</string_table>

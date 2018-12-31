@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="agru_find_secret_task_name">
+		<text>Trouver la planque du groupe de stalkers</text>
+	</string>
+	<string id="agru_find_secret_task_text">
+		<text>Les souterrains de l'Agroprom contiennent une planque qui appartient au groupe de stalkers qui a atteint le centre de la Zone. Ils l'utilisent pour йchanger des informations. Vous devez trouver la planque et le PDA qui contient les йchanges.</text>
+	</string>
+	<string id="agru_go_out_end_task_name">
+		<text>Sortir des souterrains</text>
+	</string>
+	<string id="agru_go_out_end_task_text">
+		<text>Sortez des souterrains.</text>
+	</string>
+	<string id="agru_go_out_task_name">
+		<text>Sortir de la zone inondйe</text>
+	</string>
+	<string id="agru_go_out_task_text">
+		<text>Les pompes ont йtй activйes et les niveaux infйrieurs vont bientфt кtre inondйs. Sortez de lа au plus vite !</text>
+	</string>
+	<string id="agru_leader_dolg_task_name">
+		<text>Inonder les souterrains</text>
+	</string>
+	<string id="agru_leader_dolg_task_text">
+		<text>Les souterrains abritent une vieille station de pompage. Vous devez trouver le panneau de contrфle de la station et vidanger l'eau des rйservoirs, ce qui inondera les souterrains.</text>
+	</string>
+	<string id="agru_destroy_monsters_task_name">
+		<text>Йliminer les mutants</text>
+	</string>
+	<string id="agru_destroy_monsters_task_text">
+		<text>Йliminez les mutants qui bloquent le passage vers la salle de contrфle de la station de pompage.</text>
+	</string>
+</string_table>

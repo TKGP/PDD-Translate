@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="hospital_task_general_text">
+		<text>Encuentra la entrada a las catacumbas.</text>
+	</string>
+	<string id="hospital_task_general_title">
+		<text>Encuentra la entrada a las catacumbas.</text>
+	</string>
+	<string id="katacomb_task_3_objective_1">
+		<text>Aguanta hasta que llegue el pelotуn de Cielo Despejado.</text>
+	</string>
+	<string id="katacomb_task_3_objective_2">
+		<text>Ayuda al pelotуn de Cielo Despejado.</text>
+	</string>
+	<string id="katacomb_task_3_text">
+		<text>Бbrete paso por la entrada de las catacumbas.</text>
+	</string>
+	<string id="katacomb_task_3_title">
+		<text>Бbrete paso por la entrada de las catacumbas.</text>
+	</string>
+	<string id="katacomb_task_helicopter_text">
+		<text>Elimina el helicуptero.</text>
+	</string>
+	<string id="katacomb_task_helicopter_title">
+		<text>Elimina el helicуptero.</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_text">
+		<text>Mata al francotirador.</text>
+	</string>
+	<string id="katacomb_task_kill_sniper_title">
+		<text>Mata al francotirador.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_1">
+		<text>Ve a las escaleras en la planta baja.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_2">
+		<text>Cruza la planta baja.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_3">
+		<text>Ve al puente.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_objective_4">
+		<text>Cruza el puente.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_text">
+		<text>Ayuda al pelotуn de Cielo Despejado a escapar del fuego enemigo.</text>
+	</string>
+	<string id="katacomb_task_sniper_back_title">
+		<text>Sorprende al francotirador enemigo.</text>
+	</string>
+	<string id="katacomb_task_z2_exit_text">
+		<text>Ve al tercer vestнbulo.</text>
+	</string>
+	<string id="katacomb_task_z2_exit_title">
+		<text>Ve al tercer vestнbulo.</text>
+	</string>
+</string_table>

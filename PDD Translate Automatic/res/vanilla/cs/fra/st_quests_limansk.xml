@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_destroy_ambush_2_name">
+		<text>Йliminer l'ennemi au croisement</text>
+	</string>
+	<string id="lim_destroy_ambush_2_text">
+		<text>Йliminez l'embuscade ennemie au croisement.</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_name">
+		<text>Dйtruire le nid de mitrailleuse</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_text">
+		<text>Les balles volent bas au croisement. Le bвtiment de gauche est tenu par des bandits. C'est une position idйale pour couvrir toute la route. Dйtruisez le nid de mitrailleuse qui s'y trouve.</text>
+	</string>
+	<string id="lim_destroy_military_minigun_name">
+		<text>Neutraliser le nid de mitrailleuse</text>
+	</string>
+	<string id="lim_destroy_military_minigun_text">
+		<text>L'ennemi s'est barricadй dans le bвtiment de l'autre cфtй du pont et couvre tout le secteur. L'unitй de Firmament ne peut donc pas traverser le pont. Vous devez atteindre le bвtiment et neutraliser l'ennemi. Les hommes de Firmament feront une diversion.</text>
+	</string>
+	<string id="lim_electro_fence_name">
+		<text>Dйsactiver le gйnйrateur</text>
+	</string>
+	<string id="lim_electro_fence_text">
+		<text>Gйnйrateur localisй. Dйsactivez-le pour couper l'alimentation de la clфture.</text>
+	</string>
+	<string id="lim_find_way_through_construction_name">
+		<text>Se frayer un chemin а travers le site de construction</text>
+	</string>
+	<string id="lim_find_way_through_construction_text">
+		<text>La banlieue de Limansk est toute proche. Les routes qui y mиnent passent а travers un chantier abandonnй, qu'il faut donc traverser.</text>
+	</string>
+	<string id="lim_go_into_limansk_name">
+		<text>Partir en йclaireur sur la route qui traverse Limansk</text>
+	</string>
+	<string id="lim_go_into_limansk_text">
+		<text>Lebedev a ordonnй de dйgager la route qui traverse Limansk pour permettre а la force principale de Firmament de passer. Les combats font rage dans la ville. Avancez prudemment !</text>
+	</string>
+	<string id="lim_go_to_canal_name">
+		<text>Avancer vers le pont en passant par le canal</text>
+	</string>
+	<string id="lim_go_to_canal_text">
+		<text>Le feu ennemi est trop nourri. Partez vers le pont en passant par le canal.</text>
+	</string>
+	<string id="lim_destroy_ambush_1_name">
+		<text>Йliminer l'embuscade</text>
+	</string>
+	<string id="lim_destroy_ambush_1_text">
+		<text>Йliminez l'embuscade.</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_name">
+		<text>Revenir voir le commandant du groupe</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_text">
+		<text>Retournez auprиs du commandant du groupe.</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_name">
+		<text>Aider le combattant а s'approcher discrиtement du sniper</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_text">
+		<text>Aidez le combattant de Firmament а s'approcher discrиtement du sniper.</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_name">
+		<text>Trouver le gйnйrateur</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_text">
+		<text>Le chemin est bloquй par une clфture йlectrifiйe. La ville n'a plus d'йlectricitй depuis bien longtemps, alors il doit y avoir un gйnйrateur quelque part. Les fils de la clфture conduisent au bвtiment de l'institut а droite. Trouvez le gйnйrateur qui alimente la clфture.</text>
+	</string>
+	<string id="lim_electro_fence_sniper_name">
+		<text>Йliminer le sniper</text>
+	</string>
+	<string id="lim_electro_fence_sniper_text">
+		<text>La clфture n'est plus йlectrifiйe. Il est maintenant possible d'avancer et d'йliminer le sniper.</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_name">
+		<text>Trouver le commandant du groupe</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_text">
+		<text>Trouvez le commandant du groupe.</text>
+	</string>
+</string_table>

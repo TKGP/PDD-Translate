@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_st_conn_version_differs">
+		<text>Error de conexiуn:                Versiуn diferente.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Error de conexiуn:                Clave de CD no vбlida.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Error de conexiуn:                Clave de CD en uso.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Error de conexiуn:                Clave de CD desactivada.    Contactar con el servicio de atenciуn al cliente.</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Nuevo patch disponible.\n Versiуn: %s\n Localizaciуn: %s\nїDescargar ahora?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>No hay nuevos patch disponibles.</text>
+	</string>
+</string_table>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_antirad">
+		<text>Droghe antiradiazioni</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Una confezione di pillole i cui ingredienti attivi contribuiscono all'espulsione di radionuclidi dal corpo. Le pillole non proteggono il corpo da nuove radiazioni, ma riducono soltanto la quantitа di quelle giа presenti.</text>
+	</string>
+	<string id="st_bread">
+		<text>Pane</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>Nella Zona non sono mai stati identificati dei panettieri, ma questo pane non и contaminato ed и commestibile. Almeno, finora non sono state segnalate lamentele.</text>
+	</string>
+	<string id="st_conserva">
+		<text>"Colazione del turista"</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>Cibo in scatola proveniente da un deposito di scorte militari saccheggiato dagli stalker. Se ci si attiene alla data di scadenza, dovrebbe essere ancora commestibile.</text>
+	</string>
+	<string id="st_kolbasa">
+		<text>Salsiccia dietetica</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Che sia un bene o un male, questa salsiccia - composta di una mistura di pollo e surrogato di soia - costituisce spesso la colazione, il pranzo e la cena di uno stalker... Tutto in uno.</text>
+	</string>
+	<string id="st_medkit">
+		<text>Kit di pronto soccorso</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Kit di pronto soccorso di base. Utile per curare ferite, bruciature, avvelenamenti e altro.</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Pronto soccorso dell'esercito</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Un kit di pronto soccorso pensato per curare ferite ed emorragie. Contiene coagulanti ematici, antidolorifici, antibiotici e immunostimolanti.</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Confezione medico-scientifica</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Un kit medico pensato per un uso specifico nella Zona. Contiene prodotti per guarire le ferite e per espellere i radionuclidi dal corpo. Previene lo sviluppo di malesseri da radiazioni e abbassa la quantitа di radiazioni presenti.</text>
+	</string>
+	<string id="st_vodka">
+		<text>Vodka di "Cossacks"</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Prodotta dal GSC. Si beve volentieri e riduce in modo significativo gli effetti delle radiazioni. Da consumare con moderazione.</text>
+	</string>
+	<string id="st_bandage">
+		<text>Fasciatura</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Materiale per fasce. Utile per contenere le emorragie.</text>
+	</string>
+	<string id="st_energy_drink">
+		<text>Bevanda energetica</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Spesso usata dagli stalker durante i lunghi viaggi in cui non ci si puт concedere delle soste. La bevanda contiene carboidrati facilmente digeribili e droghe che stimolano il rilascio di adrenalina nel corpo.</text>
+	</string>
+	<string id="st_detector1">
+		<text>Rilevatore "Eco"</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Questo rilevatore di attivitа anomale, dotato di un contatore Geiger, emette un segnale d'allarme quando ci si avvicina a un'anomalia. И inoltre in grado di registrare la presenza di manufatti e misurare la distanza dal piщ vicino. Quando и chiuso, il dispositivo individua solo le radiazioni e le anomalie. Per passare alla modalitа di ricerca dei manufatti, sollevare il coperchio frontale (l'antenna) del dispositivo.</text>
+	</string>
+	<string id="st_detector2">
+		<text>Rilevatore "Orso"</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Questo rilevatore di attivitа anomale, dotato di un contatore Geiger, puт essere utilizzato anche per localizzare i manufatti. Oltre a misurare la distanza da un manufatto, puт indicare anche in che direzione si trova. Quando и chiuso, il dispositivo individua solo le radiazioni e le anomalie. Per passare alla modalitа di ricerca dei manufatti, sollevare il coperchio frontale (l'antenna) del dispositivo.</text>
+	</string>
+	<string id="st_detector3">
+		<text>Rilevatore "Veles"</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Un rilevatore di nuova generazione, pensato specificamente per individuare i manufatti, che vengono mostrati su un display speciale, rendendo piщ facile il ritrovamento. Il dispositivo и dotato di un contatore Geiger e puт essere usato per localizzare le anomalie. Quando и chiuso, il dispositivo individua solo le radiazioni e le anomalie. Per passare alla modalitа di ricerca dei manufatti, sollevare il coperchio frontale (l'antenna) del dispositivo.</text>
+	</string>
+	<string id="st_cordon_case">
+		<text>Cassetta d'argento</text>
+	</string>
+	<string id="st_cordon_case_descr">
+		<text>Una valigetta dotata di codice. Contiene informazioni preziose su trafficanti fidati a cui scaricare i manufatti.</text>
+	</string>
+	<string id="st_fang_pda">
+		<text>PDA di Fang</text>
+	</string>
+	<string id="st_fang_pda_descr">
+		<text>Un PC tascabile. Usato nella Zona come taccuino, strumento di navigazione, dispositivo di comunicazione e registratore vocale. Ciascun PDA ha un identificativo univoco che permette di localizzarlo.</text>
+	</string>
+	<string id="st_shukin_pda">
+		<text>PDA di Lingov</text>
+	</string>
+	<string id="st_shukin_pda_descr">
+		<text>Un PC tascabile. Usato nella Zona come taccuino, strumento di navigazione, dispositivo di comunicazione e registratore vocale. Ciascun PDA ha un identificativo univoco che permette di localizzarlo.</text>
+	</string>
+	<string id="st_recorder">
+		<text>Dispositivo di dettatura</text>
+	</string>
+	<string id="st_cooler_docs">
+		<text>Descrizione della stazione di raffreddamento</text>
+	</string>
+	<string id="st_cooler_docs_descr">
+		<text>La cartella contiene una descrizione dettagliata e una guida alla risoluzione dei problemi di una stazione di raffreddamento fissa, situata nei locali dello stabilimento.</text>
+	</string>
+	<string id="st_compass">
+		<text>"Bussola"</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>Un manufatto raro. Sono secoli che non se ne trovava una. Puт localizzare dei vuoti tra i campi di anomalia, funzionando quindi come una vera e propria bussola. Si ritiene che consenta di attraversare anche i campi di anomalie piщ complessi del tutto illesi. Ad ogni modo, in pochi sanno come usarla adeguatamente.</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>Chitarra a sette corde</text>
+	</string>
+	<string id="st_guitar_name">
+		<text>Chitarra</text>
+	</string>
+</string_table>

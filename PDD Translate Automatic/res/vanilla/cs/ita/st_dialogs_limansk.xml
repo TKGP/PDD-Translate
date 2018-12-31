@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_bandit_wounded_dialog_1_11">
+		<text>Aiuto, gente! Datemi un kit di pronto soccorso, il mio amico sta morendo!</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_111">
+		<text>Tieni.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1111">
+		<text>Aspetta, prima devo aiutare il mio amico.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_112">
+		<text>Scusa, non ho un kit di pronto soccorso.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1121">
+		<text>Merda, ragazzi...</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_113">
+		<text>Vai al diavolo, pezzo di merda.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_11">
+		<text>Grazie per avermi salvato la pelle. Sembra che tu stia andando in cittа. Attento, gli uomini del Rosso tendono delle imboscate nelle strade piщ avanti. Legano un filo a un'auto e non devi assolutamente toccarlo. Mantieniti sulla destra della strada e passerai illeso.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_111">
+		<text>Chi altri c'и in cittа?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1111">
+		<text>Un sacco di gente che fa un sacco di confusione. Gli uomini della Duty e della Freedom hanno marciato nel centro della cittа, di certo stanno cercando un sentiero che li conduca nel cuore della Zona. Abbiamo visto qualche elicottero, quindi ci sono anche i militari. In cittа c'и anche qualche stalker, ma arrivano dall'altra parte, dal centro della Zona.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_112">
+		<text>Cosa succede in cittа?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1121">
+		<text>Il nostro capo e i suoi uomini si sono trincerati in una casa un po' piщ giщ nella strada. Non vogliono muoversi da lм. Se vuoi entrare in cittа dovrai stanarli da quella casa.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_113">
+		<text>Non ringraziarmi. Smamma prima che cambi idea e ti spari.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_12">
+		<text>Presto, dobbiamo abbandonare questo posto.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_121">
+		<text>Proprio cosм, andiamo.</text>
+	</string>
+</string_table>

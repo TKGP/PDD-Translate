@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="yan_scientist_hello_dialog_11">
+		<text>Na, sieh einer an... mir kommt hier selten ein neues Gesicht unter! Also, was willst du wissen?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_12">
+		<text>Hattest du Erfolg?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_13">
+		<text>Es freut mich, dass wir uns gegenseitig helfen konnten. Kann ich etwas fьr dich tun?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_14">
+		<text>Gehe bitte zu Lefty. Er wartet schon auf dich.</text>
+	</string>
+	<string id="yan_scientist_go_diggers_1">
+		<text>Die Gruppe verschwand im nordwestlichen Teil der Anlage. Dort wimmelt es von Zombies. Ich kann keinen der Stalker hinschicken, die hier fьr die Wache eingeteilt sind - wir kommen so schon kaum gegen die Angriffe an. Das SOS-Signal von dort ist immer noch aktiv. Versuche also bitte, die Stalker da herauszuholen, sofern sie noch am Leben sind.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_1">
+		<text>Es ist schade um diese jungen Mдnner. Ich hoffe aufrichtig, dass ihr Opfer nicht umsonst gewesen ist. Wir wollen uns mal die Dokumente ansehen... hцchst interessant! Einige meiner Vermutungen scheinen sich zu bewahrheiten... also das ist wirklich ьberaus interessant! ... Ausgezeichnet. Das hier beantwortet zahlreiche Fragen, aber wir werden einige Zeit brauchen, um vollstдndig zu verstehen, was vor sich geht...</text>
+	</string>
+	<string id="yan_scientist_bring_documents_111">
+		<text>Wir scheinen es hier mit einem von Menschen hergestellten Gerдt zu tun zu haben. Dieses Dokument ist eine Bedienungsanleitung fьr das Kьhlsystem dieses Gerдtes, das sich im unterirdischen Bereich der Anlage befindet. Der Energieverbrauch des Gerдts ist immens! Damit wird die Sache klarer... offenbar sind die hдufigen Psi-Ausbrьche die Folge eines Versagens im Kьhlsystem dieses Gerдts. Wenn wir es reparieren kцnnten, wьrde die Stдrke der Psi-Emissionen stark zurьckgehen. Ich benцtige etwas Zeit, um mich mit dieser Angelegenheit auseinanderzusetzen. Mach dich daher bitte auf den Weg zu dieser Anlage und schlieЯe dich Lefty und seinen Stalkern an. Ich dьrfte im Zuge dessen weitere Informationen fьr dich parat haben.</text>
+	</string>
+	<string id="yan_scientist_about_zombie_1">
+		<text>Damit haben wir seit dem Tag Probleme, an dem dieses Labor gebaut wurde. Die Wдnde sind zwar stark, aber das Geheule und anderer Lдrm von drauЯen sind дuЯert stцrend. Du kannst dir vorstellen, wie schwierig es ist, unter diesen Umstдnden wissenschaftliche Forschung zu betreiben... oder gar zu schlafen. Als ob das nicht genug wдre, mьssen wir auch noch ab und zu den Bunker verlassen, um Proben zu sammeln.</text>
+	</string>
+	<string id="yan_scientist_about_zombie_111">
+		<text>Wir haben lange Zeit ьber dieses Problem nachgedacht. Ganz gleich, wie sorgfдltig das Militдr die Anlage gesдubert hat, die Zombies sind immer wieder zurьckgekommen. Uns wurde erst nach einiger Zeit klar, woran das liegt... als wir nдmlich einen meiner frьheren Assistenten, der wдhrend der Messung in der Nдhe der Fabrik verschwunden war, in den Reihen der Zombies wiedergesehen haben! Es ist das Psi-Feld. Jeder, der in dessen Einflussbereich gerдt, verliert den Verstand und verwandelt sich in einen Zombie. Der Grund hierfьr ist ein irreparabler Schaden an den hцheren Funktionen des menschlichen Gehirns. Das heiЯt, diese Kreaturen sind keine Menschen mehr: Sie haben keine kognitiven Fдhigkeiten und ihr Verhalten geht auf das zurьck, was ihnen an tierischen Urinstinkten geblieben ist...</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1">
+		<text>Ja, er hat uns besucht. Er hat viel gewusst, viel mehr als andere. Er hat sogar behauptet, dass er im Zentrum der Zone gewesen sei! Natьrlich habe ich ihm nicht wirklich geglaubt, obwohl er mir sogar einige Fotos gezeigt hat...</text>
+	</string>
+	<string id="yan_scientist_about_strelok_111">
+		<text>Wir haben eine Abmachung mit ihm getroffen. Er hat versprochen, einen Feldtest mit einem unserer vielversprechendsten Experimente durchzufьhren: Ein Psi-Emissions-Blocker. Im Gegenzug wollten wir ihm die endgьltige Version ьberlassen. Strelok hat geglaubt, dass ihm der Blocker dabei helfen wьrde, den Hirnschmelzer zu ьberwinden. Wir haben ihm den Prototyp gegeben und er ist in die Fabrik gegangen. Es war das letzte Mal, dass wir Strelok und den Prototyp gesehen haben. Ьber unseren Satelliten haben wir zwar einige Daten empfangen, aber mittlerweile haben wir das Signal verloren. Es scheint so, als ob Strelok einer starken Emission in der Fabrik zum Opfer gefallen wдre.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11111">
+		<text>Wenn sich Strelok in der Fabrik aufhдlt, dьrfte es nahezu unmцglich sein, dort ohne ein Psi-Schutzgerдt reinzukommen. Schon seit Jahren beobachten wir die Psi-Emissionen, die aus der Fabrik stammen: Sie haben einen ausgesprochen pulsartigen Charakter. Wenn die Emissionen eine schwache Phase durchlaufen, kann man sich relativ unversehrt in die Fabrik begeben. Allerdings sind wir nicht in der Lage vorherzusagen, wann die nдchste Emission auftreten wird. Daher ist es wie russisch Roulette, dort hineinzugehen. Wenn du Strelok in die Fabrik folgst, wirst du hцchstwahrscheinlich ebenso mit einem verschmorten Gehirn enden wie die Zombies in dieser Gegend. Aber vielleicht kцnnte ich doch etwas fьr dich tun. Vor einiger Zeit hat mich eine Gruppe von Stalkern kontaktiert, die es lebend aus der Fabrik herausgeschafft hatten. Sie haben von einem Archiv mit technischen Dokumentationen in einem der Gebдude berichtet. Diese Unterlagen kцnnten Licht ins Dunkel darьber bringen, was in der Fabrik vor sich geht, und uns bei der Beantwortung der Frage helfen, was genau die Quelle solch starker Psi-Emissionen ist. Hilf mir, diese Dokumente zu finden, und ich werde dir helfen, in die Fabrik zu gelangen.</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_1">
+		<text>Es ist die verlassene Fabrik! Sie zieht die Stalker wie ein Magnet an, weil sie zu den wenigen Gebдuden gehцrt, die die Mдnner noch nicht erreicht haben. Es heiЯt, dass man dort sehr seltene Artefakte und wertvolle Ausrьstung finden kann; deshalb versuchen die Stalker immer wieder, in die Fabrik zu gelangen, und hoffen auf groЯen Reichtum. Das Problem daran ist, dass das eher russisch Roulette ist. Das Psi-Feld ist дuЯerst instabil - auf dem hцchsten Niveau kann es ein menschliches Gehirn in nur wenigen Sekunden zu einem undefinierbaren Brei schmelzen.</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_11">
+		<text>Sцldner, ich habe Informationen von Sacharow erhalten. Junge, was fьr ein Mist. Siehst du den Durchbruch da in der Mauer? Das ist unser Weg - der kьrzeste zur Maschine. Bleib dicht hinter mir - meine Jungs und ich sind ein gutes Team, du wьrdest ihnen nur im Weg rumstehen. Alles klar?</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_111">
+		<text>Klar.</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_0">
+		<text>Was machen Stalker hier?</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_11">
+		<text>Was ist mit Lefty?</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_111">
+		<text>Lefty ist intelligenter als die anderen. Sein Team arbeitet fьr uns, hilft uns bei den Messungen und beim Sammeln von Proben. Im Gegenzug versorgen wir sie mit erstklassiger medizinischer Hilfe. Ich bin sicher, wenn wir uns nicht gegenseitig helfen wьrden, hдtten wir beide schon vor langem das Zeitliche gesegnet.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_0">
+		<text>Ich weiЯ, dass Strelok hier war. Was wissen Sie ьber ihn?</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11">
+		<text>Wo ist Strelok jetzt?</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1111">
+		<text>Wie finde ich Strelok?</text>
+	</string>
+	<string id="yan_scientist_about_zombie_0">
+		<text>Greifen hier hдufig Zombies an?</text>
+	</string>
+	<string id="yan_scientist_about_zombie_11">
+		<text>Wenn das so ist, frage ich mich, wo die Zombies herkommen...</text>
+	</string>
+	<string id="yan_scientist_bring_documents_0">
+		<text>Die Stalker sind tot. Ich habe die Dokumente dabei.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_11">
+		<text>Professor, kцnnen Sie sich genauer ausdrьcken?</text>
+	</string>
+	<string id="yan_scientist_go_diggers_0">
+		<text>Ich werde die Dokumente besorgen. Erzдhlen Sie mir alles, was Sie wissen.</text>
+	</string>
+	<string id="yan_scientist_start_frase_1">
+		<text>Nur eine Minute!</text>
+	</string>
+	<string id="yan_scientist_start_frase_2">
+		<text>Einen Moment bitte!</text>
+	</string>
+</string_table>

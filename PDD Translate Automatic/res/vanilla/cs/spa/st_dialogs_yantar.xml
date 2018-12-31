@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="yan_scientist_hello_dialog_11">
+		<text>Vaya, vaya... ЎEs raro ver caras nuevas por aquн! A ver, їquй quieres saber? </text>
+	</string>
+	<string id="yan_scientist_hello_dialog_12">
+		<text>їHa habido suerte?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_13">
+		<text>Celebro que pudiйsemos ayudarnos mutuamente. їPuedo ayudarte con algo?</text>
+	</string>
+	<string id="yan_scientist_hello_dialog_14">
+		<text>Ve a ver a Lefty. Te estб esperando.</text>
+	</string>
+	<string id="yan_scientist_go_diggers_1">
+		<text>El grupo desapareciу en la parte noroeste de la instalaciуn. Un бrea llena de zombis. No puedo enviar a los stalkers que protegen el perнmetro, bastantes problemas tenemos ya para aguantar los ataques. La seсal de socorro sigue activa, trata de sacar a los stalkers de allн con vida.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_1">
+		<text>Es una pena lo de esos jуvenes. Espero que su sacrificio no haya sido en vano. Veamos los documentos... Ўmuy interesante! Algunas de mis sospechas estбn resultando acertadas. No, Ўsin duda es interesante! Excelente. Responde a muchas de mis preguntas, pero necesitaremos tiempo para comprender lo que estб pasando exactamente.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_111">
+		<text>En este caso, parece que nos enfrentamos a un dispositivo de fabricaciуn humana. Estos documentos son un manual para el sistema de refrigeraciуn del dispositivo que estб situado en el sуtano de la instalaciуn. ЎSu consumo de energнa es asombroso! Asн que las cosas se van aclarando. Parece que esos estallidos de psicoactividad son el resultado de una averнa en el sistema de refrigeraciуn del dispositivo. Si podemos repararlo, los niveles de emisiуn psнquica se reducirнan significativamente. Necesitarй algo de tiempo para estudiar esto, ve a la instalaciуn y ъnete a Lefty y a su grupo de stalkers. Tendrй mбs informaciуn para cuando hayas llegado. </text>
+	</string>
+	<string id="yan_scientist_about_zombie_1">
+		<text>Han estado dбndonos problemas desde el primer dнa que inauguramos este laboratorio. Las paredes son fuertes, pero los aullidos y el alboroto de fuera es muy molesto. Como te puedes imaginar, no es fбcil investigar o dormir en estas condiciones. Ademбs, a veces tenemos que dejar el bъnker para reunir muestras.</text>
+	</string>
+	<string id="yan_scientist_about_zombie_111">
+		<text>Hemos pasado mucho tiempo estudiando este problema. Da igual lo mucho que se esfuerce el ejйrcito en despejar la instalaciуn, los zombis siempre vuelven. Todo quedу claro cuando uno de mis antiguos asistentes, que desapareciу mientras realizaba mediciones en la fбbrica, fue descubierto entre los zombis. Es el psicocampo. Todos los que se ven afectados por йl se convierten en zombis. Es el resultado de un daсo irreversible en las funciones superiores del cerebro humano. Es decir, esas criaturas dejan de ser humanas, no tienen percepciуn cognitiva y su comportamiento se debe a instintos puramente animales.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1">
+		<text>Sн, nos ha visitado. Sabнa mucho mбs que los demбs. ЎIncluso dijo haber estado en el centro de la Zona! Por supuesto, no le creн, aunque me mostrу algunas fotografнas.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_111">
+		<text>Hicimos un trato con йl. Me prometiу realizar una prueba sobre el terreno de uno de nuestros modelos experimentales mбs prometedores: un obstructor de emisiones psнquicas. A cambio, prometн darle la versiуn final. Strelok creнa que el obstructor le ayudarнa a cruzar el Cauterizador cerebral. Le dimos el prototipo y se dirigiу a la fбbrica. Fue la ъltima vez que vimos a Strelok y al prototipo. Recibimos algunos datos por satйlite, pero la seсal se habнa perdido. Parece que Strelok fue alcanzado por una potente emisiуn en la fбbrica.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11111">
+		<text>Si Strelok estб en la fбbrica, entrar sin un dispositivo de psicoprotecciуn es virtualmente imposible. Hemos estado estudiando las emisiones psнquicas provenientes de la fбbrica durante aсos. Tienen una clara caracterнstica pulsante. En su fase baja, la gente puede entrar en la fбbrica con cierta seguridad. Sin embargo, somos incapaces de saber cuбndo serб la prуxima emisiуn, asн que ir allн es como jugar a la ruleta rusa. Si decides seguir a Strelok a la fбbrica, lo mбs seguro es que acabes con los sesos derretidos, como los zombis de por aquн. Sin embargo, hay algo que puedo hacer por ti. Hace algъn tiempo, un grupo de stalkers que logrу salir con vida de la fбbrica se puso en contacto conmigo. Habнan encontrado un archivo de documentaciуn tйcnica en uno de los edificios. Aquellos documentos podrнan arrojar luz sobre el contenido de la fбbrica y ayudarnos a descubrir la fuente de esas emisiones psнquicas tan potentes. Ayъdame a encontrar esos documentos y te ayudarй a entrar en la fбbrica.</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_1">
+		<text>ЎEs la fбbrica desierta! Atrae a los stalkers como un imбn, porque es uno de los pocos edificios que no han logrado explorar. Dicen que en su interior hay artefactos y equipamiento muy valiosos, por eso siguen intentando entrar, con la esperanza de ganar una fortuna. El problema es que es como jugar a la ruleta rusa. El psicocampo es extremadamente inestable. En su punto бlgido, es capaz de freнr el cerebro humano en segundos.</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_11">
+		<text>Mercenario, he recibido informaciуn de Sakharov. Caray, menudo lнo. їVes esa brecha en el muro? Йse es nuestro camino, la ruta mбs corta a la mбquina. Sнgueme y no te adelantes. Mis chicos y yo somos un equipo bien coordinado, te interpondrнas en nuestro camino. їListo?</text>
+	</string>
+	<string id="yan_levsha_hello_dialog_111">
+		<text>Listo.</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_0">
+		<text>їQuй hacen aquн los stalkers?</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_11">
+		<text>їQuй pasa con Lefty?</text>
+	</string>
+	<string id="yan_scientist_about_stalkers_111">
+		<text>Lefty es mбs inteligente que los demбs. Su equipo trabaja para nosotros, nos ayuda a hacer mediciones y a reunir muestras. A cambio le proporcionamos asistencia mйdica de gran calidad. Estoy seguro de que si no nos ayudбsemos el uno al otro de este modo, ambos habrнamos muerto hace tiempo.</text>
+	</string>
+	<string id="yan_scientist_about_strelok_0">
+		<text>Sй que Strelok estuvo aquн. їQuй sabe de йl?</text>
+	</string>
+	<string id="yan_scientist_about_strelok_11">
+		<text>їDуnde estб Strelok ahora?</text>
+	</string>
+	<string id="yan_scientist_about_strelok_1111">
+		<text>їCуmo puedo encontrar a Strelok?</text>
+	</string>
+	<string id="yan_scientist_about_zombie_0">
+		<text>їLos zombis os atacan a menudo?</text>
+	</string>
+	<string id="yan_scientist_about_zombie_11">
+		<text>Entonces me pregunto de dуnde vienen los zombis...</text>
+	</string>
+	<string id="yan_scientist_bring_documents_0">
+		<text>Los stalkers estбn muertos. He traнdo los documentos.</text>
+	</string>
+	<string id="yan_scientist_bring_documents_11">
+		<text>Profesor, їpuede ser mбs especнfico?</text>
+	</string>
+	<string id="yan_scientist_go_diggers_0">
+		<text>Acepto obtener los documentos. Dнgame todo lo que sepa.</text>
+	</string>
+	<string id="yan_scientist_start_frase_1">
+		<text>ЎSerб solo un minuto!</text>
+	</string>
+	<string id="yan_scientist_start_frase_2">
+		<text>ЎUn momento!</text>
+	</string>
+</string_table>

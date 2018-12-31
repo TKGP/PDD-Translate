@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="pda_end_tutorial">
+		<text>Bene, e con questo и tutto...</text>
+	</string>
+	<string id="pda_start_tutorial">
+		<text>Tutorial passo dopo passo.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_1">
+		<text>OK. Come ben sai, il nostro obiettivo principale и ottenere il controllo delle Paludi, e ciт significa che siamo in guerra con gli aggressori.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_10">
+		<text>Infine, qui puoi vedere il tuo attuale obiettivo strategico, oltre alle missioni tattiche che devi completare per portarlo a termine.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_11">
+		<text>Le missioni strategiche completate sono visualizzate in fondo.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_2">
+		<text>Questa sezione mostra tutti i dettagli tattici relativi ai progressi della battaglia.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_3">
+		<text>A sinistra puoi vedere una serie di informazioni sulla tua fazione. Ora sei nella Clear Sky, ovviamente.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_4">
+		<text>A destra ci sono delle informazioni sul nostro nemico principale.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_5">
+		<text>Questa и una stima della nostra potenza militare.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_6">
+		<text>Questo и il numero delle nostre truppe.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_7">
+		<text>E questo и il livello del nostro supporto logistico.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_8">
+		<text>I simboli visualizzati in fondo rappresentano le particolaritа del nostro equipaggiamento da battaglia.</text>
+	</string>
+	<string id="pda_tutorial_pda_fraction_war_phrase_9">
+		<text>Puoi vedere degli indicatori simili anche per il nemico.</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_1">
+		<text>Nell'ultima scheda puoi esaminare i tuoi rapporti con le altre fazioni e conoscere la loro potenza militare.</text>
+	</string>
+	<string id="pda_tutorial_pda_ranking_war_phrase_2">
+		<text>Qui sono visualizzate anche le tue statistiche.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_1">
+		<text>Guarda qui. Questa и la sezione Missioni, il tuo riferimento principale.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_10">
+		<text>Oltre a elencare gli incarichi, la mappa mostra la posizione delle squadre alleate e le coordinate dei nemici individuati.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_2">
+		<text>Qui puoi vedere la tua missione primaria...</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_3">
+		<text>E la missione secondaria selezionata.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_4">
+		<text>Se hai piщ missioni secondarie, scorri l'elenco usando questi pulsanti.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_5">
+		<text>La mappa visualizza anche le missioni, ma non quelle il cui obiettivo non puт essere individuato.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_6">
+		<text>Ci servirа il tuo aiuto non solo per distruggere il nemico, ma anche per conquistare delle posizioni strategiche.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_7">
+		<text>In queste situazioni, dovresti fornire del fuoco di copertura mentre i nostri combattenti cercano di occupare una posizione.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_8">
+		<text>E cerca di non ignorare le richieste d'aiuto. La vita dei nostri ragazzi potrebbe dipendere dalle tue azioni.</text>
+	</string>
+	<string id="pda_tutorial_pda_tasks_phrase_9">
+		<text>Sposta il cursore su una localitа della mappa per avere informazioni piщ dettagliate su di essa.</text>
+	</string>
+</string_table>
