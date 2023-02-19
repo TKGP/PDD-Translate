@@ -2,6 +2,7 @@
 // Undefine to use slow-ass page scraping if this ever breaks
 #define USE_SECRET_API
 
+using Newtonsoft.Json;
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
@@ -44,7 +45,7 @@ namespace PDD_Translate_Automatic
             new Regex(@"\, \w")
             };
         // For super secret Google Translate API
-        private static Regex gtJsonExtract = new Regex(@"\[""(.+?)(?<!\\)"","".+?(?<!\\)"",null,null,(0|1|2|3)\]");
+        private static Regex gtJsonExtract = new Regex(@"\[""(.+?)(?<!\\)"","".+?(?<!\\)"",null,null,\d+");
         private static Regex gtFailure = new Regex(@"\[\[\["""","".+?(?<!\\)""\]\],,""ru""\]");
         // For scraping text from Google Translate full page
         private static Regex googleScrape = new Regex("<span[^>]+?result_box[^>]*?>(.+?)</span></div>");
@@ -309,7 +310,7 @@ namespace PDD_Translate_Automatic
             // Non-Json URL: "http://translate.googleapis.com/translate_a/t?client=gtx&sl={0}&tl={1}&q={2}"
             // Unfortunately this stops working after a few requests
             string format = "http://translate.googleapis.com/translate_a/single?client=gtx&dt=t&ie=UTF-8&oe=UTF-8&sl={0}&tl={1}&q={2}";
-            string url = String.Format(format, source, target, input);
+            string url = string.Format(format, source, target, input);
 
             WebClient webClient = new WebClient();
             webClient.Encoding = Encoding.UTF8;
@@ -334,8 +335,21 @@ namespace PDD_Translate_Automatic
             if (output == null)
                 return false;
 
-            foreach (Match match in gtJsonExtract.Matches(output))
-                result += match.Groups[1].Value;
+            //foreach (Match match in gtJsonExtract.Matches(output))
+            //    result += match.Groups[1].Value;
+
+            dynamic deserialized = JsonConvert.DeserializeObject<dynamic>(output);
+            if (deserialized.Count != 8)
+                throw new InvalidDataException();
+
+            foreach (dynamic translationElement in deserialized[0])
+            {
+                if (translationElement.Count < 5)
+                    throw new InvalidDataException();
+
+                result += translationElement[0];
+            }
+
             result = result.Replace("\\\"", "\"")
                 .Replace(@"\/", "/")
                 .Replace(@"\r", "\r")
