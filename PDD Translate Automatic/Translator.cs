@@ -13,7 +13,7 @@ namespace PDD_Translate_Automatic
     class Translator
     {
         private static Regex scriptRx = new Regex(@"([""'])(?<text>(?:[^\1\n]|\\\1)*?)(?<!\\)\1");
-        private static Regex ltxRx = new Regex(@"(?:inv_name|inv_name_short|description|title|descr|hint)\s*?=\s*(?<text>[^;\n]+[^;\s])");
+        private static Regex ltxRx = new Regex(@"(?:inv_name|inv_name_short|description|title|descr|hint|string)\s*?=\s*(?<text>[^;\n]+[^;\s])");
         private static Regex textRx = new Regex(@"<text[^>]*?>(?<text>[^<]*?)</text>");
         private static Regex attributeRx = new Regex("<[^>]*?(?:hint|name|caption)=\"(?<text>[^\"]*?)\"");
         private static Regex gameplayRx = new Regex(@"<(name|title)>(?<text>[^<]*?)</\1>");
