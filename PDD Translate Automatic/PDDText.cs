@@ -1,34 +1,16 @@
-﻿
-// Undefine to use slow-ass page scraping if this ever breaks
-#define USE_SECRET_API
-
-using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
-using System.Net;
-using System.Runtime.Serialization;
 using System.Security;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading;
 using System.Web;
 
 namespace PDD_Translate_Automatic
 {
     class PDDText
     {
-        // Times to try failed web request
-        private const int TRIES_NUM = 3;
-        // Delay between tries
-        private const int TRIES_WAIT = 100;
-        // Max characters for Google request (after encoding)
-        private const int GOOGLE_LIMIT = 2015;
-        // Max characters for Microsoft request (before encoding)
-        private const int MS_LIMIT = 5000;
-
-        private static AzureAuthToken authToken;
         private static ConcurrentDictionary<string, ConcurrentDictionary<string, TranslateItem>> translations = new ConcurrentDictionary<string, ConcurrentDictionary<string, TranslateItem>>();
         private static List<string> stringIDs;
 
@@ -44,12 +26,6 @@ namespace PDD_Translate_Automatic
             new Regex(@"\: \w"),
             new Regex(@"\, \w")
             };
-        // For super secret Google Translate API
-        private static Regex gtJsonExtract = new Regex(@"\[""(.+?)(?<!\\)"","".+?(?<!\\)"",null,null,\d+");
-        private static Regex gtFailure = new Regex(@"\[\[\["""","".+?(?<!\\)""\]\],,""ru""\]");
-        // For scraping text from Google Translate full page
-        private static Regex googleScrape = new Regex("<span[^>]+?result_box[^>]*?>(.+?)</span></div>");
-        private static Regex removeTags = new Regex("<.+?>(?!\")");
 
         private static Regex[] splitPoints = {
             new Regex(@"\r?\n"),
@@ -59,12 +35,6 @@ namespace PDD_Translate_Automatic
             new Regex(@"(?<!%)%(?:([1-9]\d*)\$|\(([^\)]+)\))?(\+)?(0|'[^$])?(-)?(\d+)?(?:\.(\d+))?([aAdeEfFgGinopsuxX])"), // string.format placeholders
             new Regex(@"(?<!\$)\$\w+") // AMK-style placeholders
             };
-
-        public static void Init()
-        {
-            string token = File.ReadAllText(@"res\mst token.txt");
-            authToken = new AzureAuthToken(token.Trim());
-        }
 
         public static void GetStringIDs(string configPath)
         {
@@ -186,7 +156,9 @@ namespace PDD_Translate_Automatic
                     result = result.Replace("%", "%%");
                 }
                 else
+                {
                     result = MachineTranslate(input);
+                }
 
                 translations[input][lang].Finish(result);
                 return result;
@@ -250,8 +222,7 @@ namespace PDD_Translate_Automatic
 
         private static string ChunkText(string input)
         {
-            string urlEncoded = HttpUtility.UrlEncode(input);
-            if (urlEncoded.Length > GOOGLE_LIMIT)
+            if (GoogleTranslator.TooLong(input))
             {
                 if (HalveText(input, out string left, out string right))
                     return ChunkText(left) + " " + ChunkText(right);
@@ -290,129 +261,13 @@ namespace PDD_Translate_Automatic
             ProgressForm.AddGoogle(text.Length);
             if (PDDOptions.DemoMode)
                 return text;
-            string result;
-            if (GoogleTranslate(text, out result))
+
+            string result = GoogleTranslator.Translate(text);
+            if (result != null)
                 return result;
-            if (MSTranslate(text, out result))
-                return result;
-            ProgressForm.Bug("What an exceptionally long string!");
+
+            ProgressForm.Bug("Failed to translate string automatically.");
             return InterruptForm.GetInterrupt(text, PDDLanguage.Current.Name);
-        }
-
-        private static bool GoogleTranslate(string input, out string result)
-        {
-            result = "";
-            string urlEncoded = HttpUtility.UrlEncode(input);
-            if (urlEncoded.Length > GOOGLE_LIMIT)
-                return false;
-            string source = PDDLanguage.Russian.GoogleCode;
-            string target = PDDLanguage.Current.GoogleCode;
-            // Non-Json URL: "http://translate.googleapis.com/translate_a/t?client=gtx&sl={0}&tl={1}&q={2}"
-            // Unfortunately this stops working after a few requests
-            string format = "http://translate.googleapis.com/translate_a/single?client=gtx&dt=t&ie=UTF-8&oe=UTF-8&sl={0}&tl={1}&q={2}";
-            string url = string.Format(format, source, target, input);
-
-            WebClient webClient = new WebClient();
-            webClient.Encoding = Encoding.UTF8;
-            string output = null;
-            for (int tries = 1; tries <= TRIES_NUM; tries++)
-            {
-                try
-                {
-                    output = webClient.DownloadString(url);
-                    if (gtFailure.Match(output).Success)
-                    {
-                        ProgressForm.Bug("Random Google failure, retrying...");
-                        continue;
-                    }
-                }
-                catch (WebException)
-                {
-                    ProgressForm.Bug("Google request failed.");
-                    Thread.Sleep(TRIES_WAIT);
-                }
-            }
-            if (output == null)
-                return false;
-
-            //foreach (Match match in gtJsonExtract.Matches(output))
-            //    result += match.Groups[1].Value;
-
-            dynamic deserialized = JsonConvert.DeserializeObject<dynamic>(output);
-            if (deserialized.Count != 8)
-                throw new InvalidDataException();
-
-            foreach (dynamic translationElement in deserialized[0])
-            {
-                if (translationElement.Count < 5)
-                    throw new InvalidDataException();
-
-                result += translationElement[0];
-            }
-
-            result = result.Replace("\\\"", "\"")
-                .Replace(@"\/", "/")
-                .Replace(@"\r", "\r")
-                .Replace(@"\n", "\n")
-                .Replace(@"\\", @"\");
-
-            if (result == "")
-            {
-                ProgressForm.Bug("Failed to capture result. Input:\r\n" + input + "\r\nOutput:\r\n" + output);
-                return false;
-            }
-            else
-                return true;
-        }
-
-        private static bool MSTranslate(string input, out string result)
-        {
-            result = "";
-            if (input.Length > MS_LIMIT)
-                return false;
-            string urlEncoded = HttpUtility.UrlEncode(input);
-            string format = "http://api.microsofttranslator.com/v2/Http.svc/Translate?from={0}&to={1}&text={0}";
-            string uri = string.Format(format, urlEncoded, PDDLanguage.Russian.GoogleCode, PDDLanguage.Current.GoogleCode);
-            HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create(uri);
-            string accessToken = null;
-            for (int tries = 1; tries <= 5; tries++)
-            {
-                try
-                {
-                    accessToken = authToken.GetAccessToken();
-                    break;
-                }
-                catch (Exception)
-                {
-                    Thread.Sleep(100);
-                }
-            }
-            if (accessToken != null)
-            {
-                httpWebRequest.Headers.Add("Authorization", accessToken);
-                httpWebRequest.Timeout = 10000;
-                for (int tries = 1; tries <= TRIES_NUM; tries++)
-                {
-                    try
-                    {
-                        using (WebResponse response = httpWebRequest.GetResponse())
-                        {
-                            using (Stream stream = response.GetResponseStream())
-                            {
-                                DataContractSerializer dcs = new DataContractSerializer(Type.GetType("System.String"));
-                                result = (string)dcs.ReadObject(stream);
-                                return true;
-                            }
-                        }
-                    }
-                    catch (WebException)
-                    {
-                        Thread.Sleep(TRIES_WAIT);
-                    }
-                }
-            }
-            ProgressForm.Bug("MS request failed.");
-            return false;
         }
     }
 }

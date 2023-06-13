@@ -169,17 +169,19 @@ namespace PDD_Translate_Automatic
                 {
                     if (!Directory.Exists(vanillaPath + language.StalkerCode))
                         continue;
+
                     string outputPath;
                     if (PDDOptions.GenDistribution)
-                        outputPath = outputDir + @"\" + language.Name + @"\gamedata\" + config + @"\text\rus";
+                        outputPath = $@"{outputDir}\{language.Name}\gamedata\{config}\text\rus";
                     else
-                        outputPath = outputDir + @"\" + config + @"\text\rus";
+                        outputPath = $@"{outputDir}\{config}\text\rus";
+
                     Directory.CreateDirectory(outputPath);
                     foreach (string stringTable in Directory.GetFiles(vanillaPath + language.StalkerCode))
                     {
                         string fileName = Path.GetFileName(stringTable);
-                        if (!File.Exists(PDDOptions.InputDir + @"\" + config + @"\text\rus\" + fileName))
-                            File.Copy(stringTable, outputPath + @"\" + fileName);
+                        if (!File.Exists($@"{PDDOptions.InputDir}\{config}\text\rus\{fileName}"))
+                            File.Copy(stringTable, $@"{outputPath}\{fileName}");
                     }
                 }
             }

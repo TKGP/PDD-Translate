@@ -11,7 +11,6 @@ namespace PDD_Translate_Automatic
         [STAThread]
         static void Main()
         {
-            PDDText.Init();
             PDDCorpus.Init();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
